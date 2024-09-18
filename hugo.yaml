@@ -134,7 +134,7 @@ menu:
       url: /contact/
       weight: 60
     - identifier: otherlinks
-      pre: dropdown
+      pre: complexdropdown
       name: Otros enlaces
       weight: 70
 
@@ -145,14 +145,17 @@ menu:
 
   otherlinks:
     - identifier: ada-byron
+      pre: /images/logos/ada-byron.svg
       name: Ada Byron
       url: https://ada-byron.es/
       weight: 10
     - identifier: github
+      pre: /images/logos/github.svg
       name: Nuestro Github
       url: https://github.com/algoritmiaUS
       weight: 20
     - identifier: discord
+      pre: images/logos/discord.svg
       name: Nuestro Discord
       url: https://discord.gg/gEbbJrzEYZ
       weight: 30
