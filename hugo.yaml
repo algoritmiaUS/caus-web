@@ -155,7 +155,7 @@ menu:
       url: https://github.com/algoritmiaUS
       weight: 20
     - identifier: discord
-      pre: images/logos/discord.svg
+      pre: /images/logos/discord.svg
       name: Nuestro Discord
       url: https://discord.gg/gEbbJrzEYZ
       weight: 30
