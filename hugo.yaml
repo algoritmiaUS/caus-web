@@ -96,15 +96,18 @@ params:
     github:
       enabled: true
       url: 'https://github.com/algoritmiaUS'
-    # discord:
-    #   enabled: true
-    #   url: 'https://discord.gg/gEbbJrzEYZ'
-    # instagram:
-    #   enabled: false
-    #   url: 'https://instagram.com/nusserstudios'
-    # twitter:
-    #   enabled: false
-    #   url: 'https://twitter.com/nusserstudios'
+    linkedin:
+      enabled: true
+      url: 'https://linkedin.com/company/club-de-algoritmia-universidad-de-sevilla'
+    discord:
+      enabled: true
+      url: 'https://discord.gg/gEbbJrzEYZ'
+    instagram:
+      enabled: false
+      url: 'https://instagram.com/nusserstudios'
+    twitter:
+      enabled: false
+      url: 'https://twitter.com/nusserstudios'
     
 
 menu:
