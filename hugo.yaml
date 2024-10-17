@@ -120,26 +120,30 @@ menu:
       name: Sobre nosotros
       url: /about/
       weight: 20
+    - identifier: members
+      name: Miembros
+      url: /members/
+      weight: 30
     - identifier: news
       name: Noticias
       url: /news/
-      weight: 30
+      weight: 40
     - identifier: resources
       name: Recursos
       url: /resources/
-      weight: 40
+      weight: 50
     - identifier: community-partners
       name: Patrocinadores
       url: /community-partners/
-      weight: 50
+      weight: 60
     - identifier: contact
       name: Contacto
       url: /contact/
-      weight: 60
+      weight: 70
     - identifier: otherlinks
       pre: complexdropdown
       name: Otros enlaces
-      weight: 70
+      weight: 80
 
     # - identifier: dropdown
     #   pre: complexdropdown
