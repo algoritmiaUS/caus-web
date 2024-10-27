@@ -32,9 +32,10 @@ La competición se mantuvo reñida desde el comienzo, con una primera hora duran
 
 | Pos. | Participante           | Puntos  | Ver Imagen                                                                 |
 |------|------------------------|---------|----------------------------------------------------------------------------|
-| 1    | Pablo Moreno Moreu      | 569.13  | <img src="camera-icon.png" alt="camera" class="camera" onclick="openModal('primer-lugar.jpg')"> |
-| 2    | Jaime Argilés Pérez     | 526.67  | <img src="camera-icon.png" alt="camera" class="camera" onclick="openModal('segundo-lugar.jpg')"> |
-| 3    | Nicolás Sibello Litrán  | 522.23  | <img src="camera-icon.png" alt="camera" class="camera" onclick="openModal('tercer-lugar.jpg')"> |
+| 1    | Pablo Moreno Moreu      | 569.13  | <div style="display: flex; align-items: center; justify-content: center;"> <img src="camera-icon.png" alt="camera" class="camera" onclick="openModal('primer-lugar.jpg')"> </div> |
+| 2    | Jaime Argilés Pérez     | 526.67  | <div style="display: flex; align-items: center; justify-content: center;"> <img src="camera-icon.png" alt="camera" class="camera" onclick="openModal('segundo-lugar.jpg')"> </div> |
+| 3    | Nicolás Sibello Litrán  | 522.23  | <div style="display: flex; align-items: center; justify-content: center;"> <img src="camera-icon.png" alt="camera" class="camera" onclick="openModal('tercer-lugar.jpg')"> </div> |
+
 
 <div id="myModal" class="modal">
     <div class="modal-content">
