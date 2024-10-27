@@ -3,7 +3,7 @@ title: "Charlas y Talleres 2024-25"
 date: 2024-10-27T12:20:00+00:00
 draft: false
 language: es
-featured_image: ../assets/images/featured/charlas.jpg
+featured_image: ../assets/images/featured/charlas.png
 summary: Este año, el Club de Algoritmia de la Universidad de Sevilla ofrecerá charlas y talleres sobre informática, dirigidos tanto por profesionales como por estudiantes.
 description: Durante el curso 2024-25, el Club de Algoritmia de la Universidad de Sevilla organizará una serie de charlas y talleres prácticos en temas de informática, dirigidos por expertos de la industria, profesores y estudiantes de la propia universidad. Estas actividades ofrecen una excelente oportunidad para profundizar en diversos temas y habilidades en programación y algoritmia, además de promover el intercambio de conocimientos entre la comunidad académica. ¡Anímate a participar y contribuir con tus propias ideas!
 author: Administradores CAUS
@@ -16,3 +16,44 @@ Cómo anunciamos en la sesión de presentación, este curso vamos a organizar ch
 
 - [En este formulario podéis indicar el horario y la temática que mejor os viene para estas actividades](https://forms.gle/aMjuhZWht8kFMocd9)
 - [En este otro podéis apuntaros para dar vuestra propia charla](https://forms.gle/yY9WpbA6Lof41ufa7)
+
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+# Charlas de Octubre
+
+<div class="space-y-6">
+  <!-- Card 1 -->
+  <div class="border border-gray-200 rounded-lg p-4 md:p-6 bg-white shadow-sm">
+    <h2 class="text-lg font-semibold text-gray-800">Algoritmos bit-wise</h2>
+    <div class="mt-4 text-gray-600 space-y-2">
+      <div class="flex items-center space-x-2">
+        <span class="material-icons">calendar_today</span>
+        <span class="text-sm md:text-base"> Jueves, 31 de octubre de 2024</span>
+      </div>
+      <div class="flex items-center space-x-2">
+        <span class="material-icons">access_time</span>
+        <span class="text-sm md:text-base"> 15:30</span>
+      </div>
+      <div class="flex items-center space-x-2">
+        <span class="material-icons">location_on</span>
+        <span class="text-sm md:text-base"> Sala multiusos de la ETSII (Donde la entrega de premios del CompliCAUS II)</span>
+      </div>
+      <!-- <div>
+        <a href="#" class="text-blue-500 hover:underline">Enlace de la retransmisión telemática</a>
+      </div> -->
+      <p class="mt-4 text-sm md:text-base text-gray-500"><strong>Ponente:</strong> Pablo Trinidad (Head of architecture en HOMA games y profesor de la ETSII)</p>
+      <p class="text-sm md:text-base text-gray-500"><strong>Descripción:</strong> Un veterano de las competiciones de programación, Pablo nos hablará sobre algoritmos basados en operaciones a nivel de bit, una técnica que nunca hemos tratado en el club.</p>
+      <p class="text-sm md:text-base text-gray-500">Ponencia en español</p>
+    </div>
+  </div>
+</div>
+<br>
+
+# Charlas de Noviembre
+
+Proximamente!
+
+# Charlas de Diciembre
+
+Proximamente!
+
