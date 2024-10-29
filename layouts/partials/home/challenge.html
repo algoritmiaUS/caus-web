@@ -1,0 +1,92 @@
+<!-- JIT section -->
+<div class="max-w-full px-4 py-8 mx-auto sm:max-w-full lg:grid lg:max-w-7xl lg:grid-cols-2 lg:gap-12 lg:px-8">
+    <div class="relative max-w-full px-4 mx-auto sm:max-w-full sm:px-6 lg:px-0">
+        <div class="md:pt-12 sm:pt-6 lg:pt-6">
+            <h2 class="text-3xl font-extrabold tracking-tight text-gray-900 dark:text-white sm:text-4xl md:mt-16">
+                {{ .Site.Params.P2.Heading }}
+            </h2>
+            <div class="mt-6 text-gray-900 dark:text-white">
+                <div class="mt-6 space-y-6 text-gray-900 dark:text-white">
+                    {{ range .Site.Params.P2.Content }}
+                    <p class="text-lg text-gray-900 dark:text-white">
+                        {{ .text }}
+                    </p>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="md:py-4 sm:relative sm:mt-4 lg:inset-y-0 lg:right-0">
+        <div class="hidden sm:block">
+            <div class="absolute inset-y-0 w-full left-1/2 rounded-l-3xl bg-gray-50 dark:bg-gray-900/10 lg:left-80 lg:right-0 lg:w-full"></div>
+            <svg class="absolute -mr-3 top-8 right-1/2 lg:left-0 lg:m-0" width="404" height="392" fill="none" viewBox="0 0 404 392" loading="lazy">
+                <defs>
+                    <pattern id="837c3e70-6c3a-44e6-8854-cc48c737b659" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+                        <rect x="0" y="0" width="4" height="4" class="text-gray-200 dark:text-gray-900/60" fill="currentcolor"></rect>
+                    </pattern>
+                </defs>
+                <rect width="404" height="392" fill="url(#837c3e70-6c3a-44e6-8854-cc48c737b659)"></rect>
+            </svg>
+        </div>
+        <div class="relative px-4 py-6 lg:-mr-40 sm:mx-auto sm:max-w-full sm:px-4 lg:h-full lg:max-w-none lg:pl-12">
+            <div class="overflow-hidden shadow-xl rounded-2xl">
+                {{ $p2image := resources.Get .Site.Params.P2.Image }}
+                {{ with $p2image }}
+                {{ with .Resize (printf "%dx%d webp q90" .Width .Height) }}
+                <img src="{{ .RelPermalink }}" class="w-full h-auto" alt="p2" loading="lazy"/>
+                {{ end }}
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<!-- JITsection -->
+<!-- <div class="max-w-md md:px-4 py-8 m-auto sm:max-w-3xl lg:grid lg:max-w-7xl lg:grid-cols-2 lg:gap-12 lg:px-8">
+    <div class="relative max-w-md px-4 m-auto sm:max-w-3xl sm:px-6 lg:px-0">
+        <div class="md:pt-12 sm:pt-6 lg:pt-6">
+            <h2 class="text-3xl font-extrabold tracking-tight text-gray-900 dark:text-white sm:text-4xl md:mt-16">
+                {{ .Site.Params.P2.Heading }}
+            </h2>
+            <div class="mt-6 text-gray-900 dark:text-white">
+                <div class="mt-6 space-y-6 text-gray-900 dark:text-white">
+                    {{ range .Site.Params.P2.Content }}
+                    <p class="text-lg text-gray-900 dark:text-white">
+                        {{ .text }}
+                    </p>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="md:py-4 sm:relative sm:mt-4 lg:inset-y-0 lg:right-0">
+        <div class="hidden sm:block">
+            <div class="absolute inset-y-0 w-screen left-1/2 rounded-l-3xl bg-gray-50 dark:bg-gray-900/10 lg:left-80 lg:right-0 lg:w-full"></div>
+            <svg class="absolute -mr-3 top-8 right-1/2 lg:left-0 lg:m-0" width="404" height="392"
+                 fill="none" viewBox="0 0 404 392" loading="lazy">
+                <defs>
+                    <pattern id="837c3e70-6c3a-44e6-8854-cc48c737b659" x="0" y="0" width="20" height="20"
+                             patternUnits="userSpaceOnUse">
+                        <rect x="0" y="0" width="4" height="4" class="text-gray-200 dark:text-gray-900/60"
+                              fill="currentcolor"></rect>
+                    </pattern>
+                </defs>
+                <rect width="404" height="392" fill="url(#837c3e70-6c3a-44e6-8854-cc48c737b659)"></rect>
+            </svg>
+        </div>
+        <div class="relative px-4 py-6 pl-4 lg:-mr-40 sm:mx-auto sm:max-w-3xl sm:px-4 lg:h-full lg:max-w-none lg:pl-12">
+            <div class="overflow-hidden shadow-xl rounded-2xl">
+
+                {{ $p2image := resources.Get .Site.Params.P2.Image }}
+                {{ with $p2image }}
+                {{ with .Resize (printf "%dx%d webp q90" .Width .Height) }}
+                <img imgh src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="p2"
+                     class="w-full h-auto" loading="lazy"/>
+                {{ end }}
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</div> -->
