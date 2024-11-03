@@ -21,26 +21,25 @@ Cómo anunciamos en la sesión de presentación, este curso vamos a organizar ch
 
 # Charlas de Octubre
 
-<div class="space-y-6">
-  <!-- Card 1 -->
-  <div class="border border-gray-200 rounded-lg p-4 md:p-6 bg-white shadow-sm">
-    <h2 class="text-lg font-semibold text-gray-800">Algoritmos bit-wise</h2>
-    <div class="mt-4 text-gray-600 space-y-2">
+<div class="space-y-6 dark:bg-gray-900 dark:text-gray-100">
+  <div class="border border-gray-200 rounded-lg p-4 md:p-6 bg-white shadow-sm dark:bg-gray-800 dark:border-gray-700">
+    <h2 class="text-lg font-semibold text-gray-800 dark:text-white">Algoritmos Bit-wise</h2>
+    <div class="mt-4 text-gray-600 dark:text-gray-300 space-y-2">
       <div class="flex items-center space-x-2">
-        <span class="material-icons">calendar_today</span>
+        <span class="material-icons dark:text-gray-100">calendar_today</span>
         <span class="text-sm md:text-base"> Jueves, 31 de octubre de 2024</span>
       </div>
       <div class="flex items-center space-x-2">
-        <span class="material-icons">access_time</span>
+        <span class="material-icons dark:text-gray-100">access_time</span>
         <span class="text-sm md:text-base"> 15:30</span>
       </div>
       <div class="flex items-center space-x-2">
-        <span class="material-icons">location_on</span>
+        <span class="material-icons dark:text-gray-100">location_on</span>
         <span class="text-sm md:text-base"> Sala multiusos de la ETSII (Donde la entrega de premios del CompliCAUS II)</span>
       </div>
-      <p class="mt-4 text-sm md:text-base text-gray-500"><strong>Ponente:</strong> Pablo Trinidad (Head of architecture en HOMA games y profesor de la ETSII)</p>
-      <p class="text-sm md:text-base text-gray-500"><strong>Descripción:</strong> Un veterano de las competiciones de programación, Pablo nos hablará sobre algoritmos basados en operaciones a nivel de bit, una técnica que nunca hemos tratado en el club.</p>
-      <p class="text-sm md:text-base text-gray-500">Ponencia en español</p>
+      <p class="mt-4 text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Ponente:</strong> Pablo Trinidad (Head of architecture en HOMA games y profesor de la ETSII)</p>
+      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Descripción:</strong> Un veterano de las competiciones de programación, Pablo nos hablará sobre algoritmos basados en operaciones a nivel de bit, una técnica que nunca hemos tratado en el club.</p>
+      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400">Ponencia en español</p>
     </div>
   </div>
 </div>
@@ -48,105 +47,102 @@ Cómo anunciamos en la sesión de presentación, este curso vamos a organizar ch
 
 # Charlas de Noviembre
 
-<div class="space-y-6">
-  <!-- Card 1 -->
-  <div class="border border-gray-200 rounded-lg p-4 md:p-6 bg-white shadow-sm">
-    <h2 class="text-lg font-semibold text-gray-800">Algorítmica paralela </h2>
-    <div class="mt-4 text-gray-600 space-y-2">
+<div class="space-y-6 dark:bg-gray-900 dark:text-gray-100">
+  <div class="border border-gray-200 rounded-lg p-4 md:p-6 bg-white shadow-sm dark:bg-gray-800 dark:border-gray-700">
+    <h2 class="text-lg font-semibold text-gray-800 dark:text-white">Algorítmica paralela</h2>
+    <div class="mt-4 text-gray-600 dark:text-gray-300 space-y-2">
       <div class="flex items-center space-x-2">
-        <span class="material-icons">calendar_today</span>
+        <span class="material-icons dark:text-gray-100">calendar_today</span>
         <span class="text-sm md:text-base"> Viernes, 8 de noviembre de 2024</span>
       </div>
       <div class="flex items-center space-x-2">
-        <span class="material-icons">access_time</span>
-        <span class="text-sm md:text-base"> 17:30</span>
+        <span class="material-icons dark:text-gray-100">access_time</span>
+        <span class="text-sm md:text-base"> 17:30-19:00</span>
       </div>
       <div class="flex items-center space-x-2">
-        <span class="material-icons">location_on</span>
+        <span class="material-icons dark:text-gray-100">location_on</span>
         <span class="text-sm md:text-base"> Sala multiusos de la ETSII</span>
       </div>
       <div>
-        <a href="#" class="text-blue-500 hover:underline">Enlace de la retransmisión telemática</a>
+        <a href="https://meet.google.com/emd-zkgi-jfs" class="text-blue-500 dark:text-blue-400 hover:underline">Enlace de la retransmisión telemática</a>
       </div>
-      <p class="mt-4 text-sm md:text-base text-gray-500"><strong>Ponente:</strong> Miguel Ángel Martínez del Amor (Embajador universitario de NVIDIA y profesor de la ETSII)</p>
-      <p class="text-sm md:text-base text-gray-500"><strong>Descripción:</strong> Charla sobre el uso de técnias de paralelización para algoritmia.</p>
-      <p class="text-sm md:text-base text-gray-500">Ponencia en español</p>
+      <p class="mt-4 text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Ponente:</strong> Miguel Ángel Martínez del Amor (Embajador universitario de NVIDIA y profesor de la ETSII)</p>
+      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Descripción:</strong> Miguel Ángel del Amor es profesor de la ETSII y embajador de NVIDIA de la Universidad de Sevilla. Como experto en programación paralela nos va a hablar de cómo crear algoritmos que aprovechen la gran capacidad de cálculo de las tarjetas gráficas modernas. No te lo pierdas!</p>
+      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400">Ponencia en español</p>
     </div>
   </div>
 
-  <!-- Card 2 -->
-  <div class="border border-gray-200 rounded-lg p-4 md:p-6 bg-white shadow-sm">
-    <h2 class="text-lg font-semibold text-gray-800">Flujo máximo </h2>
-    <div class="mt-4 text-gray-600 space-y-2">
+  <div class="border border-gray-200 rounded-lg p-4 md:p-6 bg-white shadow-sm dark:bg-gray-800 dark:border-gray-700">
+    <h2 class="text-lg font-semibold text-gray-800 dark:text-white">Flujo máximo</h2>
+    <div class="mt-4 text-gray-600 dark:text-gray-300 space-y-2">
       <div class="flex items-center space-x-2">
-        <span class="material-icons">calendar_today</span>
-        <span class="text-sm md:text-base"> Confirmar Fecha</span>
+        <span class="material-icons dark:text-gray-100">calendar_today</span>
+        <span class="text-sm md:text-base"> Martes, 12 de noviembre de 2024</span>
       </div>
       <div class="flex items-center space-x-2">
-        <span class="material-icons">access_time</span>
-        <span class="text-sm md:text-base"> Confirmar Fecha</span>
+        <span class="material-icons dark:text-gray-100">access_time</span>
+        <span class="text-sm md:text-base"> 15:00-17:00</span>
       </div>
       <div class="flex items-center space-x-2">
-        <span class="material-icons">location_on</span>
-        <span class="text-sm md:text-base"> Sala multiusos de la ETSII</span>
+        <span class="material-icons dark:text-gray-100">location_on</span>
+        <span class="text-sm md:text-base"> Online</span>
       </div>
       <div>
-        <a href="#" class="text-blue-500 hover:underline">Enlace de la retransmisión telemática</a>
+        <a href="#" class="text-blue-500 dark:text-blue-400 hover:underline">Enlace de la retransmisión telemática (Próximamente)</a>
       </div>
-      <p class="mt-4 text-sm md:text-base text-gray-500"><strong>Ponente:</strong> Marco Antonio Gómez Martín (Universidad Complutense de Madrid) </p>
-      <p class="text-sm md:text-base text-gray-500"><strong>Descripción:</strong> Introducción al algoritmo de flujo máximo, sus aplicaciones y cómo implementarlo eficientemente en competiciones de programación.</p>
-      <p class="text-sm md:text-base text-gray-500">Ponencia en español</p>
-    </div>
-  </div>
-
-  <!-- Card 3 -->
-  <div class="border border-gray-200 rounded-lg p-4 md:p-6 bg-white shadow-sm">
-    <h2 class="text-lg font-semibold text-gray-800">Cómo insertar 10^9 filas en una tabla sin morir en el intento </h2>
-    <div class="mt-4 text-gray-600 space-y-2">
-      <div class="flex items-center space-x-2">
-        <span class="material-icons">calendar_today</span>
-        <span class="text-sm md:text-base"> Viernes 20 de noviembre de 2024</span>
-      </div>
-      <div class="flex items-center space-x-2">
-        <span class="material-icons">access_time</span>
-        <span class="text-sm md:text-base"> Confirmar Hora</span>
-      </div>
-      <div class="flex items-center space-x-2">
-        <span class="material-icons">location_on</span>
-        <span class="text-sm md:text-base"> Sala multiusos de la ETSII</span>
-      </div>
-      <div>
-        <a href="#" class="text-blue-500 hover:underline">Enlace de la retransmisión telemática</a>
-      </div>
-      <p class="mt-4 text-sm md:text-base text-gray-500"><strong>Ponente:</strong> Agustín Borrego (SWE Manager & Data Engineer @ MixRank)</p>
-      <p class="text-sm md:text-base text-gray-500"><strong>Descripción:</strong> ¿Te has preguntado cómo manejar grandes volúmenes de datos de manera eficiente? En esta charla, Agustín Borrego compartirá estrategias y técnicas para insertar hasta 10^9 filas en una tabla sin comprometer el rendimiento. Aprenderás sobre optimización de consultas, uso de transacciones, y las mejores prácticas para trabajar con bases de datos. Ya sea que estés desarrollando una aplicación web o gestionando grandes conjuntos de datos, esta sesión te proporcionará las herramientas necesarias para enfrentar el desafío. ¡No te la pierdas!
+      <p class="mt-4 text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Ponente:</strong> Marco Antonio Gómez Martín (Universidad Complutense de Madrid)</p>
+      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Descripción:</strong> Marco Antonio Gómez Martín es profesor en la Universidad Complutense de Madrid y es el director de la competición nacional universitaria de algoritmia Ada Byron. También es co-creador del juez online ¡Acepta el reto!<br>
+        Como experto en competiciones de algoritmia, Marco nos va a enseñar una técnica de resolución de problemas que nunca hemos tratado en el club y que suele ser necesaria en competiciones. No te lo pierdas!
       </p>
-      <p class="text-sm md:text-base text-gray-500">Ponencia en español</p>
+      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400">Ponencia en español</p>
     </div>
   </div>
 
-  <!-- Card 4 -->
-  <div class="border border-gray-200 rounded-lg p-4 md:p-6 bg-white shadow-sm">
-    <h2 class="text-lg font-semibold text-gray-800">Cómo gestionar con éxito un proyecto de Data Science </h2>
-    <div class="mt-4 text-gray-600 space-y-2">
+  <div class="border border-gray-200 rounded-lg p-4 md:p-6 bg-white shadow-sm dark:bg-gray-800 dark:border-gray-700">
+    <h2 class="text-lg font-semibold text-gray-800 dark:text-white">Cómo insertar 10^9 filas en una tabla sin morir en el intento</h2>
+    <div class="mt-4 text-gray-600 dark:text-gray-300 space-y-2">
       <div class="flex items-center space-x-2">
-        <span class="material-icons">calendar_today</span>
+        <span class="material-icons dark:text-gray-100">calendar_today</span>
+        <span class="text-sm md:text-base"> Miércoles, 20 de noviembre de 2024</span>
+      </div>
+      <div class="flex items-center space-x-2">
+        <span class="material-icons dark:text-gray-100">access_time</span>
+        <span class="text-sm md:text-base"> 16:00-17:00</span>
+      </div>
+      <div class="flex items-center space-x-2">
+        <span class="material-icons dark:text-gray-100">location_on</span>
+        <span class="text-sm md:text-base"> Sala multiusos de la ETSII</span>
+      </div>
+      <!-- <div>
+        <a href="#" class="text-blue-500 dark:text-blue-400 hover:underline">Enlace de la retransmisión telemática</a>
+      </div> -->
+      <p class="mt-4 text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Ponente:</strong> Agustín Borrego (SWE Manager & Data Engineer @ MixRank)</p>
+      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Descripción:</strong> ¿Te has preguntado cómo manejar grandes volúmenes de datos de manera eficiente? En esta charla, Agustín Borrego compartirá estrategias y técnicas para insertar hasta 10^9 filas en una tabla sin comprometer el rendimiento. Aprenderás sobre optimización de consultas, uso de transacciones, y las mejores prácticas para trabajar con bases de datos. Ya sea que estés desarrollando una aplicación web o gestionando grandes conjuntos de datos, esta sesión te proporcionará las herramientas necesarias para enfrentar el desafío. ¡No te la pierdas!</p>
+      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400">Ponencia en español</p>
+    </div>
+  </div>
+
+  <div class="border border-gray-200 rounded-lg p-4 md:p-6 bg-white shadow-sm dark:bg-gray-800 dark:border-gray-700">
+    <h2 class="text-lg font-semibold text-gray-800 dark:text-white">Cómo gestionar con éxito un proyecto de Data Science</h2>
+    <div class="mt-4 text-gray-600 dark:text-gray-300 space-y-2">
+      <div class="flex items-center space-x-2">
+        <span class="material-icons dark:text-gray-100">calendar_today</span>
         <span class="text-sm md:text-base"> Jueves, 28 de noviembre de 2024</span>
       </div>
       <div class="flex items-center space-x-2">
-        <span class="material-icons">access_time</span>
-        <span class="text-sm md:text-base"> Confirmar hora</span>
+        <span class="material-icons dark:text-gray-100">access_time</span>
+        <span class="text-sm md:text-base"> 16:00-17:00</span>
       </div>
       <div class="flex items-center space-x-2">
-        <span class="material-icons">location_on</span>
+        <span class="material-icons dark:text-gray-100">location_on</span>
         <span class="text-sm md:text-base"> Sala multiusos de la ETSII</span>
       </div>
       <div>
-        <a href="#" class="text-blue-500 hover:underline">Enlace de la retransmisión telemática</a>
+        <a href="#" class="text-blue-500 dark:text-blue-400 hover:underline">Enlace de la retransmisión telemática (Próximamente) </a>
       </div>
-      <p class="mt-4 text-sm md:text-base text-gray-500"><strong>Ponente:</strong> Paula Gómez Matos (Junior Data Scientist @ NEXT DIGITAL)</p>
-      <p class="text-sm md:text-base text-gray-500"><strong>Descripción:</strong> Conoce las mejores prácticas para gestionar proyectos de ciencia de datos desde la planificación hasta la implementación.</p>
-      <p class="text-sm md:text-base text-gray-500">Ponencia en español</p>
+      <p class="mt-4 text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Ponente:</strong> Paula Gómez Matos (Junior Data Scientist @ NEXT DIGITAL)</p>
+      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Descripción:</strong> Paula Gómez Matos es cofundadora del Club de Algoritmia y antigua alumna del doble grado en Ing.Informática y Matemáticas. Tiene experiencia trabajando como Data Scientist en consultoría tecnológica y en investigación de inteligencia artificial. No te lo pierdas!</p>
+      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400">Ponencia en español</p>
     </div>
   </div>
 </div>
@@ -154,69 +150,73 @@ Cómo anunciamos en la sesión de presentación, este curso vamos a organizar ch
 
 # Charlas de Diciembre
 
-<div class="space-y-6">
-  <!-- Card 1 -->
-  <div class="border border-gray-200 rounded-lg p-4 md:p-6 bg-white shadow-sm">
-    <h2 class="text-lg font-semibold text-gray-800">GIT: Lo básico y lo que nadie te enseña</h2>
-    <div class="mt-4 text-gray-600 space-y-2">
+Próximamente!
+
+<!-- 
+<div class="space-y-6 dark:bg-gray-900 dark:text-gray-100">
+  <div class="border border-gray-200 rounded-lg p-4 md:p-6 bg-white shadow-sm dark:bg-gray-800 dark:border-gray-700">
+    <h2 class="text-lg font-semibold text-gray-800 dark:text-white">GIT: Lo básico y lo que nadie te enseña</h2>
+    <div class="mt-4 text-gray-600 dark:text-gray-300 space-y-2">
       <div class="flex items-center space-x-2">
-        <span class="material-icons">calendar_today</span>
+        <span class="material-icons dark:text-gray-100">calendar_today</span>
         <span class="text-sm md:text-base"> Por determinar</span>
       </div>
       <div class="flex items-center space-x-2">
-        <span class="material-icons">access_time</span>
+        <span class="material-icons dark:text-gray-100">access_time</span>
         <span class="text-sm md:text-base"> Por Determinar</span>
       </div>
       <div class="flex items-center space-x-2">
-        <span class="material-icons">location_on</span>
+        <span class="material-icons dark:text-gray-100">location_on</span>
         <span class="text-sm md:text-base"> Sala multiusos de la ETSII</span>
       </div>
-      <p class="mt-4 text-sm md:text-base text-gray-500"><strong>Ponente:</strong> Pablo Dávila Herrero (Data Scientist @ Oga)</p>
-      <p class="text-sm md:text-base text-gray-500"><strong>Descripción:</strong> Una introducción a GIT enfocada en los aspectos esenciales que suelen pasar desapercibidos. Aprende trucos prácticos y conceptos clave.</p>
-      <p class="text-sm md:text-base text-gray-500">Ponencia en español</p>
+      <p class="mt-4 text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Ponente:</strong> Pablo Dávila Herrero (Data Scientist @ Oga)</p>
+      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Descripción:</strong> Una introducción a GIT enfocada en los aspectos esenciales que suelen pasar desapercibidos. Aprende trucos prácticos y conceptos clave.</p>
+      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400">Ponencia en español</p>
     </div>
   </div>
 
-  <div class="border border-gray-200 rounded-lg p-4 md:p-6 bg-white shadow-sm">
-    <h2 class="text-lg font-semibold text-gray-800">Análisis de Datos con Python: Numpy, Pandas, Sklearn y Gradio </h2>
-    <div class="mt-4 text-gray-600 space-y-2">
+  <div class="border border-gray-200 rounded-lg p-4 md:p-6 bg-white shadow-sm dark:bg-gray-800 dark:border-gray-700">
+    <h2 class="text-lg font-semibold text-gray-800 dark:text-white">Análisis de Datos con Python: Numpy, Pandas, Sklearn y Gradio</h2>
+    <div class="mt-4 text-gray-600 dark:text-gray-300 space-y-2">
       <div class="flex items-center space-x-2">
-        <span class="material-icons">calendar_today</span>
+        <span class="material-icons dark:text-gray-100">calendar_today</span>
         <span class="text-sm md:text-base"> Martes, 10 de diciembre de 2024</span>
       </div>
       <div class="flex items-center space-x-2">
-        <span class="material-icons">access_time</span>
+        <span class="material-icons dark:text-gray-100">access_time</span>
         <span class="text-sm md:text-base"> 16:00-18:00</span>
       </div>
       <div class="flex items-center space-x-2">
-        <span class="material-icons">location_on</span>
+        <span class="material-icons dark:text-gray-100">location_on</span>
         <span class="text-sm md:text-base"> Sala multiusos de la ETSII</span>
       </div>
-      <p class="mt-4 text-sm md:text-base text-gray-500"><strong>Ponente:</strong> Pablo Reina Jímenez (Junior Data Scientist @ NEXT DIGITAL) y Kenny Jesús Flores Huamán (PhD Candidate @ US)</p>
-      <p class="text-sm md:text-base text-gray-500"><strong>Descripción:</strong> Taller en el cual trataremos las librerías más empleadas dentro del Machine Learning como Pandas y Sklearn. Finalizaremos como desplegar modelos haciendo uso de la librería Gradio.</p>
-      <p class="text-sm md:text-base text-gray-500">Ponencia en español</p>
+      <p class="mt-4 text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Ponente:</strong> Pablo Reina Jímenez (Junior Data Scientist @ NEXT DIGITAL) y Kenny Jesús Flores Huamán (PhD Candidate @ US)</p>
+      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Descripción:</strong> Taller en el cual trataremos las librerías más empleadas dentro del Machine Learning como Pandas y Sklearn. Finalizaremos como desplegar modelos haciendo uso de la librería Gradio.</p>
+      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400">Ponencia en español</p>
     </div>
   </div>
 
-  <div class="border border-gray-200 rounded-lg p-4 md:p-6 bg-white shadow-sm">
-    <h2 class="text-lg font-semibold text-gray-800">Algoritmos y técnicas comunes en videojuegos</h2>
-    <div class="mt-4 text-gray-600 space-y-2">
+  <div class="border border-gray-200 rounded-lg p-4 md:p-6 bg-white shadow-sm dark:bg-gray-800 dark:border-gray-700">
+    <h2 class="text-lg font-semibold text-gray-800 dark:text-white">Algoritmos y técnicas comunes en videojuegos</h2>
+    <div class="mt-4 text-gray-600 dark:text-gray-300 space-y-2">
       <div class="flex items-center space-x-2">
-        <span class="material-icons">calendar_today</span>
+        <span class="material-icons dark:text-gray-100">calendar_today</span>
         <span class="text-sm md:text-base"> Miércoles, 18 de diciembre de 2024</span>
       </div>
       <div class="flex items-center space-x-2">
-        <span class="material-icons">access_time</span>
+        <span class="material-icons dark:text-gray-100">access_time</span>
         <span class="text-sm md:text-base"> Por determinar</span>
       </div>
       <div class="flex items-center space-x-2">
-        <span class="material-icons">location_on</span>
+        <span class="material-icons dark:text-gray-100">location_on</span>
         <span class="text-sm md:text-base"> Sala multiusos de la ETSII</span>
       </div>
-      <p class="mt-4 text-sm md:text-base text-gray-500"><strong>Ponente:</strong> Miguel Bermudo (geozoco)</p>
-      <p class="text-sm md:text-base text-gray-500"><strong>Descripción:</strong> Sumérgete en el mundo del desarrollo de videojuegos explorando los algoritmos y técnicas más usadas en la industria.</p>
-      <p class="text-sm md:text-base text-gray-500">Ponencia en español</p>
+      <p class="mt-4 text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Ponente:</strong> Miguel Bermudo (geozoco)</p>
+      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Descripción:</strong> Sumérgete en el mundo del desarrollo de videojuegos explorando los algoritmos y técnicas más usadas en la industria.</p>
+      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400">Ponencia en español</p>
     </div>
   </div>
 </div>
 
+
+-->
