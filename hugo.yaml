@@ -57,7 +57,7 @@ params:
 
   p1:
     heading: "Nuestra misión"
-    image: "images/pages/foto_complicaus.jpg" 
+    image: "images/pages/CompliCAUS-2-Foto-grupal.jpg" 
     content:
       - text: "Nuestro objetivo es crear una comunidad colaborativa e inclusiva donde los miembros puedan aprender, perfeccionar sus habilidades en programación y enfrentar desafíos algorítmicos. A través de la resolución de problemas y competiciones, promovemos el crecimiento técnico y profesional, preparando a los estudiantes para los retos académicos, laborales y competiciones, mientras compartimos libremente el conocimiento para que todos, sin importar su nivel, puedan aprender y contribuir"
       # - text: "Creemos en el valor de enfrentar desafíos que fortalezcan las capacidades lógicas y algorítmicas, competencias clave en las pruebas técnicas de muchas empresas. Fomentamos un ambiente inclusivo en el que el conocimiento se comparte libremente, permitiendo que cada miembro, sin importar su nivel, aprenda y contribuya al grupo."
@@ -103,8 +103,8 @@ params:
       enabled: true
       url: 'https://discord.gg/gEbbJrzEYZ'
     instagram:
-      enabled: false
-      url: 'https://instagram.com/nusserstudios'
+      enabled: true
+      url: 'https://instagram.com/clubalgoritmiaus'
     twitter:
       enabled: true
       url: 'https://x.com/algoritmiaus'

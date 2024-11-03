@@ -1,0 +1,35 @@
+<!-- Sponsors section -->
+<div class="max-w-md px-4 mx-auto md:pt-24 md:pb-16 sm:max-w-3xl sm:px-6 lg:max-w-7xl lg:px-8">
+    <div class="lg:grid lg:grid-cols-2 lg:items-center lg:gap-24">
+        <div class="mt-12 grid grid-cols-2 gap-0.5 md:grid-cols-3 lg:mt-0 lg:grid-cols-2">
+            {{ range .Site.Params.P3.Logos }}
+            <div class="flex justify-center col-span-1 px-8 py-8 bg-gray-50 dark:bg-gray-900/10">
+                {{ if .image }}
+                {{ $sponsor := resources.Get .image }}
+                <img src="{{ $sponsor.RelPermalink }}" class="max-h-12 dark:invert" alt="{{ .alt }}" loading="lazy" />
+                {{ else }}
+                {{ $sponsor := resources.Get "images/global/sample-logo.svg" }}
+                <img src="{{ $sponsor.RelPermalink }}" class="max-h-12 dark:invert" alt="{{ .alt }}" loading="lazy" />
+                {{ end }}
+            </div>
+            {{ end }}
+        </div>
+        <div>
+            <h2 class="text-3xl font-bold tracking-tight text-gray-900 dark:text-gray-50 sm:text-4xl">
+                {{ .Site.Params.P3.Heading }}
+            </h2>
+            {{ range .Site.Params.P3.Content }}
+            <p class="max-w-3xl mt-6 text-lg leading-7 text-gray-900 dark:text-white">
+                {{ .text }}
+            </p>
+            {{ end }}
+            {{ range .Site.Params.P3.Links }}
+            <div class="my-6">
+                <a href="{{ .url }}" class="text-base font-medium text-primary-400 dark:text-primary-100">
+                    {{ .text }}&nbsp&rarr;
+                </a>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</div>
