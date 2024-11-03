@@ -151,20 +151,20 @@ menu:
     #   weight: 40
 
   otherlinks:
-    - identifier: ada-byron
-      pre: /images/logos/ada-byron.svg
-      name: Ada Byron
-      url: https://ada-byron.es/
+    - identifier: discord
+      pre: /images/logos/discord.svg
+      name: Discord
+      url: https://discord.gg/gEbbJrzEYZ
       weight: 10
     - identifier: github
       pre: /images/logos/github.svg
-      name: Nuestro Github
+      name: Github
       url: https://github.com/algoritmiaUS
       weight: 20
-    - identifier: discord
-      pre: /images/logos/discord.svg
-      name: Nuestro Discord
-      url: https://discord.gg/gEbbJrzEYZ
+    - identifier: linkedin
+      pre: /images/logos/linkedin.svg
+      name: LinkedIn
+      url: https://www.linkedin.com/company/club-de-algoritmia-universidad-de-sevilla
       weight: 30
     
   # dropdown:
