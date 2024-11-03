@@ -48,7 +48,7 @@ module.exports = {
           800: '#1E2024',
           900: '#050506'
         },
-        // To change these, use https://www.tailwindshades.com/ with https://tailwindcss.com/docs/customizing-colors or create your own custom colors.
+        // To change these, use https://www.tailwindshades.com with https://tailwindcss.com/docs/customizing-colors or create your own custom colors.
       },
       lineHeight: {
         'extra-loose': '2.5',

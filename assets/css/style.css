@@ -4872,3 +4872,7 @@ EmojiSymbols;
     line-height: 1.75rem;
   }
 }
+
+#theme-toggle {
+  min-width: min-content;
+}

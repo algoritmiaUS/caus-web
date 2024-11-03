@@ -1,7 +1,7 @@
 
 # Página web del CAUS
 
-Esta es la página web oficial del Club de Algoritmia de la Universidad de Sevilla. Es un sitio web estático generado mediante el framework [Hugo](https://gohugo.io/). Todo el contenido está escrito en Markdown y se puede editar empleando cualquier editor y Git. Además, se tiene una configuración de `Github Actions` que reconstruye automáticamente el sitio una vez se realicen `push` a la rama `main`.
+Esta es la página web oficial del Club de Algoritmia de la Universidad de Sevilla. Es un sitio web estático generado mediante el framework [Hugo](https://gohugo.io). Todo el contenido está escrito en Markdown y se puede editar empleando cualquier editor y Git. Además, se tiene una configuración de `Github Actions` que reconstruye automáticamente el sitio una vez se realicen `push` a la rama `main`.
 
 
 # Instalación 
@@ -21,7 +21,7 @@ $ brew install npm
 
 $ sudo apt install golang-go
 ```
-**Nota:** Si es necesario una versión anterior de las librerías porque da errores, seguir el siguiente [enlace](https://nelson.cloud/how-to-install-older-versions-of-homebrew-packages/).
+**Nota:** Si es necesario una versión anterior de las librerías porque da errores, seguir el siguiente [enlace](https://nelson.cloud/how-to-install-older-versions-of-homebrew-packages).
 
 **Instalar las dependencias del proyecto**
 
@@ -52,5 +52,5 @@ $ sudo hugo --gc --minify
 ## Agradecimientos
 
 - [nusserstudios - TailBliss theme](https://github.com/nusserstudios/tailbliss)
-- [University of Warwick Computing Society](https://uwcs.co.uk/)
+- [University of Warwick Computing Society](https://uwcs.co.uk)
 
