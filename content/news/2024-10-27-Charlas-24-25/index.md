@@ -64,7 +64,7 @@ Cómo anunciamos en la sesión de presentación, este curso vamos a organizar ch
         <span class="text-sm md:text-base"> Sala multiusos de la ETSII</span>
       </div>
       <div>
-        <a href="https://meet.google.com/emd-zkgi-jfs" class="text-blue-500 dark:text-blue-400 hover:underline">Enlace de la retransmisión telemática</a>
+        <a href="https://meet.google.com/iyx-pwqn-vcc" class="text-blue-500 dark:text-blue-400 hover:underline">Enlace de la retransmisión telemática</a>
       </div>
       <p class="mt-4 text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Ponente:</strong> Miguel Ángel Martínez del Amor (Embajador universitario de NVIDIA DLI y profesor de la ETSII)</p>
       <p class="text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Descripción:</strong> Miguel Ángel Martínez del Amor es profesor en la ETSII de la Universidad de Sevilla y embajador del Deep Learning Institute (DLI) de NVIDIA. Como experto en programación paralela nos va a hablar de cómo crear algoritmos que aprovechen la gran capacidad de cálculo de las tarjetas gráficas modernas. No te lo pierdas!</p>
