@@ -88,7 +88,7 @@ Cómo anunciamos en la sesión de presentación, este curso vamos a organizar ch
         <span class="text-sm md:text-base"> Online</span>
       </div>
       <div>
-        <a href="#" class="text-blue-500 dark:text-blue-400 hover:underline">Enlace de la retransmisión telemática (Próximamente)</a>
+        <a href="https://meet.google.com/ttw-nriv-ftd" class="text-blue-500 dark:text-blue-400 hover:underline">Enlace de la retransmisión telemática</a>
       </div>
       <p class="mt-4 text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Ponente:</strong> Marco Antonio Gómez Martín (Universidad Complutense de Madrid)</p>
       <p class="text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Descripción:</strong> Marco Antonio Gómez Martín es profesor en la Universidad Complutense de Madrid y es el director de la competición nacional universitaria de algoritmia Ada Byron. También es co-creador del juez online ¡Acepta el reto!<br>
@@ -135,10 +135,10 @@ Cómo anunciamos en la sesión de presentación, este curso vamos a organizar ch
       </div>
       <div class="flex items-center space-x-2">
         <span class="material-icons dark:text-gray-100">location_on</span>
-        <span class="text-sm md:text-base"> Sala multiusos de la ETSII</span>
+        <span class="text-sm md:text-base"> Online</span>
       </div>
       <div>
-        <a href="#" class="text-blue-500 dark:text-blue-400 hover:underline">Enlace de la retransmisión telemática (Próximamente) </a>
+        <a href="https://meet.google.com/ymw-igwr-mnf" class="text-blue-500 dark:text-blue-400 hover:underline">Enlace de la retransmisión telemática</a>
       </div>
       <p class="mt-4 text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Ponente:</strong> Paula Gómez Matos (Junior Data Scientist @ NEXT DIGITAL)</p>
       <p class="text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Descripción:</strong> Paula Gómez Matos es cofundadora del Club de Algoritmia y antigua alumna del doble grado en Ing.Informática y Matemáticas. Tiene experiencia trabajando como Data Scientist en consultoría tecnológica y en investigación de inteligencia artificial. No te lo pierdas!</p>
