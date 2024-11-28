@@ -1,6 +1,6 @@
 ---
 title: "Charlas y Talleres 2024-25"
-date: 2024-10-27T12:20:00+00:00
+date: 2024-11-28T12:20:00+00:00
 draft: false
 language: es
 featured_image: ../assets/images/featured/charlas.png
@@ -135,10 +135,10 @@ Cómo anunciamos en la sesión de presentación, este curso vamos a organizar ch
       </div>
       <div class="flex items-center space-x-2">
         <span class="material-icons dark:text-gray-100">location_on</span>
-        <span class="text-sm md:text-base"> Sala multiusos de la ETSII</span>
+        <span class="text-sm md:text-base"> Online</span>
       </div>
       <div>
-        <a href="#" class="text-blue-500 dark:text-blue-400 hover:underline">Enlace de la retransmisión telemática (Próximamente) </a>
+        <a href="https://www.youtube.com/watch?v=tjhSWDpK2xM" class="text-blue-500 dark:text-blue-400 hover:underline">Enlace al vídeo</a>
       </div>
       <p class="mt-4 text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Ponente:</strong> Paula Gómez Matos (Junior Data Scientist @ NEXT DIGITAL)</p>
       <p class="text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Descripción:</strong> Paula Gómez Matos es cofundadora del Club de Algoritmia y antigua alumna del doble grado en Ing.Informática y Matemáticas. Tiene experiencia trabajando como Data Scientist en consultoría tecnológica y en investigación de inteligencia artificial. No te lo pierdas!</p>
@@ -150,20 +150,18 @@ Cómo anunciamos en la sesión de presentación, este curso vamos a organizar ch
 
 # Charlas de Diciembre
 
-Próximamente!
 
-<!-- 
 <div class="space-y-6 dark:bg-gray-900 dark:text-gray-100">
   <div class="border border-gray-200 rounded-lg p-4 md:p-6 bg-white shadow-sm dark:bg-gray-800 dark:border-gray-700">
     <h2 class="text-lg font-semibold text-gray-800 dark:text-white">GIT: Lo básico y lo que nadie te enseña</h2>
     <div class="mt-4 text-gray-600 dark:text-gray-300 space-y-2">
       <div class="flex items-center space-x-2">
         <span class="material-icons dark:text-gray-100">calendar_today</span>
-        <span class="text-sm md:text-base"> Por determinar</span>
+        <span class="text-sm md:text-base"> Martes, 3 de diciembre de 2024</span>
       </div>
       <div class="flex items-center space-x-2">
         <span class="material-icons dark:text-gray-100">access_time</span>
-        <span class="text-sm md:text-base"> Por Determinar</span>
+        <span class="text-sm md:text-base"> 17:00-18:00</span>
       </div>
       <div class="flex items-center space-x-2">
         <span class="material-icons dark:text-gray-100">location_on</span>
@@ -176,7 +174,7 @@ Próximamente!
   </div>
 
   <div class="border border-gray-200 rounded-lg p-4 md:p-6 bg-white shadow-sm dark:bg-gray-800 dark:border-gray-700">
-    <h2 class="text-lg font-semibold text-gray-800 dark:text-white">Análisis de Datos con Python: Numpy, Pandas, Sklearn y Gradio</h2>
+    <h2 class="text-lg font-semibold text-gray-800 dark:text-white">Análisis de Datos con Python:  Pandas, Sklearn y Gradio</h2>
     <div class="mt-4 text-gray-600 dark:text-gray-300 space-y-2">
       <div class="flex items-center space-x-2">
         <span class="material-icons dark:text-gray-100">calendar_today</span>
@@ -184,11 +182,11 @@ Próximamente!
       </div>
       <div class="flex items-center space-x-2">
         <span class="material-icons dark:text-gray-100">access_time</span>
-        <span class="text-sm md:text-base"> 16:00-18:00</span>
+        <span class="text-sm md:text-base"> 17:00-19:00</span>
       </div>
       <div class="flex items-center space-x-2">
         <span class="material-icons dark:text-gray-100">location_on</span>
-        <span class="text-sm md:text-base"> Sala multiusos de la ETSII</span>
+        <span class="text-sm md:text-base"> Aulas B1.35 y B1.36</span>
       </div>
       <p class="mt-4 text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Ponente:</strong> Pablo Reina Jímenez (Junior Data Scientist @ NEXT DIGITAL) y Kenny Jesús Flores Huamán (PhD Candidate @ US)</p>
       <p class="text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Descripción:</strong> Taller en el cual trataremos las librerías más empleadas dentro del Machine Learning como Pandas y Sklearn. Finalizaremos como desplegar modelos haciendo uso de la librería Gradio.</p>
@@ -205,18 +203,16 @@ Próximamente!
       </div>
       <div class="flex items-center space-x-2">
         <span class="material-icons dark:text-gray-100">access_time</span>
-        <span class="text-sm md:text-base"> Por determinar</span>
+        <span class="text-sm md:text-base"> 17:00-18:00 </span>
       </div>
       <div class="flex items-center space-x-2">
         <span class="material-icons dark:text-gray-100">location_on</span>
         <span class="text-sm md:text-base"> Sala multiusos de la ETSII</span>
       </div>
-      <p class="mt-4 text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Ponente:</strong> Miguel Bermudo (geozoco)</p>
-      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Descripción:</strong> Sumérgete en el mundo del desarrollo de videojuegos explorando los algoritmos y técnicas más usadas en la industria.</p>
+      <p class="mt-4 text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Ponente:</strong> Miguel Bermudo (Profesor de IA en la ETSII)</p>
+      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Descripción:</strong> Doctor en inteligencia artificial, master en programación y diseño de videojuegos, profesor de IA en la ETSII. La presentación trata sobre como construir mundos digitales sin colocar nada manualmente.</p>
       <p class="text-sm md:text-base text-gray-500 dark:text-gray-400">Ponencia en español</p>
     </div>
   </div>
 </div>
 
-
--->
