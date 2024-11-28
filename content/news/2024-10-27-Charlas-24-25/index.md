@@ -88,7 +88,7 @@ Cómo anunciamos en la sesión de presentación, este curso vamos a organizar ch
         <span class="text-sm md:text-base"> Online</span>
       </div>
       <div>
-        <a href="#" class="text-blue-500 dark:text-blue-400 hover:underline">Enlace de la retransmisión telemática (Próximamente)</a>
+        <a href="https://meet.google.com/ttw-nriv-ftd" class="text-blue-500 dark:text-blue-400 hover:underline">Enlace de la retransmisión telemática</a>
       </div>
       <p class="mt-4 text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Ponente:</strong> Marco Antonio Gómez Martín (Universidad Complutense de Madrid)</p>
       <p class="text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Descripción:</strong> Marco Antonio Gómez Martín es profesor en la Universidad Complutense de Madrid y es el director de la competición nacional universitaria de algoritmia Ada Byron. También es co-creador del juez online ¡Acepta el reto!<br>
