@@ -168,7 +168,8 @@ Cómo anunciamos en la sesión de presentación, este curso vamos a organizar ch
         <span class="text-sm md:text-base"> Sala multiusos de la ETSII</span>
       </div>
       <p class="mt-4 text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Ponente:</strong> Pablo Dávila Herrero (Data Scientist @ Oga)</p>
-      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Descripción:</strong> Una introducción a GIT enfocada en los aspectos esenciales que suelen pasar desapercibidos. Aprende trucos prácticos y conceptos clave.</p>
+      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Descripción:</strong> Git es una herramienta esencial para el día a día de los desarrolladores y científicos de datos. Permite realizar un control de versiones sin fisuras del código, la documentación y las dependencias, además de facilitar la colaboración en proyectos de mayor envergadura.<br>
+      En esta ponencia-taller, Pablo Dávila (admin del CAUS) nos enseñará cómo utilizar Git desde lo más básico hasta trucos más elaborados de los que te salvan la vida cuando te cargas algo.</p>
       <p class="text-sm md:text-base text-gray-500 dark:text-gray-400">Ponencia en español</p>
     </div>
   </div>
@@ -188,7 +189,7 @@ Cómo anunciamos en la sesión de presentación, este curso vamos a organizar ch
         <span class="material-icons dark:text-gray-100">location_on</span>
         <span class="text-sm md:text-base"> Aulas B1.35 y B1.36</span>
       </div>
-      <p class="mt-4 text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Ponente:</strong> Pablo Reina Jímenez (Junior Data Scientist @ NEXT DIGITAL) y Kenny Jesús Flores Huamán (PhD Candidate @ US)</p>
+      <p class="mt-4 text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Ponentes:</strong> Pablo Reina Jiménez (Junior Data Scientist @ NEXT DIGITAL) y Kenny Jesús Flores Huamán (PhD Candidate @ US)</p>
       <p class="text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Descripción:</strong> Taller en el cual trataremos las librerías más empleadas dentro del Machine Learning como Pandas y Sklearn. Finalizaremos como desplegar modelos haciendo uso de la librería Gradio.</p>
       <p class="text-sm md:text-base text-gray-500 dark:text-gray-400">Ponencia en español</p>
     </div>
