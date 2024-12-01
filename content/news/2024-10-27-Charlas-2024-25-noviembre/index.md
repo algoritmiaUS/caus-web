@@ -1,6 +1,6 @@
 ---
-title: "Charlas y Talleres 2024-25"
-date: 2024-11-28T12:20:00+00:00
+title: "Charlas y talleres - Noviembre 2024"
+date: 2024-10-28T12:20:00+00:00
 draft: false
 language: es
 featured_image: ../assets/images/featured/charlas.png
@@ -19,31 +19,6 @@ Cómo anunciamos en la sesión de presentación, este curso vamos a organizar ch
 
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
-# Charlas de Octubre
-
-<div class="space-y-6 dark:bg-gray-900 dark:text-gray-100">
-  <div class="border border-gray-200 rounded-lg p-4 md:p-6 bg-white shadow-sm dark:bg-gray-800 dark:border-gray-700">
-    <h2 class="text-lg font-semibold text-gray-800 dark:text-white">Algoritmos Bit-wise</h2>
-    <div class="mt-4 text-gray-600 dark:text-gray-300 space-y-2">
-      <div class="flex items-center space-x-2">
-        <span class="material-icons dark:text-gray-100">calendar_today</span>
-        <span class="text-sm md:text-base"> Jueves, 31 de octubre de 2024</span>
-      </div>
-      <div class="flex items-center space-x-2">
-        <span class="material-icons dark:text-gray-100">access_time</span>
-        <span class="text-sm md:text-base"> 15:30</span>
-      </div>
-      <div class="flex items-center space-x-2">
-        <span class="material-icons dark:text-gray-100">location_on</span>
-        <span class="text-sm md:text-base"> Sala multiusos de la ETSII (Donde la entrega de premios del CompliCAUS II)</span>
-      </div>
-      <p class="mt-4 text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Ponente:</strong> Pablo Trinidad (Head of architecture en HOMA games y profesor de la ETSII)</p>
-      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Descripción:</strong> Un veterano de las competiciones de programación, Pablo nos hablará sobre algoritmos basados en operaciones a nivel de bit, una técnica que nunca hemos tratado en el club.</p>
-      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400">Ponencia en español</p>
-    </div>
-  </div>
-</div>
-<br>
 
 # Charlas de Noviembre
 
@@ -147,73 +122,3 @@ Cómo anunciamos en la sesión de presentación, este curso vamos a organizar ch
   </div>
 </div>
 <br>
-
-# Charlas de Diciembre
-
-
-<div class="space-y-6 dark:bg-gray-900 dark:text-gray-100">
-  <div class="border border-gray-200 rounded-lg p-4 md:p-6 bg-white shadow-sm dark:bg-gray-800 dark:border-gray-700">
-    <h2 class="text-lg font-semibold text-gray-800 dark:text-white">GIT: Lo básico y lo que nadie te enseña</h2>
-    <div class="mt-4 text-gray-600 dark:text-gray-300 space-y-2">
-      <div class="flex items-center space-x-2">
-        <span class="material-icons dark:text-gray-100">calendar_today</span>
-        <span class="text-sm md:text-base"> Martes, 3 de diciembre de 2024</span>
-      </div>
-      <div class="flex items-center space-x-2">
-        <span class="material-icons dark:text-gray-100">access_time</span>
-        <span class="text-sm md:text-base"> 17:00-18:00</span>
-      </div>
-      <div class="flex items-center space-x-2">
-        <span class="material-icons dark:text-gray-100">location_on</span>
-        <span class="text-sm md:text-base"> Sala multiusos de la ETSII</span>
-      </div>
-      <p class="mt-4 text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Ponente:</strong> Pablo Dávila Herrero (Data Scientist @ Oga)</p>
-      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Descripción:</strong> Git es una herramienta esencial para el día a día de los desarrolladores y científicos de datos. Permite realizar un control de versiones sin fisuras del código, la documentación y las dependencias, además de facilitar la colaboración en proyectos de mayor envergadura.<br>
-      En esta ponencia-taller, Pablo Dávila (admin del CAUS) nos enseñará cómo utilizar Git desde lo más básico hasta trucos más elaborados de los que te salvan la vida cuando te cargas algo.</p>
-      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400">Ponencia en español</p>
-    </div>
-  </div>
-
-  <div class="border border-gray-200 rounded-lg p-4 md:p-6 bg-white shadow-sm dark:bg-gray-800 dark:border-gray-700">
-    <h2 class="text-lg font-semibold text-gray-800 dark:text-white">Análisis de Datos con Python:  Pandas, Sklearn y Gradio</h2>
-    <div class="mt-4 text-gray-600 dark:text-gray-300 space-y-2">
-      <div class="flex items-center space-x-2">
-        <span class="material-icons dark:text-gray-100">calendar_today</span>
-        <span class="text-sm md:text-base"> Martes, 10 de diciembre de 2024</span>
-      </div>
-      <div class="flex items-center space-x-2">
-        <span class="material-icons dark:text-gray-100">access_time</span>
-        <span class="text-sm md:text-base"> 17:00-19:00</span>
-      </div>
-      <div class="flex items-center space-x-2">
-        <span class="material-icons dark:text-gray-100">location_on</span>
-        <span class="text-sm md:text-base"> Aulas B1.35 y B1.36</span>
-      </div>
-      <p class="mt-4 text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Ponentes:</strong> Pablo Reina Jiménez (Junior Data Scientist @ NEXT DIGITAL) y Kenny Jesús Flores Huamán (PhD Candidate @ US)</p>
-      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Descripción:</strong> Taller en el cual trataremos las librerías más empleadas dentro del Machine Learning como Pandas y Sklearn. Finalizaremos como desplegar modelos haciendo uso de la librería Gradio.</p>
-      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400">Ponencia en español</p>
-    </div>
-  </div>
-
-  <div class="border border-gray-200 rounded-lg p-4 md:p-6 bg-white shadow-sm dark:bg-gray-800 dark:border-gray-700">
-    <h2 class="text-lg font-semibold text-gray-800 dark:text-white">Algoritmos y técnicas comunes en videojuegos</h2>
-    <div class="mt-4 text-gray-600 dark:text-gray-300 space-y-2">
-      <div class="flex items-center space-x-2">
-        <span class="material-icons dark:text-gray-100">calendar_today</span>
-        <span class="text-sm md:text-base"> Miércoles, 18 de diciembre de 2024</span>
-      </div>
-      <div class="flex items-center space-x-2">
-        <span class="material-icons dark:text-gray-100">access_time</span>
-        <span class="text-sm md:text-base"> 17:00-18:00 </span>
-      </div>
-      <div class="flex items-center space-x-2">
-        <span class="material-icons dark:text-gray-100">location_on</span>
-        <span class="text-sm md:text-base"> Sala multiusos de la ETSII</span>
-      </div>
-      <p class="mt-4 text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Ponente:</strong> Miguel Bermudo (Profesor de IA en la ETSII)</p>
-      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Descripción:</strong> Doctor en inteligencia artificial, master en programación y diseño de videojuegos, profesor de IA en la ETSII. La presentación trata sobre como construir mundos digitales sin colocar nada manualmente.</p>
-      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400">Ponencia en español</p>
-    </div>
-  </div>
-</div>
-
