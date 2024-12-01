@@ -1,11 +1,11 @@
 ---
-title: "Bienvenida al Club de Algoritmia: ¡Nuestra Nueva Página Web!"
+title: "Inicia el Advent of Code 2024"
 date: 2024-12-01T11:10:36+08:00
 draft: false
 language: es
 featured_image: ../assets/images/featured/adventofcode2024.webp
-summary: "Presentamos la nueva página web del Club de Algoritmia de la Universidad de Sevilla. Descubre nuestras actividades, eventos y cómo puedes unirte a nosotros."
-description: "Nos complace anunciar el lanzamiento de la nueva página web del Club de Algoritmia de la Universidad de Sevilla. En esta publicación, te presentamos nuestra misión, nuestras actividades principales, y cómo puedes formar parte de esta apasionante comunidad dedicada a la programación y la resolución de problemas algorítmicos."
+summary: "Únete al desafío del Advent of Code 2024 con el Club de Algoritmia de la Universidad de Sevilla. Resuelve problemas algorítmicos diarios, comparte tus soluciones y compite en nuestra leaderboard privada."
+description: "El Club de Algoritmia de la Universidad de Sevilla te invita a participar en el Advent of Code 2024, un emocionante reto de programación que se desarrolla durante todo el mes de diciembre. Descubre cómo unirte, comparte tus soluciones en nuestra comunidad de GitHub, y compite amistosamente en nuestra leaderboard privada. Es el momento perfecto para aprender, mejorar tus habilidades y divertirte resolviendo problemas algorítmicos."
 author: Administradores CAUS
 authorimage: ../assets/images/global/author-CAUS.webp
 categories: ["Noticias"]
