@@ -1,7 +1,7 @@
 {
-  "name": "TailBliss",
-  "version": "0.6.1",
-  "description": "Hugo + Alpine.js + TailwindCSS",
+  "name": "caus-web",
+  "version": "1.0.0",
+  "description": "CAUS WEB",
   "main": "index.js",
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.15",
