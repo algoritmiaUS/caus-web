@@ -1,0 +1,37 @@
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+
+  <!-- Contenedor de Administradores -->
+  <div class="col-span-full">
+    <h2 class="text-2xl font-bold mb-4">Administradores</h2>
+    <p>El equipo detrás de la organización de todos los eventos!</p>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6">
+      {{ range .Site.Data.members.administrators }}
+      <div class="flex items-center p-4 border rounded-lg shadow">
+        <img src="{{ .image }}" alt="{{ .name }}"
+          class="w-10 h-10 rounded-full object-cover flex-shrink-0 mr-3 not-prose">
+        <div>
+          <h3 class="text-lg font-bold my-auto">{{ .name }}</h3>
+          <p class="text-gray-600 my-auto">{{ .role }}</p>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+
+  <!-- Contenedor de Miembros Activos -->
+  <div class="col-span-full mt-6">
+    <h2 class="text-2xl font-bold mb-4">Miembros</h2>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6">
+      {{ range .Site.Data.members.members }}
+      <div class="flex items-center p-4 border rounded-lg shadow">
+        <img src="{{ .image }}" alt="{{ .name }}"
+          class="w-10 h-10 rounded-full object-cover flex-shrink-0 mr-3 not-prose">
+        <h3 class="text-lg font-bold my-auto">{{ .name }}</h3>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+
+</div>
