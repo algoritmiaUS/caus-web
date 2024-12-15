@@ -19,8 +19,7 @@ administrators:
     role: "Administrador"
     image: "/images/members/caus.png"
 
-
-actives:
+members:
   - name: "Adriana Gordillo Melero"
     image: "/images/members/caus.png"
 
