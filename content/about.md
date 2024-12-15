@@ -10,46 +10,50 @@ description: About Us
 
 Bienvenidos al **Club de Algoritmia**, un grupo fundado por estudiantes de la Universidad de Sevilla con el objetivo de aprender y perfeccionar habilidades en programación a través de la colaboración y la participación en competiciones.
 
-Originalmente creado para los estudiantes de la Escuela Técnica Superior de Ingeniería Informática y la Facultad de Matemáticas, nuestro club se ha expandido para incluir miembros de diversas facultades y escuelas, así como entusiastas de la programación provenientes incluso del bachillerato. Esta diversidad enriquece nuestras sesiones y competicioness, creando un entorno dinámico y estimulante.
+Originalmente creado para los estudiantes de la Escuela Técnica Superior de Ingeniería Informática y la Facultad de Matemáticas, nuestro club se ha expandido para incluir miembros de diversas facultades y escuelas.
 
-
-En el Club de Algoritmia, creemos firmemente en el valor de enfrentar desafíos algorítmicos y problemas de programación. Este tipo de habilidades no solo son cruciales para las competiciones técnicas, sino que también son altamente valoradas en las pruebas técnicas de muchas empresas. Nuestro objetivo es ofrecer una plataforma donde los miembros puedan mejorar sus capacidades, compartir conocimientos y prepararse para el futuro profesional en un ambiente colaborativo y enriquecedor.
+En el Club de Algoritmia, creemos firmemente en el valor de enfrentar desafíos algorítmicos y problemas de programación. Este tipo de habilidades no solo son cruciales para las competiciones, sino que también son muy valoradas en las pruebas técnicas de muchas grandes empresas. Nuestro objetivo es ofrecer una plataforma donde los miembros puedan mejorar sus capacidades, compartir conocimientos y prepararse para el futuro profesional.
 
 Únete a nosotros y forma parte de una comunidad apasionada por la programación, donde cada desafío es una oportunidad para aprender y crecer juntos.
 
 ---
 
-# Académico
+
+# 📚 Actividades Académicas
+
+
+## Sesiones de entrenamiento
+
+Cada viernes organizamos sesiones de entrenamiento en las que practicamos la resolución de problemas en plataformas como LeetCode y HackerRank. Antes de empezar, nuestros administradores introducen las distintas estrategias, algoritmos o estructuras de datos que sean necesarios para enfrentar los problemas.
+
+Todos participamos para aprender y apoyarnos unos a otros, así que no tengas miedo si crees que no sabes suficiente sobre programación!
+
 
 ## Charlas de Estudiantes y de la Industria
 
-Organizamos sesiones cada viernes sobre temas relacionados con la programación competitiva. Este año, además, introducimos una nueva serie de charlas con ponentes de la academia, la industria y exalumnos, quienes abordarán una amplia gama de temas. Si estás interesado en participar, estaremos encantados de contar contigo.
+Organizamos sesiones cada viernes sobre temas relacionados con la programación competitiva. Este año, además, introducimos una nueva serie de charlas con ponentes de la academia, la industria y exalumnos, quienes abordarán una amplia gama de temas. La asistencia a las ponencias está abierta a todo el mundo, por lo que no es necesario ser miembro del CAUS ni estudiante de la US.
 
-
-<!-- TODO: NO SE SI AL FINAL SE VAN A HACER CURSOS, Descomentar y modificar eto -->
-<!-- ## Cursos y Talleres
--->
+  - Comprueba las próximas charlas [en la sección de noticias](/news).
+  - [Da tu propia ponencia!](https://forms.gle/yY9WpbA6Lof41ufa7) Si eres un profesional apasionado por la tecnología y con ganas de compartir tus conocimientos, estaremos encantados de contar contigo. Si eres un estudiante, esta es una gran oportunidad para profundizar en algún tema que te interese y hacer CV 😉
 
 
 ## Competiciones de Programación
 
-Participamos en eventos anuales como Advent of Code y el Concurso Universitario de Programación Ada Byron. Además, organizamos nuestros propios desafíos de programación en la universidad aproximadamente cada seis meses, para mantenernos en constante práctica y aprendizaje.
+Participamos en eventos anuales como [Advent of Code](https://adventofcode.com/) y el [Concurso Universitario de Programación Ada Byron](http://ada-byron.es/). Además, organizamos [nuestras propias competiciones de programación](http://localhost:1313/news/2024-10-27-complicaus-2/) con suculentos premios, para mantenernos en constante práctica y aprendizaje.
 
-<!-- Deberíamos añadir algo sobre acepta el reto y demás plataformas increíbles -->
-<!-- Las preguntas anteriores se pueden encontrar en nuestro portal de progcomp o en nuestro archivo -->
 ---
 
-# Social
 
-## Comida Trimestral en un Lugar Exótico
-Cada trimestre, organizamos una comida especial en un lugar más exótico para celebrar nuestros logros y disfrutar de una experiencia culinaria diferente. Esta es una excelente oportunidad para explorar nuevos restaurantes y compartir una comida memorable con el grupo.
+# 🎉 Actividades Sociales
+
+
+## Comida cuatrimestral
+
+Cada cuatrimestre, organizamos una comida especial para celebrar nuestros logros y disfrutar en equipo. Esta es una excelente oportunidad para compartir una comida memorable y conocer a esas personas del grupo con las que aún no has coincidido.
+
 
 ## Rocódromo
 
-También nos gusta mantenernos activos, así que organizamos salidas al rocódromo después de las sesiones de los viernes para escalar y disfrutar de un buen rato en equipo. Es una excelente oportunidad para desafiarse a uno mismo y fortalecer el espíritu de grupo!
+¿Qué mejor para entrenar esos dedos de programador que una buena sesión de escalada? De vez en cuando organizamos salidas extraoficiales al rocódromo para hacer un poco de ejercicio después de las sesiones de los viernes ¡Es una excelente oportunidad para desafiarse a uno mismo y fortalecer el espíritu de grupo!
 
-
-<!-- # Patrocinadores
-
-
-We'd like to thank our sponsors for the current academic year. -->
+{{< team-section >}}
