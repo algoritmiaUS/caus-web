@@ -1,6 +1,6 @@
 {{define "main"}}
 <article>
-  <header class="mb-4">
+  <header class="mt-4">
     <h1 class="py-16 text-5xl font-black text-center capitalize text-gray-900 dark:text-white">
       {{ .Title }}
     </h1>
@@ -18,8 +18,8 @@
         {{- with $medium -}}, {{.}} 550w{{- end -}}
         {{- with $large -}}, {{.}} 768w{{- end -}}
         {{- with $featuredimage -}}, {{.}} 1100w{{- end -}}"
-           class="object-fill overflow-hidden rounded-lg shadow-lg ring-4 ring-zinc-300/40 dark:ring-gray-900/40 shadow-neutral-100/20 dark:shadow-neutral-800/40"
-           width="100%" alt="{{ .Params.title }}" />
+        class="object-fill overflow-hidden rounded-lg shadow-lg ring-4 ring-zinc-300/40 dark:ring-gray-900/40 shadow-neutral-100/20 dark:shadow-neutral-800/40"
+        width="100%" alt="{{ .Params.title }}" />
       {{ end }}
       {{ end }}
     </div>
