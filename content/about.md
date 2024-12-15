@@ -55,5 +55,3 @@ Cada cuatrimestre, organizamos una comida especial para celebrar nuestros logros
 ## Rocódromo
 
 ¿Qué mejor para entrenar esos dedos de programador que una buena sesión de escalada? De vez en cuando organizamos salidas extraoficiales al rocódromo para hacer un poco de ejercicio después de las sesiones de los viernes ¡Es una excelente oportunidad para desafiarse a uno mismo y fortalecer el espíritu de grupo!
-
-<!-- {{< team-section >}} -->
