@@ -25,9 +25,14 @@ Plataformas con problemas y juez online:
 - [Codeforces](https://codeforces.com)
 - [Codechef](https://www.codechef.com)
 - [AtCoder](https://atcoder.jp)
+- [Virtual Judge](https://vjudge.net)
 
 Mini-retos de programación en tiempo real:
 - [CodinGame](https://www.codingame.com/multiplayer/clashofcode) (Recomiendo especialmente el juego "Clash of code")
+
+Plataformas que te envían un problema diario, ideales para practicar de forma constante y prepararte para entrevistas técnicas:  
+
+- [Daily Coding Problem](https://www.dailycodingproblem.com)  
 
 IDE online ya preparado para la entrada y salida: https://ide.usaco.guide/
 
