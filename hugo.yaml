@@ -124,10 +124,10 @@ menu:
       name: Sobre nosotros
       url: /about/
       weight: 20
-    # - identifier: members
-    #   name: Miembros
-    #   url: /members/
-    #   weight: 30
+    - identifier: achievements
+      name: Logros
+      url: /achievements/
+      weight: 30
     - identifier: news
       name: Noticias
       url: /news/
