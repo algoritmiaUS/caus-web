@@ -12,6 +12,10 @@ categories: ["Noticias"]
 tags: ["Competición", "Programación", "Eventos"]
 ---
 
+<p class="mb-8 font-light text-center text-gray-500 lg:mb-16 dark:text-gray-400 sm:text-xl">
+  Patrocinador principal: <a href="https://www.nextdigital.es/">NEXT DIGITAL</a>
+</p>
+
 
 ¡La segunda competición interna de la temporada 2024-25 ya está aquí! 🎉  
 
@@ -19,7 +23,9 @@ El **CompliCAUS** es nuestra propia competición de programación, abierta a tod
 
 Por petición popular, y gracias a los comentarios recibidos sobre la edición anterior, hemos decidido **ampliar la duración a 3 horas**. Así tendrás más tiempo para disfrutar del desafío con tranquilidad y planificar mejor tus estrategias.  
 
+
 ### ¿Qué te espera en esta edición?
+
 - **Problemas para todos los niveles:** Hemos diseñado retos que van desde lo más accesible, para principiantes, hasta desafíos que pondrán a prueba a los más experimentados.  
 - **Estrategia y gestión del tiempo:** La clave estará en identificar los problemas más fáciles y maximizar tus puntos. ¡La diversión está garantizada!  
 - **250€ en premios:** Recompensas en efectivo para los mejores competidores. Próximamente anunciaremos los detalles sobre la distribución.  
@@ -32,3 +38,14 @@ Por petición popular, y gracias a los comentarios recibidos sobre la edición a
 📅 **7 de febrero de 2025**  
 
 🚀 **Demuestra tus habilidades y disfruta del reto en el CompliCAUS III!**  
+
+<div>
+  <p>Patrocinado por:</p>
+
+  <div style="display: flex; justify-content: center; flex-direction: column">
+    <a href="https://www.nextdigital.es/">
+        <img src="logo_next_digital.png" alt="Descripción de la imagen" style="width: 25rem; max-width: 80%; margin: auto;">
+    </a>
+    <p style="margin: auto">Patrocinador Platino</p>
+  </div>
+</div>
