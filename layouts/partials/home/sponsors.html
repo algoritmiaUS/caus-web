@@ -1,15 +1,15 @@
 <!-- Sponsors section -->
 <div class="max-w-md px-4 mx-auto md:pt-24 md:pb-16 sm:max-w-3xl sm:px-6 lg:max-w-7xl lg:px-8">
     <div class="lg:grid lg:grid-cols-2 lg:items-center lg:gap-24">
-        <div class="mt-12 grid grid-cols-2 gap-0.5 md:grid-cols-3 lg:mt-0 lg:grid-cols-2">
+        <div class="mt-12 gap-0.5 lg:mt-0">
             {{ range .Site.Params.P3.Logos }}
             <div class="flex justify-center col-span-1 px-8 py-8 bg-gray-50 dark:bg-gray-900/10">
                 {{ if .image }}
                 {{ $sponsor := resources.Get .image }}
-                <img src="{{ $sponsor.RelPermalink }}" class="max-h-12 dark" alt="{{ .alt }}" loading="lazy" />
+                <img src="{{ $sponsor.RelPermalink }}" class="dark" alt="{{ .alt }}" loading="lazy" style="width: 100%;"/>
                 {{ else }}
                 {{ $sponsor := resources.Get "images/global/sample-logo.svg" }}
-                <img src="{{ $sponsor.RelPermalink }}" class="max-h-12 dark" alt="{{ .alt }}" loading="lazy" />
+                <img src="{{ $sponsor.RelPermalink }}" class="dark" alt="{{ .alt }}" loading="lazy" style="width: 100%;"/>
                 {{ end }}
             </div>
             {{ end }}

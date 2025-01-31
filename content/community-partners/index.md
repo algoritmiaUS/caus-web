@@ -16,23 +16,18 @@ description: Patrocinadores
 # Patrocinadores
 
 
-## NextDigital(Platino)
+## Next Digital (Platino)
 
-<table width="100%" border="1">
-  <tr>
-    <td width="70%" style="vertical-align: top;">
-      Next Digital es una empresa española especializada en desarrollo de software, ingeniería de datos e innovación tecnológica. Next Digital lidera la transformación digital de empresas mediante soluciones en Big Data, Business Intelligence, Machine Learning, plataformas en la nube, interfaces conversacionales... Su equipo se enfoca en acompañar a otras organizaciones en su proceso de transformación digital, poniendo énfasis en la innovación y el diseño.
+  Next Digital es una empresa española especializada en desarrollo de software, ingeniería de datos e innovación tecnológica. Next Digital lidera la transformación digital de empresas mediante soluciones en Big Data, Business Intelligence, Machine Learning, plataformas en la nube, interfaces conversacionales... Su equipo se enfoca en acompañar a otras organizaciones en su proceso de transformación digital, poniendo énfasis en la innovación y el diseño.
 
 Desde el CAUS queremos agradecer su enorme apoyo haciendo posible el CompliCAUS III como patrocinador Platino.
-    </td>
-    <td width="30%" style="vertical-align: top;">
-      <img src="Logo_ND.png" alt="Descripción de la imagen" style="width: 100%; max-width: 300px; height: 50%; margin: 0;">
-    </td>
-  </tr>
-</table>
+
+<div style="display: flex;">
+  <img src="Logo_ND.png" alt="Descripción de la imagen" style="width: 80%; margin: auto;">
+</div>
 
 
-¿Quieres aparecer aquí? <a href="/contact">¡Contacta con nosotros!</a>
+¿Quieres aparecer aquí el próximo curso? <a href="/contact">¡Contacta con nosotros!</a>
 
 
 # Socios
