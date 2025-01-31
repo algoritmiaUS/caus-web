@@ -6,10 +6,10 @@
             <div class="flex justify-center col-span-1 px-8 py-8 bg-gray-50 dark:bg-gray-900/10">
                 {{ if .image }}
                 {{ $sponsor := resources.Get .image }}
-                <img src="{{ $sponsor.RelPermalink }}" class="max-h-12 dark:invert" alt="{{ .alt }}" loading="lazy" />
+                <img src="{{ $sponsor.RelPermalink }}" class="max-h-12 dark" alt="{{ .alt }}" loading="lazy" />
                 {{ else }}
                 {{ $sponsor := resources.Get "images/global/sample-logo.svg" }}
-                <img src="{{ $sponsor.RelPermalink }}" class="max-h-12 dark:invert" alt="{{ .alt }}" loading="lazy" />
+                <img src="{{ $sponsor.RelPermalink }}" class="max-h-12 dark" alt="{{ .alt }}" loading="lazy" />
                 {{ end }}
             </div>
             {{ end }}
