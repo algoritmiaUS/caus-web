@@ -78,11 +78,11 @@ params:
         url: "/community-partners"
     logos:
       - identifier: a
-        image: "images/global/Logo-US.svg" 
+        image: "images/global/Logo_ND.png" 
         alt: "a"
-      - identifier: b
-        image: "images/global/logo-ETSII-Negro.svg"
-        alt: "b"
+      #- identifier: b
+      # image: "images/global/logo-ETSII-Negro.svg"
+      # alt: "b"
       # - identifier: c
       # - identifier: d
       # - identifier: e
