@@ -36,7 +36,10 @@ Cómo anunciamos en la sesión de presentación, este curso estamos organizando 
       </div>
       <div class="flex items-center space-x-2">
         <span class="material-icons dark:text-gray-100">location_on</span>
-        <span class="text-sm md:text-base">Sala multiusos de la ETSII</span>
+        <span class="text-sm md:text-base">Sala multiusos de la ETSII + online</span>
+      </div>
+      <div class="flex items-center space-x-2">
+        <a href="https://meet.google.com/chr-pxjf-dkj">Enlace a la retransmisión</a>
       </div>
       <p class="mt-4 text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Ponente:</strong> Pablo Dávila Herrero (Data Scientist @ Plain Concepts)</p>
       <p class="text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Descripción:</strong> Docker es una herramienta fundamental para desarrolladores y científicos de datos, al permitir la creación, distribución y ejecución de aplicaciones en entornos aislados y reproducibles. Esto facilita la gestión de dependencias y el despliegue de proyectos.<br>
@@ -58,7 +61,10 @@ Cómo anunciamos en la sesión de presentación, este curso estamos organizando 
       </div>
       <div class="flex items-center space-x-2">
         <span class="material-icons dark:text-gray-100">location_on</span>
-        <span class="text-sm md:text-base">Sala multiusos de la ETSII</span>
+        <span class="text-sm md:text-base">Sala multiusos de la ETSII + online</span>
+      </div>
+      <div class="flex items-center space-x-2">
+        <span class="text-sm md:text-base"><a href="https://meet.google.com/mad-seuo-rad">Enlace a la retransmisión</a></span>
       </div>
       <p class="mt-4 text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Ponentes:</strong> Roberto Lama Rodríguez (Security Delivery Analyst @ Accenture)</p>
       <p class="text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Descripción:</strong> Roberto es Ingeniero en Telecomunicaciones y Analista de ciberseguridad en Accenture. Con este taller, nos va mostrar cómo es un Centro de Operaciones de Seguridad (SOC) y su infraestructura (SIEM, IDS/IPS, firewalls, SIRP...). Presentará también las salidas profesionales que existen en el campo de la ciberseguridad.</p>
