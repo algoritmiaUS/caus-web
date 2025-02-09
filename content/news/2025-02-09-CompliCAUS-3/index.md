@@ -33,7 +33,7 @@ En esta edición participaron 22 estudiantes de instituciones como la Universida
 
 # Resolución de problemas
 
-Al finalizar la competición, [Ramsés Rodríguez Martínez](https://www.linkedin.com/in/ramsesrodriguez/) , CEO de Next Digital, ofreció una charla de 15 minutos sobre cómo es trabajar en su empresa. Posteriormente, los responsables del CAUS, Pablo Dávila, José Joaquín Virtudes y Kenny Flores, dirigieron una sesión en la sala Multiusos de la ETSII, donde explicaron las estrategias utilizadas para resolver los problemas propuestos. Durante esta sesión, compartieron valiosos consejos y realizaron un análisis detallado de las soluciones.
+Al finalizar la competición, nos dirigimos al Salón de Grados de la ETSII, donde [Ramsés Rodríguez Martínez](https://www.linkedin.com/in/ramsesrodriguez/), CEO de Next Digital, ofreció una charla de 15 minutos sobre la experiencia de trabajar en su empresa. Posteriormente, los responsables del CAUS, Pablo Dávila, José Joaquín Virtudes y Kenny Flores, expusieron las estrategias utilizadas para resolver los problemas propuestos. Durante esta sesión, compartieron valiosos consejos y realizaron un análisis detallado de las soluciones.  
 
 ![Charla next digital](next-digital.jpg)
 
