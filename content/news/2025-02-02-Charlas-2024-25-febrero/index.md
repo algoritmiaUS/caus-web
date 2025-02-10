@@ -28,7 +28,7 @@ Cómo anunciamos en la sesión de presentación, este curso estamos organizando 
     <div class="mt-4 text-gray-600 dark:text-gray-300 space-y-2">
       <div class="flex items-center space-x-2">
         <span class="material-icons dark:text-gray-100">calendar_today</span>
-        <span class="text-sm md:text-base">Lunes, 10 de febrero de 2025</span>
+        <span class="text-sm md:text-base">Lunes, 17 de febrero de 2025</span>
       </div>
       <div class="flex items-center space-x-2">
         <span class="material-icons dark:text-gray-100">access_time</span>
