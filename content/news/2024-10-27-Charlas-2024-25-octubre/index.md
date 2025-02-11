@@ -22,7 +22,7 @@ Cómo anunciamos en la sesión de presentación, este curso vamos a organizar ch
 # Charlas de Octubre
 
 <div class="space-y-6 dark:bg-gray-900 dark:text-gray-100">
-  <div class="border border-gray-200 rounded-lg p-4 md:p-6 bg-white shadow-sm dark:bg-gray-800 dark:border-gray-700">
+  <div class="border border-gray-200 rounded-lg p-4 md:p-6 bg-white shadow-xs dark:bg-gray-800 dark:border-gray-700">
     <h2 class="text-lg font-semibold text-gray-800 dark:text-white">Algoritmos Bit-wise</h2>
     <div class="mt-4 text-gray-600 dark:text-gray-300 space-y-2">
       <div class="flex items-center space-x-2">

@@ -23,7 +23,7 @@ Cómo anunciamos en la sesión de presentación, este curso vamos a organizar ch
 # Charlas de Noviembre
 
 <div class="space-y-6 dark:bg-gray-900 dark:text-gray-100">
-  <div class="border border-gray-200 rounded-lg p-4 md:p-6 bg-white shadow-sm dark:bg-gray-800 dark:border-gray-700">
+  <div class="border border-gray-200 rounded-lg p-4 md:p-6 bg-white shadow-xs dark:bg-gray-800 dark:border-gray-700">
     <h2 class="text-lg font-semibold text-gray-800 dark:text-white">Algorítmica paralela</h2>
     <div class="mt-4 text-gray-600 dark:text-gray-300 space-y-2">
       <div class="flex items-center space-x-2">
@@ -47,7 +47,7 @@ Cómo anunciamos en la sesión de presentación, este curso vamos a organizar ch
     </div>
   </div>
 
-  <div class="border border-gray-200 rounded-lg p-4 md:p-6 bg-white shadow-sm dark:bg-gray-800 dark:border-gray-700">
+  <div class="border border-gray-200 rounded-lg p-4 md:p-6 bg-white shadow-xs dark:bg-gray-800 dark:border-gray-700">
     <h2 class="text-lg font-semibold text-gray-800 dark:text-white">Flujo máximo</h2>
     <div class="mt-4 text-gray-600 dark:text-gray-300 space-y-2">
       <div class="flex items-center space-x-2">
@@ -73,7 +73,7 @@ Cómo anunciamos en la sesión de presentación, este curso vamos a organizar ch
     </div>
   </div>
 
-  <div class="border border-gray-200 rounded-lg p-4 md:p-6 bg-white shadow-sm dark:bg-gray-800 dark:border-gray-700">
+  <div class="border border-gray-200 rounded-lg p-4 md:p-6 bg-white shadow-xs dark:bg-gray-800 dark:border-gray-700">
     <h2 class="text-lg font-semibold text-gray-800 dark:text-white">Cómo insertar 10^9 filas en una tabla sin morir en el intento</h2>
     <div class="mt-4 text-gray-600 dark:text-gray-300 space-y-2">
       <div class="flex items-center space-x-2">
@@ -97,7 +97,7 @@ Cómo anunciamos en la sesión de presentación, este curso vamos a organizar ch
     </div>
   </div>
 
-  <div class="border border-gray-200 rounded-lg p-4 md:p-6 bg-white shadow-sm dark:bg-gray-800 dark:border-gray-700">
+  <div class="border border-gray-200 rounded-lg p-4 md:p-6 bg-white shadow-xs dark:bg-gray-800 dark:border-gray-700">
     <h2 class="text-lg font-semibold text-gray-800 dark:text-white">Cómo gestionar con éxito un proyecto de Data Science</h2>
     <div class="mt-4 text-gray-600 dark:text-gray-300 space-y-2">
       <div class="flex items-center space-x-2">

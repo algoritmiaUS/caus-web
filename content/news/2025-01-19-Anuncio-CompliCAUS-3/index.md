@@ -9,7 +9,7 @@ description: "El Club de Algoritmia de la Universidad de Sevilla presenta la ter
 author: Administradores CAUS
 authorimage: ../assets/images/global/author-CAUS.webp
 categories: ["Noticias"]
-tags: ["Competición", "Programación", "Eventos"]
+tags: Eventos
 ---
 
 <p class="mb-8 font-light text-center text-gray-500 lg:mb-16 dark:text-gray-400 sm:text-xl">
