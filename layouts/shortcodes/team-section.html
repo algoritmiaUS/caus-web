@@ -7,9 +7,9 @@
 
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6">
       {{ range .Site.Data.members.administrators }}
-      <div class="flex items-center p-4 border rounded-lg shadow">
+      <div class="flex items-center p-4 border rounded-lg shadow-sm">
         <img src="{{ .image }}" alt="{{ .name }}"
-          class="w-10 h-10 rounded-full object-cover flex-shrink-0 mr-3 not-prose">
+          class="w-10 h-10 rounded-full object-cover shrink-0 mr-3 not-prose">
         <div>
           <h3 class="text-lg font-bold my-auto">{{ .name }}</h3>
           <p class="text-gray-600 my-auto">{{ .role }}</p>
@@ -25,9 +25,9 @@
 
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6">
       {{ range .Site.Data.members.members }}
-      <div class="flex items-center p-4 border rounded-lg shadow">
+      <div class="flex items-center p-4 border rounded-lg shadow-sm">
         <img src="{{ .image }}" alt="{{ .name }}"
-          class="w-10 h-10 rounded-full object-cover flex-shrink-0 mr-3 not-prose">
+          class="w-10 h-10 rounded-full object-cover shrink-0 mr-3 not-prose">
         <h3 class="text-lg font-bold my-auto">{{ .name }}</h3>
       </div>
       {{ end }}
