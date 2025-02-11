@@ -10,47 +10,56 @@ Esta es la página web oficial del Club de Algoritmia de la Universidad de Sevil
 
 `git clone git@github.com:algoritmiaUS/caus-web.git`
 
-**Instalar las dependencias del proyecto**
+**Dependencias principales**
 
-```
-# Las dependencias son hugo, npm y golang, si usas Linux/OSX/WSL2 es recomendable usar homebrew
+  - hugo (v0.128.2)
+  - npm (10.9.0)
+  - golang-go (1.23.2)
 
-$ brew install hugo
 
-$ brew install npm
+## Sistemas GNU/Linux
 
-$ sudo apt install golang-go
-```
-**Nota:** Si es necesario una versión anterior de las librerías porque da errores, seguir el siguiente [enlace](https://nelson.cloud/how-to-install-older-versions-of-homebrew-packages).
+Si utilizas Linux/OSX/WSL2 es recomendable usar homebrew.
 
-**Instalar las dependencias del proyecto**
+```Bash
+brew install hugo
+brew install npm
 
-```
-# Entramos en el directorio del repositorio
-$ cd caus-web
+sudo apt install golang-go
 
-# Instalamos la dependencias
-$ npm install
+npm install
 ```
 
-**Para comenzar a desarrollar**
 
-```
+## Sistemas Windows
+
+ 1. [Descargar e instalar Hugo](https://github.com/gohugoio/hugo/releases/tag/v0.128.2)
+ 2. [Descargar e instalar Node.js](https://nodejs.org/en/download)
+ 3. [Descargar e instalar golang-go](https://go.dev/doc/install)
+ 4. Instalar dependencias de npm
+
+    ```Bash
+    npm install
+    ```
+
+
+# Ejecución
+
+**Para desarrollo local**
+
+```Bash
 hugo server --config hugo.yaml
 ```
 
 **Para generar el sitio HTML**
 
-```
-# Haz las modificaciones que desees, y no olvides que la configuración aquí es hugo.yaml no .toml (el formato de yaml es mucho mejor de todos modos)
-Para generar /public para subir a tu sitio web
+El código se generará en el directorio ./public.
 
-$ sudo hugo --gc --minify
+```Bash
+sudo hugo --gc --minify
 ```
 
 
 ## Agradecimientos
 
-- [nusserstudios - TailBliss theme](https://github.com/nusserstudios/tailbliss)
-- [University of Warwick Computing Society](https://uwcs.co.uk)
-
+  - [nusserstudios - TailBliss theme](https://github.com/nusserstudios/tailbliss)
