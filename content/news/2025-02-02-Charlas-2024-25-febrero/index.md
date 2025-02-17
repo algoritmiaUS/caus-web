@@ -67,7 +67,7 @@ Cómo anunciamos en la sesión de presentación, este curso estamos organizando 
         <span class="text-sm md:text-base"><a href="https://meet.google.com/mad-seuo-rad">Enlace a la retransmisión</a></span>
       </div>
       <p class="mt-4 text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Ponentes:</strong> Roberto Lama Rodríguez (Security Delivery Analyst @ Accenture)</p>
-      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Descripción:</strong> Roberto es Ingeniero en Telecomunicaciones y Analista de ciberseguridad en Accenture. Con este taller, nos va mostrar cómo es un Centro de Operaciones de Seguridad (SOC) y su infraestructura (SIEM, IDS/IPS, firewalls, SIRP...). Presentará también las salidas profesionales que existen en el campo de la ciberseguridad.</p>
+      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Descripción:</strong> Roberto es Ingeniero en Telecomunicaciones y Analista de ciberseguridad. En este taller exploraremos la arquitectura de un entorno de seguridad basado en Docker, donde desplegaremos y configuraremos herramientas clave como un IDS, un SIEM y un SIRP. A través de este laboratorio práctico, veremos cómo estas tecnologías trabajan juntas para la detección, análisis y respuesta ante incidentes de seguridad.</p>
       <p class="text-sm md:text-base text-gray-500 dark:text-gray-400">Ponencia en español</p>
     </div>
   </div>
