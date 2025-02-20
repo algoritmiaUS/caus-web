@@ -145,7 +145,7 @@ menu:
       url: /contact/
       weight: 70
     - identifier: otherlinks
-      pre: complexdropdown
+      pre: dropdown #complexdropdown es más grande
       name: Otros enlaces
       weight: 80
 
