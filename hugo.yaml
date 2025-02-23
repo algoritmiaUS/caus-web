@@ -50,6 +50,7 @@ params:
   title_short: CAUS
   author: Club Algoritmia de la Universidad de Sevilla
   authorimage: ../assets/images/global/author-CAUS.webp  # caus-web/assets/images/global/author-CAUS.webp
+  heropic: /images/pages/logo_CAUS.png
   og_image: /images/logo-CAUS.png # caus-web/static/images/logo-CAUS.png
   moto: "Club de Algoritmia de la Universidad de Sevilla (CAUS)"
   description: "Grupo fundado por estudiantes de la US para aprender y mejorar habilidades en programación mediante la colaboración y la participación en competiciones."
@@ -145,10 +146,10 @@ menu:
       url: /contact/
       weight: 70
     - identifier: otherlinks
-      pre: dropdown #complexdropdown es más grande
+      pre: dropdown # complexdropdown es con logos, y sin logos es dropdown
       name: Otros enlaces
       weight: 80
-
+      
     # - identifier: dropdown
     #   pre: complexdropdown
     #   name: Dropdown

@@ -3100,7 +3100,7 @@ video {
 
 .bg-gray-900 {
   --tw-bg-opacity: 1;
-  background-color: rgb(17 24 39 / var(--tw-bg-opacity));
+  background-color: rgb(20 22 47/ var(--tw-bg-opacity));
 }
 
 .bg-indigo-600 {
@@ -3115,7 +3115,7 @@ video {
 
 .bg-primary-600 {
   --tw-bg-opacity: 1;
-  background-color: rgb(48 52 236 / var(--tw-bg-opacity));
+  background-color: rgb(149 21 206  / var(--tw-bg-opacity));
 }
 
 .bg-transparent {
@@ -4146,7 +4146,7 @@ EmojiSymbols;
 
 .hover\:bg-primary-600:hover {
   --tw-bg-opacity: 1;
-  background-color: rgb(48 52 236 / var(--tw-bg-opacity));
+  background-color: rgb(149 21 206  / var(--tw-bg-opacity));
 }
 
 .hover\:bg-primary-800:hover {
@@ -4189,12 +4189,12 @@ EmojiSymbols;
 
 .focus\:bg-primary-600:focus {
   --tw-bg-opacity: 1;
-  background-color: rgb(48 52 236 / var(--tw-bg-opacity));
+  background-color: rgb(149 21 206 / var(--tw-bg-opacity));
 }
 
 .focus\:bg-primary-700:focus {
   --tw-bg-opacity: 1;
-  background-color: rgb(19 23 209 / var(--tw-bg-opacity));
+  background-color: rgb(149 21 206 / var(--tw-bg-opacity));
 }
 
 .focus\:text-white:focus {
@@ -4249,7 +4249,7 @@ EmojiSymbols;
 
 .group:hover .group-hover\:bg-gray-900 {
   --tw-bg-opacity: 1;
-  background-color: rgb(17 24 39 / var(--tw-bg-opacity));
+  background-color: rgb(20 22 47 / var(--tw-bg-opacity));
 }
 
 .group:hover .group-hover\:text-gray-400\/60 {
@@ -4299,15 +4299,15 @@ EmojiSymbols;
 
 .dark\:bg-gray-900:is(.dark *) {
   --tw-bg-opacity: 1;
-  background-color: rgb(17 24 39 / var(--tw-bg-opacity));
+  background-color: rgb(20 22 47 / var(--tw-bg-opacity));
 }
 
 .dark\:bg-gray-900\/10:is(.dark *) {
-  background-color: rgb(17 24 39 / 0.1);
+  background-color: rgb(20 22 47 / 0.1);
 }
 
 .dark\:bg-gray-900\/50:is(.dark *) {
-  background-color: rgb(17 24 39 / 0.5);
+  background-color: rgb(20 22 47 / 0.5);
 }
 
 .dark\:bg-indigo-600:is(.dark *) {
@@ -4912,4 +4912,26 @@ EmojiSymbols;
     font-size: 1.25rem;
     line-height: 1.75rem;
   }
+}
+
+
+/* Join the discord CSS Button Code */
+.btn {
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+  color: #ffffff;
+  font-size: 18px;
+  background: #9515ce;
+  padding: 10px 20px;
+  text-decoration: none;
+  display: inline-block;
+  font-weight: bold;
+  text-align: center;
+  transition: background 0.3s ease-in-out;
+}
+
+.btn:hover {
+  background: #13162f;
+  text-decoration: none;
 }
