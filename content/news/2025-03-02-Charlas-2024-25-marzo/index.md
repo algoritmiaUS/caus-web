@@ -47,6 +47,30 @@ Cómo anunciamos en la sesión de presentación, este curso estamos organizando 
     </div>
   </div>
 
+
+ <div class="border border-gray-200 rounded-lg p-4 md:p-6 bg-white shadow-xs dark:bg-gray-800 dark:border-gray-700">
+    <h2 class="text-lg font-semibold text-gray-800 dark:text-white">Cómo entender las mónadas (y no morir en el intento)</h2>
+    <div class="mt-4 text-gray-600 dark:text-gray-300 space-y-2">
+      <div class="flex items-center space-x-2">
+        <span class="material-icons dark:text-gray-100">calendar_today</span>
+        <span class="text-sm md:text-base">Jueves, 20 de marzo de 2025</span>
+      </div>
+      <div class="flex items-center space-x-2">
+        <span class="material-icons dark:text-gray-100">access_time</span>
+        <span class="text-sm md:text-base">17:30-19:00</span>
+      </div>
+      <div class="flex items-center space-x-2">
+        <span class="material-icons dark:text-gray-100">location_on</span>
+        <span class="text-sm md:text-base">Sala multiusos de la ETSII + online</span>
+      </div>
+      <div class="flex items-center space-x-2">
+        <a href="">Enlace a la retransmisión</a>
+      </div>
+      <p class="mt-4 text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Ponente:</strong> Alejandro Domínguez Muñoz (Estudiante de la ETSII)</p>
+      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Descripción:</strong> Desde el principio de los tiempos, los seres humanos nos hemos hecho algunas preguntas fundamentales. ¿Quiénes somos? ¿Por qué estamos aquí? ¿Hay vida después de la muerte? Al no poder responder a ninguna de estas preguntas, en esta charla consideraremos los problemas prácticos que resuelven los monoides en la categoría de los endofuntores, especialmente en relación con la computación distribuida.
+      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400">Ponencia en español</p>
+    </div>
+  </div>
   
 
 </div>
