@@ -67,7 +67,7 @@ Cómo anunciamos en la sesión de presentación, este curso estamos organizando 
         <a href="">Enlace a la retransmisión</a>
       </div>
       <p class="mt-4 text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Ponente:</strong> Alejandro Domínguez Muñoz (Estudiante de la ETSII)</p>
-      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Descripción:</strong> Desde el principio de los tiempos, los seres humanos nos hemos hecho algunas preguntas fundamentales. ¿Quiénes somos? ¿Por qué estamos aquí? ¿Hay vida después de la muerte? Al no poder responder a ninguna de estas preguntas, en esta charla consideraremos los problemas prácticos que resuelven los monoides en la categoría de los endofunctores en el ámbito de la computación distribuida y ubicua y sus contrastes y similitudes con el contexto en el que fueron inventados originalmente.
+      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Descripción:</strong> Desde el principio de los tiempos, los seres humanos nos hemos hecho algunas preguntas fundamentales. ¿Quiénes somos? ¿Por qué estamos aquí? ¿Hay vida después de la muerte? Al no poder responder a ninguna de estas preguntas, en esta charla consideraremos los problemas prácticos que resuelven los monoides en la categoría de los endofuntores, especialmente en relación con la computación distribuida.
       <p class="text-sm md:text-base text-gray-500 dark:text-gray-400">Ponencia en español</p>
     </div>
   </div>
