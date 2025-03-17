@@ -61,7 +61,7 @@ Cómo anunciamos en la sesión de presentación, este curso estamos organizando 
       </div>
       <div class="flex items-center space-x-2">
         <span class="material-icons dark:text-gray-100">location_on</span>
-        <span class="text-sm md:text-base">Aula por determinar + online</span>
+        <span class="text-sm md:text-base">B1.35 + online</span>
       </div>
       <div class="flex items-center space-x-2">
         <a href="https://meet.google.com/fhr-aaxh-shj">Enlace a la retransmisión</a>
