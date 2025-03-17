@@ -6,7 +6,7 @@
   "devDependencies": {
     "@tailwindcss/postcss": "^4.0.12",
     "@tailwindcss/typography": "^0.5.16",
-    "alpinejs": "^3.14.8",
+    "alpinejs": "^3.14.9",
     "concurrently": "^9.1.2",
     "postcss": "^8.5.3",
     "postcss-cli": "^11.0.0",
