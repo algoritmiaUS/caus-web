@@ -1,23 +1,27 @@
 administrators:
   - name: "Kenny Jesús Flores Huamán"
     role: "Cofundador"
-    image: "/images/members/caus.png"
+    image: "/images/admins/kenny.jpg"
 
   - name: "Pablo Dávila Herrero"
     role: "Cofundador"
-    image: "/images/members/caus.png"
+    image: "/images/admins/pablo-davila.jpeg"
 
   - name: "Pablo Reina Jiménez"
     role: "Cofundador"
-    image: "/images/members/caus.png"
+    image: "/images/admins/pablo-reina.jpeg"
   
-  - name: "Paula Gómez Matos"
+  - name: "Paula Gómez Matos" 
     role: "Cofundadora"
-    image: "/images/members/caus.png"
+    image: "/images/admins/paula.jpeg"
 
   - name: "José García De Tejada Delgado"
     role: "Administrador"
-    image: "/images/members/caus.png"
+    image: "/images/admins/jose.jpg"
+
+  - name: "María Lourdes Linares Barrera"
+    role: "Administradora"
+    image: "/images/admins/lourdes.jpg"
 
 members:
   - name: "Adriana Gordillo Melero"

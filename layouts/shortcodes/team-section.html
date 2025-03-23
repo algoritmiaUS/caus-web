@@ -1,37 +1,48 @@
 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
 
   <!-- Contenedor de Administradores -->
-  <div class="col-span-full">
+  <div class="col-span-full text-center">
     <h2 class="text-2xl font-bold mb-4">Administradores</h2>
-    <p>El equipo detrás de la organización de todos los eventos!</p>
-
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6">
+    <p class="text-gray-600">El equipo detrás de la organización de todos los eventos!</p>
+  
+    <div class="grid justify-center gap-4 mt-6" 
+         style="grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); max-width: 1200px; margin: 0 auto;">
       {{ range .Site.Data.members.administrators }}
-      <div class="flex items-center p-4 border rounded-lg shadow-sm">
-        <img src="{{ .image }}" alt="{{ .name }}"
-          class="w-10 h-10 rounded-full object-cover shrink-0 mr-3 not-prose">
-        <div>
-          <h3 class="text-lg font-bold my-auto">{{ .name }}</h3>
-          <p class="text-gray-600 my-auto">{{ .role }}</p>
-        </div>
+      <div class="flex flex-col items-center p-3 w-full">
+        <img src="{{ .image }}" alt="{{ .name }}" class="w-20 h-20 rounded-full object-cover">
+        <h3 class="text-base font-bold mt-3 truncate">{{ .name }}</h3>
+        <p class="text-gray-600 text-sm truncate">{{ .role }}</p>
+        <!-- <div class="flex space-x-3 mt-2">
+          <a href="{{ .linkedin }}" class="text-gray-500 hover:text-blue-600">
+            <i class="fab fa-linkedin"></i>
+          </a>
+          <a href="{{ .twitter }}" class="text-gray-500 hover:text-blue-400">
+            <i class="fab fa-twitter"></i>
+          </a>
+        </div> -->
       </div>
       {{ end }}
     </div>
   </div>
+
 
   <!-- Contenedor de Miembros Activos -->
   <div class="col-span-full mt-6">
     <h2 class="text-2xl font-bold mb-4">Miembros</h2>
 
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6">
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mt-6" style="grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));">
+
       {{ range .Site.Data.members.members }}
-      <div class="flex items-center p-4 border rounded-lg shadow-sm">
-        <img src="{{ .image }}" alt="{{ .name }}"
-          class="w-10 h-10 rounded-full object-cover shrink-0 mr-3 not-prose">
-        <h3 class="text-lg font-bold my-auto">{{ .name }}</h3>
-      </div>
-      {{ end }}
+      <div class="flex flex-col items-center p-3 max-w-xs w-full mx-auto hover:bg-gray-50/20 transition-colors">
+      <img src="{{ .image }}" alt="{{ .name }}" class="w-20 h-20 rounded-full object-cover mx-auto">
+      <h3 class="text-base font-bold mt-3 truncate">{{ .name }}</h3>
+      <p class="text-gray-600 text-sm truncate">{{ .role }}</p>
+    </div>
+    {{ end }}
     </div>
   </div>
+
+
+
 
 </div>
