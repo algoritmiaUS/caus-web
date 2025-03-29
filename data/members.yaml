@@ -2,26 +2,39 @@ administrators:
   - name: "Kenny Jesús Flores Huamán"
     role: "Cofundador"
     image: "/images/admins/kenny.jpg"
+    website: https://kennyfh.github.io
+    github: kennyfh
+    linkedin: kennyfh
 
   - name: "Pablo Dávila Herrero"
     role: "Cofundador"
     image: "/images/admins/pablo-davila.jpeg"
+    website: https://pablodavila.eu
+    linkedin: pablo-davila-herrero
+    github: Pablo-Davila
 
   - name: "Pablo Reina Jiménez"
     role: "Cofundador"
     image: "/images/admins/pablo-reina.jpeg"
+    linkedin: pablo-reina-jiménez-2b1869257
+    github: preinaj
   
   - name: "Paula Gómez Matos" 
-    role: "Cofundadora"
+    role: "Cofundadora y Former Member"
     image: "/images/admins/paula.jpeg"
+    linkedin: paulagomezmatos
 
   - name: "José García De Tejada Delgado"
     role: "Administrador"
     image: "/images/admins/jose.jpg"
+    github: Olivfhan
+    linkedin: jose-garcia-de-tejada-delgado-3915a12a2
 
   - name: "María Lourdes Linares Barrera"
     role: "Administradora"
     image: "/images/admins/lourdes.jpg"
+    linkedin: lourdeslb
+    github: lourdesLB
 
 members:
   - name: "Adriana Gordillo Melero"

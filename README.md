@@ -63,3 +63,4 @@ sudo hugo --gc --minify
 ## Agradecimientos
 
   - [nusserstudios - TailBliss theme](https://github.com/nusserstudios/tailbliss)
+  - [Simple Icons](https://simpleicons.org/)
