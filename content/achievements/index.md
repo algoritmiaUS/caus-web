@@ -10,6 +10,16 @@ description: Logros
 
 En nuestro primer año de actividad, hemos recibido diversos premios y reconocimientos que reflejan nuestro compromiso con la innovación y el trabajo en equipo. Estos logros, obtenidos en competiciones locales y nacionales, son un testimonio de nuestra dedicación y pasión por resolver problemas a través de la tecnología. A continuación, presentamos los premios y menciones que hemos alcanzado hasta la fecha.
 
+# 2025
+
+## Ganadores CompliCAUS III
+
+El 7 de febrero de 2025 se celebró la tercera edición del CompliCAUS III, una competencia organizada por el Club de Algoritmia de la US. Al igual que en ediciones anteriores, el evento reunió a estudiantes de diversas instituciones, incluyendo a alumnos de bachillerato.
+
+La principal novedad de esta edición fue el patrocinio de la empresa NEXT DIGITAL, que hizo posible la entrega de premios a los equipos ganadores. A continuación, se presentan los equipos que obtuvieron los primeros lugares:
+
+{{< rankings "complicaus3" >}}
+
 # 2024
 
 ## Premio "SOMOS ETSII" del curso 2023/2024
