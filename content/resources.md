@@ -64,12 +64,23 @@ También hay bastantes y a todos los niveles! Además de las competiciones que o
 
 _RIP competiciones de Google en 2023_
 
+# Bibliotecas de código y plantillas
+- [dossier-template: Dossier de miembros del Club de Algoritmia de la US](https://github.com/algoritmiaUS/dossier-template)
+- [katcl: Dossier de referencia para los miembros de la Universidad del KTH Royal Institute of Technology](https://github.com/kth-competitive-programming/kactl/blob/main/kactl.pdf)
+- [notebook-unlam-python: Dossier de la Universidad Nacional de la Matanza](https://github.com/LautaroLasorsa/notebook-unlam-python/blob/main/notebook/notebook.pdf)
+- [Template en Java para  I/O](https://github.com/jeffrey-xiao/competitive-programming/blob/master/src/codebook/Template.java)  
+- [Colección de algoritmos y estructuras de datos en Java y otros lenguajes de programación](https://github.com/indy256/codelibrary)
+
+# Catálogos de problemas
+- [🟢 Principiantes] [Kattis - Problemas para comenzar en programación competitiva](https://open.kattis.com/problem-sources/Kattis)
+- [🟢 Principiantes] [Catálogo de problemas de Kattis para iniciantes universitarios](https://docs.google.com/spreadsheets/d/1oJ2bUndgK4dOOTcOA-3Nyv0RB6XEoES2yr2Xw5Qcwtw/edit?gid=0#gid=0)
+- [🟢 Principiantes] [Catálogo de problemas de Kattis para principiantes y estudiantes de la ESO](https://docs.google.com/spreadsheets/d/1o_7wdzTA861ySRCZCD2SWEu_T_4QVptg6BhGmKNsuLc/edit?gid=0#gid=0)
 
 # Materiales
 
 - 📎 [Enunciados de ediciones anteriores de AdaByron](https://drive.google.com/drive/folders/1xleZ_-1_LyoHV7SDbyXg_fQ2m_BMrO82?usp=sharing)
 - 📎 [Listado con una infinidad de recursos extra sobre programación competitiva](https://github.com/lnishan/awesome-competitive-programming)
-- 📎 Podéis encontrar las diapositivas y las soluciones a los problemas de las sesiones del CAUS del 23/24 en [esta carpeta de Google Drive](https://drive.google.com/drive/folders/1HRhaTf-Dtha1T21ZTzjj7y-6WswkB9OP?usp=sharing)
+- 📎 Podéis encontrar las diapositivas y las soluciones a los problemas de las sesiones del CAUS del 23/24 y 24/25 en [esta carpeta de Google Drive](https://drive.google.com/drive/folders/1HRhaTf-Dtha1T21ZTzjj7y-6WswkB9OP?usp=sharing)
 - 📎 [Curso de programación competitiva de la Universidad de Reykjavik](https://algo.is/t-414-aflv-competitive-programming-course-2016)
 
 - 📎 [Cp-algorithms](https://cp-algorithms.com) es una tradución de la página rusa [e-maxx.ru](https://e-maxx.ru/algo), que proporciona descripciones de muchos algoritmos y estructuras de datos especialmente populares en el mundo de la programación competitiva
@@ -87,3 +98,4 @@ _RIP competiciones de Google en 2023_
 # Recursos Audiovisuales
 
 - [Clases de Steven Skiena](https://www3.cs.stonybrook.edu/~skiena/373/videos) (autor de "The Algorithm Design Manual")
+
