@@ -154,7 +154,7 @@ Aunque no pertenecen a nuestra universidad, participaron en la sede de Sevilla y
 
 ### Otros equipos pertenecientes al CAUS
 
-Además de los clasificados, queremos agradecer a los equipos **TLE Climbers**, **Virtem**, **Los Mikel Bull** y **git gud** por haber participado en este certamen. La verdad es que en general, el rendimiento de los equipos ha sido muy buena. 	
+Además de los clasificados, queremos agradecer a los equipos **TLE Climbers**, **Virtem**, **Los Mikel Bull** y **git gud** por haber participado en este certamen. La verdad es que en general, el rendimiento de los equipos ha sido muy bueno.
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
 
