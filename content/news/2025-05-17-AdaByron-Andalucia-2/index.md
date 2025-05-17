@@ -86,7 +86,7 @@ Siete equipos de la fase regional de Andalucía han logrado clasificarse para la
 - **Turing Incomplete** (UMA) – Categoría AB  
 - **ChatJPG** (UMA) – Categoría AB  
 - **TrieNPHards** (UGR) – Categoría C  
-- **IemaTecnico** (US) – Categoría C  
+- **lemaTecnico** (US) – Categoría C  
 - **Massive** (US) – Categoría C
 - **Los BoquerO(n³)** (UNED) - Categoría C entre las universidades a distancia
 
