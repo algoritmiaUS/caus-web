@@ -1,6 +1,6 @@
 ---
 title: "Charlas y talleres - Mayo 2025"
-date: 2025-05-17T22:00:00+00:00
+date: 2025-05-19T0:00:00+02:00
 draft: false
 language: es
 featured_image: ../assets/images/featured/charlas.png
