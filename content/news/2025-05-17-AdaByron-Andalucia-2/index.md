@@ -1,6 +1,6 @@
 ---
 title: "II Edición Regional de Andalucía del Concurso Ada Byron"
-date: 2025-05-17T13:00:00-05:00
+date: 2025-05-17T13:00:00+00:00
 draft: false
 language: es
 featured_image: ../assets/images/featured/AdaByron-Regional-II.png
