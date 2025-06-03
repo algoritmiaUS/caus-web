@@ -38,88 +38,97 @@ administrators:
 
 members:
   - name: "Adriana Gordillo Melero"
-    image: "/images/members/caus.png"
+    image: "/images/members/adriana.png"
 
   - name: "Alejandro Domínguez Muñoz"
-    image: "/images/members/caus.png"
+    image: "/images/members/alejandro-haskell.jpeg"
 
   - name: "Alejandro Pineda Martín"
-    image: "/images/members/caus.png"
+    image: "/images/members/alejandro-pineda.jpeg"
 
   - name: "Álvaro Galisteo Bermúdez"
-    image: "/images/members/caus.png"
+    image: "/images/members/gali.jpeg"
 
   - name: "Arnau Neches Vilà"
-    image: "/images/members/caus.png"
+    image: "/images/members/arnau.jpeg"
 
   - name: "Carlos Fernández - Llebrez Acedo"
-    image: "/images/members/caus.png"
+    image: "/images/members/carlos-fernandez.jpeg"
 
-  - name: "Daniel Casado Pacheco"
-    image: "/images/members/caus.png"
+  # - name: "Daniel Casado Pacheco"
+  #   image: "/images/members/caus.png"
 
   - name: "Fernando Giráldez Curquejo"
     image: "/images/members/fernando-giraldez.png"
 
-  - name: "Hugo Pérez Jiménez"
-    image: "/images/members/caus.png"
+  # - name: "Hugo Pérez Jiménez"
+  #   image: "/images/members/caus.png"
 
   - name: "Inés Dávila Herrero"
-    image: "/images/members/caus.png"
+    image: "/images/members/ines.jpeg"
 
-  - name: "Irene González Quirós"
-    image: "/images/members/caus.png"
+  # - name: "Irene González Quirós"
+  #   image: "/images/members/caus.png"
 
-  - name: "Iván Barbero Lay"
-    image: "/images/members/caus.png"
+  # - name: "Iván Barbero Lay"
+  #   image: "/images/members/caus.png"
 
   - name: "Jacobo Tagua Santana"
-    image: "/images/members/caus.png"
+    image: "/images/members/jacobo.png"
 
   - name: "Jesus Racero San Román"
-    image: "/images/members/caus.png"
+    image: "/images/members/jesus-racero.jpg"
 
   - name: "Jesús Vílchez Martínez"
-    image: "/images/members/caus.png"
+    image: "/images/members/jesus-vilche.jpeg"
 
   - name: "José Constantino Benjumea Bellott"
-    image: "/images/members/caus.png"
+    image: "/images/members/constan.jpeg"
 
   - name: "José Escalera García"
-    image: "/images/members/caus.png"
+    image: "/images/members/pepe-escalera.jpeg"
 
-  - name: "Juan Grosso De La Lama"
-    image: "/images/members/caus.png"
+  # - name: "Juan Grosso De La Lama"
+  #   image: "/images/members/caus.png"
 
   - name: "Lorenzo Tagua Santana"
-    image: "/images/members/caus.png"
+    image: "/images/members/lorenzo.jpg"
 
   - name: "Lucía Campos Díez"
-    image: "/images/members/caus.png"
+    image: "/images/members/lucia-diez.jpg"
 
   - name: "Luis Eduardo Castillo Huamán"
-    image: "/images/members/caus.png"
+    image: "/images/members/lucho.jpg"
 
-  - name: "Manuel Delclós López"
-    image: "/images/members/caus.png"
+  # - name: "Manuel Delclós López"
+  #   image: "/images/members/caus.png"
 
   - name: "Mario Mora Cortés"
-    image: "/images/members/caus.png"
+    image: "/images/members/mario-mora.jpeg"
 
   - name: "Nicolás Sibello Litrán"
-    image: "/images/members/caus.png"
+    image: "/images/members/nico-sibello.jpeg"
 
   - name: "Nora Peñaloza Friqui"
-    image: "/images/members/caus.png"
+    image: "/images/members/nora.jpg"
 
   - name: "Pablo Écija Laguna"
-    image: "/images/members/caus.png"
+    image: "/images/members/pablo-ecija.jpeg"
 
   - name: "Pablo Moreno Moreu"
-    image: "/images/members/caus.png"
+    image: "/images/members/pablo-moreno.jpeg"
 
-  - name: "Sebastian Alonso Torres Garate"
-    image: "/images/members/caus.png"
+  # - name: "Sebastian Alonso Torres Garate"
+  #   image: "/images/members/caus.png"
 
   - name: "Teodoro Jiménez Lepe"
-    image: "/images/members/caus.png"
+    image: "/images/members/teodoro-jimenez-lepe.jpeg"
+
+  - name : "Jesús Pérez Bazarot"
+    image: "/images/members/persus.png"
+
+  - name : "Jairo Serrano Picón"
+    image: "/images/members/jairo.jpeg"
+
+  - name : "Jose Luis Mesa Solano"
+    image: "/images/members/jose-luis-mesa.jpeg"
