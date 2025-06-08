@@ -12,6 +12,29 @@ En nuestro primer año de actividad, hemos recibido diversos premios y reconocim
 
 # 2025
 
+## II Edición Regional de Andalucía del Concurso Ada Byron
+
+El viernes 25 de abril tuvo lugar la segunda edición regional del concurso Ada Byron, un certamen de programación cuyo objetivo es incentivar la participación en el prestigioso concurso internacional ICPC. En esta edición, celebrada simultáneamente en varias sedes de universidades andaluzas, tres equipos del Club de Algoritmia lograron clasificarse para la gran final del Ada Byron, que se celebrará en Madrid. Estos equipos fueron:
+
+1. 🥇 **Just Simply FLML** – *Categoría A*
+
+   * 1.º lugar en la sede de Sevilla y 3.º en el ranking global.
+   * Integrantes: Jesús Racero, Jesús Vílchez, José Escalera.
+   * 🎓 Grado en Ingeniería Informática (Software) – US.
+
+2. 🥇 **IemaTecnico** – *Categoría C*
+
+   * 4.º lugar en el ranking global.
+   * Integrantes: Arnau Neches, Pablo Moreno, Carlos Fernández-Llebrez.
+   * 🎓 Doble Grado en Matemáticas e Ingeniería Informática – US.
+
+3. 🥇 **Massive** – *Categoría C*
+
+   * 5.º lugar en el ranking global, destacando por ser novatos.
+   * Integrantes: Jairo Serrano, José Luis Mesa, José Aguilera.
+   * 🎓 Doble Grado en Matemáticas y Estadística, Doble Grado en Matemáticas y Física, Doble Grado en Física e Ingeniería de Materiales respectivamente – US.
+
+
 ## Ganadores CompliCAUS III
 
 El 7 de febrero de 2025 se celebró la tercera edición del CompliCAUS III, una competencia organizada por el Club de Algoritmia de la US. Al igual que en ediciones anteriores, el evento reunió a estudiantes de diversas instituciones, incluyendo a alumnos de bachillerato.
