@@ -10,7 +10,7 @@
     "concurrently": "^9.1.2",
     "postcss": "^8.5.5",
     "postcss-cli": "^11.0.1",
-    "tailwindcss": "^4.1.7"
+    "tailwindcss": "^4.1.10"
   },
   "scripts": {
     "start": "concurrently npm:watch:*",
