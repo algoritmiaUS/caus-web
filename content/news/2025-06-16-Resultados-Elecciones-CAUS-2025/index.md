@@ -66,7 +66,7 @@ Un equipo con muchísimo potencial para que, tanto nuevos como veteranos, sigamo
 Pablo Dávila continuará apoyando de forma puntual en la organización de eventos, pero cede el protagonismo a los nuevos responsables:
 
 - **José García de Tejada Delgado**
-- **Lucía Campos Díez** *(nuevos)*
+- **Lucía Campos Díez**
 
 ¡Mucha ilusión y ganas de hacer grandes cosas este año!
 
@@ -87,13 +87,25 @@ Por lo que, los nuevos administradores para este nuevo curso 2025/26 son:
 
 <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4 mt-8 items-stretch">
 
+  <!-- Pablo Reina -->
+  <div class="flex flex-col items-center text-center p-4 rounded h-[260px]">
+    <img src="pablo-reina.jpeg" alt="Pablo Reina"
+         class="w-24 h-24 rounded-full object-cover object-center shadow-md bg-gray-100 mb-3">
+    <p class="font-semibold text-sm truncate w-full">Pablo Reina</p>
+    <p class="text-xs text-gray-500 text-wrap text-center mt-1 leading-tight">
+      Presidente y Problem Solver<br>
+      Doctorado en Ingeniería Informática
+    </p>
+  </div>
+
   <!-- Fernando -->
   <div class="flex flex-col items-center text-center p-4 rounded h-[260px]">
     <img src="fernando-giraldez.png" alt="Fernando Giráldez"
          class="w-24 h-24 rounded-full object-cover object-center shadow-md bg-gray-100 mb-3">
     <p class="font-semibold text-sm truncate w-full">Fernando Giráldez</p>
     <p class="text-xs text-gray-500 text-wrap text-center mt-1 leading-tight">
-      Web Master y Problem Solver <br> ???
+      Web Master y Problem Solver<br>
+      ???
     </p>
   </div>
 
@@ -113,8 +125,8 @@ Por lo que, los nuevos administradores para este nuevo curso 2025/26 son:
          class="w-24 h-24 rounded-full object-cover object-center shadow-md bg-gray-100 mb-3">
     <p class="font-semibold text-sm truncate w-full">Inés Dávila</p>
     <p class="text-xs text-gray-500 text-wrap text-center mt-1 leading-tight">
-      Marketing & Problem Solver
-      <br> ???
+      Marketing & Problem Solver<br>
+      ???
     </p>
   </div>
 
@@ -124,7 +136,8 @@ Por lo que, los nuevos administradores para este nuevo curso 2025/26 son:
          class="w-24 h-24 rounded-full object-cover object-center shadow-md bg-gray-100 mb-3">
     <p class="font-semibold text-sm truncate w-full">Lucía Campos</p>
     <p class="text-xs text-gray-500 text-wrap text-center mt-1 leading-tight">
-      Marketing y Event Manager <br> Ingeniería de Software
+      Marketing y Event Manager<br>
+      Ingeniería de Software
     </p>
   </div>
 
@@ -134,7 +147,8 @@ Por lo que, los nuevos administradores para este nuevo curso 2025/26 son:
          class="w-24 h-24 rounded-full object-cover object-center shadow-md bg-gray-100 mb-3">
     <p class="font-semibold text-sm truncate w-full">José García</p>
     <p class="text-xs text-gray-500 text-wrap text-center mt-1 leading-tight">
-      Problem Solver y Event Manager <br> Máster IA
+      Problem Solver y Event Manager<br>
+      Máster IA
     </p>
   </div>
 
@@ -144,7 +158,8 @@ Por lo que, los nuevos administradores para este nuevo curso 2025/26 son:
          class="w-24 h-24 rounded-full object-cover object-center shadow-md bg-gray-100 mb-3">
     <p class="font-semibold text-sm truncate w-full">Lorenzo Tagua</p>
     <p class="text-xs text-gray-500 text-wrap text-center mt-1 leading-tight">
-      Problem Solver <br> ???
+      Problem Solver<br>
+      ???
     </p> 
   </div>
 
@@ -154,22 +169,12 @@ Por lo que, los nuevos administradores para este nuevo curso 2025/26 son:
          class="w-24 h-24 rounded-full object-cover object-center shadow-md bg-gray-100 mb-3">
     <p class="font-semibold text-sm truncate w-full">Pablo Dávila</p>
     <p class="text-xs text-gray-500 text-wrap text-center mt-1 leading-tight">
-      Support Events <br> ???
-    </p>
-  </div>
-
-  <!-- Pablo Reina -->
-  <div class="flex flex-col items-center text-center p-4 rounded h-[260px]">
-    <img src="pablo-reina.jpeg" alt="Pablo Reina"
-         class="w-24 h-24 rounded-full object-cover object-center shadow-md bg-gray-100 mb-3">
-    <p class="font-semibold text-sm truncate w-full">Pablo Reina</p>
-    <p class="text-xs text-gray-500 text-wrap text-center mt-1 leading-tight">
-      Problem Solver <br> Doctorado en Ingeniería Informática
+      Support Events<br>
+      ???
     </p>
   </div>
 
 </div>
-
 
 
 ## 🎉 **¡Enhorabuena a todos los nuevos administradores!**  
