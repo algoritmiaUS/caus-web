@@ -3,7 +3,7 @@ title: "Resultados oficiales de las elecciones CAUS 2025"
 date: 2025-06-16T00:00:00+02:00
 draft: false
 language: es
-featured_image: ../assets/images/featured/elecciones.png
+featured_image: ../assets/images/featured/CompliCAUS-3-Foto-grupal.jpg
 summary: Resultados oficiales de las elecciones para los equipos del Club de Algoritmia de la Universidad de Sevilla (CAUS) para el curso 2025-2026.
 description: El Club de Algoritmia de la Universidad de Sevilla anuncia los resultados de sus elecciones internas, donde los miembros han elegido a los nuevos responsables de cada área para el próximo curso académico.
 author: Administradores CAUS
@@ -56,6 +56,8 @@ La categoría más reñida. Inicialmente se ofrecían 3 plazas, pero debido a un
 - **Fernando Giráldez Curquejo**
 - **José García de Tejada Delgado**
 
+![alt text](problem-solver.png)
+
 Un equipo con muchísimo potencial para que, tanto nuevos como veteranos, sigamos creciendo juntos en las competiciones. ¡Que el podio del regional Ada Byron del próximo año hable solo de la US! 😄
 
 
@@ -67,6 +69,8 @@ Pablo Dávila continuará apoyando de forma puntual en la organización de event
 
 - **José García de Tejada Delgado**
 - **Lucía Campos Díez** *(nuevos)*
+
+![alt text](events-manager.png)
 
 ¡Mucha ilusión y ganas de hacer grandes cosas este año!
 
