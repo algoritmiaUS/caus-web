@@ -29,7 +29,7 @@ En esta categoría se elegía a una persona para apoyar en el desarrollo de la w
 Fernando ha estado vinculado al club desde bachillerato y comienza su primer año de carrera como Web Master. ¡Empieza fuerte!
 
 
-![alt text](web-master.png)
+![Photo of the Web Master team](web-master.png)
 
 
 ---
