@@ -99,7 +99,7 @@ Por lo que, los nuevos administradores para este nuevo curso 2025/26 son:
 
   <!-- Kenny -->
   <div class="flex flex-col items-center text-center p-4 rounded h-[260px]">
-    <img src="kenny.jpg" alt="Kenny J. Flores"
+    <img src="kenny.jpg" alt="Photo of Kenny Flores"
          class="w-24 h-24 rounded-full object-cover object-center shadow-md bg-gray-100 mb-3">
     <p class="font-semibold text-sm truncate w-full">Kenny Flores</p>
     <p class="text-xs text-gray-500 text-wrap text-center mt-1 leading-tight">
