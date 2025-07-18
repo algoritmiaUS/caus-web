@@ -14,17 +14,7 @@ tags: Eventos
 
 Los pasados días 4 y 5 de julio de 2025 se celebró la undécima edición del concurso de programación Ada Byron  en la Facultad de Informática de la Universidad Complutense de Madrid en las que compitieron los mejores clasificados de cada región.
 
-## Sedes participantes
-
-El comité director del concurso tras analizar los datos la distribución de los equipos por región fue la siguiente:
-
-<!-- editar -->
-* Regional de Andalucía: 8 equipos 
-* Regional de Galicia: 6 equipos
-* Regional de Madrid: 10 equipos
-* Regional Multisede: 9 equipos
-* Regional de Murcia: 3 equipos
-* Regional de Valencia: 6 equipos
+## Equipos del CAUS
 
 Tres equipos pertenecientes al Club de Algoritmia lograron clasificarse a esta final nacional. Además de ellos, los administradores que fuimos como entrenadores de estos equipos, también participamos en una competencia alterna en la que resolvíamos los mismos problemas, pero competíamos con los otros entrenadores!
 
@@ -70,5 +60,3 @@ Todos ellos estudiantes del doble Grado en Ingeniería Informática – Tecnolog
 
 Durante las 4 horas de competición los equipos se enfrentaron a la resolución de 12 desafiantes problemas. A pesar de la alta exigencia, el equipo UPC1 (Categoría C) fue el ganador absoluto del concurso. !Enhorabuena a los ganadores!
 Además, desde el **CAUS** queremos expresar nuestro agradecimiento a la **Escuela Técnica Superior de Ingeniería Informática de Sevilla** por patrocinarnos el viaje a todo el equipo para ir a Madrid, a los organizadores del Ada Byron por hacer posible la organización de la final nacional, y también queremos agradecer a IMDEA Software, NEXT DIGITAL, Denodo y Bending Spoons por patrocinar el concurso.
-
-Finalmente, desde el **CAUS**, queremos expresar nuestro agradecimiento al equipo organizador de la **UCM** por hacer posible esta edición nacional.
