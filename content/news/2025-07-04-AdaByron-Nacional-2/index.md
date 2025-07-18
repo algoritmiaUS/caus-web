@@ -62,7 +62,7 @@ Todos ellos estudiantes del doble Grado en Ingeniería Informática – Tecnolog
     
 <img src="lematecnico.jpg" alt="Lema Técnico" width="500"/> 
 
-**El equipo IemaTecnico (Los favoritos de Renato)**
+**El equipo lemaTécnico**
 
 
 
