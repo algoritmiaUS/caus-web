@@ -1,19 +1,24 @@
-name: Auto Assign
+name: Auto assign
+
 on:
   issues:
     types: [opened]
   pull_request:
     types: [opened]
+
 jobs:
-  run:
+  auto-assign:
     runs-on: ubuntu-latest
     permissions:
       issues: write
       pull-requests: write
+    strategy:
+      matrix:
+        assignee: ['kennyfh', 'Raquezin']
     steps:
-    - name: 'Auto-assign issue'
+    - name: 'Auto-assign issue or pull request to ${{ matrix.assignee }}'
       uses: pozil/auto-assign-issue@v2
       with:
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
-          assignees: kennyfh
-          numOfAssignee: 1
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        assignees: ${{ matrix.assignee }}
+      if: ${{ github.event.sender.login != matrix.assignee }}
