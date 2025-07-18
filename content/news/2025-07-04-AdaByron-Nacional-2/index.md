@@ -3,7 +3,7 @@ title: "XI Edición de la Final Nacional del Concurso Ada Byron"
 date: 2025-07-04T11:10:00+00:00
 draft: false
 language: es
-featured_image: ../assets/images/featured/Ada-Byron-Nacional-IIN.jpg
+featured_image: ../assets/images/featured/Ada-Byron-Nacional-II.jpg
 summary: La undécima edición del Concurso Ada Byron reunió a los mejores programadores de cada región de España en un emocionante evento que culminó en la Facultad de Informática de la Universidad Complutense de Madrid. Entre los equipos clasificados, tres equipos pertenecientes al Club de Algoritmia de la Universidad de Sevilla (CAUS) se enfrentaron a 12 complejos problemas durante 4 intensas horas de competición.
 description: La XI Edición Nacional del Concurso Ada Byron reunió a equipos de todas las regiones de España, quienes demostraron su destreza en programación durante la gran final en la Universidad Complutense de Madrid. Tres equipos del Club de Algoritmia de Sevilla lograron clasificarse y participar en esta prestigiosa competición, enfrentándose a retos de alta dificultad. La jornada fue posible gracias al apoyo de instituciones académicas y patrocinadores clave, quienes fomentan la participación en competencias de programación a nivel nacional.
 author: Administradores CAUS
