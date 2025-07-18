@@ -69,7 +69,6 @@ Todos ellos estudiantes del doble Grado en Ingeniería Informática – Tecnolog
 ## Resultados y Agradecimientos
 
 Durante las 4 horas de competición los equipos se enfrentaron a la resolución de 12 desafiantes problemas. A pesar de la alta exigencia, el equipo UPC1 (Categoría C) fue el ganador absoluto del concurso. !Enhorabuena a los ganadores!
+Además, desde el **CAUS** queremos expresar nuestro agradecimiento a la **Escuela Técnica Superior de Ingeniería Informática de Sevilla** por patrocinarnos el viaje a todo el equipo para ir a Madrid, a los organizadores del Ada Byron por hacer posible la organización de la final nacional, y también queremos agradecer a IMDEA Software, NEXT DIGITAL, Denodo y Bending Spoons por patrocinar el concurso.
 
-Finalmente, desde el **CAUS** queremos expresar nuestro agradecimiento a la **Escuela Técnica Superior de Ingeniería Informática de Sevilla** por patrocinarnos el viaje a todo el equipo para ir a Madrid, a los organizadores del Ada Byron por hacer posible la organización de la final nacional, y también queremos agradecer a IMDEA Software, NEXT DIGITAL, Denodo y Bending Spoons por patrocinar el concurso.
-
-Finalmente, desde el **CAUS**, queremos expresar nuestro agradecimiento a la **Escuela Técnica Superior de Ingeniería Informática de Sevilla** por cedernos la sede para los equipos de esta ciudad, así como a los organizadores de **Ada Byron Madrid** y **Galicia** por hacer posible esta primera edición andaluza.
+Finalmente, desde el **CAUS**, queremos expresar nuestro agradecimiento al equipo organizador de la **UCM** por hacer posible esta edición nacional.
