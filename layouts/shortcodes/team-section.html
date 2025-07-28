@@ -54,6 +54,21 @@
   </div>
 
 
+  <div class="col-span-full mt-12 text-center">
+    <h2 class="text-2xl font-bold mb-2">Antiguas Administradoras</h2>
+    <p class="text-gray-500 text-lg">¡Os querremos siempre! ❤️</p>
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mt-6" style="grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));">
+      {{ range .Site.Data.members.oldadmins }}
+      <div class="flex flex-col items-center p-3 max-w-xs w-full mx-auto hover:bg-gray-50/20 transition-colors">
+        <img src="{{ .image }}" alt="{{ .name }}" class="rounded-full object-cover mx-auto" style="width: 300px; height: 300px;">
+        <h3 class="text-base font-bold mt-3 truncate">{{ .name }}</h3>
+        
+      </div>
+      {{ end }}
+    </div>
+  </div>
+
+
   <!-- Contenedor de Miembros Activos -->
   <div class="col-span-full mt-6">
     <h2 class="text-2xl font-bold mb-4">Miembros</h2>

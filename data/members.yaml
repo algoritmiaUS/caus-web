@@ -1,34 +1,58 @@
 administrators:
+
   - name: "Kenny Jesús Flores Huamán"
-    role: "Cofundador"
-    image: "/images/admins/kenny.jpg"
+    role: "Cofundador · Webmaster · Problem Solver"
+    image: "/images/admins/kenny.png"
     website: https://kennyfh.github.io
     github: kennyfh
     linkedin: kennyfh
 
   - name: "Pablo Dávila Herrero"
-    role: "Cofundador"
+    role: "Cofundador · Event Manager"
     image: "/images/admins/pablo-davila.jpeg"
     website: https://pablodavila.eu
     linkedin: pablo-davila-herrero
     github: Pablo-Davila
 
   - name: "Pablo Reina Jiménez"
-    role: "Cofundador"
+    role: "Cofundador · Problem Solver"
     image: "/images/admins/pablo-reina.jpeg"
     linkedin: pablo-reina-jiménez-2b1869257
     github: preinaj
   
+  - name: "José García De Tejada Delgado"
+    role: "Problem Solver · Event Manager"
+    image: "/images/admins/jose.jpg"
+    github: Olivfhan
+    linkedin: jose-garcia-de-tejada-delgado-3915a12a2
+
+  - name: "Fernando Giráldez Curquejo"
+    role: "Webmaster · Problem Solver"
+    image: "/images/admins/fernando-giraldez.png"
+    linkedin: fernando-giráldez-curquejo-116527295
+  
+  - name: "Inés Dávila Herrero"
+    role: "Marketing · Problem Solver"
+    image: "/images/admins/ines.jpeg"
+    linkedin: ines-davila-herrero
+
+  - name: "Lorenzo Tagua Santana"
+    role: "Problem Solver"
+    image: "/images/admins/lorenzo.png"
+    linkedin: lorenzo-tagua-476157293
+
+  - name: "Lucía Campos Díez"
+    role: "Marketing · Event Manager"
+    image: "/images/admins/lucia-diez.jpg"
+    linkedin: lucía-campos-díez-bb0345359
+
+
+oldadmins:
+# Antiguas admins: Os querremos siempre <3
   - name: "Paula Gómez Matos" 
     role: "Cofundadora y Former Member"
     image: "/images/admins/paula.jpeg"
     linkedin: paulagomezmatos
-
-  - name: "José García De Tejada Delgado"
-    role: "Administrador"
-    image: "/images/admins/jose.jpg"
-    github: Olivfhan
-    linkedin: jose-garcia-de-tejada-delgado-3915a12a2
 
   - name: "María Lourdes Linares Barrera"
     role: "Administradora"
@@ -58,15 +82,10 @@ members:
   # - name: "Daniel Casado Pacheco"
   #   image: "/images/members/caus.png"
 
-  - name: "Fernando Giráldez Curquejo"
-    image: "/images/members/fernando-giraldez.png"
-
   # - name: "Hugo Pérez Jiménez"
   #   image: "/images/members/caus.png"
 
-  - name: "Inés Dávila Herrero"
-    image: "/images/members/ines.jpeg"
-
+ 
   # - name: "Irene González Quirós"
   #   image: "/images/members/caus.png"
 
@@ -90,12 +109,6 @@ members:
 
   # - name: "Juan Grosso De La Lama"
   #   image: "/images/members/caus.png"
-
-  - name: "Lorenzo Tagua Santana"
-    image: "/images/members/lorenzo.jpg"
-
-  - name: "Lucía Campos Díez"
-    image: "/images/members/lucia-diez.jpg"
 
   - name: "Luis Eduardo Castillo Huamán"
     image: "/images/members/lucho.jpg"
