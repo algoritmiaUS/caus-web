@@ -4,8 +4,8 @@ administrators:
     role: "Cofundador · Webmaster · Problem Solver"
     image: "/images/admins/kenny.png"
     website: https://kennyfh.github.io
-    github: kennyfh
     linkedin: kennyfh
+    github: kennyfh
 
   - name: "Pablo Dávila Herrero"
     role: "Cofundador · Event Manager"
@@ -23,14 +23,15 @@ administrators:
   - name: "José García De Tejada Delgado"
     role: "Problem Solver · Event Manager"
     image: "/images/admins/jose.jpg"
-    github: Olivfhan
     linkedin: jose-garcia-de-tejada-delgado-3915a12a2
+    github: Olivfhan
 
   - name: "Fernando Giráldez Curquejo"
     role: "Webmaster · Problem Solver"
     image: "/images/admins/fernando-giraldez.png"
     linkedin: fernando-giráldez-curquejo-116527295
-  
+    github: Raquezin
+
   - name: "Inés Dávila Herrero"
     role: "Marketing · Problem Solver"
     image: "/images/admins/ines.jpeg"
