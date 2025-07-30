@@ -75,8 +75,14 @@ Participamos en eventos anuales como [Advent of Code](https://adventofcode.com/)
 Cada cuatrimestre, organizamos una comida especial para celebrar nuestros logros y disfrutar en equipo. Esta es una excelente oportunidad para compartir una comida memorable y conocer a esas personas del grupo con las que aún no has coincidido.
 
 <!-- ![alt text](comida-caus.jpg) -->
-<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+<!-- <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
   <img src="comida-caus.jpg" alt="Comida CAUS" style="width: 100%; max-width: 600px;border-radius: 12px;">
+</div> -->
+
+
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+  <img src="comida-caus.jpg" alt="Comida CAUS 1" style="width: 100%; max-width: 600px;border-radius: 12px;">
+  <img src="comida-caus2.jpg" alt="Comida CAUS 2" style="width: 100%; max-width: 600px;border-radius: 12px;">
 </div>
 
 ## Rocódromo
