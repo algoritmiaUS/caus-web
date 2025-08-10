@@ -1,8 +1,10 @@
 ---
-title: Plataformas y Competiciones
+title: Plataformas
 date: 2024-08-22T11:18:36+08:00
 draft: false
 language: es
+description: Los mejores jueces en línea y sitios de concursos
+weight: 20
 ---
 
 [⬅ Volver a Recursos](../)

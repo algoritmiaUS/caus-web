@@ -1,0 +1,30 @@
+
+
+<div class="w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-16">
+            
+
+    <div style="display: flex; flex-wrap: wrap; gap: 1rem;">
+        
+        {{ range .Pages.ByWeight }}
+
+
+            <a href="{{ .RelPermalink }}" style="flex: 1 1 320px; text-decoration: none; color: inherit;">
+                
+
+                <div style="border: 1px solid #ddd; border-radius: 8px; padding: 2rem; text-align: center; height: 100%; display: flex; flex-direction: column; justify-content: center;">
+                    
+                    <h2 class="text-xl font-bold text-gray-900 dark:text-white mb-2">
+                        {{ .Title }}
+                    </h2>
+                    
+                    {{ with .Params.description }}
+
+                        <p style="color: #8a2be2;">{{ . }}</p>
+                    {{ end }}
+
+                </div>
+            </a>
+        {{ end }}
+
+    </div>
+</div>

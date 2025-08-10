@@ -1,9 +1,10 @@
 ---
-title: Temarios y Hojas de Referencia
+title: Temas
 date: 2024-08-22T11:18:36+08:00
 draft: false
 language: es
-description: A test with @tailwindcss/typography & Prose
+description: Mapa de ruta de algoritmos y estructuras de datos
+weight: 30
 ---
 
 [⬅ Volver a Recursos](../)

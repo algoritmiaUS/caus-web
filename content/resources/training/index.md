@@ -1,9 +1,10 @@
 ---
-title: Entrenamiento y material del club
+title: Entrenamiento
 date: 2024-08-22T11:18:36+08:00
 draft: false
 language: es
-description: A test with @tailwindcss/typography & Prose
+description: Problemas del club, retos y grabaciones
+weight: 80
 ---
 
 [⬅ Volver a Recursos](../)

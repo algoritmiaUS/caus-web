@@ -1,8 +1,10 @@
 ---
-title: Libros y Material Recomendado
+title: Libros
 date: 2024-08-22T11:18:36+08:00
 draft: false
 language: es
+description: Libros y materiales de aprendizaje recomendados.
+weight: 40
 ---
 
 [⬅ Volver a Recursos](../)

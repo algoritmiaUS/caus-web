@@ -1,8 +1,10 @@
 ---
-title: Consejos y estrategias
+title: Estrategias
 date: 2024-08-22T11:18:36+08:00
 draft: false
 language: es
+weight: 70
+description: Consejos y técnicas para competir eficazmente
 ---
 
 [⬅ Volver a Recursos](../)
