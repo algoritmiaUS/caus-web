@@ -1,6 +1,6 @@
 ---
 title: Introducción
-date: 2024-08-22T11:18:36+08:00
+date: 2025-08-11T12:00:0+02:00
 draft: false
 language: es
 description: ¿Qué es programación competitiva? Cómo empezar

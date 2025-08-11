@@ -1,6 +1,6 @@
 ---
 title: "Logros"
-date: 2024-08-22T11:18:36+08:00
+date: 2025-01-06T21:23:52+02:00
 
 draft: false
 language: es
