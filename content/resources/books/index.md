@@ -17,7 +17,7 @@ Una base teórica sólida es lo que diferencia a un buen programador de uno exce
 
 - **[USACO Guide](https://usaco.guide/)**: Diseñada para las olimpiadas en EEUU, posiblemente sea la guía de aprendizaje más exhaustiva y mejor estructurada que existe. Te lleva de la mano desde los conceptos más básicos (Bronce) hasta el nivel de la élite mundial (Platino) con explicaciones teóricas, tutoriales y listas de problemas cuidadosamente seleccionados para cada tema.
 
-- **[cp-algorithms.com](https://cp-algorithms.com/)** (La "Wikipedia" de los algoritmos): Es una tradución de la página rusa [e-maxx.ru](https://e-maxx.ru/algo), la web de referencia por excelencia para consultar descripciones de algoritmos y estructuras de datos. Sus explicaciones son claras, incluyen implementaciones de código limpias y enlaces a problemas prácticos para aplicar lo aprendido.
+- **[cp-algorithms.com](https://cp-algorithms.com/)** (La "Wikipedia" de los algoritmos): Es una traducción de la página rusa [e-maxx.ru](https://e-maxx.ru/algo), la web de referencia por excelencia para consultar descripciones de algoritmos y estructuras de datos. Sus explicaciones son claras, incluyen implementaciones de código limpias y enlaces a problemas prácticos para aplicar lo aprendido.
 
 
 ## Libros de referencia
