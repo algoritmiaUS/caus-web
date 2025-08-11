@@ -20,7 +20,7 @@ Aunque hay variaciones, la mayoría de concursos comparten una estructura simila
 
 - **Duración**: son maratones de concentración. La duración típica es de **2 a 5 horas**.
 - **Problemas**: se presenta un conjunto de **5 a 12 problemas** de dificultad variada. El objetivo no es resolverlos todos, sino tantos como puedas, lo más rápido posible.
-* **Participantes**: las competiciones pueden ser individuales o en equipos de hasta 3 integrantes que colaboran para resolver los problemas.
+- **Participantes**: las competiciones pueden ser individuales o en equipos de hasta 3 integrantes que colaboran para resolver los problemas.
 - **Lenguajes permitidos**: generalmente se permite usar los lenguajes más populares como **C++, Java y Python**.
 - **El juez online**: no entregas tu solución a una persona. La subes a una plataforma automatizada (un "juez") que compila tu código y lo evalúa contra un conjunto de casos de prueba secretos para dar su veredicto.
 
@@ -56,7 +56,7 @@ Cuando participas, interactúas con estos tres elementos clave:
 
 - **Material permitido**: generalmente puedes usar tu propio teclado y ratón, y consultar material de referencia personal que hayas traído (tu "codebook" o dossier impreso). Lo que está _prohibido_ es cualquier tipo de comunicación con el exterior o el uso de internet (excepto para acceder al juez).
 
-- **Individual vs. Equipo**: los concursos de plataformas como Codeforces o AtCoder suelen ser _individuales_. Las grandes competiciones universitarias como el **ICPC** o **Ada Byron** son en _equipos de tres personas con un único ordenador_**_, lo que añade una capa extra de estrategia y comunicación.
+- **Individual vs. Equipo**: los concursos de plataformas como Codeforces o AtCoder suelen ser _individuales_. Las grandes competiciones universitarias como el **ICPC** o **Ada Byron** son en _equipos de tres personas con un único ordenador_ lo que añade una capa extra de estrategia y comunicación.
 
 
 ## Competiciones anuales

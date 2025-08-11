@@ -21,7 +21,7 @@ En estas webs pasarás la mayor parte de tu tiempo de entrenamiento. Ofrecen mil
 
 - **[Codeforces](https://codeforces.com)**: La plataforma más popular del mundo. Famosa por sus competiciones cortas y frecuentes ("Codeforces Rounds") que se celebran varias veces por semana. También hay que decir que no tiene la interfaz más amigable.
   - _Ideal para_: Competidores de todos los niveles.
-  - En [esta entrada de blog](https://codeforces.com/blog/entry/55274) un usuario ofrece un listado de problemas por temática
+  - En [esta entrada de blog](https://codeforces.com/blog/entry/55274) un usuario ofrece un listado de problemas por temática.
 - **[LeetCode](https://leetcode.com)**: Enfocada en problemas tipo entrevista de las grandes empresas tecnológicas (FAANG). Organiza concursos semanales y quincenales.
   - _Ideal para_: Preparación de entrevistas técnicas y buscar problemas por temática.
   - Tiene una interfaz muy pulida y es de las más conocidas.
@@ -29,11 +29,11 @@ En estas webs pasarás la mayor parte de tu tiempo de entrenamiento. Ofrecen mil
   - _Ideal para_: Estudiantes universitarios.
   - Incluye un ranking por universidades.
 - **[HackerRank](https://www.hackerrank.com)**: Interfaz muy amigable, con "rutas de aprendizaje" por temas (algoritmos, estructuras de datos, etc.). También usada por empresas para realizar pruebas de selección.
-  - _Ideal para_: Principiantes y aprendizaje guiado
+  - _Ideal para_: Principiantes y aprendizaje guiado.
 - **[AtCoder](https://atcoder.jp)**: Plataforma japonesa conocida por la alta calidad y el enfoque matemático/elegante de sus problemas. Tiene concursos para principiantes, nivel medio y "Grand Contests" (muy difíciles).
-  - _Ideal para_: Competidores con gusto por las matemáticas
+  - _Ideal para_: Competidores con gusto por las matemáticas.
 - **[¡Acepta el reto!](https://aceptaelreto.com)**: Juez en línea español con problemas en castellano. Muy utilizado en el circuito educativo español y en competiciones nacionales como **ProgramaMe**.
-  - _Ideal para_: Hablantes de español, iniciación
+  - _Ideal para_: Hablantes de español, iniciación.
 - **[CodeChef](https://www.codechef.com/)**.
 
 
