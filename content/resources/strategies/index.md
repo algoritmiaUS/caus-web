@@ -40,8 +40,6 @@ Antes de cada envío, hazte estas preguntas rápidas:
 **Cuando recibes `Wrong Answer (WA)`:**
 Este es el error más común. Significa que tu lógica es incorrecta.
 
-*   ¡Entendido! Aquí te dejo el texto adaptado para C++, Python y Java, explicando cómo depurar con impresión en consola en cada uno:
-
 ---
 
 * **Depura con impresión en consola:** imprime los valores de tus variables en puntos clave para observar cómo cambia el flujo o el resultado.
