@@ -37,7 +37,7 @@ Aquí agregas armas potentes para problemas más complejos:
 - **Teoría de grafos**:
   - Implementación: matriz de adyacencias vs lista de adyacencias, 
   - Recorridos: BFS, DFS.
-  - Caminos ínimos: Dijkstra, Bellman-Ford, Floyd-Warshall.
+  - Caminos mínimos: Dijkstra, Bellman-Ford, Floyd-Warshall.
   - Recubrimientos mínimos: Prim, Kruskal.
 
 - **Programación dinámica (DP)**: practica con problemas clásicos como Fibonacci, Knapsack, LCS.

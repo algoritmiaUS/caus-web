@@ -31,8 +31,8 @@ Estos son los textos que forman el núcleo del conocimiento en programación com
 - **[Introduction to Algorithms (CLRS)](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)** (La "Biblia" de la algoritmia)
   - **Autores**: Cormen, Leiserson, Rivest, Stein
   - **Por qué leerlo**: es el libro de texto académico por excelencia. Aunque no se centra en la competición, proporciona el rigor matemático y las demostraciones formales de casi cualquier algoritmo o estructura de datos que puedas necesitar. Es la fuente definitiva para entender el *porqué* de las cosas.
-<!-- Por qué está comentado?
-- **[The Algorithm Design Manual](http://www.algorist.com/)** (La guía práctica)
+
+<!-- - **[The Algorithm Design Manual](http://www.algorist.com/)** (La guía práctica)
   - **Autor**: Steven S. Skiena
   - **Por qué leerlo**: este libro destaca por su enfoque práctico. La primera mitad es un catálogo de problemas algorítmicos y la segunda es un impresionante catálogo de algoritmos ("The Hitchhiker's Guide to Algorithms") donde Skiena te cuenta, desde la experiencia, qué problemas resuelve cada uno y dónde encontrar las mejores implementaciones. -->
 
@@ -77,7 +77,7 @@ Los libros sientan las bases, pero el ecosistema digital es donde vivirás tu d�
 
 - **Canales de YouTube**:
   - **[Errichto](https://www.youtube.com/c/Errichto)**: Tutoriales, screencasts de competiciones y explicaciones de problemas de uno de los mejores competidores y educadores.
-  - **[Colin Galen (Galinier)](hhttps://www.youtube.com/@ColinGalen)**: Famoso por sus vídeos de "roadmap" y sus streams resolviendo problemas en directo.
+  - **[Colin Galen (Galinier)](https://www.youtube.com/@ColinGalen)**: Famoso por sus vídeos de "roadmap" y sus streams resolviendo problemas en directo.
   - **[Gennady Korotkevich (Tourist)](https://www.youtube.com/@que_tourist)**: directos de la leyenda y posiblemente el mejor competidor de la historia. No son tutoriales, sino la oportunidad de ver a un maestro en acción, observando su velocidad y proceso de pensamiento durante las competiciones.
 
 - **Blogs de Codeforces**: Utiliza la función de búsqueda para encontrar blogs de usuarios sobre cualquier tema. Los tutoriales y editoriales escritos por competidores de alto nivel (rojos y legendarios) suelen ser de una calidad excepcional.
