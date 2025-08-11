@@ -3,7 +3,7 @@ title: Concurso
 date: 2025-08-11T12:00:0+02:00
 draft: false
 language: es
-description: Como es un concurso y simulación práctica
+description: Qué concursos hay y cómo son
 weight: 60
 ---
 
