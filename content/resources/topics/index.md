@@ -1,6 +1,6 @@
 ---
 title: Temas
-date: 2024-08-22T11:18:36+08:00
+date: 2025-08-11T12:00:0+02:00
 draft: false
 language: es
 description: Mapa de ruta de algoritmos y estructuras de datos
@@ -13,97 +13,65 @@ Esta sección es tu mapa y tu brújula. El mapa te muestra el camino a seguir (q
 
 ---
 
+
 ## Roadmap de temas
 
-La programación competitiva es un campo muy amplio y abrumador si intentas abordarlo todo a la vez. Este roadmap te guiará desde los conceptos básicos hasta los más avanzados, con énfasis en las estructuras y algoritmos fundamentales y también en aspectos prácticos para los lenguajes más usados como Python, Java y C++.
+La programación competitiva es un campo muy amplio y abrumador si intentas abordarlo todo a la vez. Este roadmap te guiará desde los conceptos básicos hasta los más avanzados. En el Club de Algoritmia los estudiamos y practicamos durante todo el curso.
 
 
 ### Nivel fundamental (El Kit de supervivencia)
 
-Domina estos temas para resolver la mayoría de problemas de nivel introductorio:
+Elije un lenguaje de programación y domina estos temas para resolver la mayoría de problemas de nivel introductorio:
 
-* **Complejidad algorítmica:**
-  aprende la notación Big O para estimar el tiempo y espacio que consume tu algoritmo antes de implementarlo.
-  
-  > *Consejo:*  todos los lenguajes son compatibles con esta evaluación conceptual.
+- **Análisis de algoritmos**: Aprende a analizar la complejidad temporal y espacial de tus algoritmos con notación "Big O". En la mayoría de los casos esto te permitirá saber si el algoritmo que has pensado es suficientemente rápido antes de implementarlo.
 
-* **Estructuras de Datos Básicas:**
-  arreglos (arrays), matrices, pilas (stacks), colas (queues), listas enlazadas.
-  *Python:* Listas (`list`), `collections.deque` para colas.
-  *Java:* `ArrayList`, `LinkedList`, `Stack`, `Queue`.
-  *C++:* Arrays nativos, `std::vector`, `std::stack`, `std::queue`.
+- **Estructuras de datos básicas**: arreglos (arrays), matrices, pilas (stacks), colas (queues) y listas enlazadas. Necesitarás saber ordenar una lista y buscar eficientemente entre sus elementos.
 
-* **Algoritmos de Ordenamiento y Búsqueda:**
-  *Ordenamiento:* implementa Merge Sort o usa funciones estándar como `std::sort` (C++), `Arrays.sort()` (Java) o `sorted()` (Python).
-  *Búsqueda:* Domina la búsqueda binaria.
-  > *Consejo:*  en Python usa el módulo `bisect` para búsqueda binaria eficiente.
-
-* **Estructuras de Datos Clave:**
-  mapas/diccionarios, conjuntos (sets), colas de prioridad.
-  *Python:* `dict`, `set`, `heapq`.
-  *Java:* `HashMap`, `TreeMap`, `HashSet`, `PriorityQueue`.
-  *C++:* `std::map`, `std::unordered_map`, `std::set`, `std::priority_queue`.
+- **Estructuras de datos clave**: mapas/diccionarios (maps/dicts), conjuntos (sets), colas de prioridad.
 
 
-### Nivel Intermedio (Construyendo tu Arsenal)
+### Nivel intermedio
 
 Aquí agregas armas potentes para problemas más complejos:
 
-* **Teoría de Grafos:**
-  *recorridos:* BFS, DFS.
-  *caminos más cortos:* Dijkstra, Bellman-Ford, Floyd-Warshall.
-  *MST:* Prim, Kruskal.
-  > *Consejo:*  implementa grafos con listas de adyacencia en todos los lenguajes.
+- **Teoría de grafos**:
+  - Implementación: matriz de adyacencias vs lista de adyacencias, 
+  - Recorridos: BFS, DFS.
+  - Caminos mínimos: Dijkstra, Bellman-Ford, Floyd-Warshall.
+  - Recubrimientos mínimos: Prim, Kruskal.
 
-* **Programación Dinámica (DP):**
-  problemas clásicos como Fibonacci, Knapsack, LCS.
-  > *Consejo:*  aprende a memoizar funciones (ejemplo: decoradores en Python, memoización con mapas en Java/C++).
+- **Programación dinámica (DP)**: practica con problemas clásicos como Fibonacci, Knapsack, LCS.
 
-* **Técnicas Voraces (Greedy):**
-  entiende cuándo una solución local óptima es globalmente óptima.
+- **Técnicas Voraces (Greedy)**
 
-* **Estructuras de Datos Avanzadas:**
-  Segment Tree, Fenwick Tree (BIT), Union-Find (DSU).
-  *Consejo:*  Aunque no están en librerías estándar, las implementaciones son muy útiles y comunes.
+- **Estructuras de Datos Avanzadas**: Segment Tree, Fenwick Tree (BIT), Union-Find (DSU)...
+  > Advertencia: Estas estructuras no suelen estar implementadas en las librerías estándar de los lenguajes! Debes saber implementarlas o incluirlas en tu dossier
 
-### Nivel Avanzado
+
+### Nivel avanzado
 
 Temas para competir a nivel élite:
 
-* **Algoritmos de Strings:**
-  KMP, Z-Algorithm, hashing de cadenas, tries, suffix arrays/trees.
+- **Algoritmos de Strings**: KMP, Z-Algorithm, hashing de cadenas, tries, suffix arrays/trees...
 
-* **Teoría de Números:**
-  primalidad (Criba de Eratóstenes), MCD (Euclides), aritmética modular.
+- **Teoría de Números**: primalidad (Criba de Eratóstenes), MCD (Euclides), aritmética modular...
 
-* **Geometría Computacional:**
-  operaciones con puntos, líneas, polígonos, envolvente convexa (Convex Hull).
+- **Geometría Computacional**: operaciones con puntos, líneas, polígonos, envolvente convexa (Convex Hull)...
 
-* **Flujo Máximo y Redes:**
-  algoritmos como Edmonds-Karp, Dinic.
+- **Flujo Máximo y Redes**: algoritmos como Edmonds-Karp, Dinic.
 
---- 
 
-## Hojas de Referencia y "Cheat Sheets"
+## Dossieres
 
-La clave para optimizar tu tiempo en competiciones:
+Muchas competiciones te permiten utilizar un documento que hayas preparado previamente. El dossier puede ser la clave para optimizar tu tiempo en competiciones y para escapar victorioso si no recuerdas como implementar algún algoritmo.
 
-* **Tu propio Dossier personal:**
-  guarda implementaciones probadas y optimizadas para no tener que escribir código complejo desde cero.
-  *Ejemplos:*
+Guarda implementaciones probadas y optimizadas para no tener que escribir código complejo (en el que se puede escapar un bug fácilmente) desde cero. En muchos casos tendrás que adaptarlo al problema en cuestión, pero puede facilitar mucho tu tarea.
 
-  * Segment Tree
-  * Dijkstra
-  * KMP
-  * DSU (Union-Find)
-    > *Consejo:* Construye tu código para que funcione en Python, Java y C++ con adaptaciones mínimas.
+A continuación te dejamos una checklist con contenido que recomendamos incluir:
 
-* **"Cheat Sheet" de Sintaxis por Lenguaje:**
-  Ten a mano fragmentos para:
-
-  * Entrada y salida rápida (`fast I/O` en C++ con `ios::sync_with_stdio(false)` y en Java con BufferedReader)
-  * Manipulación de estructuras de datos estándar
-  * Uso de funciones lambda, operadores ternarios, expresiones cortas
+- Implementación de estructuras de datos (cola de prioridad, segment Tree, DSU...)
+- Algoritmos de grafos (Dijkstra, Kruskal)
+- Entrada y salida rápida
 
 
 ## Visualizador de Algoritmos
