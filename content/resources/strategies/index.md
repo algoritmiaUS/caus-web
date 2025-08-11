@@ -89,6 +89,6 @@ Tu programa utiliza demasiada memoria.
 
 #### Gestión del tiempo
 
-1.  Durate los primeros 10 minutos **haz un primer escaneo**: Lee todos los enunciados y clasifícalos mentalmente por dificultad.
+1.  Durante los primeros 10 minutos **haz un primer escaneo**: Lee todos los enunciados y clasifícalos mentalmente por dificultad.
 2.  Durante la primera hora **empieza por el problema más fácil** para asegurar puntos y ganar confianza.
 3.  Durante todo el concurso: **No te atasques**. Si llevas más de 20-30 minutos en un problema sin progresar, déjalo y pasa a otro. Siempre puedes volver más tarde.
