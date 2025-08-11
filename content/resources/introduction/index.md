@@ -1,8 +1,10 @@
 ---
-title: ¿Qué es programación competitiva? Cómo empezar
+title: Introducción
 date: 2024-08-22T11:18:36+08:00
 draft: false
 language: es
+description: ¿Qué es programación competitiva? Cómo empezar
+weight: 10
 ---
 
 [⬅ Volver a Recursos](../)

@@ -1,9 +1,10 @@
 ---
-title: Herramientas y Entorno de Desarrollo
+title: Herramientas
 date: 2024-08-22T11:18:36+08:00
 draft: false
 language: es
-description: A test with @tailwindcss/typography & Prose
+description: Configuración de IDE, plantillas y script útiles
+weight: 50
 ---
 
 [⬅ Volver a Recursos](../)

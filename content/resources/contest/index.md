@@ -1,9 +1,10 @@
 ---
-title: Cómo es un Concurso de Programación Competitiva
+title: Concurso
 date: 2024-08-22T11:18:36+08:00
 draft: false
 language: es
-description: A test with @tailwindcss/typography & Prose
+description: Como es un concurso y simulación práctica
+weight: 60
 ---
 
 
