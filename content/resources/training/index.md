@@ -1,6 +1,6 @@
 ---
 title: Entrenamiento
-date: 2025-08-11T12:00:0+02:00
+date: 2025-08-11
 draft: false
 language: es
 description: Problemas del club, retos y grabaciones

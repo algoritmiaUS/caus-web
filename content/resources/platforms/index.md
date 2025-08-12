@@ -1,6 +1,6 @@
 ---
 title: Plataformas
-date: 2025-08-11T12:00:0+02:00
+date: 2025-08-11
 draft: false
 language: es
 description: Los mejores jueces en línea y sitios de concursos

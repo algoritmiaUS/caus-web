@@ -1,6 +1,6 @@
 ---
 title: Estrategias
-date: 2025-08-11T12:00:0+02:00
+date: 2025-08-11
 draft: false
 language: es
 weight: 70
@@ -39,8 +39,6 @@ Antes de cada envío, hazte estas preguntas rápidas:
 
 **Cuando recibes `Wrong Answer (WA)`:**
 Este es el error más común. Significa que tu lógica es incorrecta.
-
-*   ¡Entendido! Aquí te dejo el texto adaptado para C++, Python y Java, explicando cómo depurar con impresión en consola en cada uno:
 
 ---
 
