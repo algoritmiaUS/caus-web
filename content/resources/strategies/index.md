@@ -1,6 +1,6 @@
 ---
 title: Estrategias
-date: 2025-08-11T12:00:0+02:00
+date: 2025-08-11
 draft: false
 language: es
 weight: 70
@@ -37,7 +37,6 @@ Cuando tu código falla, la clave es no entrar en pánico. Respira hondo y sigue
 - Si los límites son ajustados, ¿he generado un caso máximo para probar el tiempo?
 - ¿Podría alguna variable (`int`, `long long`) desbordarse (overflow)?
 - ¿Estoy enviando el archivo correcto?
-
 
 ### Cómo enfrentar un `Wrong Answer (WA)`
 
