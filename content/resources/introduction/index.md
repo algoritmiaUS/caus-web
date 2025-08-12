@@ -3,7 +3,7 @@ title: Introducción
 date: 2025-08-11
 draft: false
 language: es
-description: ¿Qué es programación competitiva? Cómo empezar
+description: Qué es la programación competitiva y cómo empezar
 weight: 10
 ---
 

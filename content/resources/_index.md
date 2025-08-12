@@ -7,8 +7,5 @@ description: Competitive programming resources
 ---
 
 <p class="mb-8 font-light text-center text-gray-500 lg:mb-16 dark:text-gray-400 sm:text-xl">
-  Aquí te dejamos una lista de recursos para aprender y practicar tus habilidades de programación. Desde libros y plataformas online de problemas hasta competiciones para todos los niveles.
-</p>
-<p class="mb-8 font-light text-center text-gray-500 lg:mb-16 dark:text-gray-400 sm:text-xl">
-  ¡Explora estas opciones y comienza a desafiarte!
+  Aquí te dejamos una lista de recursos para aprender y practicar tus habilidades de programación. ¡Explora estas opciones y comienza a desafiarte!
 </p>
