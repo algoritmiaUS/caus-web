@@ -39,11 +39,11 @@ Una plantilla base te ayuda a empezar, pero un **codebook** (o dossier) es tu ar
 
 El verdadero objetivo es usar estos ejemplos como inspiración para construir **tu propio dossier**, porque entenderás perfectamente cada línea de tu código.
 
-- **[KACTL (KTH)](https://github.com/kth-competitive-programming/kactl/blob/main/kactl.pdf):** El estándar de oro. El dossier del equipo del KTH Royal Institute of Technology es posiblemente la referencia más famosa y pulida del mundo. Imprescindible para usuarios de C++.
-- **[dossier-template (U. de Sevilla)](https://github.com/algoritmiaUS/dossier-template):** Un excelente ejemplo en español de un dossier mantenido por un club de algoritmia universitario.
-- **[notebook-unlam-python (U. de la Matanza)](https://github.com/LautaroLasorsa/notebook-unlam-python/blob/main/notebook/notebook.pdf):** Un recurso fantástico y muy completo para los que compiten en Python.
-- **[codelibrary (indy256)](https://github.com/indy256/codelibrary):** Una increíble colección de algoritmos y estructuras de datos con implementaciones en múltiples lenguajes (C++, Java, Python, etc.).
-- **[Template de I/O en Java](https://github.com/jeffrey-xiao/competitive-programming/blob/master/src/codebook/Template.java):** Un ejemplo más específico centrado en optimizar la entrada/salida en Java, un buen complemento a la plantilla básica.
+- **[KACTL (KTH)](https://github.com/kth-competitive-programming/kactl/blob/main/kactl.pdf)**: El estándar de oro. El dossier del equipo del KTH Royal Institute of Technology es posiblemente la referencia más famosa y pulida del mundo. Imprescindible para usuarios de C++.
+- **[dossier-template (U. de Sevilla)](https://github.com/algoritmiaUS/dossier-template)**: Un excelente ejemplo en español de un dossier mantenido por un club de algoritmia universitario.
+- **[notebook-unlam-python (U. de la Matanza)](https://github.com/LautaroLasorsa/notebook-unlam-python/blob/main/notebook/notebook.pdf)**: Un recurso fantástico y muy completo para los que compiten en Python.
+- **[codelibrary (indy256)](https://github.com/indy256/codelibrary)**: Una increíble colección de algoritmos y estructuras de datos con implementaciones en múltiples lenguajes (C++, Java, Python, etc.).
+- **[Template de I/O en Java](https://github.com/jeffrey-xiao/competitive-programming/blob/master/src/codebook/Template.java)**: Un ejemplo más específico centrado en optimizar la entrada/salida en Java, un buen complemento a la plantilla básica.
 
 
 ## Compilación y Testeo
