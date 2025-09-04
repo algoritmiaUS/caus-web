@@ -28,7 +28,7 @@ No hay un "mejor" editor, sino el que mejor se adapta a ti. Aquí tienes las opc
   - PyCharm para Python, IntelliJ IDEA para Java, CLion para C++.
   - Potentes, con autocompletado y depuradores visuales.
 
-- **Editores Ligeros (Sublime Text, Geany, Vim/Neovim):** son increíblemente rápidos y consumen muy pocos recursos. Son para aquellos que prefieren tener un control total sobre su entorno y se sienten cómodos trabajando principalmente desde la terminal.
+- **Editores Ligeros (Sublime Text, Geany, Vim/Neovim)**: son increíblemente rápidos y consumen muy pocos recursos. Son para aquellos que prefieren tener un control total sobre su entorno y se sienten cómodos trabajando principalmente desde la terminal.
 
 - **[IDE de USACO Guide](https://ide.usaco.guide/)**: Un editor de código online simple y ya preparado para el formato de entrada y salida estándar típico de la programación competitiva. No se puede utilizar en las competiciones porque requiere acceso a internet, pero es perfecto para probar algo rápidamente.
 
