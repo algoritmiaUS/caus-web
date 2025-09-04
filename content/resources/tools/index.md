@@ -19,8 +19,8 @@ Un flujo de trabajo rápido y eficiente te permite concentrarte en lo que de ver
 No hay un "mejor" editor, sino el que mejor se adapta a ti. Aquí tienes las opciones más populares en la comunidad:
 
 - **Visual Studio Code (La opción versátil y recomendada)**
-  - **Por qué:** Es ligero, rápido, gratuito y extremadamente personalizable. Su principal ventaja son las extensiones.
-  - **Configuración Rápida:**
+  - **Por qué**: Es ligero, rápido, gratuito y extremadamente personalizable. Su principal ventaja son las extensiones.
+  - **Configuración Rápida**:
     1. Instala VS Code desde su [web oficial](https://code.visualstudio.com/).
     2. Instala la extensión **"C/C++, Python o Java"** para tener coloreado de sintaxis y autocompletado.
 
