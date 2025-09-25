@@ -13,7 +13,7 @@ tags: Eventos
 ---
 
 <p class="mb-8 font-light text-center text-gray-500 lg:mb-16 dark:text-gray-400 sm:text-xl">
-  Patrocinador principal: <a href="https://www.nextdigital.es/">NEXT DIGITAL</a>
+  Patrocinador principal: <a href="https://www.informatica.us.es/">Escuela Técnica Superior de Ingeniería Informática</a>
 </p>
 
 ¡La primera competición interna de la temporada 2025-26 ya está aquí! 🎉
@@ -39,8 +39,8 @@ El **CompliCAUS** es nuestra propia competición de programación, abierta a tod
   <p>Patrocinado por:</p>
 
   <div style="display: flex; justify-content: center; flex-direction: column">
-    <a href="https://www.nextdigital.es/">
-        <img src="logo_next_digital.png" alt="Descripción de la imagen" style="width: 25rem; max-width: 80%; margin: auto;">
+    <a href="https://www.informatica.us.es/">
+        <img src="logo-ETSII.png" alt="Descripción de la imagen" style="width: 25rem; max-width: 80%; margin: auto;">
     </a>
     <p style="margin: auto">Patrocinador Platino</p>
   </div>
