@@ -190,7 +190,11 @@ menu:
       pre: /images/logos/feedback.svg
       name: Feedback (Sesiones)
       url: https://forms.gle/bP9Jc81q4Hes1ZoN6
-      weight: 70  
+      weight: 70
+    - identifier: archivo-sesiones
+      name: Archivo de Sesiones
+      url: https://drive.google.com/drive/folders/1uCZkV2LYut2omt07VdXgtjm6L0qgjgZR?usp=drive_link
+      weight: 80  
     
     
   # dropdown:
