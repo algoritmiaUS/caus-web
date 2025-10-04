@@ -18,8 +18,8 @@ Esta es nuestra sección. Aquí encontrarás todo el material que preparamos en 
 
 Si te perdiste una sesión de formación o simplemente quieres repasar un tema, este es tu sitio.
 
-*   **📎 Archivo de Sesiones del Club (CAUS 23/24 y 24/25):**
-    *   **[Accede aquí a la carpeta de Google Drive](https://drive.google.com/drive/folders/1HRhaTf-Dtha1T21ZTzjj7y-6WswkB9OP?usp=sharing)**
+*   **📎 Archivo de Sesiones del Club (últimos tres cursos):**
+    *   **[Accede aquí a la carpeta de Google Drive](https://drive.google.com/drive/folders/1uCZkV2LYut2omt07VdXgtjm6L0qgjgZR?usp=drive_link)**
     *   En esta carpeta encontrarás todo el material (diapositivas, código de ejemplo y soluciones) de las sesiones de formación que realizamos. Es el recurso perfecto para ponerte al día.
 
 #### Listas de problemas
