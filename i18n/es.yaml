@@ -1,0 +1,41 @@
+error.404_title:
+  other: "Ooooops, falta algo."
+error.404_message:
+  other: "Lo sentimos, no podemos encontrar esa página."
+error.404_button:
+  other: "Volver a la página principal"
+
+hero.moto:
+  other: "Club de Algoritmia de la Universidad de Sevilla (CAUS)"
+hero.description:
+  other: "Grupo fundado por estudiantes de la US para aprender y mejorar habilidades en programación mediante la colaboración y la participación en competiciones."
+
+hero.discord:
+  other: "Unete a Discord!"
+
+mission.heading:
+  other: "Nuestra misión"
+
+mission.description:
+  other: "Nuestro objetivo es crear una comunidad colaborativa e inclusiva donde los miembros puedan aprender, perfeccionar sus habilidades en programación y enfrentar desafíos algorítmicos. A través de la resolución de problemas y competiciones, promovemos el crecimiento técnico y profesional, preparando a los estudiantes para los retos académicos, laborales y competiciones, mientras compartimos libremente el conocimiento para que todos, sin importar su nivel, puedan aprender y contribuir"
+
+challenge.heading:
+  other: "Desafíos, comunidad y diversión en el CAUS"
+
+challenge.description:
+  other: "En el Club de Algoritmia de la Universidad de Sevilla (CAUS), no todo es programación competitiva. Además de nuestras charlas y competiciones, organizamos actividades sociales como salidas al rocódromo y comidas trimestrales. Creemos que el equilibrio entre el aprendizaje técnico y la diversión es clave para el crecimiento personal y profesional. ¡Únete a nosotros y disfruta de un ambiente donde el código y la comunidad van de la mano!"
+
+sponsors.heading:
+  other: "Nuestros socios y patrocinadores"
+
+sponsors.description:
+  other: "El CAUS cuenta con el apoyo de socios y patrocinadores dedicados, quienes hacen posible que sigamos promoviendo el aprendizaje y el desarrollo en algoritmia. Gracias a su colaboración, trabajamos juntos para construir una comunidad más conectada y ofrecer oportunidades valiosas para el crecimiento y la innovación."
+
+sponsors.cta:
+  other: "Conozca a nuestros socios y patrocinadores"
+
+events.heading: 
+  other: "Últimas noticias"
+
+events.description:
+  other : "Nuestros eventos recientes, incluidos encuentros, talleres y más, reflejan lo que está sucediendo en nuestra comunidad."

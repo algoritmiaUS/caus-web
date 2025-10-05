@@ -1,0 +1,48 @@
+params:
+  title_short: CAUS
+  author: Club Algoritmia de la Universidad de Sevilla
+  authorimage: ../assets/images/global/author-CAUS.webp  # caus-web/assets/images/global/author-CAUS.webp
+  heropic: /images/pages/logo_CAUS.png
+  og_image: /images/logo-CAUS.png # caus-web/static/images/logo-CAUS.png
+  disable_theme_toggle: false
+  disable_stay_uptodate: false
+
+  p1:
+    image: "images/pages/CompliCAUS-2-Foto-grupal.jpg" 
+  p2:
+    image: "images/pages/rocodromo.jpg"
+  p3:
+    links:
+        - url: "/community-partners"
+    logos:
+      - identifier: a
+        image: "images/global/Logo_ND.png" 
+        alt: "a"
+      #- identifier: b
+      # image: "images/global/logo-ETSII-Negro.svg"
+      # alt: "b"
+      # - identifier: c
+      # - identifier: d
+      # - identifier: e
+      # - identifier: f
+
+  social_media:
+    github:
+      enabled: true
+      url: 'https://github.com/algoritmiaUS'
+    linkedin:
+      enabled: true
+      url: 'https://linkedin.com/company/club-de-algoritmia-universidad-de-sevilla'
+    discord:
+      enabled: true
+      url: 'https://discord.gg/gEbbJrzEYZ'
+    instagram:
+      enabled: true
+      url: 'https://instagram.com/clubalgoritmiaus'
+    twitter:
+      enabled: true
+      url: 'https://x.com/algoritmiaus'
+    youtube:
+      enabled: true
+      url: 'https://www.youtube.com/@ClubAlgoritmiaUS'
+    
