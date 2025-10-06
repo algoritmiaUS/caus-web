@@ -41,4 +41,17 @@ sponsors.description:
 #   other: "Our recent events — including meetups, workshops, and more — showcase what’s happening within our community."
 
 
+######################################
+# Team Section
+######################################
 
+administrators:
+  other: "Administrators"
+administrators_desc:
+  other: "The team behind the organization of all our events!"
+old_admins:
+  other: "Former Administrators"
+old_admins_desc:
+  other: "We’ll always love you! ❤️"
+members:
+  other: "Members"

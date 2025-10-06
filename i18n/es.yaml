@@ -11,7 +11,7 @@ hero.description:
   other: "Grupo fundado por estudiantes de la US para aprender y mejorar habilidades en programación mediante la colaboración y la participación en competiciones."
 
 hero.discord:
-  other: "Unete a Discord!"
+  other: "Únete a Discord!"
 
 mission.heading:
   other: "Nuestra misión"
@@ -39,3 +39,19 @@ events.heading:
 
 events.description:
   other : "Nuestros eventos recientes, incluidos encuentros, talleres y más, reflejan lo que está sucediendo en nuestra comunidad."
+
+
+######################################
+# Team Section
+######################################
+
+administrators:
+  other: "Administradores"
+administrators_desc:
+  other: "El equipo detrás de la organización de todos los eventos!"
+old_admins:
+  other: "Antiguas Administradoras"
+old_admins_desc:
+  other: "¡Os querremos siempre! ❤️"
+members:
+  other: "Miembros"

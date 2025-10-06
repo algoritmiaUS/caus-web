@@ -37,7 +37,7 @@ Everyone participates to learn and support each other, so don't be afraid if you
 
 We organise sessions every Friday on topics related to competitive programming. This year, we are also introducing a new series of talks with speakers from academia, industry, and alumni, who will cover a wide range of subjects. Attendance at the talks is open to everyone, so you don't need to be a member of the CAUS or a student at the US.
 
-  - Check the upcoming talks [in the news section](https://www.google.com/search?q=/news).
+  - Check the upcoming talks [in the news section](/news/) (available only in Spanish).
   - [Give your own talk\!](https://forms.gle/yY9WpbA6Lof41ufa7) If you are a professional passionate about technology and eager to share your knowledge, we would be delighted to have you. If you are a student, this is a great opportunity to delve deeper into a topic that interests you and boost your CV 😉
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
@@ -47,7 +47,7 @@ We organise sessions every Friday on topics related to competitive programming. 
 
 ## Programming Competitions
 
-We participate in annual events such as [Advent of Code](https://adventofcode.com/) and the [Ada Byron University Programming Contest](http://ada-byron.es/). Additionally, we organise [our own programming competitions](https://www.google.com/search?q=/news/2024-10-27-complicaus-2/) with enticing prizes, to keep ourselves constantly practising and learning.
+We participate in annual events such as [Advent of Code](https://adventofcode.com/) and the [Ada Byron University Programming Contest](http://ada-byron.es/). Additionally, we organise [our own programming competitions](/news/2024-10-27-complicaus-2/) (Spanish only), with enticing prizes, to keep ourselves constantly practising and learning.
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
   <img src="/images/about/competiciones1.JPG" alt="Competición 1" style="width: 100%; max-width: 600px; flex: 1;border-radius: 12px;">
