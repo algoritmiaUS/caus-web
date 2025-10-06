@@ -37,7 +37,7 @@ Cómo anunciamos en la sesión de presentación, este curso vamos a organizar ch
         <span class="material-icons dark:text-gray-100">location_on</span>
         <span class="text-sm md:text-base">Salón de grados de la ETSII</span>
       </div>
-      <p class="mt-4 text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Ponente:</strong> Pedro almargo (Profesor de la ETSII)</p>
+      <p class="mt-4 text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Ponente:</strong> Pedro Almagro (Profesor de la ETSII)</p>
       <p class="text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Descripción:</strong> Charla introductoria en la que se explicará cómo los sistemas complejos pueden representarse y analizarse mediante geometría hiperbólica. Se introducirán los conceptos de sistemas complejos, redes complejas, así como sus características fundamentales, mostrando cómo su estructura oculta puede entenderse en espacios hiperbólicos de baja dimensión. La sesión debatirá aplicaciones en eficiencia algorítmica, modelado de datos y visualización de grandes grafos.</p>
       <p class="text-sm md:text-base text-gray-500 dark:text-gray-400">Ponencia en español</p>
     </div>
