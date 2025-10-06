@@ -3,7 +3,7 @@ title: "About Us"
 date: 2024-08-22T11:18:36+08:00
 toc : true
 draft: false
-language: es
+language: en
 description: About Us
 # featured_image: ../assets/images/featured/featured-img-placeholder.png
 ---
