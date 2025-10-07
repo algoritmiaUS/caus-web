@@ -1,21 +1,21 @@
 administrators:
 
   - name: "Kenny Jesús Flores Huamán"
-    role: "Cofundador · Webmaster · Problem Solver"
+    role: "Co-founder · Webmaster · Problem Solver"
     image: "/images/admins/kenny.png"
     website: https://kennyfh.github.io
     linkedin: kennyfh
     github: kennyfh
 
   - name: "Pablo Dávila Herrero"
-    role: "Cofundador · Event Manager"
+    role: "Co-founder · Event Manager"
     image: "/images/admins/pablo-davila.jpeg"
     website: https://pablodavila.eu
     linkedin: pablo-davila-herrero
     github: Pablo-Davila
 
   - name: "Pablo Reina Jiménez"
-    role: "Cofundador · Problem Solver"
+    role: "Co-founder · Problem Solver"
     image: "/images/admins/pablo-reina.jpeg"
     linkedin: pablo-reina-jiménez-2b1869257
     github: preinaj

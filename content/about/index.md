@@ -32,8 +32,8 @@ Todos participamos para aprender y apoyarnos unos a otros, así que no tengas mi
 ![alt text](caus-sesiones-2.jpg) -->
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-  <img src="caus-sesiones-1.jpg" alt="Sesión 1" style="width: 100%; max-width: 600px; flex: 1; border-radius: 12px;">
-  <img src="caus-sesiones-2.jpg" alt="Sesión 2" style="width: 100%; max-width: 600px; flex: 1; border-radius: 12px;">
+  <img src="/images/about/caus-sesiones-1.jpg" alt="Sesión 1" style="width: 100%; max-width: 600px; flex: 1; border-radius: 12px;">
+  <img src="/images/about/caus-sesiones-2.jpg" alt="Sesión 2" style="width: 100%; max-width: 600px; flex: 1; border-radius: 12px;">
 </div>
 
 
@@ -48,8 +48,8 @@ Organizamos sesiones cada viernes sobre temas relacionados con la programación 
 ![alt text](charla2.jpg) -->
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-  <img src="charla1.jpg" alt="Charla 1" style="width: 100%; max-width: 600px; flex: 1;border-radius: 12px;">
-  <img src="charla2.jpg" alt="Charla 2" style="width: 100%; max-width: 600px; flex: 1;border-radius: 12px;">
+  <img src="/images/about/charla1.jpg" alt="Charla 1" style="width: 100%; max-width: 600px; flex: 1;border-radius: 12px;">
+  <img src="/images/about/charla2.jpg" alt="Charla 2" style="width: 100%; max-width: 600px; flex: 1;border-radius: 12px;">
 </div>
 
 ## Competiciones de Programación
@@ -60,8 +60,8 @@ Participamos en eventos anuales como [Advent of Code](https://adventofcode.com/)
 <!-- ![alt text](competiciones1.JPG)
 ![alt text](competiciones2.jpg) -->
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-  <img src="competiciones1.JPG" alt="Competición 1" style="width: 100%; max-width: 600px; flex: 1;border-radius: 12px;">
-  <img src="competiciones2.jpg" alt="Competición 2" style="width: 100%; max-width: 600px; flex: 1;border-radius: 12px;">
+  <img src="/images/about/competiciones1.JPG" alt="Competición 1" style="width: 100%; max-width: 600px; flex: 1;border-radius: 12px;">
+  <img src="/images/about/competiciones2.jpg" alt="Competición 2" style="width: 100%; max-width: 600px; flex: 1;border-radius: 12px;">
 </div>
 
 ---
@@ -81,8 +81,8 @@ Cada cuatrimestre, organizamos una comida especial para celebrar nuestros logros
 
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-  <img src="comida-caus.jpg" alt="Comida CAUS 1" style="width: 100%; max-width: 600px;border-radius: 12px;">
-  <img src="comida-caus2.jpg" alt="Comida CAUS 2" style="width: 100%; max-width: 600px;border-radius: 12px;">
+  <img src="/images/about/comida-caus.jpg" alt="Comida CAUS 1" style="width: 100%; max-width: 600px;border-radius: 12px;">
+  <img src="/images/about/comida-caus2.jpg" alt="Comida CAUS 2" style="width: 100%; max-width: 600px;border-radius: 12px;">
 </div>
 
 ## Rocódromo
@@ -91,7 +91,7 @@ Cada cuatrimestre, organizamos una comida especial para celebrar nuestros logros
 
 <!-- ![alt text](rocodromo.png) -->
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-  <img src="rocodromo.png" alt="Rocódromo" style="width: 100%; max-width: 600px;border-radius: 12px;">
+  <img src="/images/about/rocodromo.png" alt="Rocódromo" style="width: 100%; max-width: 600px;border-radius: 12px;">
 </div>
 
 # Nuestro equipo

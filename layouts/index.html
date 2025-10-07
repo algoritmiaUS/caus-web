@@ -10,7 +10,10 @@
 
     {{ partial "home/sponsors.html" .}}
 
-    {{ partial "home/events.html" .}}
+    <!-- {{ partial "home/events.html" .}} -->
+    {{ if eq .Language.Lang "es" }}
+        {{ partial "home/events.html" .}}
+    {{ end }}
 
 
 </main>

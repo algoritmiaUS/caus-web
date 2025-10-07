@@ -20,10 +20,6 @@ description: Contact page
               <label for="email" class="block mb-2 font-medium text-gray-900 text-md dark:text-gray-300"><strong>Tu correo electrónico:</strong></label>
               <input type="email" name="email" class="shadow-xs bg-gray-50 border border-gray-300 text-gray-900 text-md rounded-lg focus:ring-indigo-500 focus:border-indigo-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-indigo-500 dark:focus:border-indigo-500 dark:shadow-sm-light" placeholder="nombre@ejemplo.com" required>
           </div>
-          <!-- <div class="my-4">
-              <label for="subject" class="block mb-2 font-medium text-gray-900 text-md dark:text-gray-300"><strong>Asunto:</strong></label>
-              <input type="text" name="subject" class="block w-full p-3 text-gray-900 border border-gray-300 rounded-lg shadow-xs text-md bg-gray-50 focus:ring-indigo-500 focus:border-indigo-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-indigo-500 dark:focus:border-indigo-500 dark:shadow-sm-light" placeholder="Háganos saber cómo podemos ayudarte" required>
-          </div> -->
           <div class="my-4 sm:col-span-2">
               <label for="message" class="block mb-2 font-medium text-gray-900 text-md dark:text-gray-400"><strong>Tu mensaje:</strong></label>
               <textarea id="message" name="message" rows="6" class="block p-2.5 w-full text-md text-gray-900 bg-gray-50 rounded-lg shadow-xs border border-gray-300 focus:ring-indigo-500 focus:border-indigo-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-indigo-500 dark:focus:border-indigo-500" placeholder="Deja un comentario..."></textarea>
