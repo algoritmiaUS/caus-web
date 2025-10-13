@@ -12,7 +12,7 @@ categories: Eventos
 tags: Eventos
 ---
 
-El pasado viernes 10 de octubre tuvo lugar la cuarta edición de CompliCAUS, una competición de programación organizada por el Club de Algoritmia de la Universidad de Sevilla. Con el respaldo de la Escuela Técnica Superior de Ingeniería Informática (ETSII), el evento atrajo a estudiantes de diversas facultades, niveles académicos y centros educativos, incluyendo bachillerato y formación profesional, quienes se enfrentaron a un exigente reto de algoritmia de dos horas.
+El pasado viernes 10 de octubre tuvo lugar la cuarta edición de CompliCAUS, una competición de programación organizada por el Club de Algoritmia de la Universidad de Sevilla. Con el respaldo de la Escuela Técnica Superior de Ingeniería Informática (ETSII), el evento atrajo a estudiantes de diversas facultades, niveles académicos y centros educativos, incluyendo bachillerato y formación profesional, quienes se enfrentaron a un exigente reto de algoritmia de tres horas.
 
 # Desarrollo de la competición
 
@@ -25,24 +25,24 @@ Las diapositivas explicativas de los problemas del CompliCAUS IV están disponib
 
 # Participación
 
-En esta edición participaron 22 estudiantes de instituciones como la Universidad de Sevilla (diversos grados de Ingeniería Informática, Matemáticas, Física, entre otros), la Universidad Politécnica de Cataluña y alumnos de bachillerato (Colegio Santa Ana, ).
+En esta edición participaron 40 estudiantes de instituciones como la Universidad de Sevilla (diversos grados de Ingeniería Informática, Matemáticas, Física, entre otros), la Universidad Politécnica de Cataluña y alumnos de bachillerato.
 
-![alt text](participantes1.jpg)
+![Foto grupal de los participantes del CompliCAUS IV](participantes1.jpg)
 
 
 # Resolución de problemas
 
-Al finalizar la competición, nos dirigimos al Salón de Grados de la ETSII, donde los responsables del CAUS, Pablo Dávila, Pablo Reina y Kenny Flores, expusieron las estrategias utilizadas para resolver los problemas propuestos. Durante esta sesión, compartieron valiosos consejos y realizaron un análisis detallado de las soluciones.  
+Al finalizar la competición, nos dirigimos al Salón de Grados de la ETSII, donde los responsables del CAUS, Pablo Dávila, Pablo Reina y Kenny Flores, expusieron las estrategias utilizadas para resolver los problemas propuestos. Durante esta sesión, compartieron valiosos consejos y realizaron un análisis detallado de las soluciones.
 
 ![Resolución problemas](resolucion-problemas.jpg)
 
-# Entrega de premios 
+# Entrega de premios
 
 La competición fue reñida desde el inicio, con constantes cambios en los primeros puestos durante la primera hora. Finalmente, estos fueron los ganadores:
 
 
 {{< rankings "complicaus4" >}}
 
-# Agradecimientos 
+# Agradecimientos
 
 Agradecemos a la Escuela Técnica Superior de Ingeniería Informática por su patrocinio y apoyo, así como a María Lourdes Miró, Subdirectora de Estudiantes, Innovación y Responsabilidad Social, cuya colaboración ha sido clave para hacer posible este evento.
