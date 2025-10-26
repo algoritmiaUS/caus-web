@@ -12,6 +12,13 @@ En nuestro primer año de actividad, hemos recibido diversos premios y reconocim
 
 # 2025
 
+## Ganadores CompliCAUS IV
+
+El 10 de Octubre de 2025 se celebró la cuarta edición del CompliCAUS IV, una competencia organizada por el Club de Algoritmia de la US. Al igual que en ediciones anteriores, el evento reunió a estudiantes de diversas instituciones, incluyendo a alumnos de bachillerato. Los siguientes equipos resultaron ganadores:
+
+
+{{< rankings "complicaus4" >}}
+
 ## II Edición Regional de Andalucía del Concurso Ada Byron
 
 El viernes 25 de abril tuvo lugar la segunda edición regional del concurso Ada Byron, un certamen de programación cuyo objetivo es incentivar la participación en el prestigioso concurso internacional ICPC. En esta edición, celebrada simultáneamente en varias sedes de universidades andaluzas, tres equipos del Club de Algoritmia lograron clasificarse para la gran final del Ada Byron, que se celebrará en Madrid. Estos equipos fueron:
