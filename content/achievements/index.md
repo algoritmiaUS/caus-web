@@ -14,8 +14,7 @@ En nuestro primer año de actividad, hemos recibido diversos premios y reconocim
 
 ## Ganadores CompliCAUS IV
 
-El 10 de Octubre de 2025 se celebró la cuarta edición del CompliCAUS IV, una competencia organizada por el Club de Algoritmia de la US. Al igual que en ediciones anteriores, el evento reunió a estudiantes de diversas instituciones, incluyendo a alumnos de bachillerato. Los siguientes equipos resultaron ganadores:
-
+El 10 de Octubre de 2025 se celebró la cuarta edición del CompliCAUS IV, una competencia organizada por el Club de Algoritmia de la US. Al igual que en ediciones anteriores, el evento reunió a estudiantes de diversas instituciones, incluyendo a alumnos de bachillerato. Los siguientes participantes resultaron ganadores:
 
 {{< rankings "complicaus4" >}}
 
@@ -46,7 +45,7 @@ El viernes 25 de abril tuvo lugar la segunda edición regional del concurso Ada 
 
 El 7 de febrero de 2025 se celebró la tercera edición del CompliCAUS III, una competencia organizada por el Club de Algoritmia de la US. Al igual que en ediciones anteriores, el evento reunió a estudiantes de diversas instituciones, incluyendo a alumnos de bachillerato.
 
-La principal novedad de esta edición fue el patrocinio de la empresa NEXT DIGITAL, que hizo posible la entrega de premios a los equipos ganadores. A continuación, se presentan los equipos que obtuvieron los primeros lugares:
+La principal novedad de esta edición fue el patrocinio de la empresa NEXT DIGITAL, que hizo posible la entrega de premios a los equipos ganadores. A continuación, se presentan los participantes que obtuvieron los primeros lugares:
 
 {{< rankings "complicaus3" >}}
 
@@ -67,7 +66,7 @@ En reconocimiento al esfuerzo y la colaboración de todos los miembros, el Club 
 
 ## Ganadores CompliCAUS II
 
-El 18 de octubre de 2024 se celebró la segunda edición de CompliCAUS II, una competencia de programación organizada por el Club de Algoritmia de la Universidad de Sevilla. Este evento reunió a estudiantes de diversas instituciones, incluyendo bachillerato y FP. Los siguientes equipos resultaron ganadores:
+El 18 de octubre de 2024 se celebró la segunda edición de CompliCAUS II, una competencia de programación organizada por el Club de Algoritmia de la Universidad de Sevilla. Este evento reunió a estudiantes de diversas instituciones, incluyendo bachillerato y FP. Los siguientes participantes resultaron ganadores:
 
 {{< rankings "complicaus2" >}}
 
@@ -95,8 +94,6 @@ Todos ellos estudiantes del doble Grado en Ingeniería Informática – Tecnolog
 
 ## Ganadores CompliCAUS I
 
-El 23 de febrero de 2024 se celebró la primera edición de CompliCAUS, una competencia de algoritmia organizada por el Club de Algoritmia de la Universidad de Sevilla. Este evento también acogió a estudiantes de diversas instituciones, incluyendo bachillerato. Los siguientes equipos fueron los ganadores:
-
-
+El 23 de febrero de 2024 se celebró la primera edición de CompliCAUS, una competencia de algoritmia organizada por el Club de Algoritmia de la Universidad de Sevilla. Este evento también acogió a estudiantes de diversas instituciones, incluyendo bachillerato. Los siguientes participantes resultaron ganadores:
 
 {{< rankings "complicaus1" >}}
