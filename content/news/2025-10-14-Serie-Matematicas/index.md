@@ -43,7 +43,7 @@ tags: Eventos
     </div>
   </div>
   <div class="border border-gray-200 rounded-lg p-4 md:p-6 bg-white shadow-xs dark:bg-gray-800 dark:border-gray-700">
-    <h2 class="text-lg font-semibold text-gray-800 dark:text-white">Tornados, olas del mar y gotas: ¡mates a las carga!</h2>
+    <h2 class="text-lg font-semibold text-gray-800 dark:text-white">Tornados, olas del mar y gotas: ¡mates a la carga!</h2>
     <div class="mt-4 text-gray-600 dark:text-gray-300 space-y-2">
       <div class="flex items-center space-x-2">
         <span class="material-icons dark:text-gray-100">calendar_today</span>
