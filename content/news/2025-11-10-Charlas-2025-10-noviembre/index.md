@@ -12,7 +12,7 @@ categories: Eventos
 tags: Eventos
 ---
 
-Cómo anunciamos en la sesión de presentación, este curso estamos organizando charlas y talleres relacionados con la informática por parte de profesionales externos, profesores e incluso alumnos (tú mismo!).
+Como anunciamos en la sesión de presentación, este curso estamos organizando charlas y talleres relacionados con la informática por parte de profesionales externos, profesores e incluso alumnos (tú mismo!).
 
 - [En este formulario podéis indicar el horario y la temática que mejor os viene para estas actividades](https://forms.gle/UFRSKaJdg7NxaRg69)
 - [En este otro podéis apuntaros para dar vuestra propia charla](https://forms.gle/LpYS4ih8dFgfuX7N7)
