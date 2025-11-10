@@ -17,59 +17,31 @@ Cómo anunciamos en la sesión de presentación, este curso estamos organizando 
 - [En este formulario podéis indicar el horario y la temática que mejor os viene para estas actividades](https://forms.gle/aMjuhZWht8kFMocd9)
 - [En este otro podéis apuntaros para dar vuestra propia charla](https://forms.gle/yY9WpbA6Lof41ufa7)
 
-<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-
-
 # Charlas de febrero 2025
 
 <div class="space-y-6 dark:bg-gray-900 dark:text-gray-100">
-  <div class="border border-gray-200 rounded-lg p-4 md:p-6 bg-white shadow-xs dark:bg-gray-800 dark:border-gray-700">
-    <h2 class="text-lg font-semibold text-gray-800 dark:text-white">Docker desde cero</h2>
-    <div class="mt-4 text-gray-600 dark:text-gray-300 space-y-2">
-      <div class="flex items-center space-x-2">
-        <span class="material-icons dark:text-gray-100">calendar_today</span>
-        <span class="text-sm md:text-base">Lunes, 17 de febrero de 2025</span>
-      </div>
-      <div class="flex items-center space-x-2">
-        <span class="material-icons dark:text-gray-100">access_time</span>
-        <span class="text-sm md:text-base">16:30-17:30</span>
-      </div>
-      <div class="flex items-center space-x-2">
-        <span class="material-icons dark:text-gray-100">location_on</span>
-        <span class="text-sm md:text-base">Sala multiusos de la ETSII + online</span>
-      </div>
-      <div class="flex items-center space-x-2">
-        <a href="https://meet.google.com/chr-pxjf-dkj">Enlace a la retransmisión</a>
-      </div>
-      <p class="mt-4 text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Ponente:</strong> Pablo Dávila Herrero (Data Scientist @ Plain Concepts)</p>
-      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Descripción:</strong> Docker es una herramienta fundamental para desarrolladores y científicos de datos, al permitir la creación, distribución y ejecución de aplicaciones en entornos aislados y reproducibles. Esto facilita la gestión de dependencias y el despliegue de proyectos.<br>
-      En esta ponencia-taller, Pablo Dávila (admin del CAUS) te enseñará cómo utilizar Docker para desarrollar y desplegar tú codigo.</p>
-      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400">Ponencia en español</p>
-    </div>
-  </div>
 
-  <div class="border border-gray-200 rounded-lg p-4 md:p-6 bg-white shadow-xs dark:bg-gray-800 dark:border-gray-700">
-    <h2 class="text-lg font-semibold text-gray-800 dark:text-white">SOC: Tu laboratorio de ciberseguridad en Docker</h2>
-    <div class="mt-4 text-gray-600 dark:text-gray-300 space-y-2">
-      <div class="flex items-center space-x-2">
-        <span class="material-icons dark:text-gray-100">calendar_today</span>
-        <span class="text-sm md:text-base">Lunes, 24 de febrero de 2025</span>
-      </div>
-      <div class="flex items-center space-x-2">
-        <span class="material-icons dark:text-gray-100">access_time</span>
-        <span class="text-sm md:text-base">16:30-17:30</span>
-      </div>
-      <div class="flex items-center space-x-2">
-        <span class="material-icons dark:text-gray-100">location_on</span>
-        <span class="text-sm md:text-base">Sala multiusos de la ETSII + online</span>
-      </div>
-      <div class="flex items-center space-x-2">
-        <span class="text-sm md:text-base"><a href="https://meet.google.com/mad-seuo-rad">Enlace a la retransmisión</a></span>
-      </div>
-      <p class="mt-4 text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Ponentes:</strong> Roberto Lama Rodríguez (Security Delivery Analyst @ Accenture)</p>
-      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Descripción:</strong> Roberto es Ingeniero en Telecomunicaciones y Analista de ciberseguridad. En este taller exploraremos la arquitectura de un entorno de seguridad basado en Docker, donde desplegaremos y configuraremos herramientas clave como un IDS, un SIEM y un SIRP. A través de este laboratorio práctico, veremos cómo estas tecnologías trabajan juntas para la detección, análisis y respuesta ante incidentes de seguridad.</p>
-      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400">Ponencia en español</p>
-    </div>
-  </div>
+{{< charla 
+    title="Docker desde cero"
+    date="Lunes, 17 de febrero de 2025"
+    time="16:30-17:30"
+    location="Sala multiusos de la ETSII + online"
+    stream_url="https://meet.google.com/chr-pxjf-dkj"
+    speaker="Pablo Dávila Herrero (Data Scientist @ Plain Concepts)"
+>}}
+Docker es una herramienta fundamental para desarrolladores y científicos de datos, al permitir la creación, distribución y ejecución de aplicaciones en entornos aislados y reproducibles. Esto facilita la gestión de dependencias y el despliegue de proyectos.
+En esta ponencia-taller, Pablo Dávila (admin del CAUS) te enseñará cómo utilizar Docker para desarrollar y desplegar tú codigo.
+{{< /charla >}}
+
+{{< charla 
+    title="SOC: Tu laboratorio de ciberseguridad en Docker"
+    date="Lunes, 24 de febrero de 2025"
+    time="16:30-17:30"
+    location="Sala multiusos de la ETSII + online"
+    stream_url="https://meet.google.com/mad-seuo-rad"
+    speaker="Roberto Lama Rodríguez (Security Delivery Analyst @ Accenture)"
+>}}
+Roberto es Ingeniero en Telecomunicaciones y Analista de ciberseguridad. En este taller exploraremos la arquitectura de un entorno de seguridad basado en Docker, donde desplegaremos y configuraremos herramientas clave como un IDS, un SIEM y un SIRP. A través de este laboratorio práctico, veremos cómo estas tecnologías trabajan juntas para la detección, análisis y respuesta ante incidentes de seguridad.
+{{< /charla >}}
 
 </div>
