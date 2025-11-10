@@ -17,60 +17,30 @@ Cómo anunciamos en la sesión de presentación, este curso estamos organizando 
 - [En este formulario podéis indicar el horario y la temática que mejor os viene para estas actividades](https://forms.gle/aMjuhZWht8kFMocd9)
 - [En este otro podéis apuntaros para dar vuestra propia charla](https://forms.gle/yY9WpbA6Lof41ufa7)
 
-<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-
-
 # Charlas de marzo 2025
 
 <div class="space-y-6 dark:bg-gray-900 dark:text-gray-100">
-  <div class="border border-gray-200 rounded-lg p-4 md:p-6 bg-white shadow-xs dark:bg-gray-800 dark:border-gray-700">
-    <h2 class="text-lg font-semibold text-gray-800 dark:text-white">Son las matemáticas el lenguaje de la naturaleza?</h2>
-    <div class="mt-4 text-gray-600 dark:text-gray-300 space-y-2">
-      <div class="flex items-center space-x-2">
-        <span class="material-icons dark:text-gray-100">calendar_today</span>
-        <span class="text-sm md:text-base">Jueves, 6 de marzo de 2025</span>
-      </div>
-      <div class="flex items-center space-x-2">
-        <span class="material-icons dark:text-gray-100">access_time</span>
-        <span class="text-sm md:text-base">17:30-19:00</span>
-      </div>
-      <div class="flex items-center space-x-2">
-        <span class="material-icons dark:text-gray-100">location_on</span>
-        <span class="text-sm md:text-base">Sala multiusos de la ETSII + online</span>
-      </div>
-      <div class="flex items-center space-x-2">
-        <a href="https://meet.google.com/kqj-awer-hdw">Enlace a la retransmisión</a>
-      </div>
-      <p class="mt-4 text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Ponente:</strong> Renato Álvarez-Nodarse (Catedrático de la Facultad de Matemáticas de la US)</p>
-      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Descripción:</strong> En esta charla, de carácter divulgativo, mostraremos no solo que las matemáticas son imprescindibles para describir el mundo que nos rodea, sino que también el mundo que nos es una fuente inagotable de problemas matemáticos Entre los ejemplos que mostraremos tambien se incluyen algunos que han sido resultado de las propias investigaciones del conferenciante.
-      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400">Ponencia en español</p>
-    </div>
-  </div>
 
+{{< charla 
+    title="Son las matemáticas el lenguaje de la naturaleza?"
+    date="Jueves, 6 de marzo de 2025"
+    time="17:30-19:00"
+    location="Sala multiusos de la ETSII + online"
+    stream_url="https://meet.google.com/kqj-awer-hdw"
+    speaker="Renato Álvarez-Nodarse (Catedrático de la Facultad de Matemáticas de la US)"
+>}}
+En esta charla, de carácter divulgativo, mostraremos no solo que las matemáticas son imprescindibles para describir el mundo que nos rodea, sino que también el mundo que nos es una fuente inagotable de problemas matemáticos. Entre los ejemplos que mostraremos tambien se incluyen algunos que han sido resultado de las propias investigaciones del conferenciante.
+{{< /charla >}}
 
- <div class="border border-gray-200 rounded-lg p-4 md:p-6 bg-white shadow-xs dark:bg-gray-800 dark:border-gray-700">
-    <h2 class="text-lg font-semibold text-gray-800 dark:text-white">Cómo entender las mónadas (y no morir en el intento)</h2>
-    <div class="mt-4 text-gray-600 dark:text-gray-300 space-y-2">
-      <div class="flex items-center space-x-2">
-        <span class="material-icons dark:text-gray-100">calendar_today</span>
-        <span class="text-sm md:text-base">Jueves, 20 de marzo de 2025</span>
-      </div>
-      <div class="flex items-center space-x-2">
-        <span class="material-icons dark:text-gray-100">access_time</span>
-        <span class="text-sm md:text-base">17:30-19:00</span>
-      </div>
-      <div class="flex items-center space-x-2">
-        <span class="material-icons dark:text-gray-100">location_on</span>
-        <span class="text-sm md:text-base">B1.35 + online</span>
-      </div>
-      <div class="flex items-center space-x-2">
-        <a href="https://meet.google.com/fhr-aaxh-shj">Enlace a la retransmisión</a>
-      </div>
-      <p class="mt-4 text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Ponente:</strong> Alejandro Domínguez Muñoz (Estudiante de la ETSII)</p>
-      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Descripción:</strong> Desde el principio de los tiempos, los seres humanos nos hemos hecho algunas preguntas fundamentales. ¿Quiénes somos? ¿Por qué estamos aquí? ¿Hay vida después de la muerte? Al no poder responder a ninguna de estas preguntas, en esta charla consideraremos los problemas prácticos que resuelven los monoides en la categoría de los endofuntores, especialmente en relación con la computación distribuida.
-      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400">Ponencia en español</p>
-    </div>
-  </div>
-  
+{{< charla 
+    title="Cómo entender las mónadas (y no morir en el intento)"
+    date="Jueves, 20 de marzo de 2025"
+    time="17:30-19:00"
+    location="B1.35 + online"
+    stream_url="https://meet.google.com/fhr-aaxh-shj"
+    speaker="Alejandro Domínguez Muñoz (Estudiante de la ETSII)"
+>}}
+Desde el principio de los tiempos, los seres humanos nos hemos hecho algunas preguntas fundamentales. ¿Quiénes somos? ¿Por qué estamos aquí? ¿Hay vida después de la muerte? Al no poder responder a ninguna de estas preguntas, en esta charla consideraremos los problemas prácticos que resuelven los monoides en la categoría de los endofuntores, especialmente en relación con la computación distribuida.
+{{< /charla >}}
 
 </div>

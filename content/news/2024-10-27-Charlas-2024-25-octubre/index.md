@@ -17,30 +17,18 @@ Cómo anunciamos en la sesión de presentación, este curso vamos a organizar ch
 - [En este formulario podéis indicar el horario y la temática que mejor os viene para estas actividades](https://forms.gle/aMjuhZWht8kFMocd9)
 - [En este otro podéis apuntaros para dar vuestra propia charla](https://forms.gle/yY9WpbA6Lof41ufa7)
 
-<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-
 # Charlas de Octubre
 
 <div class="space-y-6 dark:bg-gray-900 dark:text-gray-100">
-  <div class="border border-gray-200 rounded-lg p-4 md:p-6 bg-white shadow-xs dark:bg-gray-800 dark:border-gray-700">
-    <h2 class="text-lg font-semibold text-gray-800 dark:text-white">Algoritmos Bit-wise</h2>
-    <div class="mt-4 text-gray-600 dark:text-gray-300 space-y-2">
-      <div class="flex items-center space-x-2">
-        <span class="material-icons dark:text-gray-100">calendar_today</span>
-        <span class="text-sm md:text-base"> Jueves, 31 de octubre de 2024</span>
-      </div>
-      <div class="flex items-center space-x-2">
-        <span class="material-icons dark:text-gray-100">access_time</span>
-        <span class="text-sm md:text-base"> 15:30</span>
-      </div>
-      <div class="flex items-center space-x-2">
-        <span class="material-icons dark:text-gray-100">location_on</span>
-        <span class="text-sm md:text-base"> Sala multiusos de la ETSII (Donde la entrega de premios del CompliCAUS II)</span>
-      </div>
-      <p class="mt-4 text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Ponente:</strong> Pablo Trinidad (Head of architecture en HOMA games y profesor de la ETSII)</p>
-      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400"><strong>Descripción:</strong> Un veterano de las competiciones de programación, Pablo nos hablará sobre algoritmos basados en operaciones a nivel de bit, una técnica que nunca hemos tratado en el club.</p>
-      <p class="text-sm md:text-base text-gray-500 dark:text-gray-400">Ponencia en español</p>
-    </div>
-  </div>
+
+{{< charla 
+    title="Algoritmos Bit-wise"
+    date="Jueves, 31 de octubre de 2024"
+    time="15:30"
+    location="Sala multiusos de la ETSII (Donde la entrega de premios del CompliCAUS II)"
+    speaker="Pablo Trinidad (Head of architecture en HOMA games y profesor de la ETSII)"
+>}}
+Un veterano de las competiciones de programación, Pablo nos hablará sobre algoritmos basados en operaciones a nivel de bit, una técnica que nunca hemos tratado en el club.
+{{< /charla >}}
 </div>
 <br>
