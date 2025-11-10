@@ -1,6 +1,6 @@
 ---
 title: "Charlas y talleres - Noviembre 2025"
-date: 2025-11-10T12:20:00+00:00
+date: 2025-11-09T12:20:00+00:00
 draft: false
 language: es
 featured_image: ../assets/images/featured/charlas.png
@@ -27,7 +27,7 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
     time="19:00"
     location="Salón de grados de la ETSII + online"
     speaker="José Manuel Landero e Ignacio Sánchez"
-}}
+>}}
 José Manuel Landero e Ignacio Sánchez
 forman parte de ARUS, el equipo de Formula Student de la Universidad de
 Sevilla, que cuenta con un monoplaza autónomo de competición. En esta
