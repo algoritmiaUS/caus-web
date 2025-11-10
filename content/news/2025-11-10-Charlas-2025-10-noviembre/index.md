@@ -45,7 +45,7 @@ Cómo anunciamos en la sesión de presentación, este curso estamos organizando 
         forman parte de ARUS, el equipo de Formula Student de la Universidad de
         Sevilla, que cuenta con un monoplaza autónomo de competición. En esta
         charla, nos contarán los entresijos de los distintos algoritmos que
-        hacen funcionar un coche autónomo. Desde de la percepción basada en
+        hacen funcionar un coche autónomo. Desde la percepción basada en
         LiDAR hasta el SLAM, el path planning y el control del mismo.
       </p>
       <p class="text-sm md:text-base text-gray-500 dark:text-gray-400">
