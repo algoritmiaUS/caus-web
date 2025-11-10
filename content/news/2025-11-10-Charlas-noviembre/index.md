@@ -27,6 +27,7 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
     time="19:00"
     location="Salón de grados de la ETSII + online"
     speaker="José Manuel Landero e Ignacio Sánchez"
+    stream_url="https://www.youtube.com/watch?v=nT0-ImFk-40"
 >}}
 José Manuel Landero e Ignacio Sánchez
 forman parte de ARUS, el equipo de Formula Student de la Universidad de
