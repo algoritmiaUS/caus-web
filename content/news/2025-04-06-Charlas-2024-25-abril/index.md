@@ -27,16 +27,11 @@ Cómo anunciamos en la sesión de presentación, este curso estamos organizando 
     stream_url="https://meet.google.com/fcd-xhdp-wih"
     speaker="Lourdes Linares Barrera (Admin del CAUS, Data Scientist y Data Engineer en NEXT DIGITAL)"
 >}}
-<p class="text-sm md:text-base text-gray-500 dark:text-gray-400">
-  ¿Te pica la curiosidad por saber cómo entienden las máquinas el lenguaje humano? ¿Te suenan palabros como “transformers", "transfer learning" o "RAG" y no tienes ni idea de qué van?<br><br>
-  ¡Pues esta charla es para ti!<br><br>
-  Nos daremos un paseo desde los inicios del Procesamiento del Lenguaje Natural (NLP) hasta los modelos de lenguaje más potentes de hoy (sí, esos que escriben, traducen e incluso programan).
-</p>
-
-<ul class="list-disc list-inside text-sm md:text-base text-gray-500 dark:text-gray-400 space-y-1">
-  <li><strong>🔍 Una visión clara desde cero:</strong> si estás perdido, aquí te ubicamos sin dramas.</li>
-  <li><strong>💻 Casos prácticos:</strong> menos palabreo, más código. Fuera humo y ¡manos a la obra!</li>
-  <li><strong>🚀 Inspírate y sigue tu camino:</strong> saldrás con una base inicial y un montón de ideas para seguir explorando por tu cuenta.</li>
-</ul>
+¿Te pica la curiosidad por saber cómo entienden las máquinas el lenguaje humano? ¿Te suenan palabros como “transformers", "transfer learning" o "RAG" y no tienes ni idea de qué van?
+¡Pues esta charla es para ti!
+Nos daremos un paseo desde los inicios del Procesamiento del Lenguaje Natural (NLP) hasta los modelos de lenguaje más potentes de hoy (sí, esos que escriben, traducen e incluso programan).
+*   **🔍 Una visión clara desde cero:** si estás perdido, aquí te ubicamos sin dramas.
+*   **💻 Casos prácticos:** menos palabreo, más código. Fuera humo y ¡manos a la obra!
+*   **🚀 Inspírate y sigue tu camino:** saldrás con una base inicial y un montón de ideas para seguir explorando por tu cuenta.
 
 {{< /charla >}}

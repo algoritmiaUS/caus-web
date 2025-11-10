@@ -30,7 +30,7 @@ Cómo anunciamos en la sesión de presentación, este curso estamos organizando 
     speaker="Renato Álvarez-Nodarse (Catedrático de la Facultad de Matemáticas de la US)"
 >}}
 En abril de 1900, Lord Kelvin afirmó en la Royal Institution que solo quedaban dos pequeñas “nubecillas” por resolver en la física: la constancia de la velocidad de la luz y la equipartición de la energía. La primera llevó a la Teoría de la Relatividad; la segunda, al nacimiento de la teoría cuántica.
-<br><br>
+
 Esta charla se centrará en esa segunda “nubecilla”. Como dijo Niels Bohr: "Si no estás confundido por la física cuántica, entonces realmente no la has entendido", y Richard Feynman añadió: "Creo que puedo decir con seguridad que nadie entiende la mecánica cuántica." El objetivo será arrojar algo de luz sobre el motivo de estas célebres afirmaciones.
 {{< /charla >}}
 

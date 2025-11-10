@@ -29,7 +29,8 @@ Cómo anunciamos en la sesión de presentación, este curso vamos a organizar ch
     speaker="Pablo Dávila Herrero (Data Scientist @ Oga)"
 >}}
 Git es una herramienta esencial para el día a día de los desarrolladores y científicos de datos. Permite realizar un control de versiones sin fisuras del código, la documentación y las dependencias, además de facilitar la colaboración en proyectos de mayor envergadura.
-<br>En esta ponencia-taller, Pablo Dávila (admin del CAUS) nos enseñará cómo utilizar Git desde lo más básico hasta trucos más elaborados de los que te salvan la vida cuando te cargas algo.
+
+En esta ponencia-taller, Pablo Dávila (admin del CAUS) nos enseñará cómo utilizar Git desde lo más básico hasta trucos más elaborados de los que te salvan la vida cuando te cargas algo.
 {{< /charla >}}
 
 {{< charla 
