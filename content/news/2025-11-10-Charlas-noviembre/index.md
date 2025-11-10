@@ -26,7 +26,6 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
     date="Jueves, 11 de noviembre de 2025"
     time="19:00"
     location="Salón de grados de la ETSII + online"
-    <!-- stream_url="" -->
     speaker="José Manuel Landero e Ignacio Sánchez"
 }}
 José Manuel Landero e Ignacio Sánchez
