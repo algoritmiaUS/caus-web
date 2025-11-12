@@ -12,11 +12,25 @@ categories: Eventos
 tags: Eventos
 ---
 
-# Charla de octubre
+# Charla de noviembre
 
 <div class="space-y-6 dark:bg-gray-900 dark:text-gray-100">
+{{< charla
+    title="Tornados, olas del mar y gotas: ¡mates a la carga!"
+    date="Jueves, 27 de noviembre de 2025"
+    time="19:00"
+    location="Salón de Actos, Facultad de Matemáticas"
+    speaker="Francisco Gancedo"
+>}}
+En esta charla, realizando algunos experimentos, se pretende ilustrar el papel que juegan las matemáticas en la comprensión de cómo evolucionan los fluidos. Esto va desde el movimiento de los tornados, pasando por la ruptura de olas hasta la evolución de gotas. Se presentarán problemas clásicos, aplicaciones a nuestro día a día y habrá mucho dinero en juego... ¡Un millón de dólares!
+{{< /charla >}}
+</div>
+<br>
 
-{{< charla 
+# Charlas impartidas
+
+<div class="space-y-6 dark:bg-gray-900 dark:text-gray-100">
+{{< charla
     title="Hablando de Ramanujan con Renato: lo que no te contaron de las matemáticas de Ramanujan"
     date="Jueves, 23 de octubre de 2025"
     time="19:00"
@@ -28,14 +42,4 @@ Pudiera ser que Srinivasa Ramanujan sea uno de los matemáticos más conocidos p
 De él se han escrito novelas y se han hecho películas, siendo la más conocida *The Man Who Knew Infinity*.  
 Pero ¿qué hizo a Ramanujan tan especial? En esta **charla informal** hablaremos de algunas de las matemáticas que hizo el genio indio y, en particular, del casi desconocido mundo, para el no iniciado, de las *q-series*.
 {{< /charla >}}
-{{< charla 
-    title="Tornados, olas del mar y gotas: ¡mates a la carga!"
-    date="Jueves, 27 de noviembre de 2025"
-    time="19:00"
-    location="Salón de Actos, Facultad de Matemáticas"
-    speaker="Francisco Gancedo"
->}}
-En esta charla, realizando algunos experimentos, se pretende ilustrar el papel que juegan las matemáticas en la comprensión de cómo evolucionan los fluidos. Esto va desde el movimiento de los tornados, pasando por la ruptura de olas hasta la evolución de gotas. Se presentarán problemas clásicos, aplicaciones a nuestro día a día y habrá mucho dinero en juego... ¡Un millón de dólares!
-{{< /charla >}}
 </div>
-<br>
