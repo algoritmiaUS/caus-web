@@ -23,7 +23,7 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
 
 {{< charla
     title="Los algoritmos de un monoplaza autónomo de Formula Student"
-    date="Jueves, 11 de noviembre de 2025"
+    date="Martes, 11 de noviembre de 2025"
     time="19:00"
     location="Salón de grados de la ETSII + online"
     speaker="José Manuel Landero e Ignacio Sánchez"
@@ -35,6 +35,22 @@ Sevilla, que cuenta con un monoplaza autónomo de competición. En esta
 charla, nos contarán los entresijos de los distintos algoritmos que
 hacen funcionar un coche autónomo. Desde la percepción basada en
 LiDAR hasta el SLAM, el path planning y el control del mismo.
+{{< /charla >}}
+
+{{< charla
+    title="Ciberinteligencia Aumentada: Cómo la IA multiplica tu capacidad de análisis"
+    date="Jueves, 20 de noviembre de 2025"
+    time="19:00"
+    location="Salón de grados de la ETSII + online"
+    speaker="Roberto Lama Rodríguez"
+    stream_url="https://youtube.com/live/DzntiBDiElw"
+>}}
+La avalancha de datos es real: más alertas, más fuentes, más ruido… y el mismo tiempo para analizarlas. En esta charla veremos cómo la IA se convierte en el turbo del analista: acelera el trabajo, detecta patrones invisibles y transforma información caótica en inteligencia útil.
+
+🧠 Primera parte: fundamentos y retos reales del analista actual.
+🛠️ Segunda parte: PoCs en directo con ejemplos de IA aplicada a ciberinteligencia.
+
+Una sesión visual y práctica para entender cómo la IA no viene a sustituirnos… sino a llevar nuestro análisis al siguiente nivel.
 {{< /charla >}}
 
 </div>
