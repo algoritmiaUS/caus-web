@@ -23,7 +23,7 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
 
 {{< charla
     title="Los algoritmos de un monoplaza autónomo de Formula Student"
-    date="Martes, 11 de noviembre de 2025"
+    date="Jueves, 13 de noviembre de 2025"
     time="19:00"
     location="Salón de grados de la ETSII + online"
     speaker="José Manuel Landero e Ignacio Sánchez"
