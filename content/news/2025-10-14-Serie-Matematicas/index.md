@@ -21,6 +21,7 @@ tags: Eventos
     time="19:00"
     location="Salón de Actos, Facultad de Matemáticas"
     speaker="Francisco Gancedo"
+    stream_url="https://www.youtube.com/live/cL0Gf9TBK-g"
 >}}
 En esta charla, realizando algunos experimentos, se pretende ilustrar el papel que juegan las matemáticas en la comprensión de cómo evolucionan los fluidos. Esto va desde el movimiento de los tornados, pasando por la ruptura de olas hasta la evolución de gotas. Se presentarán problemas clásicos, aplicaciones a nuestro día a día y habrá mucho dinero en juego... ¡Un millón de dólares!
 {{< /charla >}}
