@@ -29,7 +29,7 @@ administrators:
   - name: "Fernando Giráldez Curquejo"
     role: "Webmaster · Problem Solver"
     image: "/images/admins/fernando-giraldez.png"
-    linkedin: fernando-giráldez-curquejo-116527295
+    linkedin: fgiraldezc
     github: Raquezin
 
   - name: "Inés Dávila Herrero"
@@ -46,6 +46,12 @@ administrators:
     role: "Marketing · Event Manager"
     image: "/images/admins/lucia-diez.jpg"
     linkedin: lucía-campos-díez-bb0345359
+
+    
+  - name: "Víctor Mesa Solano"
+    role: "Problem Solver"
+    image: "/images/admins/victor-mesa.jpeg"
+    linkedin: victor-manuel-mesa-solano-a04663376
 
 
 oldadmins:
