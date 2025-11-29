@@ -46,12 +46,11 @@ administrators:
     role: "Marketing · Event Manager"
     image: "/images/admins/lucia-diez.jpg"
     linkedin: lucía-campos-díez-bb0345359
-
-    
+  
   - name: "Víctor Mesa Solano"
     role: "Problem Solver"
-    image: "/images/admins/victor-mesa.jpeg"
-    linkedin: victor-manuel-mesa-solano-a04663376
+    image: "/images/admins/vikzi.jpeg"
+    linkedin: "victor-manuel-mesa-solano-a04663376"
 
 
 oldadmins:
@@ -92,7 +91,6 @@ members:
   # - name: "Hugo Pérez Jiménez"
   #   image: "/images/members/caus.png"
 
- 
   # - name: "Irene González Quirós"
   #   image: "/images/members/caus.png"
 
@@ -152,3 +150,108 @@ members:
 
   - name : "Jose Luis Mesa Solano"
     image: "/images/members/jose-luis-mesa.jpeg"
+
+  # Nuevos miembros  
+  # - name: "Javier Alexander Flores Reategui" # PREGUNTAR
+  #   image: "/images/members/caus.png"
+
+  # - name: "Mario Sánchez Naranjo"
+  #   image: "/images/members/caus.png"
+
+  # - name: "Antonio Jesús González Membrilla"
+  #   image: "/images/members/caus.png"
+
+  # - name: "Enrique Fernández Salmerón"
+  #   image: "/images/members/caus.png"
+
+  # - name: "Juan Javier Sánchez Portillo"
+  #   image: "/images/members/caus.png"
+
+  # - name: "Alejandro del Pino Alcántara"
+  #   image: "/images/members/caus.png"
+
+  # - name: "Aya Dahmani" 
+  #   image: "/images/members/caus.png"
+
+  - name: "José Aguilera Rodríguez"
+    image: "/images/members/jose-aguilera-rodriguez.jpeg"
+
+  - name: "Alejandro Gómez Oliveira"
+    image: "/images/members/alejandro-gomez-oliveira.jpeg"
+
+  - name: "Sebastián Romero Moreno"
+    image: "/images/members/sebastian-romero-moreno.jpeg"
+
+  - name: "Carlos Gamito Moreno"
+    image: "/images/members/carlos-gamito-moreno.jpeg"
+
+  - name: "Joaquín González Granados"
+    image: "/images/members/joaquin-gonzalez-granados.jpg"
+
+  # - name: "Víctor Suárez Masero"
+  #   image: "/images/members/caus.png"
+
+  # - name: "Ian Ronco Postigo" # PREGUNTAR
+  #   image: "/images/members/caus.png"
+
+  # - name: "Rafael Martin del Pino"
+  #   image: "/images/members/caus.png"
+
+  # - name: "Jesús Nuñez"
+  #   image: "/images/members/caus.png"
+
+  # - name: "Daniel Tirados Rodríguez"
+  #   image: "/images/members/caus.png"
+
+  # - name: "Alberto Almuedo Cózar" # PREGUNTAR
+  #   image: "/images/members/caus.png"
+
+  # - name: "Mauro Galán Muñoz"
+  #   image: "/images/members/caus.png"
+
+  - name: "Ignacio Bueno Egea"
+    image: "/images/members/ignacio-bueno-egea.jpeg"
+
+  # - name: "Julio Ojeda Infantes"
+  #   image: "/images/members/caus.png"
+
+  - name: "Álvaro Luque Buzón"
+    image: "/images/members/alvaro-luque-buzon.jpeg"
+
+  # - name: "Raimundo Jiménez Lara"
+  #   image: "/images/members/caus.png"
+
+  # - name: "Juan Manuel Ledesma Guillena"
+  #   image: "/images/members/caus.png"
+
+  # - name: "Alba Galera Suárez"
+  #   image: "/images/members/caus.png"
+
+  - name: "Gael Bolaños López"
+    image: "/images/members/gael.jpeg"
+
+  - name: "Irene Gutiérrez Enguix"
+    image: "/images/members/irene-enana.jpeg" 
+  
+  - name: "José María Sánchez Rubio"
+    image: "/images/members/chema.png"
+
+  # - name: "Diego Gimenez Ortiz"
+  #   image: "/images/members/caus.png"
+
+  # - name: "Daniel Ibáñez"
+  #   image: "/images/members/caus.png"
+
+  # - name: "Luca Ragel Ruiz"
+  #   image: "/images/members/caus.png"
+
+  # - name: "Pablo Weiskirchen García"
+  #   image: "/images/members/caus.png"
+
+  # - name: "Hugo Monterrubio Castro"
+  #   image: "/images/members/caus.png"
+
+  # - name: "Ángel Daniel Serrano Chamba"
+  #   image: "/images/members/caus.png"
+
+  
