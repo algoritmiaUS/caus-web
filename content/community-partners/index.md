@@ -9,7 +9,7 @@ description: Patrocinadores
 ---
 
 <p class="mb-8 font-light text-center text-gray-500 lg:mb-16 dark:text-gray-400 sm:text-xl">
-  Estos son nuestros socios y patrocinadores para el curso 24/25!
+  Estos son nuestros socios y patrocinadores para el curso 25/26!
 </p>
 
 
