@@ -4,7 +4,7 @@
   "description": "CAUS WEB",
   "main": "index.js",
   "devDependencies": {
-    "@tailwindcss/postcss": "^4.1.17",
+    "@tailwindcss/postcss": "^4.1.18",
     "@tailwindcss/typography": "^0.5.19",
     "alpinejs": "^3.15.2",
     "concurrently": "^9.2.1",
