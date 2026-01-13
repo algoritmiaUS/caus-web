@@ -39,16 +39,18 @@ params:
     links:
         - url: "/community-partners"
     logos:
-      - identifier: a
-        image: "images/global/Logo_ND.png" 
-        alt: "a"
-      #- identifier: b
-      # image: "images/global/logo-ETSII-Negro.svg"
-      # alt: "b"
+      # - identifier: a
+      #   image: "images/global/Logo_ND.png" 
+      #   alt: "a"
+      - identifier: b
+        image: "images/global/logo-ETSII-Color.png"
+        alt: "b"
       # - identifier: c
+      #   image: "images/global/Logo_ND.png" 
+      #   alt: "c"
       # - identifier: d
-      # - identifier: e
-      # - identifier: f
+      #   image: "images/global/logo-ETSII-Color.png"
+        # alt: "d"
 
   social_media:
     github:
