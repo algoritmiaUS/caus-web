@@ -3,18 +3,18 @@
 
 <div class="overflow-x-auto">
   <table class="table-auto w-full border-collapse border border-gray-300 dark:border-gray-700">
-    <thead class="bg-gray-200 dark:bg-gray-800">
+    <thead class="bg-gray-200 dark:bg-gray-800 text-gray-700 dark:text-gray-200">
       <tr>
-        <th class="border border-gray-300 dark:border-gray-700 px-4 py-2 text-left text-gray-700 dark:text-gray-200">Pos.</th>
-        <th class="border border-gray-300 dark:border-gray-700 px-4 py-2 text-left text-gray-700 dark:text-gray-200">Participante</th>
-        <th class="border border-gray-300 dark:border-gray-700 px-4 py-2 text-center text-gray-700 dark:text-gray-200">Ver Imagen</th>
+        <th class="border border-gray-300 dark:border-gray-700 px-4 py-2 text-left">Pos.</th>
+        <th class="border border-gray-300 dark:border-gray-700 px-4 py-2 text-left">Participante</th>
+        <th class="border border-gray-300 dark:border-gray-700 px-4 py-2 text-center">Ver Imagen</th>
       </tr>
     </thead>
-    <tbody class="bg-white dark:bg-gray-900">
+    <tbody class="bg-white dark:bg-gray-900 text-gray-800 dark:text-gray-300">
       {{ range $data.participants }}
       <tr class="hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors">
-        <td class="border border-gray-300 dark:border-gray-700 px-4 py-2 text-gray-800 dark:text-gray-300">{{ .position }}</td>
-        <td class="border border-gray-300 dark:border-gray-700 px-4 py-2 text-gray-800 dark:text-gray-300">{{ .name }}</td>
+        <td class="border border-gray-300 dark:border-gray-700 px-4 py-2">{{ .position }}</td>
+        <td class="border border-gray-300 dark:border-gray-700 px-4 py-2">{{ .name }}</td>
         <td class="border border-gray-300 dark:border-gray-700 px-4 py-2 text-center">
           <button 
             onclick="showModal('{{ .image }}')" 
