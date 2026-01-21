@@ -35,7 +35,7 @@ main:
 otherlinks:
   - identifier: whatsapp
     pre: /images/logos/whatsapp.svg
-    name: whatsapp
+    name: WhatsApp
     url: https://chat.whatsapp.com/DFm3DnLHbGn4vWimWN1Wmc
     weight: 10
   - identifier: github
