@@ -3,14 +3,13 @@ error:
   404_message: "Sorry, we can’t seem to find that page. You’ll find plenty to explore on the homepage."
   404_button: "Back to Homepage"
 
-
 hero.moto:
   other: "Algorithm Club of the University of Seville (CAUS)"
 hero.description:
   other: "A group founded by students of the University of Seville to learn and improve programming skills through collaboration and participation in competitions."
 
-hero.discord:
-  other: "Get on Discord!"
+hero.whastapp:
+  other: "Join WhatsApp!"
 
 mission.heading:
   other: "Our Mission"
@@ -34,12 +33,11 @@ sponsors.description:
   other: "CAUS is supported by dedicated partners and sponsors who make it possible for us to continue promoting learning and development in algorithms. Thanks to their collaboration, we work together to build a more connected community and offer valuable opportunities for growth and innovation."
 
 # TODO: Habría que buscar una forma de poner noticias de español en el resto
-# events.heading: 
+# events.heading:
 #   other: "Latest News"
 
 # events.description:
 #   other: "Our recent events — including meetups, workshops, and more — showcase what’s happening within our community."
-
 
 ######################################
 # Team Section

@@ -10,8 +10,8 @@ hero.moto:
 hero.description:
   other: "Grupo fundado por estudiantes de la US para aprender y mejorar habilidades en programación mediante la colaboración y la participación en competiciones."
 
-hero.discord:
-  other: "Únete a Discord!"
+hero.whastapp:
+  other: "Únete a WhatsApp!"
 
 mission.heading:
   other: "Nuestra misión"
@@ -34,12 +34,11 @@ sponsors.description:
 sponsors.cta:
   other: "Conozca a nuestros patrocinadores"
 
-events.heading: 
+events.heading:
   other: "Últimas noticias"
 
 events.description:
-  other : "Nuestros eventos recientes, incluidos encuentros, talleres y más, reflejan lo que está sucediendo en nuestra comunidad."
-
+  other: "Nuestros eventos recientes, incluidos encuentros, talleres y más, reflejan lo que está sucediendo en nuestra comunidad."
 
 ######################################
 # Team Section

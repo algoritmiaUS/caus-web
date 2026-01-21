@@ -33,10 +33,10 @@ main:
     weight: 90
 
 otherlinks:
-  - identifier: discord
-    pre: /images/logos/discord.svg
-    name: Discord
-    url: https://discord.gg/gEbbJrzEYZ
+  - identifier: whatsapp
+    pre: /images/logos/whatsapp.svg
+    name: whatsapp
+    url: https://chat.whatsapp.com/DFm3DnLHbGn4vWimWN1Wmc
     weight: 10
   - identifier: github
     pre: /images/logos/github.svg

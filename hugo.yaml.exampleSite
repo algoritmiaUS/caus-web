@@ -101,9 +101,9 @@ params:
     linkedin:
       enabled: true
       url: 'https://linkedin.com/company/club-de-algoritmia-universidad-de-sevilla'
-    discord:
+    whatsapp:
       enabled: true
-      url: 'https://discord.gg/gEbbJrzEYZ'
+      url: 'https://chat.whatsapp.com/DFm3DnLHbGn4vWimWN1Wmc'
     instagram:
       enabled: true
       url: 'https://instagram.com/clubalgoritmiaus'
@@ -156,10 +156,10 @@ menu:
     #   weight: 40
 
   otherlinks:
-    - identifier: discord
-      pre: /images/logos/discord.svg
-      name: Discord
-      url: https://discord.gg/gEbbJrzEYZ
+    - identifier: whatsapp
+      pre: /images/logos/whatsapp.svg
+      name: whatsapp
+      url: https://chat.whatsapp.com/DFm3DnLHbGn4vWimWN1Wmc
       weight: 10
     - identifier: github
       pre: /images/logos/github.svg
