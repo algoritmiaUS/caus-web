@@ -13,7 +13,7 @@ description: Contact page
        <p class="mb-8 font-light text-center text-gray-500 lg:mb-16 dark:text-gray-400 sm:text-xl">
         La mejor manera de contactarnos es a través de nuestro correo electrónico general: <a href="mailto:clubalgoritmiaus@gmail.com" class="text-indigo-600 hover:underline">clubalgoritmiaus@gmail.com</a>, o mediante el siguiente formulario. Nos encanta recibir información sobre oportunidades para nuestros miembros, así como propuestas de patrocinio.
         <br><br>
-        Si eres estudiante y deseas participar activamente, te invitamos a unirte a nuestro servidor de <a href="https://discord.gg/gEbbJrzEYZ" class="text-indigo-600 hover:underline">Discord</a>. Allí encontrarás una comunidad inclusiva y amigable, formada tanto por estudiantes actuales como por exalumnos.
+        Si eres estudiante y quieres estar al día de nuestras novedades, te invitamos a unirte a nuestra <a href="https://chat.whatsapp.com/DFm3DnLHbGn4vWimWN1Wmc" class="text-indigo-600 hover:underline">comunidad de Whatsapp</a>. Allí encontrarás un grupo amistoso formado tanto por estudiantes actuales como por exalumnos.
       </p>
       <form name="contact" action="https://formspree.io/f/movwkkle" method="POST" class="space-y-8">
           <div class="my-4">
@@ -28,7 +28,5 @@ description: Contact page
              <button type="submit" class="px-5 py-3 font-bold text-center text-white bg-indigo-600 rounded-lg text-md sm:w-fit hover:bg-indigo-800 focus:ring-4 focus:outline-hidden focus:ring-indigo-300 dark:bg-indigo-600 dark:hover:bg-indigo-700 dark:focus:ring-indigo-800">Enviar mensaje</button>
           </div>
       </form>
-
-      
   </div>
 </section>
