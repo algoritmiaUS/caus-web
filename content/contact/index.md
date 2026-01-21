@@ -13,7 +13,7 @@ description: Contact page
        <p class="mb-8 font-light text-center text-gray-500 lg:mb-16 dark:text-gray-400 sm:text-xl">
         La mejor manera de contactarnos es a través de nuestro correo electrónico general: <a href="mailto:clubalgoritmiaus@gmail.com" class="text-indigo-600 hover:underline">clubalgoritmiaus@gmail.com</a>, o mediante el siguiente formulario. Nos encanta recibir información sobre oportunidades para nuestros miembros, así como propuestas de patrocinio.
         <br><br>
-        Si eres estudiante y deseas participar activamente, te invitamos a unirte a nuestro servidor de <a href="https://chat.whatsapp.com/DFm3DnLHbGn4vWimWN1Wmc" class="text-indigo-600 hover:underline">Whatsapp</a>. Allí encontrarás una comunidad inclusiva y amigable, formada tanto por estudiantes actuales como por exalumnos.
+        Si eres estudiante y deseas participar activamente, te invitamos a unirte a nuestro servidor de <a href="https://chat.whatsapp.com/DFm3DnLHbGn4vWimWN1Wmc" class="text-indigo-600 hover:underline">Whatsapp</a>. Allí encontrarás nuestra comunidad inclusiva y amigable, formada tanto por estudiantes actuales como por exalumnos.
       </p>
       <form name="contact" action="https://formspree.io/f/movwkkle" method="POST" class="space-y-8">
           <div class="my-4">
