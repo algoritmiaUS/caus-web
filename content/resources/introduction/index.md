@@ -10,15 +10,9 @@ weight: 10
 [⬅ Volver a Recursos](../)
 
 
-Esta sección es crucial para los nuevos miembros. El objetivo es proporcionar una hoja de ruta clara y accesible para que cualquiera pueda dar sus primeros pasos en este fascinante mundo.
-
----
-
 ## ¿Qué es la Programación Competitiva?
 
 La programación competitiva es un "deporte mental" en el que los participantes (de manera individual o por equipos) resuelven problemas complejos bajo ciertas restriciones, como límites de tiempo y memoria. No se trata solamente de que tu código funcione, si no que lo haga de la manera más eficiente posible.
-
-
 
 Los beneficios que puedes obtener mediante esta disciplina son:
 
@@ -27,9 +21,8 @@ Los beneficios que puedes obtener mediante esta disciplina son:
 *   **Preparación para entrevistas técnicas:** las preguntas en entrevistas de empresas tecnológicas como Google, Meta o Amazon son muy similares a los problemas de programación competitiva.
 *   **Desarrollo de la lógica y la precisión:** un solo error puede hacer que una solución falle, lo que te obliga a ser meticuloso y a pensar con claridad.
 
-## Guía para Principiantes
 
-¿No sabes por dónde empezar? Sigue esta guía paso a paso.
+## Guía para principiantes
 
 1.  **Elige tu lenguaje de programación:**
     * **Python:** Ideal para principiantes por su sintaxis simple y legible. Es perfecto para aprender los conceptos fundamentales, aunque su velocidad puede ser un inconveniente en los niveles más altos de competición.
@@ -51,19 +44,22 @@ Los beneficios que puedes obtener mediante esta disciplina son:
     *   Regístrate en una plataforma online (Juez en línea) como [Codeforces](https://codeforces.com/), [Kattis](https://open.kattis.com/) o [¡Acepta el reto!](https://aceptaelreto.com/).
     *   Intenta resolver un problema "Hola, Mundo" o uno de suma simple para familiarizarte con el proceso de leer la entrada de datos y escribir la salida.
 
-## Conceptos Básicos
+
+## Conceptos principales
 
 Estos son los pilares teóricos que todo programador competitivo debe dominar.
 
-*   **Complejidad Algorítmica (Notación Big O):** Es fundamental para medir la eficiencia de un algoritmo. Antes de escribir una sola línea de código, debes ser capaz de estimar si tu idea será lo suficientemente rápida y si consumirá la memoria adecuada. Aprende a identificar complejidades como O(1), O(log n), O(n), O(n log n), O(n²), etc.
+*   **Complejidad Algorítmica (Notación Big O):** Normalmente se estudia en segundo de Ingeniería Informática y es fundamental para medir la eficiencia de tus programas. Lo ideal es ser capaz de estimar si tu idea será lo suficientemente rápida antes de escribir la primera línea de código. Aprende a identificar complejidades como O(1), O(log n), O(n), O(n log n), O(n²), etc.
 
-*   **Estructuras de Datos Fundamentales:** Son las herramientas con las que construirás tus soluciones.
-    *   **Arrays:** La estructura de datos más básica.
-    *   **Linked Lists:** Útiles para inserciones y eliminaciones eficientes.
-    *   **Pilas (Stacks):** Siguen el principio LIFO (Last-In, First-Out).
-    *   **Colas (Queues):** Siguen el principio FIFO (First-In, First-Out).
-    *   **Mapas/Diccionarios:** Para almacenar pares clave-valor.
+*   **Estructuras de datos:** Son las herramientas con las que construirás tus soluciones.
+    *   **Array**: La estructura de datos más habitual.
+    *   **Linked list**: Útiles para inserciones y eliminaciones eficientes.
+    *   **Pila (stack)**: Siguen el principio LIFO (Last-In, First-Out).
+    *   **Cola (queue)**: Siguen el principio FIFO (First-In, First-Out).
+    *   **Mapas/diccionarios**: Para almacenar y recuperar pares clave-valor a una velocidad de vértigo.
+    *   **Más avanzadas**: heap, trie, árbol de Fenwick, árbol de segmentos...
 
-*   **Algoritmos Esenciales:**
-    *   **Algoritmos de Búsqueda:** Búsqueda Lineal y, más importante, **Búsqueda Binaria**.
-    *   **Algoritmos de Ordenamiento:** Al menos debes dominar un algoritmo de complejidad O(n log n) como Merge Sort o Quick Sort, y entender cómo funcionan los algoritmos de O(n²) como Bubble Sort o Insertion Sort.
+*   **Los primeros algoritmos:**
+    *   **Algoritmos de búsqueda**: Búsqueda lineal y, más importante, **búsqueda binaria**, para buscar rápidamente entre elementos ordenados.
+    *   **Ventanas deslizantes**: Para estudiar intervalos de datos de una forma eficiente.
+    *   **Backtracking y programación dinámica**: Poco eficientes pero a menudo necesarios para resolver problemas en los que aparentemente hay muchas posibles soluciones.
