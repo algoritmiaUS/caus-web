@@ -49,7 +49,7 @@ Los beneficios que puedes obtener mediante esta disciplina son:
 
 Estos son los pilares teóricos que todo programador competitivo debe dominar.
 
-*   **Complejidad Algorítmica (Notación Big O):** Normalmente se estudia en segundo de Ingeniería Informática y es fundamental para medir la eficiencia de tus programas. Lo ideal es ser capaz de estimar si tu idea será lo suficientemente rápida qntes de escribir la primera línea de código. Aprende a identificar complejidades como O(1), O(log n), O(n), O(n log n), O(n²), etc.
+*   **Complejidad Algorítmica (Notación Big O):** Normalmente se estudia en segundo de Ingeniería Informática y es fundamental para medir la eficiencia de tus programas. Lo ideal es ser capaz de estimar si tu idea será lo suficientemente rápida antes de escribir la primera línea de código. Aprende a identificar complejidades como O(1), O(log n), O(n), O(n log n), O(n²), etc.
 
 *   **Estructuras de datos:** Son las herramientas con las que construirás tus soluciones.
     *   **Array**: La estructura de datos más habitual.
