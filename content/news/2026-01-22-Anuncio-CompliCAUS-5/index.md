@@ -46,20 +46,19 @@ En esta ocasión, buscamos la experiencia más profesional posible, por lo que u
 🚀 **¡Forma tu equipo, prepara tu dossier y demuestra tu nivel en el CompliCAUS V!**
 
 <div>
-  <p>Con el apoyo de:</p>
+  <p class="mb-4">Con el apoyo de:</p>
 
-  <div style="display: flex; justify-content: center; flex-direction: column">
+  <div class="flex flex-col items-center">
     <a href="https://www.nextdigital.es/">
-        <img src="logo_next_digital.png" alt="Descripción de la imagen" style="width: 25rem; max-width: 80%; margin: auto;">
+        <img src="logo_next_digital.png" alt="Logo de NEXT DIGITAL" class="w-[25rem] max-w-[80%]">
     </a>
-    <p style="margin: auto">Patrocinador Platino</p>
+    <p class="mt-2">Patrocinador Platino</p>
   </div>
-  <br>
-  <div style="display: flex; justify-content: center; flex-direction: column">
+  <div class="flex flex-col items-center mt-4">
     <a href="https://www.informatica.us.es/">
-        <img src="logo-ETSII-Color.png" alt="Descripción de la imagen" style="width: 25rem; max-width: 80%; margin: auto;">
+        <img src="logo-ETSII-Color.png" alt="Logo de la Escuela Técnica Superior de Ingeniería Informática" class="w-[25rem] max-w-[80%]">
     </a>
-    <p style="margin: auto">Patrocinador Platino y sede del concurso</p>
+    <p class="mt-2">Patrocinador Platino y sede del concurso</p>
   </div>
 </div>
 
