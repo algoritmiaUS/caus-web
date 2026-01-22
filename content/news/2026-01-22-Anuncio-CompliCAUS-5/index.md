@@ -19,44 +19,40 @@ tags: ["Eventos"]
 
 ¡La competición más esperada de febrero ya tiene fecha! 💖💻
 
-El **CompliCAUS V** llega con un formato especial. Aprovechando la cercanía con San Valentín, esta edición se disputará en **equipos de tres personas**, al más puro estilo de la competición Ada Byron. Se celebrará el próximo **13 de febrero** en la ETSII.
+El **CompliCAUS V** llega con grandes novedades. Esta edición se disputará en **equipos de tres personas**, al más puro estilo de la competición Ada Byron. Se celebrará el próximo **13 de febrero** en la ETSII.
 
 En esta ocasión, buscamos la experiencia más profesional posible, por lo que utilizaremos el sistema **DOMjudge** en un entorno restringido (sin internet), similar a las grandes competiciones internacionales.
 
 
 ### ¿Qué te espera en esta edición?
 
-- **Formato por equipos:** grupos de 3 personas. Si no tienes equipo, ¡el club te ayuda a encontrar uno!
-- **700€ en premios:** Una bolsa de premios significativamente mayor para los tres mejores equipos clasificados.
-- **Problemas para todos los niveles:** Hemos diseñado retos que van desde lo más accesible, para principiantes, hasta desafíos que pondrán a prueba a los más experimentados.  
-- **Estrategia y gestión del tiempo:** La clave estará en identificar los problemas más fáciles y maximizar tus puntos. ¡La diversión está garantizada!  
-- **Ambiente inclusivo y competitivo:** Una oportunidad perfecta para aprender, mejorar tus habilidades y compartir con la comunidad.  
+- **Formato por equipos**: grupos de 3 personas. Si no tienes equipo, ¡el club te ayuda a encontrar uno!
+- **700€ en premios**: Una bolsa de premios significativamente mayor para los tres mejores equipos clasificados.
+- **Problemas para todos los niveles**: Hemos diseñado retos que van desde lo más accesible, para principiantes, hasta desafíos que pondrán a prueba a los más experimentados.  
+- **Estrategia y gestión del tiempo**: La clave estará en identificar los problemas más fáciles y maximizar tus puntos. ¡La diversión está garantizada!  
+- **Ambiente inclusivo y competitivo**: Una oportunidad perfecta para aprender, mejorar tus habilidades y compartir con la comunidad.  
+
 
 ## Lo esencial
 
-* 📍 **Ubicación:** Módulo A4.*, Escuela Técnica Superior de Ingeniería Informática, Universidad de Sevilla.
-* 📅 **Fecha:** 13 de febrero de 2026.
-* 🕒 **Horario:** 15:30 - 20:00 (3 horas de programación efectiva).
-* 💰 **Coste:** 1€ por persona (mediante Bizum previo).
+* 📍 **Ubicación:** Módulo A4.*, Escuela Técnica Superior de Ingeniería Informática, Universidad de Sevilla
+* 📅 **Fecha:** 13 de febrero de 2026
+* 🕒 **Horario:** 15:30 - 20:00 (3 horas de programación)
+* 💰 **Coste:** 1€ por persona
 
-✨ **Inscripción y detalles** Recuerda que para optar a premios debes ser estudiante (Uni, FP o Bachillerato), aunque la participación online está abierta a todo el mundo. ¡Asegura tu plaza rellenando el [formulario oficial](https://forms.gle/tfPk1dFhQm7wcbox7)!
+✨ **Inscripción y detalles**: Recuerda que para optar a premios debes ser estudiante (Uni, FP o Bachillerato), aunque la participación online está abierta a todo el mundo. ¡Asegura tu plaza rellenando el [formulario de solicitud](https://forms.gle/tfPk1dFhQm7wcbox7)!
 
 
 
 🚀 **¡Forma tu equipo, prepara tu dossier y demuestra tu nivel en el CompliCAUS V!**
 
-<div>
-  <p>Con el apoyo de:</p>
+Con el apoyo de:
 
-  <div style="display: flex; justify-content: center; flex-direction: column">
-    <a href="https://www.nextdigital.es/">
-        <img src="logo_next_digital.png" alt="Descripción de la imagen" style="width: 25rem; max-width: 80%; margin: auto;">
-    </a>
-  </div>
-  <br>
-  <div style="display: flex; justify-content: center; flex-direction: column">
-    <a href="https://www.informatica.us.es/">
-        <img src="logo-ETSII-Color.png" alt="Descripción de la imagen" style="width: 25rem; max-width: 80%; margin: auto;">
-    </a>
-  </div>
+<div style="display: flex; justify-content: center; flex-direction: column; gap: 1rem;">
+  <a href="https://www.nextdigital.es/">
+      <img src="/images/global/logo-next-digital-fondo-blanco.png" alt="Logo de Next Digital" style="width: 25rem; max-width: 80%; margin: auto;">
+  </a>
+  <a href="https://www.informatica.us.es/">
+      <img src="/images/global/logo-etsii-fondo-blanco.png" alt="Logo de la Escuela Técnica Superior de Ingeniería Informática" style="width: 25rem; max-width: 80%; margin: auto; border-radius: .5rem;">
+  </a>
 </div>
