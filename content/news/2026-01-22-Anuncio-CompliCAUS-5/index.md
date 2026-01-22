@@ -9,7 +9,7 @@ description: "El Club de Algoritmia de la Universidad de Sevilla presenta la qui
 author: Administradores CAUS
 authorimage: ../assets/images/global/author-CAUS.webp
 categories: ["Noticias"]
-tags: Eventos
+tags: ["Eventos"]
 ---
 
 <p class="mb-8 font-light text-center text-gray-500 lg:mb-16 dark:text-gray-400 sm:text-xl">
@@ -46,20 +46,17 @@ En esta ocasión, buscamos la experiencia más profesional posible, por lo que u
 🚀 **¡Forma tu equipo, prepara tu dossier y demuestra tu nivel en el CompliCAUS V!**
 
 <div>
-  <p class="mb-4">Con el apoyo de:</p>
+  <p>Con el apoyo de:</p>
 
-  <div class="flex flex-col items-center">
+  <div style="display: flex; justify-content: center; flex-direction: column">
     <a href="https://www.nextdigital.es/">
-        <img src="logo_next_digital.png" alt="Logo de NEXT DIGITAL" class="w-[25rem] max-w-[80%]">
+        <img src="logo_next_digital.png" alt="Descripción de la imagen" style="width: 25rem; max-width: 80%; margin: auto;">
     </a>
-    <p class="mt-2">Patrocinador Platino</p>
   </div>
-  <div class="flex flex-col items-center mt-4">
+  <br>
+  <div style="display: flex; justify-content: center; flex-direction: column">
     <a href="https://www.informatica.us.es/">
-        <img src="logo-ETSII-Color.png" alt="Logo de la Escuela Técnica Superior de Ingeniería Informática" class="w-[25rem] max-w-[80%]">
+        <img src="logo-ETSII-Color.png" alt="Descripción de la imagen" style="width: 25rem; max-width: 80%; margin: auto;">
     </a>
-    <p class="mt-2">Patrocinador Platino y sede del concurso</p>
   </div>
 </div>
-
-
