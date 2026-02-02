@@ -34,4 +34,15 @@ Dar el salto de la universidad al mundo laboral en informática genera muchas du
 También entenderás por fin qué significan conceptos como salario bruto y neto, IRPF o retribución flexible, y qué debes tener en cuenta si te planteas trabajar en el extranjero. Una charla práctica, sin teoría innecesaria, pensada para que salgas con ideas claras, más confianza y ventaja frente a otros candidatos. Ideal si quieres empezar tu carrera profesional con buen pie.
 {{< /charla >}}
 
+{{< charla
+    title="Grupos y Topología, un matrimonio feliz"
+    date="Jueves, 26 de febrero de 2026"
+    time="19:00"
+    location="Salón de Actos, Facultad de Matemáticas"
+    speaker="Ramón Flores"
+    stream_url="null"
+>}}
+La teoría de grupos y la topología se conocieron de jóvenes, se miraron a los ojos y empezaron a caminar juntas, dándole mucho cada una a la otra. En esta charla repasaremos algunos de los más bonitos encuentros que hicieron este matrimonio tan feliz
+{{< /charla >}}
+
 </div>
