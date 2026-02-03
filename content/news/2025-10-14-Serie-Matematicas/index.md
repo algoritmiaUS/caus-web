@@ -12,18 +12,18 @@ categories: Eventos
 tags: Eventos
 ---
 
-# Charla de noviembre
+# Charla de febrero
 
 <div class="space-y-6 dark:bg-gray-900 dark:text-gray-100">
 {{< charla
-    title="Tornados, olas del mar y gotas: ¡mates a la carga!"
-    date="Jueves, 27 de noviembre de 2025"
+    title="Grupos y Topología, un matrimonio feliz"
+    date="Jueves, 26 de febrero de 2026"
     time="19:00"
     location="Salón de Actos, Facultad de Matemáticas"
-    speaker="Francisco Gancedo"
-    stream_url="https://www.youtube.com/live/cL0Gf9TBK-g"
+    speaker="Ramón Flores"
+    stream_url=""
 >}}
-En esta charla, realizando algunos experimentos, se pretende ilustrar el papel que juegan las matemáticas en la comprensión de cómo evolucionan los fluidos. Esto va desde el movimiento de los tornados, pasando por la ruptura de olas hasta la evolución de gotas. Se presentarán problemas clásicos, aplicaciones a nuestro día a día y habrá mucho dinero en juego... ¡Un millón de dólares!
+La teoría de grupos y la topología se conocieron de jóvenes, se miraron a los ojos y empezaron a caminar juntas, dándole mucho cada una a la otra. En esta charla repasaremos algunos de los más bonitos encuentros que hicieron este matrimonio tan feliz.
 {{< /charla >}}
 </div>
 <br>
@@ -42,5 +42,16 @@ En esta charla, realizando algunos experimentos, se pretende ilustrar el papel q
 Pudiera ser que Srinivasa Ramanujan sea uno de los matemáticos más conocidos por los no matemáticos.  
 De él se han escrito novelas y se han hecho películas, siendo la más conocida *The Man Who Knew Infinity*.  
 Pero ¿qué hizo a Ramanujan tan especial? En esta **charla informal** hablaremos de algunas de las matemáticas que hizo el genio indio y, en particular, del casi desconocido mundo, para el no iniciado, de las *q-series*.
+{{< /charla >}}
+
+{{< charla
+    title="Tornados, olas del mar y gotas: ¡mates a la carga!"
+    date="Jueves, 27 de noviembre de 2025"
+    time="19:00"
+    location="Salón de Actos, Facultad de Matemáticas"
+    speaker="Francisco Gancedo"
+    stream_url="https://www.youtube.com/live/cL0Gf9TBK-g"
+>}}
+En esta charla, realizando algunos experimentos, se pretende ilustrar el papel que juegan las matemáticas en la comprensión de cómo evolucionan los fluidos. Esto va desde el movimiento de los tornados, pasando por la ruptura de olas hasta la evolución de gotas. Se presentarán problemas clásicos, aplicaciones a nuestro día a día y habrá mucho dinero en juego... ¡Un millón de dólares!
 {{< /charla >}}
 </div>
