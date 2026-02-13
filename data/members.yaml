@@ -29,7 +29,7 @@ administrators:
   - name: "Fernando Giráldez Curquejo"
     role: "Webmaster · Problem Solver"
     image: "/images/admins/fernando-giraldez.png"
-    website: "https://raquezin.github.io"
+    website: https://raquezin.github.io
     linkedin: fgiraldezc
     github: Raquezin
 
