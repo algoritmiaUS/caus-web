@@ -40,7 +40,7 @@ También entenderás por fin qué significan conceptos como salario bruto y neto
     time="19:00"
     location="Salón de Actos, Facultad de Matemáticas"
     speaker="Ramón Flores"
-    stream_url=""
+    stream_url="https://www.youtube.com/live/obpuO4YQsDQ"
 >}}
 La teoría de grupos y la topología se conocieron de jóvenes, se miraron a los ojos y empezaron a caminar juntas, dándole mucho cada una a la otra. En esta charla repasaremos algunos de los más bonitos encuentros que hicieron este matrimonio tan feliz.
 {{< /charla >}}

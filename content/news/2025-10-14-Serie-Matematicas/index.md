@@ -21,7 +21,7 @@ tags: Eventos
     time="19:00"
     location="Salón de Actos, Facultad de Matemáticas"
     speaker="Ramón Flores"
-    stream_url=""
+    stream_url="https://www.youtube.com/live/obpuO4YQsDQ"
 >}}
 La teoría de grupos y la topología se conocieron de jóvenes, se miraron a los ojos y empezaron a caminar juntas, dándole mucho cada una a la otra. En esta charla repasaremos algunos de los más bonitos encuentros que hicieron este matrimonio tan feliz.
 {{< /charla >}}
@@ -37,7 +37,7 @@ La teoría de grupos y la topología se conocieron de jóvenes, se miraron a los
     time="19:00"
     location="Salón de Actos, Facultad de Matemáticas"
     speaker="Renato Álvarez-Nodarse (Catedrático de la Facultad de Matemáticas de la US)"
-    stream_url="https://www.youtube.com/watch?v=SP4JssjZroI"
+    stream_url="https://www.youtube.com/live/SP4JssjZroI"
 >}}
 Pudiera ser que Srinivasa Ramanujan sea uno de los matemáticos más conocidos por los no matemáticos.  
 De él se han escrito novelas y se han hecho películas, siendo la más conocida *The Man Who Knew Infinity*.  
