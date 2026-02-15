@@ -3,7 +3,7 @@ title: "Celebrado el CompliCAUS V"
 date: 2026-02-15T09:00:00+00:00
 draft: false
 language: es
-featured_image: ../assets/images/featured/CompliCAUS-5-Foto-grupal.jpg ## TODO
+featured_image: ../assets/images/featured/CompliCAUS-5-Foto-grupal.jpg
 summary: "El CompliCAUS V reunió a estudiantes de distintos niveles para una intensa competición de programación organizada por el Club de Algoritmia de la Universidad de Sevilla."
 description: "La quinta edición de CompliCAUS se celebró con éxito, congregando a estudiantes de diferentes instituciones y niveles académicos en un desafío de algoritmia de tres horas."
 author: Administradores CAUS
@@ -36,13 +36,43 @@ Además, el concurso contó con participación a distancia de varios equipos, en
 
 Al finalizar la competición, nos dirigimos al Salón de Grados de la ETSII, donde los responsables del CAUS, Pablo Dávila, Pablo Reina y Kenny Flores, expusieron las estrategias utilizadas para resolver los problemas propuestos. Durante esta sesión, compartieron valiosos consejos y realizaron un análisis detallado de las soluciones.
 
-![Resolución problemas](## todo: resolucion-problemas.jpg)
+![Resolución problemas](resolucion-problemas.jpg)
 
 # Entrega de premios
 
 La competición fue reñida desde el inicio, con constantes cambios en los primeros puestos durante la primera hora. Finalmente, estos fueron los ganadores:
 
-{{< rankings "complicaus5" >}}
+### 🥇 Primer premio: Time Limit Subceeded
+
+- **Jesús Racero San Román** (Grado en Ingeniería Informática - Ingeniería del Software Bilingüe)
+- **Javier Giménez Cabanillas** (Doble Grado en Ingeniería Informática - Tecnologías Informáticas y Matemáticas)
+- **Anselmo Jiménez Zambrano** (Doble Grado en Ingeniería Informática - Tecnologías Informáticas y Matemáticas)
+
+<img src="/images/winners-complicaus-5/first.jpg" alt="Primer premio: Time Limit Subceeded" width="500"/>
+
+### 🥈 Segundo premio: TLE Climbers
+
+- **Julio Ojeda Infantes** (Grado en Matemáticas)
+- **Lorenzo Tagua** (Grado en Ingeniería de Tecnologías Industriales)
+- **Mario Mora Cortés** (Grado en Matemáticas)
+
+<img src="/images/winners-complicaus-5/second.jpg" alt="Segundo premio: TLE Climbers" width="500"/>
+
+### 🥉 Tercer premio: Three pointers
+
+- **Enrique Dávila Alcalá** (Grado en Ingeniería Informática - Tecnologías Informáticas)
+- **Lester Adrián Arencibia Arteaga** (Grado en Ingeniería Informática - Tecnologías Informáticas)
+- **Nacho Gorostidi Colás** (Grado en Ingeniería Informática - Tecnologías Informáticas)
+
+<img src="/images/winners-complicaus-5/third.jpg" alt="Tercer premio: Three pointers" width="500"/>
+
+### 🎖️ Premio secundario: Los problemas de Reina
+
+- **Alejandro Pineda Martín** (Grado en Ingeniería Informática - Tecnologías Informáticas)
+- **Jesús Pérez Bazarot** (Grado en Ingeniería Informática - Ingeniería de Computadores)
+- **Miguel España Montero** (Doble Grado Física + Matemáticas)
+
+<img src="/images/winners-complicaus-5/secundario.jpg" alt="Premio secundario: Los problemas de Reina" width="500"/>
 
 # Agradecimientos
 
