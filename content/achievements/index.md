@@ -5,10 +5,17 @@ date: 2025-01-06T21:23:52+02:00
 draft: false
 language: es
 description: Logros
-# featured_image: ../assets/images/featured/featured-img-placeholder.png
 ---
 
 En nuestro primer año de actividad, hemos recibido diversos premios y reconocimientos que reflejan nuestro compromiso con la innovación y el trabajo en equipo. Estos logros, obtenidos en competiciones locales y nacionales, son un testimonio de nuestra dedicación y pasión por resolver problemas a través de la tecnología. A continuación, presentamos los premios y menciones que hemos alcanzado hasta la fecha.
+
+# 2026
+
+## Ganadores CompliCAUS V
+
+El 13 de febrero de 2025 se celebró la quinta edición del CompliCAUS. Aprovechando que el evento se celebra muy cerca de San valentín, se decidió realizar una competición en equipos de 3 personas, al puro estilo de Ada Byron. Los siguientes equipos resultaron ganadores:
+
+{{< team-rankings "complicaus5" >}}
 
 # 2025
 
