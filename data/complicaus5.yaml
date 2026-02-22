@@ -1,0 +1,22 @@
+teams:
+  - position: 1
+    name: "Time Limit Subceeded"
+    members:
+      - "Jesús Racero San Román"
+      - "Javier Giménez Cabanillas"
+      - "Anselmo Jiménez Zambrano"
+    image: "/images/winners-complicaus-5/first.jpg"
+  - position: 2
+    name: "TLE Climbers"
+    members:
+      - "Julio Ojeda Infantes"
+      - "Lorenzo Tagua"
+      - "Mario Mora Cortés"
+    image: "/images/winners-complicaus-5/second.jpg"
+  - position: 3
+    name: "Three pointers"
+    members:
+      - "Enrique Dávila Alcalá"
+      - "Lester Adrián Arencibia Arteaga"
+      - "Nacho Gorostidi Colás"
+    image: "/images/winners-complicaus-5/third.jpg"
