@@ -32,9 +32,9 @@ params:
   disable_stay_uptodate: false
 
   p1:
-    image: "images/pages/CompliCAUS-2-Foto-grupal.jpg" 
+    image: "images/pages/complicaus-v.webp" 
   p2:
-    image: "images/pages/rocodromo.jpg"
+    image: "images/pages/roco.jpg"
   p3:
     links:
         - url: "/community-partners"
