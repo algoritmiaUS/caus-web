@@ -52,4 +52,4 @@ Agradecemos a la Escuela Técnica Superior de Ingeniería Informática por su pa
 
 También extendemos nuestro agradecimiento a [Ramsés Rodríguez Martínez](https://www.linkedin.com/in/ramsesrodriguez/) y [Isabel Rodríguez Olivar](https://www.linkedin.com/in/isabel-rodriguez-olivar-573124b/), representantes de [Next Digital](https://www.nextdigital.es/), por su patrocinio y por todas las facilidades brindadas para el buen desarrollo del concurso.  
 
-![alt text](logo_next_digital.png)
+![Logo de Next Digital](/images/global/Logo_ND.png)
