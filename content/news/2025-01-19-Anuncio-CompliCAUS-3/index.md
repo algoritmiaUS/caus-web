@@ -44,7 +44,7 @@ Por petición popular, y gracias a los comentarios recibidos sobre la edición a
 
   <div style="display: flex; justify-content: center; flex-direction: column">
     <a href="https://www.nextdigital.es/">
-        <img src="logo_next_digital.png" alt="Descripción de la imagen" style="width: 25rem; max-width: 80%; margin: auto;">
+        <img src="/images/global/Logo_ND.png" alt="Descripción de la imagen" style="width: 25rem; max-width: 80%; margin: auto;">
     </a>
     <p style="margin: auto">Patrocinador Platino</p>
   </div>
