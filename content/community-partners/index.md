@@ -23,7 +23,7 @@ Desde el CAUS, queremos expresar nuestro más sincero agradecimiento por su apoy
 
 <p>La Escuela Técnica Superior de Ingeniería Informática (ETSII) de la Universidad de Sevilla, establecida en 2001, ocupa el antiguo edificio de la Escuela Técnica Superior de Ingenieros Industriales, recientemente renovado. Con una superficie de 24.000 m², la ETSII ofrece modernas instalaciones que incluyen aulas, laboratorios, una biblioteca y un centro de cálculo propio.</p>
 <p>Actualmente, la ETSII no solo es nuestra sede principal para concursos, charlas y sesiones de trabajo, sino un pilar fundamental del CAUS. Agradecemos especialmente su colaboración como patrocinador de los premios de CompliCAUS IV, así como del tercer puesto y el premio especial al último problema resuelto en la edición actual.</p>
-<img src="/images/global/logo-ETSII-Color.png" alt="Descripción de la imagen" style="width: 30rem; margin: auto;">
+<img src="/images/global/logo-ETSII-Color.png" alt="Logo de la ETSII" style="width: 30rem; margin: auto;">
 
 
 <br>
