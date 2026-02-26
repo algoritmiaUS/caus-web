@@ -37,7 +37,7 @@ Desde el CAUS, queremos expresar nuestro más sincero agradecimiento por su apoy
   <div  style="padding-left: 2em;">
   <p><a href="https://www.nextdigital.es/">Next Digital</a> es una empresa española especializada en desarrollo de software, ingeniería de datos e innovación tecnológica. Next Digital lidera la transformación digital de empresas mediante soluciones en Big Data, Business Intelligence, Machine Learning, plataformas en la nube, interfaces conversacionales... Su equipo se enfoca en acompañar a otras organizaciones en su proceso de transformación digital, poniendo énfasis en la innovación y el diseño.
   Desde el CAUS queremos agradecer su enorme apoyo haciendo posible el <a href="/news/2025-01-19-anuncio-complicaus-3">CompliCAUS III</a> como patrocinador Platino.</p>
-  <img src="/images/global/Logo_ND.png" alt="Descripción de la imagen" style="width: 30rem; margin: auto;">
+  <img src="/images/global/Logo_ND.png" alt="Logo de Next Digital" style="width: 30rem; margin: auto;">
   <br>
   </div>
 </details>
