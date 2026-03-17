@@ -4,7 +4,7 @@ date: 2026-03-17T12:20:00+00:00
 draft: false
 language: es
 featured_image: ../assets/images/featured/charlas.png
-summary: Charlas y talleres organizados por el CAUS en febrero de 2026. Se trata de ponencias sobre informática tanto de profesionales como de estudiantes.
+summary: Charlas y talleres organizados por el CAUS en marzo de 2026. Se trata de ponencias sobre informática tanto de profesionales como de estudiantes.
 description: El Club de Algoritmia de la Universidad de Sevilla organiza una serie de charlas y talleres prácticos en temas de informática, dirigidos por expertos de la industria, profesores y estudiantes de la propia universidad. Estas actividades ofrecen una excelente oportunidad para profundizar en diversos temas y habilidades en programación y algoritmia, además de promover el intercambio de conocimientos entre la comunidad académica ¡Anímate a participar y contribuir con tus propias ideas!
 author: Administradores CAUS
 authorimage: ../assets/images/global/author-CAUS.webp
