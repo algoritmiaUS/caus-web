@@ -23,6 +23,10 @@
       <strong>Descripción:</strong> 
       {{ .Inner | markdownify }}
     </div>
-    <p class="text-sm md:text-base text-gray-500 dark:text-gray-400">Ponencia en español</p>
+    {{ with .Get "language" }}
+<p class="text-sm md:text-base text-gray-500 dark:text-gray-400">
+  Ponencia en {{ . }}
+</p>
+{{ end }}
   </div>
 </div>
