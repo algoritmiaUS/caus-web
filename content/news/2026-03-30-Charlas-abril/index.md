@@ -17,18 +17,17 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
 - [En este formulario podéis indicar el horario y la temática que mejor os viene para estas actividades](https://forms.gle/UFRSKaJdg7NxaRg69)
 - [En este otro podéis apuntaros para dar vuestra propia charla](https://forms.gle/LpYS4ih8dFgfuX7N7)
 
-# Charlas de Marzo
+# Charlas de Abril
 
 <div class="space-y-6 dark:bg-gray-900 dark:text-gray-100">
-
 {{< charla
-    title="From ChatGPT User to AI Builder"
-    date="Martes, 24 de marzo de 2026"
-    time="20:00"
-    location="Sala multiusos de la ETSII + online"
-    speaker="Jelena Duric (Campus Ambassador @Jetbrains)"
-    language="inglés"
-    stream_url="https://www.youtube.com/live/xG6bDoLRmDw"
+    title="Empaquetamientos de esferas: no cabe ni un alfiler"
+    date="Martes, 14 de abril de 2026"
+    time="18:00"
+    location="Salón de Actos, Facultad de Matemáticas"
+    speaker="Alberto Castaño"
+    stream_url="https://www.youtube.com/live/vy7b05gvRU4"
 >}}
-Step beyond using AI and start building with it! In this interactive workshop, you’ll learn the fundamentals of LLMs and discover how tools like ChatGPT actually work. Then you’ll take it a step further by creating your own custom GPT and exploring how AI can be connected to real tools and workflows. No prior AI experience is required, just curiosity and the desire to turn AI from something you use into something you build. Oh, and you might even win a fun prize!
+En esta charla hablaremos de simetría y orden en el espacio y de cómo un problema tan natural como preguntarse por cómo llenar lo más posible el espacio con esferas es tan difícil, algunas de sus soluciones involucran a tantas áreas de las matemáticas y aún hoy en día queda mucho que explorar.
 {{< /charla >}}
+</div>
