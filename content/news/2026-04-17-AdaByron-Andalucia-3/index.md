@@ -102,7 +102,7 @@ Este equipo ganó la **categoría C** (tercer curso o superior),
 
 # Kenny, no se si hay mas equipos
 
-Cuatro equipos de la fase Regionall de Andalucía han logrado clasificarse para la **final nacional del Concurso Ada Byron**, que se celebrará a principios de julio en la Facultad de Informática de la Universidad Complutense de Madrid:
+Cuatro equipos de la fase Regional de Andalucía han logrado clasificarse para la **final nacional del Concurso Ada Byron**, que se celebrará a principios de julio en la Facultad de Informática de la Universidad Complutense de Madrid:
 
 - **SQLito** (US) – Categoría AB
 - **Just Simply FLML** (US) – Categoría AB
