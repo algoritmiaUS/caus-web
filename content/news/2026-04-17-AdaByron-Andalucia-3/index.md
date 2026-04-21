@@ -149,7 +149,7 @@ A pesar de ser dos integrantes los que participaron, quedaron en un decimo lugar
 
 # Kenny
 
-Este equipo, habiendo quedado en un increíble primer lugar en el ranking general, y teniendo aún más mérito llevando tan poco tiempo en el mundillo de la programación competitiva. Así que muchas felicidades
+Este equipo ha quedado en un increíble primer lugar en el ranking general, lo cual tiene aún más mérito considerando el poco tiempo que llevan en el mundillo de la programación competitiva. ¡Muchas felicidades!
 
 - **Julio Ojeda Infantes** (Grado en Matemáticas)
 - **Lorenzo Tagua Santana** (Grado en Ingeniería de Tecnologías Industriales)
