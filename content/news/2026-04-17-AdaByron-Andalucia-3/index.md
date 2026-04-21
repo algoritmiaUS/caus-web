@@ -171,7 +171,7 @@ Aunque no pertenecen a nuestra universidad, participaron en la sede de Sevilla y
 
 <img src="boquerones.jpg" alt="Boquerones" width="500"/>
 
-**Los BoquerO(n³) Los únicos en la sede de sevilla que programaron con Java**
+**Los BoquerO(n³): Los únicos en la sede de Sevilla que programaron con Java.**
 
 ### Otros equipos pertenecientes al CAUS
 
