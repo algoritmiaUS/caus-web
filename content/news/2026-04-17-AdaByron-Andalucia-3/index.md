@@ -54,7 +54,7 @@ Premio secundario 1.
 
 Salvador de la Torre Gonzalez, Ángela Martínez Carrasco, Antonio Maria Halcon Alvarez
 Premio secundario 2.
-<img src="./premio_secundario2.jpg" alt="Premio secundario 1" width="500" />
+<img src="./premio_secundario2.jpg" alt="Premio secundario 2" width="500" />
 
 ### 🥇 SQLito – Categoría A
 
