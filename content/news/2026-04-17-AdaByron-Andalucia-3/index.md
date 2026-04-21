@@ -161,7 +161,7 @@ Este equipo ha quedado en un increíble primer lugar en el ranking general, lo c
 
 ---
 
-### 🥇 Los BoquerO(n³)** (UNED) – Categoría C
+### 🥇 Los BoquerO(n³) (UNED) – Categoría C
 
 Aunque no pertenecen a nuestra universidad, participaron en la sede de Sevilla y dejaron huella por su cercanía, compañerismo y nivel competitivo. ¡Enhorabuena!
 
