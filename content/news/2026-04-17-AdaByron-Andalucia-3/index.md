@@ -31,7 +31,7 @@ En total más de 200 participantes repartidos en *69 equipos* participaron en es
 
 - Universidad de Almería: 2 equipos
 - Universidad de Cádiz: 6 equipos
-- Universidad de Cordoba: 5 equipos
+- Universidad de Córdoba: 5 equipos
 - Universidad de Granada: 8 equipos
 - Universidad de Málaga: 26 equipos
 - Universidad de Sevilla: 20 equipos
