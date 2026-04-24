@@ -3,8 +3,9 @@ title: "III Edición Regional de Andalucía del Concurso Ada Byron"
 date: 2026-04-17T13:00:00+00:00
 draft: false
 language: es
-featured_image: ../assets/images/featured/AdaByron-Regional-III.jpg
-summary: La III Edición Regional de Andalucía del concurso Ada Byron reunió a más de 200 participantes distribuidos en 69 equipos de distintas universidades andaluzas y la UNED. El certamen se celebró simultáneamente en cinco sedes y consistió en una competición de 4 horas para resolver 13 problemas de programación. Destacaron los equipos de la Universidad de Sevilla, con tres clasificados para la final nacional en Madrid. El evento contó con el apoyo del Club de Algoritmia de la Universidad de Sevilla y la colaboración de las distintas sedes universitarias.
+featured_image: ../assets/images/featured/Ada-Byron-Nacional-III.webp
+
+summary: La III Edición Regional de Andalucía del concurso Ada Byron reunió a más de 200 participantes distribuidos en 69 equipos de distintas universidades andaluzas y la UNED. El certamen se celebró simultáneamente en seis sedes y consistió en una competición de 4 horas para resolver 13 problemas de programación. Destacaron los equipos de la Universidad de Sevilla, con tres clasificados para la final nacional en Madrid. El evento contó con el apoyo del Club de Algoritmia de la Universidad de Sevilla y la colaboración de las distintas sedes universitarias.
 description: La III Edición Regional de Andalucía del Concurso Ada Byron se celebró con gran éxito el 17 de abril, reuniendo a 69 equipos y más de 200 estudiantes de universidades andaluzas y la UNED. Durante 4 horas de intensa competición, los participantes resolvieron 13 problemas de alta dificultad. La sede de Sevilla destacó con tres equipos clasificados para la final nacional en Madrid. La organización y supervisión del evento fueron posibles gracias al compromiso del Club de Algoritmia de la Universidad de Sevilla y al trabajo coordinado entre las universidades andaluzas. Esta edición consolida el concurso como una cita clave para la promoción de la programación competitiva en la región.
 
 
@@ -14,81 +15,42 @@ categories: Eventos
 tags: Eventos
 ---
 
-El viernes 17 de abril se celebró en la ETSII la tercera edición de la **Regional de Andalucía** del concurso **Ada Byron**, un certamen de programación cuyo objetivo es fomentar la participación de estudiantes en el prestigioso concurso internacional **ICPC**.
+El pasado viernes 17 de abril, en la Escuela Técnica Superior de Ingeniería Informática (ETSII) se celebró la III Edición Regional de Andalucía del Concurso Ada Byron. Este certamen no solo premia la destreza lógica, sino que sirve como plataforma de preparación para el prestigioso concurso internacional ICPC.
 
 ## Sedes y Universidades Participantes
 
-Ada Byron Andalucía tuvo lugar simultáneamente en varias sedes de las universidades andaluzas:
+La competición se desarrolló de forma simultánea en seis sedes clave de la geografía andaluza, fomentando la descentralización y la participación masiva:
 
-- Escuela Superior de Ingeniería de la Universidad de Almería
-- Escuela Superior de Ingeniería de la Universidad de Cádiz
-- Escuela Politécnica Superior de Córdoba de la Universidad de Córdoba
-- Escuela Técnica Superior Ingenierías Informática y de Telecomunicación de la Universidad de Granada
-- Escuela Técnica Superior de Ingeniería Informática de la Universidad de Málaga
-- Escuela Técnica Superior de Ingeniería Informática de la Universidad de Sevilla
+| Sede | Centro                                                                 | Universidad                |
+|------|------------------------------------------------------------------------|----------------------------|
+| 1    | Escuela Técnica Superior de Ingeniería Informática                     | Universidad de Sevilla     |
+| 2    | Escuela Técnica Superior de Ingenierías Informática y de Telecomunicación | Universidad de Granada     |
+| 3    | Escuela Técnica Superior de Ingeniería Informática                     | Universidad de Málaga      |
+| 4    | Escuela Superior de Ingeniería                                         | Universidad de Almería     |
+| 5    | Escuela Superior de Ingeniería                                         | Universidad de Cádiz       |
+| 6    | Escuela Politécnica Superior de Córdoba                                | Universidad de Córdoba     |
 
-En total más de 200 participantes repartidos en *69 equipos* participaron en esta edición. La distribución de los equipos fue la siguiente:
+En total, el evento contó con 204 participantes integrados en 69 equipos. La distribución por centros refleja el creciente interés por la algoritmia en nuestra comunidad:
 
-- Universidad de Almería: 2 equipos
-- Universidad de Cádiz: 6 equipos
-- Universidad de Córdoba: 5 equipos
-- Universidad de Granada: 8 equipos
-- Universidad de Málaga: 26 equipos
-- Universidad de Sevilla: 20 equipos
-- Universidad Nacional de Educación a Distancia (UNED): 1 equipo
-- Universidad Europea Andalucía(UEA): 1 equipo
+| Universidad                                             | Nº de equipos |
+|----------------------------------------------------------|--------------|
+| Universidad de Almería                                    | 2            |
+| Universidad de Cádiz                                      | 6            |
+| Universidad de Córdoba                                    | 5            |
+| Universidad de Granada                                    | 8            |
+| Universidad de Málaga                                     | 26           |
+| Universidad de Sevilla                                    | 20           |
+| Universidad Nacional de Educación a Distancia (UNED)      | 1            |
+| Universidad Europea Andalucía (UEA)                             | 1            |
 
-## Competición y resultados
 
-Durante las 4 horas de competición, los equipos se enfrentaron a la resolución de 13 desafiantes problemas de programación. En la sede de Sevilla, los ganadores por categoría fueron:
+## Equipos premiados en la sede de Sevilla
 
----
+Durante 4 horas de máxima concentración, los equipos se enfrentaron a un panel de 13 problemas de diversa complejidad. En la sede de Sevilla, los resultados fueron excepcionales:
 
-### TLEtubbies
+### 🥇 TLE Climbers (Campeones Regionales)
 
-Sebastián Romero Moreno, Carlos Gamito Moreno, Jesús Núñez Pelayo
-Premio secundario 1.
-
-<img src="./premio_secundario1.jpg" alt="Premio secundario 1" width="500" />
-### HaskellRunners
-
-Salvador de la Torre Gonzalez, Ángela Martínez Carrasco, Antonio Maria Halcon Alvarez
-Premio secundario 2.
-<img src="./premio_secundario2.jpg" alt="Premio secundario 2" width="500" />
-
-### 🥇 SQLito – Categoría A
-
-# Kenny
-
-Este equipo obtuvo el **primer lugar** en la sede de Sevilla en la categoría A (primer curso). Aunque sufrieron con el problema M, hicieron sudar muchísimo al resto de participantes. ¡Enhorabuena!
-
-- **Inés Dávila Herrero** (Grado en Ingeniería Informática-Inteligencia Artificial)
-- **Lucas Franco Borrero** (Grado en Matemáticas)
-- **Fernando Giráldez Curquejo** ( Grado en Ingeniería Informática-Ingeniería de Computadores)
-
-<img src="ganadores-A.jpg" alt="SQLito" width="500"/>
-
----
-
-### 🥇 Just Simply FLML – Categoría B
-
-# Kenny
-
-Ganadores de la **categoría B** (segundo curso), que en este equipo hubo un integrante en el que se pasó estudiando un solo tipo de problema (Tries) y entró. ¡Gran actuación!
-
-- **Jesús Racero San Román** (Grado en Ingeniería Informática – Ingeniería del Software)
-- **Jesús Vílchez Martínez** (Grado en Ingeniería Informática – Ingeniería del Software)
-- **José Escalera García** (Grado en Ingeniería Informática – Ingeniería del Software)
-
-<img src="ganadores-B.jpg" alt="Just Simply FLML" width="500"/>
-
----
-
-### 🥇 TLE Climbers – Categoría C
-
-# Kenny
-
-Este equipo ganó la **categoría C** (tercer curso o superior),
+Este equipo no solo dominó la Categoría C, sino que se alzó con el primer puesto de la clasificación general de Andalucía. ¡Enhorabuena!
 
 - **Julio Ojeda Infantes** (Grado en Matemáticas)
 - **Lorenzo Tagua Santana** (Grado en Ingeniería de Tecnologías Industriales)
@@ -96,107 +58,119 @@ Este equipo ganó la **categoría C** (tercer curso o superior),
 
 <img src="ganadores-C.jpg" alt="TLE Climbers" width="500"/>
 
----
+### 🥇 Just Simply FLML
 
-## Clasificados a la final nacional
-
-# Kenny, no se si hay mas equipos
-
-Cuatro equipos de la fase Regional de Andalucía han logrado clasificarse para la **final nacional del Concurso Ada Byron**, que se celebrará a principios de julio en la Facultad de Informática de la Universidad Complutense de Madrid:
-
-- **SQLito** (US) – Categoría AB
-- **Just Simply FLML** (US) – Categoría AB
-- **TLE Climbers** (US) – Categoría C
-- **Los BoquerO(n³)** (UNED) - Categoría C entre las universidades a distancia
-
----
-
-## Equipos clasificados de la sede de la Universidad de Sevilla
-
-De los 4 equipos clasificados para esta competición, 3 pertenecen a la Universidad de Sevilla. Y si contamos que el equipo de la UNED también participó en nuestra sede, podemos decir que 4 equipos han salido de la sede de la US, lo que supone un logro histórico en comparación con el año pasado. Los equipos clasificados para el nacional provenientes de nuestra sede son:
-
-### 🥇 SQLito – Categoría A
-
-Este equipo obtuvo el **primer lugar** en la sede de Sevilla en la categoría A, además de haber quedado en cuarto lugar del ranking global, por lo que tienen su merecida clasificación a la final nacional. ¡Enhorabuena!
-
-- **Inés Dávila Herrero** (Grado en Ingeniería Informática-Inteligencia Artificial)
-- **Lucas Franco Borrero** (Grado en Matemáticas)
-- **Fernando Giráldez Curquejo** (Grado en Ingeniería Informática-Ingeniería de Computadores)
-
-<img src="sqlito.jpg" alt="SQLito" width="500"/>
-
-**El equipo SQLito durante la competición.**
-
----
-
-### 🥇 Just Simply FLML – Categoría B
-
-# Kenny
-
-A pesar de ser dos integrantes los que participaron, quedaron en un decimo lugar en el ranking global, por lo que este equipo también representará a la US en su categoría más avanzada ¡Excelente trabajo!
+Este equipo, que el año pasado competía en la Categoría A, se ha proclamado este año campeón de la Categoría B.
 
 - **Jesús Racero San Román** (Grado en Ingeniería Informática – Ingeniería del Software)
 - **Jesús Vílchez Martínez** (Grado en Ingeniería Informática – Ingeniería del Software)
 - **José Escalera García** (Grado en Ingeniería Informática – Ingeniería del Software)
 
-<img src="just-simply-flml.jpg" alt="Just Simply FLML" width="500"/>
+<img src="ganadores-B.jpg" alt="Just Simply FLML" width="500"/>
 
-**El equipo Just Simply FLML durante la competición.**
+### 🥇 SQLito
 
----
+La gran sorpresa de la edición. Siendo estudiantes de primer año, lograron el cuarto lugar regional y el liderato de la Categoría A. Un debut brillante que puso en jaque a los equipos más veteranos.
 
-### 🥇 TLE Climbers – Categoría C
+- **Inés Dávila Herrero** (Grado en Ingeniería Informática - Inteligencia Artificial)
+- **Lucas Franco Borrero** (Grado en Matemáticas)
+- **Fernando Giráldez Curquejo** (Grado en Ingeniería Informática - Ingeniería de Computadores)
 
-# Kenny
+<img src="ganadores-A.jpg" alt="SQLito" width="500"/>
 
-Este equipo ha quedado en un increíble primer lugar en el ranking general, lo cual tiene aún más mérito considerando el poco tiempo que llevan en el mundillo de la programación competitiva. ¡Muchas felicidades!
 
-- **Julio Ojeda Infantes** (Grado en Matemáticas)
-- **Lorenzo Tagua Santana** (Grado en Ingeniería de Tecnologías Industriales)
-- **Mario Mora Cortés** (Grado en Matemáticas)
+### Menciones especiales
 
-<img src="tle_climbers.jpg" alt="TLE Climbers" width="500"/>
+**TLEtubbies:** ganadores del premio al "Primer Envío Correcto" del concurso. Un reconocimiento a su agilidad inicial.
 
-**El equipo TLE Climbers, uno de los representantes de la US en la categoría superior.**
+- Sebastián Romero Moreno (Grado en Ingeniería Informática - Tecnologías Informáticas)
+- Carlos Gamito Moreno (Grado en Ingeniería Informática - Tecnologías Informáticas)
+- Jesús Núñez Pelayo (Grado en Ingeniería Informática - Tecnologías Informáticas)
 
----
+<img src="./premio_secundario1.jpg" alt="Premio secundario 1" width="500" />
 
-### 🥇 Los BoquerO(n³) (UNED) – Categoría C
+**HaskellRunners:** premiados por la "Última Entrega Correcta", resolviendo un problema in extremis justo antes del cierre del juez. Un homenaje perfecto a la perseverancia (y a David Solís).
 
-Aunque no pertenecen a nuestra universidad, participaron en la sede de Sevilla y dejaron huella por su cercanía, compañerismo y nivel competitivo. ¡Enhorabuena!
+- Salvador de la Torre González (Doble Grado Ingeniería Informática y Matemáticas)
+- Ángela Martínez Carrasco (Doble Grado Ingeniería Informática y Matemáticas)
+- Antonio María Halcón Alvarez (Doble Grado Ingeniería Informática y Matemáticas)
 
-- **Ignacio de Gorostidi Colás**(Grado en Ingeniería Informática)
-- **Adrián Peinado Santiago**(Grado en Ingeniería Informática)
-- **Juan Torres Gómez**(Grado en Ingeniería Informática)
-
-<img src="boquerones.jpg" alt="Boquerones" width="500"/>
-
-**Los BoquerO(n³): Los únicos en la sede de Sevilla que programaron con Java.**
+<img src="./premio_secundario2.jpg" alt="Premio secundario 2" width="500" />
 
 ### Otros equipos pertenecientes al CAUS
 
-Además de los clasificados, queremos agradecer a los equipos por haber participado en este certamen. La verdad es que en general, el rendimiento de los equipos ha sido muy bueno.
+Queremos agradecer el esfuerzo y la representación de los otros equipos que forman parte del CAUS:
 
-## Jueces y agradecimientos
+- Pythza
+- Teorema de Pigátoras
+- MASSIVE
+- SubMassive
+- Assume Spherical Cow
+- Tung Tung Tung Bami 667
+- Los problemas de Reina
 
-Durante la competición, la resolución de dudas y la verificación de resultados proporcionados por el juez automático estuvieron a cargo de miembros del **Club de Algoritmia**, a quienes agradecemos profundamente por su dedicación y compromiso. Ellos son:
+## Clasificados a la final nacional
+
+Tras los resultados provisionales, y a falta de confirmación oficial, los siguientes equipos han asegurado prácticamente su plaza para la Final Nacional del Concurso Ada Byron, que se celebrará en julio en la Universidad Complutense de Madrid:
+
+- **SQLito** (US) – Categoría A
+- **Just Simply FLML** (US) – Categoría B
+- **TLE Climbers** (US) – Categoría C
+- **Los BoquerO(n³)** (UNED) - Categoría C entre las universidades a distancia
+
+
+## Jueces y Supervisión Técnica
+
+Detrás de cada línea de código enviada, hubo un equipo humano velando por la transparencia y el correcto funcionamiento del certamen. La resolución de dudas y la supervisión del juez automático recayó en los fundadores del Club de Algoritmia, cuya dedicación fue impecable:
 
 - **Pablo Dávila Herrero**
 - **Pablo Reina Jiménez**
 - **Kenny Jesús Flores Huamán**
 
-<img src="voluntarios.jpg" alt="voluntarios" width="500"/>
+<img src="fundadores.webp" alt="fundadores" width="500"/>
 
-Las soluciones a los problemas propuestos están disponibles en nuestro [repositorio de GitHub](https://github.com/algoritmiaUS/ada-byron), junto con una [guía detallada para abordarlos](Soluciones-Regional-Andalucia-iii.pdf).
 
-Desde la organización, también vivimos nuestro propio reto: además de supervisar cientos de envíos en C, C++, Java y Python, fue necesario resolver algunas incidencias en tiempo real, lo cual supuso un esfuerzo importante y enriquecedor.
+Como fundadores del CAUS, nos llena de orgullo ver la evolución técnica y el crecimiento de la comunidad en Sevilla. Supervisar cientos de envíos en C, C++, Java y Python, mientras gestionamos incidencias en tiempo real, ha sido un reto tan exigente como gratificante.
 
-Como fundadores del Club de Algoritmia de la Universidad de Sevilla, no podemos sino sentirnos orgullosos del crecimiento de nuestros equipos. En tan solo unas pocas ediciones hemos sido testigos de cómo han evolucionado tanto en número como en nivel, fruto de las sesiones de preparación y del entusiasmo compartido 💪🏻.
+## Soluciones y Recursos
 
-Queremos hacer una mención especial de agradecimiento a:
+Para aquellos que quieran revisar los problemas o aprender nuevas estrategias, hemos publicado todo el material técnico de la jornada:
 
-- Elena Cerezuela Escudero y Juan Antonio Álvarez, por su impecable labor organizativa en Sevilla, coordinando las sedes y preparando toda la infraestructura técnica.
-- Todo el profesorado de las universidades andaluzas que colaboró aportando problemas o actuando como coordinadores locales.
-- Y, como siempre, a Marco Antonio y Alberto Verdejo de la Universidad Complutense de Madrid, cuyo apoyo continuo hace posible que esta iniciativa siga creciendo.
+- Repositorio oficial: Encuentra el código en nuestro [GitHub](https://github.com/algoritmiaUS/ada-byron).
 
-¡Gracias por ser parte de esta aventura y por seguir promoviendo el talento y la pasión por la algoritmia!
+- Guía de resolución: Descarga la [guía detallada para abordarlos]().
+
+
+Las soluciones a los problemas propuestos están disponibles en nuestro [repositorio de GitHub](), junto con una [guía detallada para abordarlos](adabyron-regional-andalucia-2026-soluciones.pdf).
+
+
+
+## Equipo de Voluntariado
+
+Nada de esto habría sido posible sin el apoyo de los voluntarios que dedicaron su tiempo a que el evento fluyera sin problemas. Queremos agradecer especialmente a:
+
+- Araceli Guerrero Morato
+- Julia Moreno Mejías
+- Lucía Campos Díez
+- Iana Miranda Caramé
+- Aitor Rodríguez Dueñas
+- José García De Tejada Delgado
+
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
+
+  <img src="voluntarios.jpg" alt="v1" style="width: 450px; height: auto; border-radius: 8px;"/>
+  <img src="voluntarios2.webp" alt="v2" style="width: 450px; height: auto; border-radius: 8px;"/>
+</div>
+
+
+
+## Agradecimientos especiales
+
+- A Elena Cerezuela Escudero y Juan Antonio Álvarez, por una coordinación logística impecable en la sede de Sevilla.
+
+- Al profesorado de las universidades andaluzas que colaboró en la creación de problemas y la supervisión local.
+
+- A Marco Antonio, Pedro Pablo y a Alberto Verdejo (UCM), cuyo apoyo es el pilar que permite que el Ada Byron siga creciendo cada año.
+
+¡Gracias a todos por vuestro talento y pasión! Nos vemos en la final nacional.
