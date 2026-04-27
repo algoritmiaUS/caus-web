@@ -17,7 +17,7 @@ jobs:
         assignee: ['kennyfh', 'Raquezin']
     steps:
     - name: 'Auto-assign issue or pull request to ${{ matrix.assignee }}'
-      uses: pozil/auto-assign-issue@v2
+      uses: pozil/auto-assign-issue@v3
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         assignees: ${{ matrix.assignee }}
