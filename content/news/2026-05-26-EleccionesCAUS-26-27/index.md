@@ -96,7 +96,9 @@ A continuación, os presentamos a los miembros del club que han dado un paso al 
     </div>
     <div class="flex-grow text-gray-600 dark:text-gray-300 text-base leading-relaxed">
       <h3 class="text-lg font-bold text-gray-900 dark:text-white leading-tight">Fernando Giráldez Curquejo</h3>
-      <p>He mantenido la web del CAUS este último año, he actuado como problem solver y he ayudado a optimizar algunos procesos críticos. Me gustaría seguir haciéndolo. 💻</p>
+      <p>He mantenido la web del CAUS este último año, he actuado como problem solver y he ayudado a optimizar algunos procesos críticos del club. Este año vengo con muchísimas ganas de seguir aportando. 💻</p>
+      <p>Como Problem Solver, este último año me ha servido para ganar mucha experiencia compitiendo en el Ada Byron y organizando competiciones OIA. Quiero compartir todo lo que he aprendido en estos torneos y hackathons para que juntos sigamos reventando los rankings.</p>
+      <p>Como Web Master, aporto mi experiencia desarrollando aplicaciones reales a gran escala (como CTO en HomiMatch o creando PalistApp) para mantener y seguir modernizando la infraestructura del club. ¡Tengo muchas ganas de que sigamos construyendo cosas increíbles este año!</p>
     </div>
   </div>
 
