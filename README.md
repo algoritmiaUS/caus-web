@@ -13,7 +13,7 @@ Esta es la página web oficial del Club de Algoritmia de la Universidad de Sevil
 **Dependencias principales**
 
   - hugo (v0.128.2)
-  - npm (10.9.0)
+  - npm (11.14.1)
   - golang-go (1.23.2)
 
 
