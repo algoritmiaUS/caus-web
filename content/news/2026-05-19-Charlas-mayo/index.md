@@ -28,8 +28,8 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
     speaker="Miguel Pineda Martín - Matemático en Raphe mPhibr"
     stream_url="https://www.youtube.com/live/j1E9kvFkEjU"
 >}}
-Vengo de lejanas tierras de oriente a contarte como funciona tu coche, tu roomba y los robots de Marte.
+Vengo de lejanas tierras de oriente a contarte cómo funciona tu coche, tu roomba y los robots de Marte.
 
-Padezco de un extraño síndrome que me obliga a hablar de mates en cada charla. Me contendré todo lo que pueda, pero ven bajo tu propia responsabilidad
+Padezco de un extraño síndrome que me obliga a hablar de mates en cada charla. Me contendré todo lo que pueda, pero ven bajo tu propia responsabilidad.
 {{< /charla >}}
 </div>
