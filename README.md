@@ -3,8 +3,7 @@
 
 Esta es la página web oficial del Club de Algoritmia de la Universidad de Sevilla. Es un sitio web estático generado mediante el framework [Hugo](https://gohugo.io). Todo el contenido está escrito en Markdown y se puede editar empleando cualquier editor y Git. Además, se tiene una configuración de `Github Actions` que reconstruye automáticamente el sitio una vez se realicen `push` a la rama `main`.
 
-
-# Instalación 
+# Instalación
 
 **Clonar el repositorio en local**
 
@@ -12,10 +11,9 @@ Esta es la página web oficial del Club de Algoritmia de la Universidad de Sevil
 
 **Dependencias principales**
 
-  - hugo (v0.128.2)
-  - npm (10.9.0)
-  - golang-go (1.23.2)
-
+- hugo (v0.161.1)
+- npm (11.14.1)
+- golang-go (1.26.3)
 
 ## Sistemas GNU/Linux
 
@@ -30,7 +28,6 @@ sudo apt install golang-go
 npm install
 ```
 
-
 ## Sistemas Windows
 
  1. [Descargar e instalar Hugo](https://github.com/gohugoio/hugo/releases/tag/v0.128.2)
@@ -41,7 +38,6 @@ npm install
     ```Bash
     npm install
     ```
-
 
 # Ejecución
 
@@ -59,8 +55,8 @@ El código se generará en el directorio ./public.
 sudo hugo --gc --minify
 ```
 
-
 ## Agradecimientos
 
-  - [nusserstudios - TailBliss theme](https://github.com/nusserstudios/tailbliss)
-  - [Simple Icons](https://simpleicons.org/)
+- [nusserstudios - TailBliss theme](https://github.com/nusserstudios/tailbliss)
+- [Simple Icons](https://simpleicons.org/)
+
