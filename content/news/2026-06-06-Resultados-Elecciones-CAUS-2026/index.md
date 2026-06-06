@@ -57,10 +57,10 @@ El área de Marketing inicia este año una nueva etapa con el objetivo de reforz
 <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 mt-8 justify-items-center">
 
   <div class="flex flex-col items-center text-center p-4 rounded w-full max-w-[240px]">
-    <img src="julia.jpg" alt="Julia Moreno "
+    <img src="julia.jpg" alt="Julia Moreno"
          class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
          style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
-    <p class="font-semibold text-sm truncate w-full text-white">Julia Moreno </p>
+    <p class="font-semibold text-sm truncate w-full text-white">Julia Moreno</p>
     <p class="text-xs text-slate-400 text-wrap text-center mt-1 leading-tight">
       Estudiante de bachillerato
     </p>
@@ -76,21 +76,21 @@ Además, contaremos también con un grupo de colaboradores que apoyarán en even
     <img src="araceli.jpg" alt="Araceli Guerrero"
          class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
          style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
-    <p class="font-semibold text-sm truncate w-full text-white">Araceli Guerrero </p>
+    <p class="font-semibold text-sm truncate w-full text-white">Araceli Guerrero</p>
   </div>
 
-   <div class="flex flex-col items-center text-center p-4 rounded w-full max-w-[240px]">
-    <img src="lucia-diez.jpg" alt="Lucía Campos "
+  <div class="flex flex-col items-center text-center p-4 rounded w-full max-w-[240px]">
+    <img src="lucia-diez.jpg" alt="Lucía Campos"
          class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
          style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
-    <p class="font-semibold text-sm truncate w-full text-white">Lucía Campos </p>
+    <p class="font-semibold text-sm truncate w-full text-white">Lucía Campos</p>
   </div>
 
-   <div class="flex flex-col items-center text-center p-4 rounded w-full max-w-[240px]">
+  <div class="flex flex-col items-center text-center p-4 rounded w-full max-w-[240px]">
     <img src="lucho.jpg" alt="Luis Castillo"
          class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
          style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
-    <p class="font-semibold text-sm truncate w-full text-white">Luis Castillo </p>
+    <p class="font-semibold text-sm truncate w-full text-white">Luis Castillo</p>
   </div>
 
 </div>
@@ -106,7 +106,7 @@ Una de las categorías más disputadas cada año. En esta ocasión, el objetivo 
     <img src="lorenzo.jpg" alt="Lorenzo Tagua"
          class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
          style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
-    <p class="font-semibold text-sm truncate w-full text-white">Lorenzo Tagua </p>
+    <p class="font-semibold text-sm truncate w-full text-white">Lorenzo Tagua</p>
     <p class="text-xs text-slate-400 text-wrap text-center mt-1 leading-tight">
       Estudiante de Ingeniería Industrial
     </p>
@@ -116,7 +116,7 @@ Una de las categorías más disputadas cada año. En esta ocasión, el objetivo 
     <img src="julio-ojeda.jpg" alt="Julio Ojeda"
          class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
          style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
-    <p class="font-semibold text-sm truncate w-full text-white">Julio Ojeda </p>
+    <p class="font-semibold text-sm truncate w-full text-white">Julio Ojeda</p>
     <p class="text-xs text-slate-400 text-wrap text-center mt-1 leading-tight">
       Estudiante de matemáticas
     </p>
