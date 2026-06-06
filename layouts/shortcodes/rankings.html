@@ -1,5 +1,5 @@
 {{ $dataFile := .Get 0 }} <!-- Nombre del archivo YAML -->
-{{ $data := index $.Site.Data $dataFile }}
+{{ $data := index hugo.Data $dataFile }}
 
 <div class="overflow-x-auto">
   <table class="table-auto w-full border-collapse border border-gray-300 dark:border-gray-700">
@@ -96,4 +96,3 @@
       height: auto;
   }
 </style>
-

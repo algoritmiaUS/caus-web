@@ -70,7 +70,7 @@
 	avoid the conditional altogether.
 */}}
 {{- $imgBd5 := md5 $src -}}
-{{- if eq .Site.Params.Host "CFP" -}}
+{{- if eq site.Params.Host "CFP" -}}
 <style>
     .imgB- {
             {

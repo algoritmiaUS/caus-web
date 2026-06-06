@@ -27,7 +27,7 @@
         </div>
         <div class="relative px-4 py-6 lg:-mr-40 sm:mx-auto sm:max-w-full sm:px-4 lg:h-full lg:max-w-none lg:pl-12">
             <div class="overflow-hidden shadow-xl rounded-2xl">
-                {{ $p2image := resources.Get .Site.Params.P2.Image }}
+                {{ $p2image := resources.Get site.Params.P2.Image }}
                 {{ with $p2image }}
                 {{ with .Resize (printf "%dx%d webp q90" .Width .Height) }}
                 <img src="{{ .RelPermalink }}" class="w-full h-auto" alt="p2" loading="lazy"/>

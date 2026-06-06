@@ -1,16 +1,16 @@
 <title itemprop="name">{{if .IsHome}} {{ .Title }}
-    {{else}} {{ .Title }} | {{ .Site.Title }} {{end}}
+    {{else}} {{ .Title }} | {{ site.Title }} {{end}}
 </title>
-<meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
-<meta property="og:title" content="{{ .Title }} | {{ .Site.Title }}" />
-<meta name="twitter:title" content="{{ .Title }} | {{ .Site.Title }}" />
-<meta itemprop="name" content="{{ .Title }} | {{ .Site.Title }}" />
-<meta name="application-name" content="{{ .Title }} | {{ .Site.Title }}" />
+<meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ site.Params.description }}{{ end }}" />
+<meta property="og:title" content="{{ .Title }} | {{ site.Title }}" />
+<meta name="twitter:title" content="{{ .Title }} | {{ site.Title }}" />
+<meta itemprop="name" content="{{ .Title }} | {{ site.Title }}" />
+<meta name="application-name" content="{{ .Title }} | {{ site.Title }}" />
 <meta property="og:description"
-      content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
-<meta property="og:site_name" content="{{ .Site.Title }}" />
+      content="{{ if .Description }}{{ .Description }}{{ else }}{{ site.Params.description }}{{ end }}" />
+<meta property="og:site_name" content="{{ site.Title }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:locale" content="en">
-<meta property="og:image" content="{{ if .Params.featured_image }}{{ .Params.featured_image | relURL }}{{ else }}{{ .Site.Params.og_image | relURL }}{{ end }}" />
-<meta property="og:image:secure_url" content="{{ if .Params.featured_image }}{{ .Params.featured_image | absURL }}{{ else }}{{ .Site.Params.og_image | absURL }}{{ end }}" />
+<meta property="og:image" content="{{ if .Params.featured_image }}{{ .Params.featured_image | relURL }}{{ else }}{{ site.Params.og_image | relURL }}{{ end }}" />
+<meta property="og:image:secure_url" content="{{ if .Params.featured_image }}{{ .Params.featured_image | absURL }}{{ else }}{{ site.Params.og_image | absURL }}{{ end }}" />
 <meta property="og:type" content="{{if .IsHome}}website{{else}}article{{end}}" />
