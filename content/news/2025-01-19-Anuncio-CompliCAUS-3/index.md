@@ -3,11 +3,11 @@ title: "Anuncio: CompliCAUS III!"
 date: 2025-01-19T11:10:36+08:00
 draft: false
 language: es
-featured_image: ../assets/images/featured/Cartel-CompliCAUS III.jpg
+featured_image: images/featured/Cartel-CompliCAUS III.jpg
 summary: "Participa en la tercera edición del CompliCAUS, la competición interna de programación organizada por el Club de Algoritmia de la Universidad de Sevilla. Prepárate para resolver problemas de distintos niveles el próximo 7 de febrero en la ETSII."
 description: "El Club de Algoritmia de la Universidad de Sevilla presenta la tercera edición del CompliCAUS, una competición de programación abierta a todos los interesados. Con problemas diseñados para desafiar tanto a principiantes como a expertos, esta edición promete ser un evento emocionante y formativo. Inscríbete y demuestra tus habilidades en una jornada llena de retos y diversión."
 author: Administradores CAUS
-authorimage: ../assets/images/global/author-CAUS.webp
+authorimage: images/global/author-CAUS.webp
 categories: ["Noticias"]
 tags: Eventos
 ---
