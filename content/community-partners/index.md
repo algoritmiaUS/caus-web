@@ -1,13 +1,11 @@
 ---
-title: "Patrocinadores"
+title: 'Patrocinadores'
 date: 2024-09-15T19:02:36+02:00
 
 draft: false
 language: es
 description: Patrocinadores
-# featured_image: ../assets/images/featured/featured-img-placeholder.png
 ---
-
 
 # Patrocinadores del 2025/26
 
@@ -18,13 +16,11 @@ description: Patrocinadores
 Desde el CAUS, queremos expresar nuestro más sincero agradecimiento por su apoyo decisivo en esta edición. Gracias a su compromiso con el talento joven, Next Digital hace posible el CompliCAUS V patrocinando íntegramente los premios del primer y segundo lugar.</p>
 <img src="/images/global/Logo_ND.png" alt="Logo de Next Digital" style="width: 30rem; margin: auto;">
 
-
 ## Escuela Técnica Superior de Ingeniería Informática (CompliCAUS IV y V)
 
 <p>La Escuela Técnica Superior de Ingeniería Informática (ETSII) de la Universidad de Sevilla, establecida en 2001, ocupa el antiguo edificio de la Escuela Técnica Superior de Ingenieros Industriales, recientemente renovado. Con una superficie de 24.000 m², la ETSII ofrece modernas instalaciones que incluyen aulas, laboratorios, una biblioteca y un centro de cálculo propio.</p>
 <p>Actualmente, la ETSII no solo es nuestra sede principal para concursos, charlas y sesiones de trabajo, sino un pilar fundamental del CAUS. Agradecemos especialmente su colaboración como patrocinador de los premios de CompliCAUS IV, así como del tercer puesto y el premio especial al último problema resuelto en la edición actual.</p>
 <img src="/images/global/logo-ETSII-Color.png" alt="Logo de la ETSII" style="width: 30rem; margin: auto;">
-
 
 <br>
 
@@ -66,8 +62,6 @@ Desde el CAUS, queremos expresar nuestro más sincero agradecimiento por su apoy
   </div>
 </details>
 
-
-
 <!-- <div class="my-6 rounded-lg border border-dashed border-gray-300 bg-gray-100 px-4 py-3 text-center dark:border-gray-600 dark:bg-gray-800">
   <p class="text-sm font-medium text-gray-700 dark:text-gray-300">
     ¿Quieres aparecer aquí el próximo curso?
@@ -78,4 +72,3 @@ Desde el CAUS, queremos expresar nuestro más sincero agradecimiento por su apoy
   </p>
 </div>
  -->
-
