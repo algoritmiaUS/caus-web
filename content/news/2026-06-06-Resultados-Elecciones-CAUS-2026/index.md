@@ -31,7 +31,7 @@ Este equipo se encarga de dar soporte al desarrollo de la web del club y de ayud
     <img src="alepi.jpg" alt="Alejandro Pineda"
          class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
          style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
-    <p class="font-semibold text-sm truncate w-full text-white">Alejandro Pineda</p>
+    <p class="font-semibold text-sm truncate w-full">Alejandro Pineda</p>
     <p class="text-xs text-slate-400 text-wrap text-center mt-1 leading-tight">
       Estudiante de GII – Tecnologías Informáticas
     </p>
@@ -41,7 +41,7 @@ Este equipo se encarga de dar soporte al desarrollo de la web del club y de ayud
     <img src="fernando-ml.jpeg" alt="Fernando Giráldez"
          class="rounded-full object-cover object-top shadow-md bg-gray-100 mb-3 flex-shrink-0"
          style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
-    <p class="font-semibold text-sm truncate w-full text-white">Fernando Giráldez</p>
+    <p class="font-semibold text-sm truncate w-full">Fernando Giráldez</p>
     <p class="text-xs text-slate-400 text-wrap text-center mt-1 leading-tight">
       Estudiante de GII – Ingeniería de Computadores
     </p>
@@ -59,7 +59,7 @@ El área de Marketing inicia este año una nueva etapa con el objetivo de reforz
     <img src="julia.jpg" alt="Julia Moreno"
          class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
          style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
-    <p class="font-semibold text-sm truncate w-full text-white">Julia Moreno</p>
+    <p class="font-semibold text-sm truncate w-full">Julia Moreno</p>
     <p class="text-xs text-slate-400 text-wrap text-center mt-1 leading-tight">
       Estudiante de bachillerato
     </p>
@@ -75,21 +75,21 @@ Además, contaremos también con un grupo de colaboradores que apoyarán en even
     <img src="araceli.jpg" alt="Araceli Guerrero"
          class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
          style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
-    <p class="font-semibold text-sm truncate w-full text-white">Araceli Guerrero</p>
+    <p class="font-semibold text-sm truncate w-full">Araceli Guerrero</p>
   </div>
 
   <div class="flex flex-col items-center text-center p-4 rounded w-full max-w-[240px]">
     <img src="lucia-diez.jpg" alt="Lucía Campos"
          class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
          style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
-    <p class="font-semibold text-sm truncate w-full text-white">Lucía Campos</p>
+    <p class="font-semibold text-sm truncate w-full">Lucía Campos</p>
   </div>
 
   <div class="flex flex-col items-center text-center p-4 rounded w-full max-w-[240px]">
     <img src="lucho.jpg" alt="Luis Castillo"
          class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
          style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
-    <p class="font-semibold text-sm truncate w-full text-white">Luis Castillo</p>
+    <p class="font-semibold text-sm truncate w-full">Luis Castillo</p>
   </div>
 
 </div>
@@ -104,7 +104,7 @@ Una de las categorías más disputadas cada año. En esta ocasión, el objetivo 
     <img src="lorenzo.jpg" alt="Lorenzo Tagua"
          class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
          style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
-    <p class="font-semibold text-sm truncate w-full text-white">Lorenzo Tagua</p>
+    <p class="font-semibold text-sm truncate w-full">Lorenzo Tagua</p>
     <p class="text-xs text-slate-400 text-wrap text-center mt-1 leading-tight">
       Estudiante de Ingeniería Industrial
     </p>
@@ -114,7 +114,7 @@ Una de las categorías más disputadas cada año. En esta ocasión, el objetivo 
     <img src="julio-ojeda.jpg" alt="Julio Ojeda"
          class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
          style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
-    <p class="font-semibold text-sm truncate w-full text-white">Julio Ojeda</p>
+    <p class="font-semibold text-sm truncate w-full">Julio Ojeda</p>
     <p class="text-xs text-slate-400 text-wrap text-center mt-1 leading-tight">
       Estudiante de matemáticas
     </p>
@@ -124,7 +124,7 @@ Una de las categorías más disputadas cada año. En esta ocasión, el objetivo 
     <img src="anselmo.jpg" alt="Anselmo Jiménez"
          class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
          style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
-    <p class="font-semibold text-sm truncate w-full text-white">Anselmo Jiménez  </p>
+    <p class="font-semibold text-sm truncate w-full">Anselmo Jiménez  </p>
     <p class="text-xs text-slate-400 text-wrap text-center mt-1 leading-tight">
       Estudiante de GII – Tecnologías Informáticas y Matemáticas
     </p>
@@ -134,7 +134,7 @@ Una de las categorías más disputadas cada año. En esta ocasión, el objetivo 
     <img src="pablo.jpeg" alt="Pablo Moreno "
          class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
          style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
-    <p class="font-semibold text-sm truncate w-full text-white">Pablo Moreno  </p>
+    <p class="font-semibold text-sm truncate w-full">Pablo Moreno  </p>
     <p class="text-xs text-slate-400 text-wrap text-center mt-1 leading-tight">
       Estudiante de GII – Tecnologías Informáticas y Matemáticas
     </p>
@@ -144,7 +144,7 @@ Una de las categorías más disputadas cada año. En esta ocasión, el objetivo 
     <img src="antequera.jpeg" alt="Miguel Antequera"
          class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
          style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
-    <p class="font-semibold text-sm truncate w-full text-white">Miguel Antequera</p>
+    <p class="font-semibold text-sm truncate w-full">Miguel Antequera</p>
     <p class="text-xs text-slate-400 text-wrap text-center mt-1 leading-tight">
       Estudiante de Matemáticas y Física
     </p>
@@ -154,7 +154,7 @@ Una de las categorías más disputadas cada año. En esta ocasión, el objetivo 
     <img src="jesus-racero.jpeg" alt="Jesús Racero"
          class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
          style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
-    <p class="font-semibold text-sm truncate w-full text-white">Jesús Racero </p>
+    <p class="font-semibold text-sm truncate w-full">Jesús Racero </p>
     <p class="text-xs text-slate-400 text-wrap text-center mt-1 leading-tight">
       Estudiante de Ingeniería de Software
     </p>
@@ -165,7 +165,7 @@ Una de las categorías más disputadas cada año. En esta ocasión, el objetivo 
          class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
          style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
     <p class="font-semibold text-sm truncate w-full
-    text-white">Inés Dávila  </p>
+   ">Inés Dávila  </p>
     <p class="text-xs text-slate-400 text-wrap text-center mt-1 leading-tight">
       Estudiante de GII - Inteligencia Artificial
     </p>
@@ -182,7 +182,7 @@ Este año este rol cobra especial importancia, ya que con la salida de Pablo Dá
     <img src="arnau.jpeg" alt="Arnau Neches"
          class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
          style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
-    <p class="font-semibold text-sm truncate w-full text-white">Arnau Neches</p>
+    <p class="font-semibold text-sm truncate w-full">Arnau Neches</p>
     <p class="text-xs text-slate-400 text-wrap text-center mt-1 leading-tight">
       Estudiante de GII – Tecnologías Informáticas y Matemáticas
     </p>
@@ -192,7 +192,7 @@ Este año este rol cobra especial importancia, ya que con la salida de Pablo Dá
     <img src="vikzi.jpg" alt="Victor Mesa"
          class="rounded-full object-cover object-top shadow-md bg-gray-100 mb-3 flex-shrink-0"
          style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
-    <p class="font-semibold text-sm truncate w-full text-white">Victor Mesa</p>
+    <p class="font-semibold text-sm truncate w-full">Victor Mesa</p>
     <p class="text-xs text-slate-400 text-wrap text-center mt-1 leading-tight">
       Estudiante de Matemáticas y Estadística
     </p>
