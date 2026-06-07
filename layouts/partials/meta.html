@@ -1,3 +1,15 @@
+{{- $ogImage := "" -}}
+{{- if .Params.featured_image -}}
+  {{- $img := .Params.featured_image -}}
+  {{- with resources.Get $img -}}
+    {{- $ogImage = .Permalink -}}
+  {{- else -}}
+    {{- $ogImage = $img | absURL -}}
+  {{- end -}}
+{{- end -}}
+{{- if not $ogImage -}}
+  {{- $ogImage = site.Params.og_image | absURL -}}
+{{- end -}}
 <title itemprop="name">{{if .IsHome}} {{ .Title }}
     {{else}} {{ .Title }} | {{ site.Title }} {{end}}
 </title>
@@ -11,6 +23,6 @@
 <meta property="og:site_name" content="{{ site.Title }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:locale" content="en">
-<meta property="og:image" content="{{ if .Params.featured_image }}{{ .Params.featured_image | relURL }}{{ else }}{{ site.Params.og_image | relURL }}{{ end }}" />
-<meta property="og:image:secure_url" content="{{ if .Params.featured_image }}{{ .Params.featured_image | absURL }}{{ else }}{{ site.Params.og_image | absURL }}{{ end }}" />
+<meta property="og:image" content="{{ $ogImage }}" />
+<meta property="og:image:secure_url" content="{{ $ogImage }}" />
 <meta property="og:type" content="{{if .IsHome}}website{{else}}article{{end}}" />

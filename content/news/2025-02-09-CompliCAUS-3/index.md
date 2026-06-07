@@ -3,11 +3,11 @@ title: "Celebrado el CompliCAUS III"
 date: 2025-02-09T09:00:00+00:00
 draft: false
 language: es
-featured_image: ../assets/images/featured/CompliCAUS-3-Foto-grupal.jpg
+featured_image: images/featured/CompliCAUS-3-Foto-grupal.jpg
 summary: "El CompliCAUS III reunió a estudiantes de distintos niveles para una intensa competición de programación organizada por el Club de Algoritmia de la Universidad de Sevilla."
 description: "La tercera edición de CompliCAUS se celebró con éxito, congregando a estudiantes de diferentes instituciones y niveles académicos en un desafío de algoritmia de tres horas."
 author: Administradores CAUS
-authorimage: ../assets/images/global/author-CAUS.webp
+authorimage: images/global/author-CAUS.webp
 categories: Eventos
 tags: Eventos
 ---

@@ -5,7 +5,6 @@ toc : true
 draft: false
 language: en
 description: About Us
-# featured_image: ../assets/images/featured/featured-img-placeholder.png
 ---
 
 Welcome to the **Algorithms Club** (**Club de Algoritmia**), a group founded by students of the **University of Seville** with the aim of learning and perfecting programming skills through collaboration and participation in competitions.
