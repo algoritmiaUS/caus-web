@@ -1,7 +1,7 @@
 ---
-title: "Sobre nosotros"
+title: 'Sobre nosotros'
 date: 2024-08-22T11:18:36+08:00
-toc : true
+toc: true
 draft: false
 language: es
 description: About Us
@@ -17,9 +17,7 @@ En el Club de Algoritmia, creemos firmemente en el valor de enfrentar desafíos 
 
 ---
 
-
 # 📚 Actividades Académicas
-
 
 ## Sesiones de entrenamiento
 
@@ -35,13 +33,12 @@ Todos participamos para aprender y apoyarnos unos a otros, así que no tengas mi
   <img src="/images/about/caus-sesiones-2.jpg" alt="Sesión 2" style="width: 100%; max-width: 600px; flex: 1; border-radius: 12px;">
 </div>
 
-
 ## Charlas de Estudiantes y de la Industria
 
 Organizamos sesiones cada viernes sobre temas relacionados con la programación competitiva. Este año, además, introducimos una nueva serie de charlas con ponentes de la academia, la industria y exalumnos, quienes abordarán una amplia gama de temas. La asistencia a las ponencias está abierta a todo el mundo, por lo que no es necesario ser miembro del CAUS ni estudiante de la US.
 
-  - Comprueba las próximas charlas [en la sección de noticias](/news).
-  - [Da tu propia ponencia!](https://forms.gle/yY9WpbA6Lof41ufa7) Si eres un profesional apasionado por la tecnología y con ganas de compartir tus conocimientos, estaremos encantados de contar contigo. Si eres un estudiante, esta es una gran oportunidad para profundizar en algún tema que te interese y hacer CV 😉
+- Comprueba las próximas charlas [en la sección de noticias](/news).
+- [Da tu propia ponencia!](https://forms.gle/yY9WpbA6Lof41ufa7) Si eres un profesional apasionado por la tecnología y con ganas de compartir tus conocimientos, estaremos encantados de contar contigo. Si eres un estudiante, esta es una gran oportunidad para profundizar en algún tema que te interese y hacer CV 😉
 
 <!-- ![alt text](charla1.jpg)
 ![alt text](charla2.jpg) -->
@@ -55,7 +52,6 @@ Organizamos sesiones cada viernes sobre temas relacionados con la programación 
 
 Participamos en eventos anuales como [Advent of Code](https://adventofcode.com/) y el [Concurso Universitario de Programación Ada Byron](http://ada-byron.es/). Además, organizamos [nuestras propias competiciones de programación](/news/2024-10-27-complicaus-2/) con suculentos premios, para mantenernos en constante práctica y aprendizaje.
 
-
 <!-- ![alt text](competiciones1.JPG)
 ![alt text](competiciones2.jpg) -->
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
@@ -65,9 +61,7 @@ Participamos en eventos anuales como [Advent of Code](https://adventofcode.com/)
 
 ---
 
-
 # 🎉 Actividades Sociales
-
 
 ## Comida cuatrimestral
 
@@ -77,7 +71,6 @@ Cada cuatrimestre, organizamos una comida especial para celebrar nuestros logros
 <!-- <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
   <img src="comida-caus.jpg" alt="Comida CAUS" style="width: 100%; max-width: 600px;border-radius: 12px;">
 </div> -->
-
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
   <img src="/images/about/comida-caus.jpg" alt="Comida CAUS 1" style="width: 100%; max-width: 600px;border-radius: 12px;">

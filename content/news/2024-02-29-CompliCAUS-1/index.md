@@ -1,5 +1,5 @@
 ---
-title: "CompliCAUS I: Primera competición organizada por el Club de Algoritmia"
+title: 'CompliCAUS I: Primera competición organizada por el Club de Algoritmia'
 date: 2024-02-29T11:10:00+00:00
 draft: false
 language: es
@@ -18,9 +18,7 @@ La competición se llevó a cabo utilizando la plataforma HackerRank, que permit
 
 Entre los participantes, hubo representación de estudiantes de distintos cursos de la Escuela Técnica Superior de Ingeniería Informática, de la Escuela Técnica Superior de Ingeniería, de la Facultad de Matemáticas, e incluso de estudiantes de bachillerato del Colegio Santa Ana de Sevilla. Esto demuestra que la pasión por la programación competitiva no tiene fronteras y que cualquiera, sin importar su nivel o experiencia, puede aprender y disfrutar en este tipo de eventos.
 
-
 ![CompliCAUS-1](CompliCAUS-I-1.jpg)
-
 
 La competición se mantuvo reñida desde el comienzo, con una primera hora durante la que los primeros puestos cambiaban constantemente. Sin embargo, al finalizar el evento, los tres primeros lugares quedaron definidos:
 
@@ -32,12 +30,6 @@ La competición se mantuvo reñida desde el comienzo, con una primera hora duran
 
 {{< rankings "complicaus1" >}}
 
-
 Los organizadores del Club de Algoritmia también aprovecharon para agradecer a todos los que hicieron posible este evento, especialmente a la Escuela Técnica Superior de Ingeniería Informática por el patrocinio y a Mª Lourdes Miró, Subdirectora de Estudiantes, Innovación y Responsabilidad Social, por su apoyo incondicional.
 
 Este ha sido solo el comienzo de lo que esperamos sea una larga tradición en la Universidad de Sevilla. Estamos seguros de que vendrán más competiciones como esta, donde los estudiantes podrán seguir desafiándose, aprendiendo y, por supuesto, divirtiéndose con la programación y la algoritmia. ¡Nos vemos en la próxima edición de CompliCAUS!
-
-
-
-
-

@@ -1,7 +1,7 @@
 ---
-title: "About Us"
+title: 'About Us'
 date: 2024-08-22T11:18:36+08:00
-toc : true
+toc: true
 draft: false
 language: en
 description: About Us
@@ -17,7 +17,6 @@ Join us and become part of a community passionate about programming, where every
 
 ---
 
-
 # 📚 Academic Activities
 
 ## Training Sessions
@@ -31,13 +30,12 @@ Everyone participates to learn and support each other, so don't be afraid if you
   <img src="/images/about/caus-sesiones-2.jpg" alt="Sesión 2" style="width: 100%; max-width: 600px; flex: 1; border-radius: 12px;">
 </div>
 
-
 ## Student and Industry Talks
 
 We organise sessions every Friday on topics related to competitive programming. This year, we are also introducing a new series of talks with speakers from academia, industry, and alumni, who will cover a wide range of subjects. Attendance at the talks is open to everyone, so you don't need to be a member of the CAUS or a student at the US.
 
-  - Check the upcoming talks [in the news section](/news/) (available only in Spanish).
-  - [Give your own talk\!](https://forms.gle/yY9WpbA6Lof41ufa7) If you are a professional passionate about technology and eager to share your knowledge, we would be delighted to have you. If you are a student, this is a great opportunity to delve deeper into a topic that interests you and boost your CV 😉
+- Check the upcoming talks [in the news section](/news/) (available only in Spanish).
+- [Give your own talk\!](https://forms.gle/yY9WpbA6Lof41ufa7) If you are a professional passionate about technology and eager to share your knowledge, we would be delighted to have you. If you are a student, this is a great opportunity to delve deeper into a topic that interests you and boost your CV 😉
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
   <img src="/images/about/charla1.jpg" alt="Charla 1" style="width: 100%; max-width: 600px; flex: 1;border-radius: 12px;">

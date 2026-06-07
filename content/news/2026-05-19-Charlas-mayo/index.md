@@ -1,5 +1,5 @@
 ---
-title: "Charlas y talleres - Mayo 2026"
+title: 'Charlas y talleres - Mayo 2026'
 date: 2026-05-18T12:20:00+00:00
 draft: false
 language: es
@@ -32,4 +32,5 @@ Vengo de lejanas tierras de oriente a contarte cómo funciona tu coche, tu roomb
 
 Padezco de un extraño síndrome que me obliga a hablar de mates en cada charla. Me contendré todo lo que pueda, pero ven bajo tu propia responsabilidad.
 {{< /charla >}}
+
 </div>

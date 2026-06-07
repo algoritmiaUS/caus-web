@@ -1,5 +1,5 @@
 ---
-title: "Resultados oficiales de las elecciones CAUS (Curso 2026-27)"
+title: 'Resultados oficiales de las elecciones CAUS (Curso 2026-27)'
 date: 2026-06-06T00:00:00+02:00
 draft: false
 language: es
@@ -53,7 +53,6 @@ Este equipo se encarga de dar soporte al desarrollo de la web del club y de ayud
 
 El área de Marketing inicia este año una nueva etapa con el objetivo de reforzar la presencia del club en redes sociales y dar más visibilidad a todas las actividades. Además de Kenny, contará también con una nueva admin que apoyará en la coordinación del área.
 
-
 <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 mt-8 justify-items-center">
 
   <div class="flex flex-col items-center text-center p-4 rounded w-full max-w-[240px]">
@@ -94,7 +93,6 @@ Además, contaremos también con un grupo de colaboradores que apoyarán en even
   </div>
 
 </div>
-
 
 ### Problem Solvers
 
@@ -174,7 +172,6 @@ Una de las categorías más disputadas cada año. En esta ocasión, el objetivo 
   </div>
 </div>
 
-
 ### Events Managers
 
 Este año este rol cobra especial importancia, ya que con la salida de Pablo Dávila rumbo a Berkeley se abre una nueva etapa en la organización de eventos del club. El equipo encargado será:
@@ -202,7 +199,6 @@ Este año este rol cobra especial importancia, ya que con la salida de Pablo Dá
   </div>
 
 </div>
-
 
 ### Despedidas
 

@@ -1,5 +1,5 @@
 ---
-title: "Elecciones a admins del CAUS (Curso 2026-27)"
+title: 'Elecciones a admins del CAUS (Curso 2026-27)'
 date: 2026-05-18
 draft: false
 language: es

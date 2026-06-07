@@ -1,5 +1,5 @@
 ---
-title: "XI Edición de la Final Nacional del Concurso Ada Byron"
+title: 'XI Edición de la Final Nacional del Concurso Ada Byron'
 date: 2025-07-04T11:10:00+00:00
 draft: false
 language: es
@@ -12,8 +12,7 @@ categories: Eventos
 tags: Eventos
 ---
 
-Los pasados días 4 y 5 de julio de 2025 se celebró la undécima edición del concurso de programación Ada Byron  en la Facultad de Informática de la Universidad Complutense de Madrid en las que compitieron los mejores clasificados de cada región.
-
+Los pasados días 4 y 5 de julio de 2025 se celebró la undécima edición del concurso de programación Ada Byron en la Facultad de Informática de la Universidad Complutense de Madrid en las que compitieron los mejores clasificados de cada región.
 
 # Equipos del CAUS
 
@@ -27,24 +26,21 @@ Tres equipos pertenecientes al Club de Algoritmia lograron clasificarse a esta f
 
 <img src="just-simply-flml.jpg" alt="Just Simply FLML" width="500"/>
 
-
 ## Equipo **"Massive"**
 
 - **Jairo Serrano Picón** (Doble Grado en Matemáticas y Estadística)
 - **José Luis Mesa Solano** (Doble Grado en Matemáticas y Física)
 - **José Aguilera Rodríguez** (Doble Grado en Física e Ingeniería de Materiales)
 
-<img src="massive.jpg" alt="Massive" width="500"/> 
-
+<img src="massive.jpg" alt="Massive" width="500"/>
 
 ## Equipo **"lemaTécnico"**
 
 - **Carlos Fernández - Llebrez Acedo** (Doble Grado en Ingeniería Informática – Tecnologías Informáticas y Matemáticas)
 - **Pablo Moreno Moreu** (Doble Grado en Ingeniería Informática – Tecnologías Informáticas y Matemáticas)
 - **Arnau Neches Vilà** (Doble Grado en Ingeniería Informática – Tecnologías Informáticas y Matemáticas)
-    
-<img src="lematecnico.jpg" alt="Lema Técnico" width="500"/> 
 
+<img src="lematecnico.jpg" alt="Lema Técnico" width="500"/>
 
 # Resultados y agradecimientos
 

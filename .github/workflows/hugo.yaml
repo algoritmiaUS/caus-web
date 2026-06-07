@@ -33,7 +33,6 @@ jobs:
     env:
       HUGO_VERSION: 0.162.1
     steps:
-    
       - name: Checkout
         uses: actions/checkout@v6
         with:
@@ -48,10 +47,10 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v6
-      
+
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
-      
+
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
@@ -61,7 +60,7 @@ jobs:
           hugo \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
-      
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
         with:

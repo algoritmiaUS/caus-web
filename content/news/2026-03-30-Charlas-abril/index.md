@@ -1,5 +1,5 @@
 ---
-title: "Charlas y talleres - Abril 2026"
+title: 'Charlas y talleres - Abril 2026'
 date: 2026-03-30T12:20:00+00:00
 draft: false
 language: es

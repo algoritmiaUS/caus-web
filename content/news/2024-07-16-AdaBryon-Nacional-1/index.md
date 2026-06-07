@@ -1,5 +1,5 @@
 ---
-title: "X Edición de la Final Nacional del Concurso Ada Byron"
+title: 'X Edición de la Final Nacional del Concurso Ada Byron'
 date: 2024-07-10T11:10:00+00:00
 draft: false
 language: es
@@ -12,21 +12,20 @@ categories: Eventos
 tags: Eventos
 ---
 
-Los pasados días 5 y 6 de julio de 2024 se celebró la décima edición del concurso de programación Ada Byron  en la Facultad de Informática de la Universidad Complutense de Madrid en las que compitieron los mejores clasificados de cada región.
+Los pasados días 5 y 6 de julio de 2024 se celebró la décima edición del concurso de programación Ada Byron en la Facultad de Informática de la Universidad Complutense de Madrid en las que compitieron los mejores clasificados de cada región.
 
 ## Sedes participantes
 
 El comité director del concurso tras analizar los datos la distribución de los equipos por región fue la siguiente:
 
-* Regional de Andalucía: 8 equipos
-* Regional de Galicia: 6 equipos
-* Regional de Madrid: 10 equipos
-* Regional Multisede: 9 equipos
-* Regional de Murcia: 3 equipos
-* Regional de Valencia: 6 equipos
+- Regional de Andalucía: 8 equipos
+- Regional de Galicia: 6 equipos
+- Regional de Madrid: 10 equipos
+- Regional Multisede: 9 equipos
+- Regional de Murcia: 3 equipos
+- Regional de Valencia: 6 equipos
 
 Dos equipos pertenecientes al Club de Algoritmia lograron clasificarse a esta final nacional. Además de ellos, los administradores que fuimos como entrenadores de estos equipos, también participamos en una competencia alterna en la que resolvíamos los mismos problemas, pero competíamos con los otros entrenadores!
-
 
 ### Equipo **"La Cabeza de Turing"**
 
@@ -41,7 +40,6 @@ Dos equipos pertenecientes al Club de Algoritmia lograron clasificarse a esta fi
 - **Arnau Neches Vilà**
 
 Todos ellos estudiantes del doble Grado en Ingeniería Informática – Tecnologías Informáticas y Matemáticas.
-    
 
 ## Resultados y Agradecimientos
 
