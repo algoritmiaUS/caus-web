@@ -2,27 +2,26 @@
 
 version: 2
 updates:
-
   # Maintain dependencies for GitHub Actions
-  - package-ecosystem: "github-actions"
-    directory: "/"
+  - package-ecosystem: 'github-actions'
+    directory: '/'
     schedule:
-      interval: "weekly"
+      interval: 'weekly'
 
   # Maintain dependencies for npm
-  - package-ecosystem: "npm"
-    directory: "/"
+  - package-ecosystem: 'npm'
+    directory: '/'
     schedule:
-      interval: "weekly"
+      interval: 'weekly'
     groups:
       tailwind:
         patterns:
-          - "tailwindcss"
-          - "@tailwindcss/*"
-          - "postcss"
-  
+          - 'tailwindcss'
+          - '@tailwindcss/*'
+          - 'postcss'
+
   # Maintain dependencies for go
-  - package-ecosystem: "gomod"
-    directory: "/"
+  - package-ecosystem: 'gomod'
+    directory: '/'
     schedule:
-      interval: "weekly"
+      interval: 'weekly'

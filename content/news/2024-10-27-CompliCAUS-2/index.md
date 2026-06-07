@@ -1,5 +1,5 @@
 ---
-title: "Celebrado el CompliCAUS II"
+title: 'Celebrado el CompliCAUS II'
 date: 2024-10-27T09:00:00+00:00
 draft: false
 language: es
@@ -20,7 +20,6 @@ El evento fue diseñado para que personas de cualquier nivel de experiencia pudi
 
 Las diapositivas explicativas de los problemas del CompliCAUS II están disponibles en [Drive](https://drive.google.com/drive/folders/1HRhaTf-Dtha1T21ZTzjj7y-6WswkB9OP), y los interesados pueden encontrar los enunciados y soluciones en nuestro [repositorio de GitHub](https://github.com/algoritmiaUS/complicaus), ideal para quien quiera revivir los desafíos o intentar nuevamente los problemas.
 
-
 # Participación
 
 En esta edición participaron 27 estudiantes de instituciones como la Universidad de Sevilla (diversos grados de Ingeniería Informática, Matemáticas, Física, entre otros), la Universidad Politécnica de Cataluña, así como alumnos de bachillerato (Colegio Santa Ana, Colegio Esclavas Sevilla - Fundación Spínola) y de Formación Profesional (Grado Superior en Desarrollo de Aplicaciones Multiplataforma - IES El Majuelo).
@@ -34,24 +33,17 @@ En esta edición participaron 27 estudiantes de instituciones como la Universida
 Al terminar la competición, los responsables del CAUS, Pablo Dávila, Pablo Reina y Kenny Flores, guiaron una sesión en la sala Multiusos de la ETSII para explicar las estrategias de resolución de los problemas propuestos, brindando valiosos consejos y análisis.
 
 ![Resolución problemas](resolucion-problemas.png)
+
 <!-- *Este es el subtítulo de la imagen.* -->
 
-
-# Entrega de premios 
+# Entrega de premios
 
 La competición fue reñida desde el inicio, con cambios frecuentes en los primeros puestos durante la primera hora. Al final, estos fueron los ganadores:
 
-
 {{< rankings "complicaus2" >}}
 
-# Agradecimientos 
+# Agradecimientos
 
 Agradecemos a la Escuela Técnica Superior de Ingeniería Informática por su patrocinio y apoyo, así como a María Lourdes Miró (Subdirectora de Estudiantes, Innovación y Responsabilidad Social) y Juan Antonio Álvarez García (Subdirector de Investigación, Transferencia y Emprendimiento) quienes han sido clave para hacer de este evento una realidad.
 
-
 <!-- Este ha sido solo el comienzo de lo que esperamos sea una larga tradición en la Universidad de Sevilla. Estamos seguros de que vendrán más competiciones como esta, donde los estudiantes podrán seguir desafiándose, aprendiendo y, por supuesto, divirtiéndose con la programación y la algoritmia. ¡Nos vemos en la próxima edición de CompliCAUS! -->
-
-
-
-
-

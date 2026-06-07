@@ -1,4 +1,4 @@
-const defaultTheme = require('tailwindcss/defaultTheme')
+const defaultTheme = require('tailwindcss/defaultTheme');
 
 // tailwind.config.js
 module.exports = {
@@ -9,7 +9,7 @@ module.exports = {
       colors: {
         transparent: 'transparent',
         current: 'currentColor',
-        'primary': {
+        primary: {
           DEFAULT: '#6366F1',
           50: '#FFFFFF',
           100: '#F9F9FE',
@@ -20,9 +20,9 @@ module.exports = {
           600: '#3034EC',
           700: '#1317D1',
           800: '#0E119E',
-          900: '#0A0C6A'
+          900: '#0A0C6A',
         },
-        'secondary': {
+        secondary: {
           DEFAULT: '#EC4899',
           50: '#FDEEF6',
           100: '#FBDCEB',
@@ -33,9 +33,9 @@ module.exports = {
           600: '#E4187D',
           700: '#B11261',
           800: '#7F0D45',
-          900: '#4C0829'
+          900: '#4C0829',
         },
-        'neutral': {
+        neutral: {
           DEFAULT: '#6B7280',
           50: '#CDD0D5',
           100: '#C2C5CC',
@@ -46,13 +46,13 @@ module.exports = {
           600: '#515761',
           700: '#383C43',
           800: '#1E2024',
-          900: '#050506'
+          900: '#050506',
         },
         // To change these, use https://www.tailwindshades.com with https://tailwindcss.com/docs/customizing-colors or create your own custom colors.
       },
       lineHeight: {
         'extra-loose': '2.5',
-        '12': '3rem',
+        12: '3rem',
       },
       typography: (theme) => ({
         DEFAULT: {
@@ -95,7 +95,7 @@ module.exports = {
     },
   },
   variants: {
-    typography: ["dark"],
+    typography: ['dark'],
   },
-  plugins: [require("@tailwindcss/typography")],
+  plugins: [require('@tailwindcss/typography')],
 };

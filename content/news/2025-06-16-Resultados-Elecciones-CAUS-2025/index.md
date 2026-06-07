@@ -1,5 +1,5 @@
 ---
-title: "Resultados oficiales de las elecciones CAUS 2025"
+title: 'Resultados oficiales de las elecciones CAUS 2025'
 date: 2025-06-16T00:00:00+02:00
 draft: false
 language: es
@@ -28,9 +28,7 @@ En esta categoría se elegía a una persona para apoyar en el desarrollo de la w
 
 Fernando ha estado vinculado al club desde bachillerato y comienza su primer año de carrera como Web Master. ¡Empieza fuerte!
 
-
 ![Photo of the Web Master team](web-master.png)
-
 
 ---
 
@@ -43,9 +41,7 @@ Había dos plazas disponibles para encargarse de la imagen del club en redes soc
 
 Ambas aportarán frescura y creatividad al equipo de comunicación.
 
-
 ![alt text](marketing.png)
-
 
 ### 🧠 Problem Solvers
 
@@ -59,7 +55,6 @@ La categoría más reñida. Inicialmente se ofrecían 3 plazas, pero debido a un
 ![alt text](problem-solver.png)
 
 Un equipo con muchísimo potencial para que, tanto nuevos como veteranos, sigamos creciendo juntos en las competiciones. ¡Que el podio del regional Ada Byron del próximo año hable solo de la US! 😄
-
 
 ---
 
@@ -180,7 +175,7 @@ Por lo que, los nuevos administradores para este nuevo curso 2025/26 son:
 
 </div>
 
+## 🎉 **¡Enhorabuena a todos los nuevos administradores!**
 
-## 🎉 **¡Enhorabuena a todos los nuevos administradores!**  
 Gracias por vuestra energía, motivación y por seguir haciendo de CAUS un proyecto colaborativo y apasionante.  
 ¡Nos espera un gran año por delante! 🚀

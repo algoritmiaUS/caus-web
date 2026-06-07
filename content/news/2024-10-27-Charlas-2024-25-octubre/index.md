@@ -1,5 +1,5 @@
 ---
-title: "Charlas y talleres - Octubre 2024"
+title: 'Charlas y talleres - Octubre 2024'
 date: 2024-10-27T12:20:00+00:00
 draft: false
 language: es
@@ -21,14 +21,16 @@ Cómo anunciamos en la sesión de presentación, este curso vamos a organizar ch
 
 <div class="space-y-6 dark:bg-gray-900 dark:text-gray-100">
 
-{{< charla 
-    title="Algoritmos Bit-wise"
-    date="Jueves, 31 de octubre de 2024"
-    time="15:30"
-    location="Sala multiusos de la ETSII (Donde la entrega de premios del CompliCAUS II)"
-    speaker="Pablo Trinidad (Head of architecture en HOMA games y profesor de la ETSII)"
->}}
-Un veterano de las competiciones de programación, Pablo nos hablará sobre algoritmos basados en operaciones a nivel de bit, una técnica que nunca hemos tratado en el club.
-{{< /charla >}}
+{{< charla
+title="Algoritmos Bit-wise"
+date="Jueves, 31 de octubre de 2024"
+time="15:30"
+location="Sala multiusos de la ETSII (Donde la entrega de premios del CompliCAUS II)"
+speaker="Pablo Trinidad (Head of architecture en HOMA games y profesor de la ETSII)"
+
+> }}
+> Un veterano de las competiciones de programación, Pablo nos hablará sobre algoritmos basados en operaciones a nivel de bit, una técnica que nunca hemos tratado en el club.
+> {{< /charla >}}
+
 </div>
 <br>

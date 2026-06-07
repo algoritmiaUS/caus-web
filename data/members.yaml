@@ -1,5 +1,4 @@
 administrators:
-
   - name: "Kenny Jesús Flores Huamán"
     role: "Co-founder · Webmaster · Problem Solver"
     image: "/images/admins/kenny.png"
@@ -19,7 +18,7 @@ administrators:
     image: "/images/admins/pablo-reina.jpeg"
     linkedin: pablo-reina-jiménez-2b1869257
     github: preinaj
-  
+
   - name: "José García De Tejada Delgado"
     role: "Problem Solver · Event Manager"
     image: "/images/admins/jose.jpg"
@@ -47,16 +46,15 @@ administrators:
     role: "Marketing · Event Manager"
     image: "/images/admins/lucia-diez.jpg"
     linkedin: lucía-campos-díez-bb0345359
-  
+
   - name: "Víctor Mesa Solano"
     role: "Problem Solver"
     image: "/images/admins/vikzi.jpeg"
     linkedin: "victor-manuel-mesa-solano-a04663376"
 
-
 oldadmins:
-# Antiguas admins: Os querremos siempre <3
-  - name: "Paula Gómez Matos" 
+  # Antiguas admins: Os querremos siempre <3
+  - name: "Paula Gómez Matos"
     role: "Cofundadora y Former Member"
     image: "/images/admins/paula.jpeg"
     linkedin: paulagomezmatos
@@ -143,16 +141,16 @@ members:
   - name: "Teodoro Jiménez Lepe"
     image: "/images/members/teodoro-jimenez-lepe.jpeg"
 
-  - name : "Jesús Pérez Bazarot"
+  - name: "Jesús Pérez Bazarot"
     image: "/images/members/persus.png"
 
-  - name : "Jairo Serrano Picón"
+  - name: "Jairo Serrano Picón"
     image: "/images/members/jairo.jpeg"
 
-  - name : "Jose Luis Mesa Solano"
+  - name: "Jose Luis Mesa Solano"
     image: "/images/members/jose-luis-mesa.jpeg"
 
-  # Nuevos miembros  
+  # Nuevos miembros
   # - name: "Javier Alexander Flores Reategui" # PREGUNTAR
   #   image: "/images/members/caus.png"
 
@@ -171,7 +169,7 @@ members:
   # - name: "Alejandro del Pino Alcántara"
   #   image: "/images/members/caus.png"
 
-  # - name: "Aya Dahmani" 
+  # - name: "Aya Dahmani"
   #   image: "/images/members/caus.png"
 
   - name: "José Aguilera Rodríguez"
@@ -232,8 +230,8 @@ members:
     image: "/images/members/gael.jpeg"
 
   - name: "Irene Gutiérrez Enguix"
-    image: "/images/members/irene-enana.jpeg" 
-  
+    image: "/images/members/irene-enana.jpeg"
+
   - name: "José María Sánchez Rubio"
     image: "/images/members/chema.png"
 
@@ -254,5 +252,3 @@ members:
 
   # - name: "Ángel Daniel Serrano Chamba"
   #   image: "/images/members/caus.png"
-
-  

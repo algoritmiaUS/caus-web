@@ -16,9 +16,9 @@ jobs:
       matrix:
         assignee: ['kennyfh', 'Raquezin']
     steps:
-    - name: 'Auto-assign issue or pull request to ${{ matrix.assignee }}'
-      uses: pozil/auto-assign-issue@v4
-      with:
-        repo-token: ${{ secrets.GITHUB_TOKEN }}
-        assignees: ${{ matrix.assignee }}
-      if: ${{ github.event.sender.login != matrix.assignee }}
+      - name: 'Auto-assign issue or pull request to ${{ matrix.assignee }}'
+        uses: pozil/auto-assign-issue@v4
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          assignees: ${{ matrix.assignee }}
+        if: ${{ github.event.sender.login != matrix.assignee }}

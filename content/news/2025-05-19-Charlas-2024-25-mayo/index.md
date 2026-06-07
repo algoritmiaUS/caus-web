@@ -1,5 +1,5 @@
 ---
-title: "Charlas y talleres - Mayo 2025"
+title: 'Charlas y talleres - Mayo 2025'
 date: 2025-05-19T0:00:00+02:00
 draft: false
 language: es
@@ -21,15 +21,16 @@ Cómo anunciamos en la sesión de presentación, este curso estamos organizando 
 
 <div class="space-y-6 dark:bg-gray-900 dark:text-gray-100">
 
-{{< charla 
-    title="100 años de la mecánica cuántica: la teoría más desconcertante y revolucionaria que haya existido jamás"
-    date="Jueves, 22 de mayo de 2025"
-    time="17:30-19:00"
-    location="A4.33 + online"
-    stream_url="https://meet.google.com/hmc-fgjg-jme"
-    speaker="Renato Álvarez-Nodarse (Catedrático de la Facultad de Matemáticas de la US)"
->}}
-En abril de 1900, Lord Kelvin afirmó en la Royal Institution que solo quedaban dos pequeñas “nubecillas” por resolver en la física: la constancia de la velocidad de la luz y la equipartición de la energía. La primera llevó a la Teoría de la Relatividad; la segunda, al nacimiento de la teoría cuántica.
+{{< charla
+title="100 años de la mecánica cuántica: la teoría más desconcertante y revolucionaria que haya existido jamás"
+date="Jueves, 22 de mayo de 2025"
+time="17:30-19:00"
+location="A4.33 + online"
+stream_url="https://meet.google.com/hmc-fgjg-jme"
+speaker="Renato Álvarez-Nodarse (Catedrático de la Facultad de Matemáticas de la US)"
+
+> }}
+> En abril de 1900, Lord Kelvin afirmó en la Royal Institution que solo quedaban dos pequeñas “nubecillas” por resolver en la física: la constancia de la velocidad de la luz y la equipartición de la energía. La primera llevó a la Teoría de la Relatividad; la segunda, al nacimiento de la teoría cuántica.
 
 Esta charla se centrará en esa segunda “nubecilla”. Como dijo Niels Bohr: "Si no estás confundido por la física cuántica, entonces realmente no la has entendido", y Richard Feynman añadió: "Creo que puedo decir con seguridad que nadie entiende la mecánica cuántica." El objetivo será arrojar algo de luz sobre el motivo de estas célebres afirmaciones.
 {{< /charla >}}
