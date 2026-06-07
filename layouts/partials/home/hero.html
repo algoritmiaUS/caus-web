@@ -3,7 +3,7 @@
         <div class="grid items-center gap-8 mb-8 sm:mb-0 lg:gap-12 lg:grid-cols-12">
             <div class="col-span-6 px-4 text-center sm:col-span-12 sm:mb-6 lg:text-left lg:mb-0">
                 <h1 class="mb-2 text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl xl:text-6xl dark:text-white">
-                    {{ .Site.Params.Title_Short }}
+                    {{ site.Params.Title_Short }}
                 </h1>
                 <h2 class="pb-2 text-2xl font-light text-gray-800 dark:text-gray-300 md:text-3xl">
                     {{ i18n "hero.moto" }}
@@ -18,7 +18,7 @@
                 </p>  
             </div>
             <div class="col-span-6 sm:col-span-12">
-                {{ $hero := resources.GetMatch .Site.Params.heropic }}
+                {{ $hero := resources.GetMatch site.Params.heropic }}
                 {{ $thumb := ($hero.Fill "400x400 webp q90") }}
                 {{ $large := ($hero.Fill "576x576 webp q90") }}
                 <img srcset="

@@ -5,10 +5,10 @@ disableLanguages: []
 defaultContentLanguageInSubdir: false
 languages:
   es:
-    languageName: Español
+    label: Español
     weight: 1
   en:
-    languageName: English
+    label: English
     weight: 2
     
 # defaultContentLanguageInSubdir: false
@@ -142,4 +142,4 @@ privacy:
 module:
   hugoVersion:
     extended: true
-    min: "0.104.0"
+    min: "0.161.0"

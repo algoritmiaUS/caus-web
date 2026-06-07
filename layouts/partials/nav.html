@@ -2,9 +2,9 @@
     <div x-data="{ open: false }" class="flex flex-col max-w-full px-4 mx-auto md:items-center md:justify-between md:flex-row md:px-6 lg:px-8">
         <div class="flex flex-row items-center justify-between p-4">
             <a href="/" class="flex text-gray-100 transition duration-1000 ease-in-out group">
-                <img src="/images/site-logo.svg" class="transition-opacity h-9 w-9 group-hover:opacity-50 group-focus:opacity-70" alt="{{ .Site.Title }} Logo" />
+                <img src="/images/site-logo.svg" class="transition-opacity h-9 w-9 group-hover:opacity-50 group-focus:opacity-70" alt="{{ site.Title }} Logo" />
                 <div class="mt-1 ml-3 text-xl font-black tracking-tight text-gray-100 uppercase transition-colors group-hover:text-gray-400/60">
-                    {{ .Site.Params.Title_Short }}</div>
+                    {{ site.Params.Title_Short }}</div>
             </a>
             <button class="rounded-lg md:hidden focus:outline-hidden focus:shadow-outline" @click="open = !open" role="navigation" aria-expanded="false" aria-label="Main" aria-controls="menuItems">
                 <svg fill="currentColor" viewBox="0 0 20 20" class="w-6 h-6">
@@ -91,34 +91,34 @@
             </a>
             {{ end }}
             {{ end }}
-            {{ if gt (len site.Languages) 1 }}
+            {{ if hugo.IsMultilingual }}
             <div @click.away="open = false" class="relative" x-data="{ open: false }">
                 <button @click="open = !open" class="flex flex-row items-center w-full px-4 py-2 mt-2 text-sm font-semibold text-left bg-transparent rounded-lg md:w-auto md:inline md:mt-0 md:ml-4 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-600 focus:outline-hidden focus:shadow-outline">
-                    <span>🌐 {{ site.Language.LanguageName }}</span>
+                    <span>🌐 {{ site.Language.Label }}</span>
                     <svg fill="currentColor" viewBox="0 0 20 20" :class="{'rotate-180': open, 'rotate-0': !open}" class="inline w-4 h-4 mt-1 ml-1 transition-transform duration-200 transform md:-mt-1">
                         <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path>
                     </svg>
                 </button>
                 <div x-show="open" x-transition:enter="transition ease-out duration-100" x-transition:enter-start="transform opacity-0 scale-95" x-transition:enter-end="transform opacity-100 scale-100" x-transition:leave="transition ease-in duration-75" x-transition:leave-start="transform opacity-100 scale-100" x-transition:leave-end="transform opacity-0 scale-95" class="absolute right-0 z-30 w-full mt-2 origin-top-right rounded-md shadow-lg md:w-48">
                     <div class="px-2 py-2 bg-white rounded-md shadow-sm text-primary-900">
-                        {{ range site.Languages }}
-                            {{ if ne .Lang site.Language.Lang }}
+                        {{ range hugo.Sites }}
+                            {{ if ne .Language.Name site.Language.Name }}
                             {{ $targetURL := "" }}
-                            {{ $currentLang := $.Page.Lang }}
-                            {{ $targetLang := .Lang }}
+                            {{ $currentLang := $.Page.Language.Name }}
+                            {{ $targetLang := .Language.Name }}
                             
                             {{ if $.Page.IsTranslated }}
                                 {{ range $.Page.Translations }}
-                                    {{ if eq .Lang $targetLang }}
+                                    {{ if eq .Language.Name $targetLang }}
                                         {{ $targetURL = .RelPermalink }}
                                     {{ end }}
                                 {{ end }}
                             {{ end }}
                             
                             {{ if not $targetURL }}
-                                {{ if eq $targetLang site.Home.Language.Lang }}
+                                {{ if eq $targetLang site.Home.Language.Name }}
                                     {{ $targetURL = $.Page.RelPermalink | replaceRE (printf "^/%s/" $currentLang) "/" }}
-                                {{ else if eq $currentLang site.Home.Language.Lang }}
+                                {{ else if eq $currentLang site.Home.Language.Name }}
                                     {{ $targetURL = printf "/%s%s" $targetLang $.Page.RelPermalink }}
                                 {{ else }}
                                     {{ $targetURL = $.Page.RelPermalink | replaceRE (printf "^/%s/" $currentLang) (printf "/%s/" $targetLang) }}
@@ -127,11 +127,11 @@
                             
                             <a class="block px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg md:mt-0 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-600 focus:outline-hidden focus:shadow-outline" 
                                href="{{ $targetURL }}">
-                                {{ if eq .Lang "es" }}🇪🇸 Español{{ end }}
-                                {{ if eq .Lang "en" }}🇬🇧 English{{ end }}
-                                {{ if eq .Lang "fr" }}🇫🇷 Français{{ end }}
-                                {{ if eq .Lang "de" }}🇩🇪 Deutsch{{ end }}
-                                {{ if eq .Lang "ja" }}🇯🇵 日本語{{ end }}
+                                {{ if eq .Language.Name "es" }}🇪🇸 Español{{ end }}
+                                {{ if eq .Language.Name "en" }}🇬🇧 English{{ end }}
+                                {{ if eq .Language.Name "fr" }}🇫🇷 Français{{ end }}
+                                {{ if eq .Language.Name "de" }}🇩🇪 Deutsch{{ end }}
+                                {{ if eq .Language.Name "ja" }}🇯🇵 日本語{{ end }}
                             </a>
                             {{ end }}
                         {{ end }}
@@ -140,7 +140,7 @@
             </div>
             {{ end }}
             
-            {{ if not .Site.Params.Disable_theme_toggle }}
+            {{ if not site.Params.Disable_theme_toggle }}
             <button id="theme-toggle" type="button" class="p-2 text-sm text-gray-500 rounded-lg md: dark:text-gray-400 md:hover:bg-gray-100 dark:md:hover:bg-gray-700 md:focus:outline-hidden md:focus:ring-4 md:focus:ring-gray-200 dark:md:focus:ring-gray-700 md:ml-2 xs:hidden">
                 <svg id="theme-toggle-dark-icon" class="hidden w-5 h-5" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
                     <path d="M17.293 13.293A8 8 0 016.707 2.707a8.001 8.001 0 1010.586 10.586z">

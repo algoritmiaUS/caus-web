@@ -1,7 +1,7 @@
 <!-- <div class="max-w-md px-4 mx-auto md:pt-24 md:pb-16 sm:max-w-3xl sm:px-6 lg:max-w-7xl lg:px-8">
     <div class="lg:grid lg:grid-cols-2 lg:items-center lg:gap-24">
         
-        {{ $logos := .Site.Params.P3.Logos }}
+        {{ $logos := site.Params.P3.Logos }}
         {{ $count := len $logos }}
         
         <div class="grid gap-8 mt-12 
@@ -35,7 +35,7 @@ lg:mt-0">
             <p class="max-w-3xl mt-6 text-lg leading-7 text-gray-900 dark:text-white">
                   {{ i18n "sponsors.description"}}
             </p>
-            {{ range .Site.Params.P3.Links }}
+            {{ range site.Params.P3.Links }}
             <div class="my-6">
                 <a href="{{ .url }}" class="text-base font-medium text-primary-400 dark:text-primary-100">
                     {{ i18n "sponsors.cta" }}&nbsp&rarr;
@@ -50,7 +50,7 @@ lg:mt-0">
 <div class="max-w-md px-4 mx-auto md:pt-24 md:pb-16 sm:max-w-3xl sm:px-6 lg:max-w-7xl lg:px-8">
     <div class="lg:grid lg:grid-cols-2 lg:items-center lg:gap-24">
         
-        {{ $logos := .Site.Params.P3.Logos }}
+        {{ $logos := site.Params.P3.Logos }}
         {{ $count := len $logos }}
         
         <div class="grid gap-8 mt-12 
@@ -85,7 +85,7 @@ lg:mt-0">
             <p class="max-w-3xl mt-6 text-lg leading-7 text-gray-900 dark:text-white">
                   {{ i18n "sponsors.description"}}
             </p>
-            {{ range .Site.Params.P3.Links }}
+            {{ range site.Params.P3.Links }}
             <div class="my-6">
                 <a href="{{ .url }}" class="text-base font-medium text-primary-400 dark:text-primary-100">
                     {{ i18n "sponsors.cta" }}&nbsp&rarr;

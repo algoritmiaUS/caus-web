@@ -7,7 +7,7 @@
   
     <div class="grid justify-center gap-4 mt-6" 
          style="grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); max-width: 1200px; margin: 0 auto;">
-      {{ range .Site.Data.members.administrators }}
+      {{ range hugo.Data.members.administrators }}
       <div class="flex flex-col items-center p-3 w-full">
         <img src="{{ .image }}" alt="{{ .name }}" class="w-20 h-20 rounded-full object-cover">
         <h3 class="text-base font-bold mt-3 truncate">{{ .name }}</h3>
@@ -58,7 +58,7 @@
     <h2 class="text-2xl font-bold mb-2">{{ i18n "old_admins" }}</h2>
     <p class="text-gray-500 text-lg">{{ i18n "old_admins_desc" }}</p>
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mt-6" style="grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));">
-      {{ range .Site.Data.members.oldadmins }}
+      {{ range hugo.Data.members.oldadmins }}
       <div class="flex flex-col items-center p-3 max-w-xs w-full mx-auto hover:bg-gray-50/20 transition-colors">
         <img src="{{ .image }}" alt="{{ .name }}" class="rounded-full object-cover mx-auto" style="width: 300px; height: 300px;">
         <h3 class="text-base font-bold mt-3 truncate">{{ .name }}</h3>
@@ -75,7 +75,7 @@
 
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mt-6" style="grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));">
 
-      {{ range .Site.Data.members.members }}
+      {{ range hugo.Data.members.members }}
       <div class="flex flex-col items-center p-3 max-w-xs w-full mx-auto hover:bg-gray-50/20 transition-colors">
       <img src="{{ .image }}" alt="{{ .name }}" class="w-20 h-20 rounded-full object-cover mx-auto">
       <h3 class="text-base font-bold mt-3 truncate">{{ .name }}</h3>
