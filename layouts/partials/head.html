@@ -18,7 +18,7 @@
         document.documentElement.classList.remove('dark')
     }
 </script>
-{{ $styles := resources.Get "/css/style.css" }}
+{{ $styles := resources.Get "/css/style.css" | postCSS }}
 
 {{ if hugo.IsProduction }}
 <link rel="stylesheet" href="{{ $styles.RelPermalink }}" />
