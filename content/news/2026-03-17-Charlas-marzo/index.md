@@ -1,5 +1,5 @@
 ---
-title: 'Charlas y talleres - Marzo 2026'
+title: "Charlas y talleres - Marzo 2026"
 date: 2026-03-17T12:20:00+00:00
 draft: false
 language: es
@@ -22,16 +22,15 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
 <div class="space-y-6 dark:bg-gray-900 dark:text-gray-100">
 
 {{< charla
-title="From ChatGPT User to AI Builder"
-date="Martes, 24 de marzo de 2026"
-time="20:00"
-location="Sala multiusos de la ETSII + online"
-speaker="Jelena Duric (Campus Ambassador @Jetbrains)"
-language="inglés"
-stream_url="https://www.youtube.com/live/xG6bDoLRmDw"
-
-> }}
-> Step beyond using AI and start building with it! In this interactive workshop, you’ll learn the fundamentals of LLMs and discover how tools like ChatGPT actually work. Then you’ll take it a step further by creating your own custom GPT and exploring how AI can be connected to real tools and workflows. No prior AI experience is required, just curiosity and the desire to turn AI from something you use into something you build. Oh, and you might even win a fun prize!
-> {{< /charla >}}
+    title="From ChatGPT User to AI Builder"
+    date="Martes, 24 de marzo de 2026"
+    time="20:00"
+    location="Sala multiusos de la ETSII + online"
+    speaker="Jelena Duric (Campus Ambassador @Jetbrains)"
+    language="inglés"
+    stream_url="<https://www.youtube.com/live/xG6bDoLRmDw>"
+>}}
+Step beyond using AI and start building with it! In this interactive workshop, you’ll learn the fundamentals of LLMs and discover how tools like ChatGPT actually work. Then you’ll take it a step further by creating your own custom GPT and exploring how AI can be connected to real tools and workflows. No prior AI experience is required, just curiosity and the desire to turn AI from something you use into something you build. Oh, and you might even win a fun prize!
+{{< /charla >}}
 
 </div>

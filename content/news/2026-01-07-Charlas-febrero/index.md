@@ -1,5 +1,5 @@
 ---
-title: 'Charlas y talleres - Febrero 2026'
+title: "Charlas y talleres - Febrero 2026"
 date: 2026-01-07T12:20:00+00:00
 draft: false
 language: es
@@ -22,29 +22,27 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
 <div class="space-y-6 dark:bg-gray-900 dark:text-gray-100">
 
 {{< charla
-title="De la universidad al mundo real: lo que no te enseñan en la carrera"
-date="Lunes, 02 de febrero de 2026"
-time="19:00"
-location="Sala multiusos de la ETSII + online"
-speaker="Luis Andrés Velázquez"
-stream_url="https://youtube.com/live/lplg2amjlts"
-
-> }}
-> Dar el salto de la universidad al mundo laboral en informática genera muchas dudas… y casi nadie te las responde en la carrera. En esta charla hablaremos, de forma clara y directa, de todo lo que realmente importa cuando empiezas a trabajar: cómo hacer un CV que funcione, enfrentarte a entrevistas técnicas, negociar sueldo y condiciones y evitar errores típicos, etc.
+    title="De la universidad al mundo real: lo que no te enseñan en la carrera"
+    date="Lunes, 02 de febrero de 2026"
+    time="19:00"
+    location="Sala multiusos de la ETSII + online"
+    speaker="Luis Andrés Velázquez"
+    stream_url="<https://youtube.com/live/lplg2amjlts>"
+>}}
+Dar el salto de la universidad al mundo laboral en informática genera muchas dudas… y casi nadie te las responde en la carrera. En esta charla hablaremos, de forma clara y directa, de todo lo que realmente importa cuando empiezas a trabajar: cómo hacer un CV que funcione, enfrentarte a entrevistas técnicas, negociar sueldo y condiciones y evitar errores típicos, etc.
 
 También entenderás por fin qué significan conceptos como salario bruto y neto, IRPF o retribución flexible, y qué debes tener en cuenta si te planteas trabajar en el extranjero. Una charla práctica, sin teoría innecesaria, pensada para que salgas con ideas claras, más confianza y ventaja frente a otros candidatos. Ideal si quieres empezar tu carrera profesional con buen pie.
 {{< /charla >}}
 
 {{< charla
-title="Grupos y Topología, un matrimonio feliz"
-date="Jueves, 26 de febrero de 2026"
-time="19:00"
-location="Salón de Actos, Facultad de Matemáticas"
-speaker="Ramón Flores"
-stream_url="https://www.youtube.com/live/obpuO4YQsDQ"
-
-> }}
-> La teoría de grupos y la topología se conocieron de jóvenes, se miraron a los ojos y empezaron a caminar juntas, dándole mucho cada una a la otra. En esta charla repasaremos algunos de los más bonitos encuentros que hicieron este matrimonio tan feliz.
-> {{< /charla >}}
+    title="Grupos y Topología, un matrimonio feliz"
+    date="Jueves, 26 de febrero de 2026"
+    time="19:00"
+    location="Salón de Actos, Facultad de Matemáticas"
+    speaker="Ramón Flores"
+    stream_url="<https://www.youtube.com/live/obpuO4YQsDQ>"
+>}}
+La teoría de grupos y la topología se conocieron de jóvenes, se miraron a los ojos y empezaron a caminar juntas, dándole mucho cada una a la otra. En esta charla repasaremos algunos de los más bonitos encuentros que hicieron este matrimonio tan feliz.
+{{< /charla >}}
 
 </div>

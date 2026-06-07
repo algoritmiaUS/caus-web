@@ -1,5 +1,5 @@
 ---
-title: 'Charlas y talleres - Octubre 2025'
+title: "Charlas y talleres - Octubre 2025"
 date: 2025-10-06T12:20:00+00:00
 draft: false
 language: es
@@ -20,26 +20,24 @@ Cómo anunciamos en la sesión de presentación, este curso vamos a organizar ch
 <div class="space-y-6 dark:bg-gray-900 dark:text-gray-100">
 
 {{< charla
-title="Geometría hiperbólica"
-date="Jueves, 9 de octubre de 2025"
-time="19:00"
-location="Salón de grados de la ETSII"
-speaker="Pedro Almagro (Profesor de la ETSII)"
-
-> }}
-> Charla introductoria en la que se explicará cómo los sistemas complejos pueden representarse y analizarse mediante geometría hiperbólica. Se introducirán los conceptos de sistemas complejos, redes complejas, así como sus características fundamentales, mostrando cómo su estructura oculta puede entenderse en espacios hiperbólicos de baja dimensión. La sesión debatirá aplicaciones en eficiencia algorítmica, modelado de datos y visualización de grandes grafos.
-> {{< /charla >}}
+    title="Geometría hiperbólica"
+    date="Jueves, 9 de octubre de 2025"
+    time="19:00"
+    location="Salón de grados de la ETSII"
+    speaker="Pedro Almagro (Profesor de la ETSII)"
+>}}
+Charla introductoria en la que se explicará cómo los sistemas complejos pueden representarse y analizarse mediante geometría hiperbólica. Se introducirán los conceptos de sistemas complejos, redes complejas, así como sus características fundamentales, mostrando cómo su estructura oculta puede entenderse en espacios hiperbólicos de baja dimensión. La sesión debatirá aplicaciones en eficiencia algorítmica, modelado de datos y visualización de grandes grafos.
+{{< /charla >}}
 
 {{< charla
-title="Hablando de Ramanujan con Renato: Lo que no te contaron de las matemáticas de Ramanujan"
-date="Jueves, 23 de octubre de 2025"
-time="19:00"
-location="Salón de Actos de la Facultad de Matemáticas"
-speaker="Renato Álvarez-Nodarse (Catedrático de la Facultad de Matemáticas de la US)"
-
-> }}
-> Pudiera ser que Srinivasa Ramanujan sea uno de los matemáticos más conocidos por los no matemáticos. De él se han escrito novelas y se han hecho películas siendo la más conocida "The Man Who Knew Infinity". Pero ¿qué hizo a Ramanujan tan especial? En esta **charla informal** hablaremos de algunas de las matemáticas que hizo el genio indio y en particular del casi desconocido mundo para el no iniciado de las q-series.
-> {{< /charla >}}
+    title="Hablando de Ramanujan con Renato: Lo que no te contaron de las matemáticas de Ramanujan"
+    date="Jueves, 23 de octubre de 2025"
+    time="19:00"
+    location="Salón de Actos de la Facultad de Matemáticas"
+    speaker="Renato Álvarez-Nodarse (Catedrático de la Facultad de Matemáticas de la US)"
+>}}
+Pudiera ser que Srinivasa Ramanujan sea uno de los matemáticos más conocidos por los no matemáticos. De él se han escrito novelas y se han hecho películas siendo la más conocida "The Man Who Knew Infinity". Pero ¿qué hizo a Ramanujan tan especial? En esta **charla informal** hablaremos de algunas de las matemáticas que hizo el genio indio y en particular del casi desconocido mundo para el no iniciado de las q-series.
+{{< /charla >}}
 
 </div>
 <br>

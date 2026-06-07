@@ -1,5 +1,5 @@
 ---
-title: 'Charlas y talleres - Noviembre 2025'
+title: "Charlas y talleres - Noviembre 2025"
 date: 2025-11-09T12:20:00+00:00
 draft: false
 language: es
@@ -22,32 +22,30 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
 <div class="space-y-6 dark:bg-gray-900 dark:text-gray-100">
 
 {{< charla
-title="Los algoritmos de un monoplaza autónomo de Formula Student"
-date="Jueves, 13 de noviembre de 2025"
-time="19:00"
-location="Salón de grados de la ETSII + online"
-speaker="José Manuel Landero e Ignacio Sánchez"
-stream_url="https://www.youtube.com/watch?v=nT0-ImFk-40"
-
-> }}
-> José Manuel Landero e Ignacio Sánchez
-> forman parte de ARUS, el equipo de Formula Student de la Universidad de
-> Sevilla, que cuenta con un monoplaza autónomo de competición. En esta
-> charla, nos contarán los entresijos de los distintos algoritmos que
-> hacen funcionar un coche autónomo. Desde la percepción basada en
-> LiDAR hasta el SLAM, el path planning y el control del mismo.
-> {{< /charla >}}
+    title="Los algoritmos de un monoplaza autónomo de Formula Student"
+    date="Jueves, 13 de noviembre de 2025"
+    time="19:00"
+    location="Salón de grados de la ETSII + online"
+    speaker="José Manuel Landero e Ignacio Sánchez"
+    stream_url="<https://www.youtube.com/watch?v=nT0-ImFk-40>"
+>}}
+José Manuel Landero e Ignacio Sánchez
+forman parte de ARUS, el equipo de Formula Student de la Universidad de
+Sevilla, que cuenta con un monoplaza autónomo de competición. En esta
+charla, nos contarán los entresijos de los distintos algoritmos que
+hacen funcionar un coche autónomo. Desde la percepción basada en
+LiDAR hasta el SLAM, el path planning y el control del mismo.
+{{< /charla >}}
 
 {{< charla
-title="Ciberinteligencia Aumentada: Cómo la IA multiplica tu capacidad de análisis"
-date="Jueves, 20 de noviembre de 2025"
-time="19:00"
-location="Salón de grados de la ETSII + online"
-speaker="Roberto Lama Rodríguez"
-stream_url="https://youtube.com/live/DzntiBDiElw"
-
-> }}
-> La avalancha de datos es real: más alertas, más fuentes, más ruido… y el mismo tiempo para analizarlas. En esta charla veremos cómo la IA se convierte en el turbo del analista: acelera el trabajo, detecta patrones invisibles y transforma información caótica en inteligencia útil.
+    title="Ciberinteligencia Aumentada: Cómo la IA multiplica tu capacidad de análisis"
+    date="Jueves, 20 de noviembre de 2025"
+    time="19:00"
+    location="Salón de grados de la ETSII + online"
+    speaker="Roberto Lama Rodríguez"
+    stream_url="<https://youtube.com/live/DzntiBDiElw>"
+>}}
+La avalancha de datos es real: más alertas, más fuentes, más ruido… y el mismo tiempo para analizarlas. En esta charla veremos cómo la IA se convierte en el turbo del analista: acelera el trabajo, detecta patrones invisibles y transforma información caótica en inteligencia útil.
 
 🧠 Primera parte: fundamentos y retos reales del analista actual.
 🛠️ Segunda parte: PoCs en directo con ejemplos de IA aplicada a ciberinteligencia.
