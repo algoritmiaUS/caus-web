@@ -1,0 +1,9 @@
+node_modules
+public
+resources
+package-lock.json
+
+# Hugo Go templates — not valid HTML from Prettier's perspective
+layouts/**/*.html
+archetypes/**/*.md
+
