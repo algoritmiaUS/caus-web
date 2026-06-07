@@ -1,7 +1,10 @@
 {{- $ogImage := "" -}}
 {{- if .Params.featured_image -}}
-  {{- with resources.Get .Params.featured_image -}}
+  {{- $img := .Params.featured_image -}}
+  {{- with resources.Get $img -}}
     {{- $ogImage = .Permalink -}}
+  {{- else -}}
+    {{- $ogImage = $img | absURL -}}
   {{- end -}}
 {{- end -}}
 {{- if not $ogImage -}}
