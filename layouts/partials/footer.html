@@ -9,7 +9,7 @@
         <nav class="flex flex-wrap justify-center -mx-5 -my-2" aria-label="Footer">
             {{ range site.Menus.footer }}
             <div class="px-5 py-2">
-                <a href="{{ .URL | absLangURL }}" class="text-base text-gray-400 hover:text-gray-300">{{ .Name }}</a>
+                <a href="{{ .URL | relLangURL }}" class="text-base text-gray-400 hover:text-gray-300">{{ .Name }}</a>
             </div>
             {{ end }}
         </nav>

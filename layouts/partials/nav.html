@@ -1,8 +1,8 @@
 <div class="top-0 z-50 w-full text-gray-200 bg-gray-900 border-2 border-gray-900 md:sticky border-b-stone-200/10">
     <div x-data="{ open: false }" class="flex flex-col max-w-full px-4 mx-auto md:items-center md:justify-between md:flex-row md:px-6 lg:px-8">
         <div class="flex flex-row items-center justify-between p-4">
-            <a href="/" class="flex text-gray-100 transition duration-1000 ease-in-out group">
-                <img src="/images/site-logo.svg" class="transition-opacity h-9 w-9 group-hover:opacity-50 group-focus:opacity-70" alt="{{ site.Title }} Logo" />
+            <a href="{{ "/" | relLangURL }}" class="flex text-gray-100 transition duration-1000 ease-in-out group">
+                <img src="{{ "/images/site-logo.svg" | relURL }}" class="transition-opacity h-9 w-9 group-hover:opacity-50 group-focus:opacity-70" alt="{{ site.Title }} Logo" />
                 <div class="mt-1 ml-3 text-xl font-black tracking-tight text-gray-100 uppercase transition-colors group-hover:text-gray-400/60">
                     {{ site.Params.Title_Short }}</div>
             </a>
@@ -27,7 +27,7 @@
                     <div class="px-2 pt-2 pb-4 bg-white rounded-md shadow-lg text-zinc-900">
                         <div class="grid grid-cols-1 gap-4">
                             {{ range (index site.Menus .Identifier) }}
-                            <a class="flex items-start p-2 bg-transparent rounded-lg group row hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-700 focus:outline-hidden focus:shadow-outline" href="{{ .URL | absLangURL }}">
+                            <a class="flex items-start p-2 bg-transparent rounded-lg group row hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-700 focus:outline-hidden focus:shadow-outline" href="{{ .URL | relLangURL }}">
                                 <div class="p-3 text-white rounded-lg bg-primary-600 group-hover:bg-gray-900">
                                     {{ if (eq .Pre "stars") }}
                                     <svg fill="none" stroke="currentColor" stroke-linecap="round"
@@ -46,7 +46,7 @@
                                         </path>
                                     </svg>
                                     {{ else if (or (strings.HasSuffix .Pre ".svg") (strings.HasSuffix .Pre ".png") (strings.HasSuffix .Pre ".jpg") (strings.HasSuffix .Pre ".jpeg") (strings.HasSuffix .Pre ".gif")) }}
-                                    <img src="{{ .Pre | absLangURL }}" alt="{{ .Name }}" class="w-4 h-4 md:h-6 md:w-6" style="filter: brightness(0) invert(1);">
+                                    <img src="{{ .Pre | relURL }}" alt="{{ .Name }}" class="w-4 h-4 md:h-6 md:w-6" style="filter: brightness(0) invert(1);">
                                     {{ else }}
                                     <svg fill="none" stroke="currentColor" stroke-linecap="round"
                                          stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24"
@@ -80,13 +80,13 @@
                 <div x-show="open" x-transition:enter="transition ease-out duration-100" x-transition:enter-start="transform opacity-0 scale-95" x-transition:enter-end="transform opacity-100 scale-100" x-transition:leave="transition ease-in duration-75" x-transition:leave-start="transform opacity-100 scale-100" x-transition:leave-end="transform opacity-0 scale-95" class="absolute right-0 z-30 w-full mt-2 origin-top-right rounded-md shadow-lg md:w-48">
                     <div class="px-2 py-2 bg-white rounded-md shadow-sm text-primary-900">
                         {{ range (index site.Menus .Identifier) }}
-                        <a class="block px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg md:mt-0 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-600 focus:outline-hidden focus:shadow-outline" href="{{ .URL | absLangURL }}">{{- .Name -}}</a>
+                        <a class="block px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg md:mt-0 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-600 focus:outline-hidden focus:shadow-outline" href="{{ .URL | relLangURL }}">{{- .Name -}}</a>
                         {{ end }}
                     </div>
                 </div>
             </div>
             {{ else }}
-            <a class="px-4 py-2 mt-2 text-sm font-semibold rounded-lg md:mt-0 md:ml-4 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-700 focus:outline-hidden focus:shadow-outline" href="{{ .URL | absLangURL }}" title="{{ .Title | default .Name }}">
+            <a class="px-4 py-2 mt-2 text-sm font-semibold rounded-lg md:mt-0 md:ml-4 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-700 focus:outline-hidden focus:shadow-outline" href="{{ .URL | relLangURL }}" title="{{ .Title | default .Name }}">
                 {{ .Name }}
             </a>
             {{ end }}
