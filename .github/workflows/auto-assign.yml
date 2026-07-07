@@ -14,9 +14,9 @@ jobs:
       pull-requests: write
     strategy:
       matrix:
-        assignee: ['kennyfh', 'Raquezin']
+        assignee: ["Raquezin", "alejandro-pineda05"]
     steps:
-      - name: 'Auto-assign issue or pull request to ${{ matrix.assignee }}'
+      - name: "Auto-assign issue or pull request to ${{ matrix.assignee }}"
         uses: pozil/auto-assign-issue@v4
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
