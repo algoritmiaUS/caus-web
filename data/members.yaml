@@ -1,17 +1,10 @@
 administrators:
   - name: "Kenny Jesús Flores Huamán"
-    role: "Co-founder · Webmaster · Problem Solver"
+    role: "Co-founder · Marketing"
     image: "/images/admins/kenny.png"
     website: https://kennyfh.github.io
     linkedin: kennyfh
     github: kennyfh
-
-  - name: "Pablo Dávila Herrero"
-    role: "Co-founder · Event Manager"
-    image: "/images/admins/pablo-davila.jpeg"
-    website: https://pablodavila.eu
-    linkedin: pablo-davila-herrero
-    github: Pablo-Davila
 
   - name: "Pablo Reina Jiménez"
     role: "Co-founder · Problem Solver"
@@ -19,43 +12,100 @@ administrators:
     linkedin: pablo-reina-jiménez-2b1869257
     github: preinaj
 
-  - name: "José García De Tejada Delgado"
-    role: "Problem Solver · Event Manager"
-    image: "/images/admins/jose.jpg"
-    linkedin: jose-garcia-de-tejada-delgado-3915a12a2
-    github: Olivfhan
-
   - name: "Fernando Giráldez Curquejo"
-    role: "Webmaster · Problem Solver"
+    role: "Webmaster"
     image: "/images/admins/fernando-giraldez.png"
     website: https://raquezin.github.io
     linkedin: fgiraldezc
     github: Raquezin
 
-  - name: "Inés Dávila Herrero"
-    role: "Marketing · Problem Solver"
-    image: "/images/admins/ines.jpeg"
-    linkedin: ines-davila-herrero
+  - name: "Alejandro Pineda Martín"
+    role: "Webmaster"
+    image: "/images/admins/alepi.png"
+    linkedin: alejandro-pineda-martin-88a72b2a6
+    # github: alejandro-pineda05
+  
+  - name: "Julia Mara Moreno"
+    role: "Marketing"
+    image: "/images/admins/julia.jpg"
+  
+  - name: "Araceli Guerrero Morato"
+    role: "Marketing"
+    image: "/images/admins/araceli.jpg"
+    linkedin: araceli-guerrero-morato
+
+  - name: "Lucía Campos Díez"
+    role: "Marketing"
+    image: "/images/admins/lucia-diez.jpg"
+    linkedin: lucía-campos-díez-bb0345359
+
+  - name: "Luis Eduardo Castillo Huamán"
+    role: "Marketing"
+    image: "/images/admins/lucho.jpg"
+  
 
   - name: "Lorenzo Tagua Santana"
     role: "Problem Solver"
     image: "/images/admins/lorenzo.png"
     linkedin: lorenzo-tagua-476157293
 
-  - name: "Lucía Campos Díez"
-    role: "Marketing · Event Manager"
-    image: "/images/admins/lucia-diez.jpg"
-    linkedin: lucía-campos-díez-bb0345359
+  - name: "Julio Ojeda Infantes"
+    role: "Problem Solver"
+    image: "/images/admins/julio-ojeda.jpg"
+    linkedin: julio-ojeda-infantes-62846b319
+
+  - name: "Anselmo Jiménez Zambrano"
+    role: "Problem Solver"
+    image: "/images/admins/anselmo.jpg"
+    linkedin: anselmo-jimenez-zambrano
+
+  - name: "Pablo Moreno Moreu"
+    role: "Problem Solver"
+    image: "/images/admins/pablo-moreno.jpeg"
+    linkedin: pablo-moreno-moreu
+
+  - name: "Miguel Antequera Gaspar"
+    role: "Problem Solver"
+    image: "/images/admins/antequera.jpeg"
+    linkedin: miguel-antequera-gaspar
+
+  - name: "Jesus Racero San Román"
+    role: "Problem Solver"
+    image: "/images/admins/jesus-racero.jpg"
+    linkedin: jesús-racero-san-román-6b0960374
+
+  - name: "Inés Dávila Herrero"
+    role: "Problem Solver"
+    image: "/images/admins/ines.jpeg"
+    linkedin: ines-davila-herrero
+
+  - name: "Arnau Neches Vilà"
+    role: "Events Manager"
+    image: "/images/admins/arnau.jpeg"
+    linkedin: arnau-neches-vilà-096627255
 
   - name: "Víctor Mesa Solano"
-    role: "Problem Solver"
+    role: "Events Manager"
     image: "/images/admins/vikzi.jpeg"
     linkedin: "victor-manuel-mesa-solano-a04663376"
 
 oldadmins:
-  # Antiguas admins: Os querremos siempre <3
+  # Antiguos admins: Os querremos siempre <3
+  - name: "Pablo Dávila Herrero"
+    role: "Ex-tirano · Co-founder · Event Manager"
+    image: "/images/admins/pablo-davila.jpeg"
+    website: https://pablodavila.eu
+    linkedin: pablo-davila-herrero
+    github: Pablo-Davila
+
+  - name: "José García De Tejada Delgado"
+    role: "Problem Solver · Event Manager"
+    image: "/images/admins/jose.jpg"
+    linkedin: jose-garcia-de-tejada-delgado-3915a12a2
+    github: Olivfhan
+
   - name: "Paula Gómez Matos"
-    role: "Cofundadora y Former Member"
+    role: "Co-founder"
     image: "/images/admins/paula.jpeg"
     linkedin: paulagomezmatos
 
@@ -65,6 +115,10 @@ oldadmins:
     linkedin: lourdeslb
     github: lourdesLB
 
+
+
+
+
 members:
   - name: "Adriana Gordillo Melero"
     image: "/images/members/adriana.png"
@@ -72,14 +126,8 @@ members:
   - name: "Alejandro Domínguez Muñoz"
     image: "/images/members/alejandro-haskell.jpeg"
 
-  - name: "Alejandro Pineda Martín"
-    image: "/images/members/alejandro-pineda.jpeg"
-
   - name: "Álvaro Galisteo Bermúdez"
     image: "/images/members/gali.jpeg"
-
-  - name: "Arnau Neches Vilà"
-    image: "/images/members/arnau.jpeg"
 
   - name: "Carlos Fernández - Llebrez Acedo"
     image: "/images/members/carlos-fernandez.jpeg"
@@ -99,9 +147,6 @@ members:
   - name: "Jacobo Tagua Santana"
     image: "/images/members/jacobo.png"
 
-  - name: "Jesus Racero San Román"
-    image: "/images/members/jesus-racero.jpg"
-
   - name: "Jesús Vílchez Martínez"
     image: "/images/members/jesus-vilche.jpeg"
 
@@ -113,9 +158,6 @@ members:
 
   # - name: "Juan Grosso De La Lama"
   #   image: "/images/members/caus.png"
-
-  - name: "Luis Eduardo Castillo Huamán"
-    image: "/images/members/lucho.jpg"
 
   # - name: "Manuel Delclós López"
   #   image: "/images/members/caus.png"
@@ -131,9 +173,6 @@ members:
 
   - name: "Pablo Écija Laguna"
     image: "/images/members/pablo-ecija.jpeg"
-
-  - name: "Pablo Moreno Moreu"
-    image: "/images/members/pablo-moreno.jpeg"
 
   # - name: "Sebastian Alonso Torres Garate"
   #   image: "/images/members/caus.png"
