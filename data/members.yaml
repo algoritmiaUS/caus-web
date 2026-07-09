@@ -1,33 +1,33 @@
 administrators:
+  - name: "Pablo Reina Jiménez"
+    role: "Presidente · Co-founder · Problem Solver"
+    image: "/images/admins/pablo-peliazul.jpg"
+    linkedin: pablo-reina-jiménez-2b1869257
+    github: preinaj
+
   - name: "Kenny Jesús Flores Huamán"
-    role: "Co-founder · Marketing"
-    image: "/images/admins/kenny.png"
+    role: "Vicepresidente · Co-founder · Marketing"
+    image: "/images/admins/tito-kenny.jpg"
     website: https://kennyfh.github.io
     linkedin: kennyfh
     github: kennyfh
 
-  - name: "Pablo Reina Jiménez"
-    role: "Co-founder · Problem Solver"
-    image: "/images/admins/pablo-reina.jpeg"
-    linkedin: pablo-reina-jiménez-2b1869257
-    github: preinaj
-
   - name: "Fernando Giráldez Curquejo"
     role: "Webmaster"
-    image: "/images/admins/fernando-giraldez.png"
+    image: "/images/admins/fernando-ml.jpg"
     website: https://raquezin.github.io
     linkedin: fgiraldezc
     github: Raquezin
 
   - name: "Alejandro Pineda Martín"
     role: "Webmaster"
-    image: "/images/admins/alepi.png"
+    image: "/images/admins/alepi.jpg"
     linkedin: alejandro-pineda-martin-88a72b2a6
     # github: alejandro-pineda05
   
   - name: "Julia Mara Moreno"
     role: "Marketing"
-    image: "/images/admins/julia.jpg"
+    image: "/images/admins/julia-enana.jpg"
   
   - name: "Araceli Guerrero Morato"
     role: "Marketing"
@@ -36,7 +36,7 @@ administrators:
 
   - name: "Lucía Campos Díez"
     role: "Marketing"
-    image: "/images/admins/lucia-diez.jpg"
+    image: "/images/admins/lucia.jpg"
     linkedin: lucía-campos-díez-bb0345359
 
   - name: "Luis Eduardo Castillo Huamán"
@@ -46,12 +46,12 @@ administrators:
 
   - name: "Lorenzo Tagua Santana"
     role: "Problem Solver"
-    image: "/images/admins/lorenzo.png"
+    image: "/images/admins/lorenzo.jpg"
     linkedin: lorenzo-tagua-476157293
 
   - name: "Julio Ojeda Infantes"
     role: "Problem Solver"
-    image: "/images/admins/julio-ojeda.jpg"
+    image: "/images/admins/julio.jpg"
     linkedin: julio-ojeda-infantes-62846b319
 
   - name: "Anselmo Jiménez Zambrano"
@@ -66,7 +66,7 @@ administrators:
 
   - name: "Miguel Antequera Gaspar"
     role: "Problem Solver"
-    image: "/images/admins/antequera.jpeg"
+    image: "/images/admins/antequera.jpg"
     linkedin: miguel-antequera-gaspar
 
   - name: "Jesus Racero San Román"
@@ -76,7 +76,7 @@ administrators:
 
   - name: "Inés Dávila Herrero"
     role: "Problem Solver"
-    image: "/images/admins/ines.jpeg"
+    image: "/images/admins/ines.jpg"
     linkedin: ines-davila-herrero
 
   - name: "Arnau Neches Vilà"
@@ -92,8 +92,8 @@ administrators:
 oldadmins:
   # Antiguos admins: Os querremos siempre <3
   - name: "Pablo Dávila Herrero"
-    role: "Ex-tirano · Co-founder · Event Manager"
-    image: "/images/admins/pablo-davila.jpeg"
+    role: "Ex-presidente · Co-founder · Event Manager"
+    image: "/images/admins/chumbi.jpg"
     website: https://pablodavila.eu
     linkedin: pablo-davila-herrero
     github: Pablo-Davila
