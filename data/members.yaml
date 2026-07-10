@@ -91,7 +91,7 @@ administrators:
 oldadmins:
   # Antiguos admins: Os querremos siempre <3
   - name: "Pablo Dávila Herrero"
-    role: "Ex-tirano · Co-founder · Event Manager"
+    role: "Ex-presidente · Co-founder · Event Manager"
     image: "/images/admins/pablo-davila.webp"
     website: https://pablodavila.eu
     linkedin: pablo-davila-herrero
