@@ -15,9 +15,9 @@ En el Club de Algoritmia, creemos firmemente en el valor de enfrentar desafíos 
 
 Únete a nosotros y forma parte de una comunidad apasionada por la programación, donde cada desafío es una oportunidad para aprender y crecer juntos.
 
----
 
 # 📚 Actividades Académicas
+
 
 ## Sesiones de entrenamiento
 
@@ -59,23 +59,19 @@ Participamos en eventos anuales como [Advent of Code](https://adventofcode.com/)
   <img src="/images/about/competiciones2.jpg" alt="Competición 2" style="width: 100%; max-width: 600px; flex: 1;border-radius: 12px;">
 </div>
 
----
 
 # 🎉 Actividades Sociales
+
 
 ## Comida cuatrimestral
 
 Cada cuatrimestre, organizamos una comida especial para celebrar nuestros logros y disfrutar en equipo. Esta es una excelente oportunidad para compartir una comida memorable y conocer a esas personas del grupo con las que aún no has coincidido.
 
-<!-- ![alt text](comida-caus.jpg) -->
-<!-- <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-  <img src="comida-caus.jpg" alt="Comida CAUS" style="width: 100%; max-width: 600px;border-radius: 12px;">
-</div> -->
-
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
   <img src="/images/about/comida-caus.jpg" alt="Comida CAUS 1" style="width: 100%; max-width: 600px;border-radius: 12px;">
   <img src="/images/about/comida-caus2.jpg" alt="Comida CAUS 2" style="width: 100%; max-width: 600px;border-radius: 12px;">
 </div>
+
 
 ## Rocódromo
 
@@ -85,6 +81,7 @@ Cada cuatrimestre, organizamos una comida especial para celebrar nuestros logros
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
   <img src="/images/about/rocodromo.png" alt="Rocódromo" style="width: 100%; max-width: 600px;border-radius: 12px;">
 </div>
+
 
 # Nuestro equipo
 

@@ -66,10 +66,10 @@ events.description:
 administrators:
   other: "Administradores"
 administrators_desc:
-  other: "El equipo detrás de la organización de todos los eventos!"
+  other: "El equipo detrás de todos los eventos!"
 old_admins:
-  other: "Antiguos Administradores"
+  other: "Antiguos administradores"
 old_admins_desc:
   other: "¡Os querremos siempre! ❤️"
 members:
-  other: "Miembros"
+  other: "Algunos miembros"
