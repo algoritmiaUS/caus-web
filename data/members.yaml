@@ -1,67 +1,116 @@
 administrators:
+  - name: "Pablo Reina Jiménez"
+    role: "Presidente · Co-founder · Problem Solver"
+    image: "/images/admins/pablo-reina.webp"
+    linkedin: pablo-reina-jiménez-2b1869257
+    github: preinaj
+
   - name: "Kenny Jesús Flores Huamán"
-    role: "Co-founder · Webmaster · Problem Solver"
-    image: "/images/admins/kenny.png"
+    role: "Vicepresidente · Co-founder · Marketing"
+    image: "/images/admins/kenny.webp"
     website: https://kennyfh.github.io
     linkedin: kennyfh
     github: kennyfh
 
-  - name: "Pablo Dávila Herrero"
-    role: "Co-founder · Event Manager"
-    image: "/images/admins/pablo-davila.jpeg"
-    website: https://pablodavila.eu
-    linkedin: pablo-davila-herrero
-    github: Pablo-Davila
-
-  - name: "Pablo Reina Jiménez"
-    role: "Co-founder · Problem Solver"
-    image: "/images/admins/pablo-reina.jpeg"
-    linkedin: pablo-reina-jiménez-2b1869257
-    github: preinaj
-
-  - name: "José García De Tejada Delgado"
-    role: "Problem Solver · Event Manager"
-    image: "/images/admins/jose.jpg"
-    linkedin: jose-garcia-de-tejada-delgado-3915a12a2
-    github: Olivfhan
-
   - name: "Fernando Giráldez Curquejo"
-    role: "Webmaster · Problem Solver"
-    image: "/images/admins/fernando-giraldez.png"
+    role: "Webmaster"
+    image: "/images/admins/fernando-giraldez.webp"
     website: https://raquezin.github.io
     linkedin: fgiraldezc
     github: Raquezin
 
-  - name: "Inés Dávila Herrero"
-    role: "Marketing · Problem Solver"
-    image: "/images/admins/ines.jpeg"
-    linkedin: ines-davila-herrero
+  - name: "Alejandro Pineda Martín"
+    role: "Webmaster"
+    image: "/images/admins/alepi.webp"
+    linkedin: alejandro-pineda-martin-88a72b2a6
+    # github: alejandro-pineda05
+
+  - name: "Julia Mara Moreno"
+    role: "Marketing"
+    image: "/images/admins/julia.webp"
+
+  - name: "Araceli Guerrero Morato"
+    role: "Marketing"
+    image: "/images/admins/araceli.webp"
+    linkedin: araceli-guerrero-morato
+
+  - name: "Lucía Campos Díez"
+    role: "Marketing"
+    image: "/images/admins/lucia.webp"
+    linkedin: lucía-campos-díez-bb0345359
+
+  - name: "Luis Eduardo Castillo Huamán"
+    role: "Marketing"
+    image: "/images/admins/lucho.webp"
 
   - name: "Lorenzo Tagua Santana"
     role: "Problem Solver"
-    image: "/images/admins/lorenzo.png"
+    image: "/images/admins/lorenzo.webp"
     linkedin: lorenzo-tagua-476157293
 
-  - name: "Lucía Campos Díez"
-    role: "Marketing · Event Manager"
-    image: "/images/admins/lucia-diez.jpg"
-    linkedin: lucía-campos-díez-bb0345359
+  - name: "Julio Ojeda Infantes"
+    role: "Problem Solver"
+    image: "/images/admins/julio.webp"
+    linkedin: julio-ojeda-infantes-62846b319
+
+  - name: "Anselmo Jiménez Zambrano"
+    role: "Problem Solver"
+    image: "/images/admins/anselmo.webp"
+    linkedin: anselmo-jimenez-zambrano
+
+  - name: "Pablo Moreno Moreu"
+    role: "Problem Solver"
+    image: "/images/admins/pablo-moreno.webp"
+    linkedin: pablo-moreno-moreu
+
+  - name: "Miguel Antequera Gaspar"
+    role: "Problem Solver"
+    image: "/images/admins/antequera.webp"
+    linkedin: miguel-antequera-gaspar
+
+  - name: "Jesus Racero San Román"
+    role: "Problem Solver"
+    image: "/images/admins/jesus-racero.webp"
+    linkedin: jesús-racero-san-román-6b0960374
+
+  - name: "Inés Dávila Herrero"
+    role: "Problem Solver"
+    image: "/images/admins/ines.webp"
+    linkedin: ines-davila-herrero
+
+  - name: "Arnau Neches Vilà"
+    role: "Events Manager"
+    image: "/images/admins/arnau.webp"
+    linkedin: arnau-neches-vilà-096627255
 
   - name: "Víctor Mesa Solano"
-    role: "Problem Solver"
-    image: "/images/admins/vikzi.jpeg"
+    role: "Events Manager"
+    image: "/images/admins/vikzi.webp"
     linkedin: "victor-manuel-mesa-solano-a04663376"
 
 oldadmins:
-  # Antiguas admins: Os querremos siempre <3
+  # Antiguos admins: Os querremos siempre <3
+  - name: "Pablo Dávila Herrero"
+    role: "Ex-presidente · Co-founder · Event Manager"
+    image: "/images/admins/pablo-davila.webp"
+    website: https://pablodavila.eu
+    linkedin: pablo-davila-herrero
+    github: Pablo-Davila
+
+  - name: "José García De Tejada Delgado"
+    role: "Problem Solver · Event Manager"
+    image: "/images/admins/jose.webp"
+    linkedin: jose-garcia-de-tejada-delgado-3915a12a2
+    github: Olivfhan
+
   - name: "Paula Gómez Matos"
-    role: "Cofundadora y Former Member"
+    role: "Co-founder"
     image: "/images/admins/paula.jpeg"
     linkedin: paulagomezmatos
 
   - name: "María Lourdes Linares Barrera"
-    role: "Administradora"
-    image: "/images/admins/lourdes.jpg"
+    role: "Problem Solver"
+    image: "/images/admins/lourdes.webp"
     linkedin: lourdeslb
     github: lourdesLB
 
@@ -72,35 +121,14 @@ members:
   - name: "Alejandro Domínguez Muñoz"
     image: "/images/members/alejandro-haskell.jpeg"
 
-  - name: "Alejandro Pineda Martín"
-    image: "/images/members/alejandro-pineda.jpeg"
-
   - name: "Álvaro Galisteo Bermúdez"
     image: "/images/members/gali.jpeg"
-
-  - name: "Arnau Neches Vilà"
-    image: "/images/members/arnau.jpeg"
 
   - name: "Carlos Fernández - Llebrez Acedo"
     image: "/images/members/carlos-fernandez.jpeg"
 
-  # - name: "Daniel Casado Pacheco"
-  #   image: "/images/members/caus.png"
-
-  # - name: "Hugo Pérez Jiménez"
-  #   image: "/images/members/caus.png"
-
-  # - name: "Irene González Quirós"
-  #   image: "/images/members/caus.png"
-
-  # - name: "Iván Barbero Lay"
-  #   image: "/images/members/caus.png"
-
   - name: "Jacobo Tagua Santana"
     image: "/images/members/jacobo.png"
-
-  - name: "Jesus Racero San Román"
-    image: "/images/members/jesus-racero.jpg"
 
   - name: "Jesús Vílchez Martínez"
     image: "/images/members/jesus-vilche.jpeg"
@@ -110,15 +138,6 @@ members:
 
   - name: "José Escalera García"
     image: "/images/members/pepe-escalera.jpeg"
-
-  # - name: "Juan Grosso De La Lama"
-  #   image: "/images/members/caus.png"
-
-  - name: "Luis Eduardo Castillo Huamán"
-    image: "/images/members/lucho.jpg"
-
-  # - name: "Manuel Delclós López"
-  #   image: "/images/members/caus.png"
 
   - name: "Mario Mora Cortés"
     image: "/images/members/mario-mora.jpeg"
@@ -132,12 +151,6 @@ members:
   - name: "Pablo Écija Laguna"
     image: "/images/members/pablo-ecija.jpeg"
 
-  - name: "Pablo Moreno Moreu"
-    image: "/images/members/pablo-moreno.jpeg"
-
-  # - name: "Sebastian Alonso Torres Garate"
-  #   image: "/images/members/caus.png"
-
   - name: "Teodoro Jiménez Lepe"
     image: "/images/members/teodoro-jimenez-lepe.jpeg"
 
@@ -149,28 +162,6 @@ members:
 
   - name: "Jose Luis Mesa Solano"
     image: "/images/members/jose-luis-mesa.jpeg"
-
-  # Nuevos miembros
-  # - name: "Javier Alexander Flores Reategui" # PREGUNTAR
-  #   image: "/images/members/caus.png"
-
-  # - name: "Mario Sánchez Naranjo"
-  #   image: "/images/members/caus.png"
-
-  # - name: "Antonio Jesús González Membrilla"
-  #   image: "/images/members/caus.png"
-
-  # - name: "Enrique Fernández Salmerón"
-  #   image: "/images/members/caus.png"
-
-  # - name: "Juan Javier Sánchez Portillo"
-  #   image: "/images/members/caus.png"
-
-  # - name: "Alejandro del Pino Alcántara"
-  #   image: "/images/members/caus.png"
-
-  # - name: "Aya Dahmani"
-  #   image: "/images/members/caus.png"
 
   - name: "José Aguilera Rodríguez"
     image: "/images/members/jose-aguilera-rodriguez.jpeg"
@@ -187,44 +178,11 @@ members:
   - name: "Joaquín González Granados"
     image: "/images/members/joaquin-gonzalez-granados.jpg"
 
-  # - name: "Víctor Suárez Masero"
-  #   image: "/images/members/caus.png"
-
-  # - name: "Ian Ronco Postigo" # PREGUNTAR
-  #   image: "/images/members/caus.png"
-
-  # - name: "Rafael Martin del Pino"
-  #   image: "/images/members/caus.png"
-
-  # - name: "Jesús Nuñez"
-  #   image: "/images/members/caus.png"
-
-  # - name: "Daniel Tirados Rodríguez"
-  #   image: "/images/members/caus.png"
-
-  # - name: "Alberto Almuedo Cózar" # PREGUNTAR
-  #   image: "/images/members/caus.png"
-
-  # - name: "Mauro Galán Muñoz"
-  #   image: "/images/members/caus.png"
-
   - name: "Ignacio Bueno Egea"
     image: "/images/members/ignacio-bueno-egea.jpeg"
 
-  # - name: "Julio Ojeda Infantes"
-  #   image: "/images/members/caus.png"
-
   - name: "Álvaro Luque Buzón"
     image: "/images/members/alvaro-luque-buzon.jpeg"
-
-  # - name: "Raimundo Jiménez Lara"
-  #   image: "/images/members/caus.png"
-
-  # - name: "Juan Manuel Ledesma Guillena"
-  #   image: "/images/members/caus.png"
-
-  # - name: "Alba Galera Suárez"
-  #   image: "/images/members/caus.png"
 
   - name: "Gael Bolaños López"
     image: "/images/members/gael.jpeg"
@@ -234,21 +192,3 @@ members:
 
   - name: "José María Sánchez Rubio"
     image: "/images/members/chema.png"
-
-  # - name: "Diego Gimenez Ortiz"
-  #   image: "/images/members/caus.png"
-
-  # - name: "Daniel Ibáñez"
-  #   image: "/images/members/caus.png"
-
-  # - name: "Luca Ragel Ruiz"
-  #   image: "/images/members/caus.png"
-
-  # - name: "Pablo Weiskirchen García"
-  #   image: "/images/members/caus.png"
-
-  # - name: "Hugo Monterrubio Castro"
-  #   image: "/images/members/caus.png"
-
-  # - name: "Ángel Daniel Serrano Chamba"
-  #   image: "/images/members/caus.png"
