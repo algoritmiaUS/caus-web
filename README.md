@@ -29,7 +29,7 @@ npm install
 
 ## Sistemas Windows
 
-1.  [Descargar e instalar Hugo](https://github.com/gohugoio/hugo/releases/tag/v0.128.2)
+1.  [Descargar e instalar Hugo](https://github.com/gohugoio/hugo/releases/tag/v0.164.0)
 2.  [Descargar e instalar Node.js](https://nodejs.org/en/download)
 3.  [Descargar e instalar golang-go](https://go.dev/doc/install)
 4.  Instalar dependencias de npm
