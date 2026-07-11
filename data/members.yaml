@@ -54,7 +54,7 @@ administrators:
     image: "/images/admins/antequera.webp"
     linkedin: miguel-antequera-gaspar
 
-  - name: "Jesus Racero San Román"
+  - name: "Jesús Racero San Román"
     role: "Problem Solver"
     image: "/images/admins/jesus-racero.webp"
     linkedin: jesús-racero-san-román-6b0960374
@@ -71,25 +71,28 @@ administrators:
 
 collaborators:
   - name: "Araceli Guerrero Morato"
-    role: "Marketing"
     image: "/images/admins/araceli.webp"
     linkedin: araceli-guerrero-morato
 
   - name: "Lucía Campos Díez"
-    role: "Marketing"
     image: "/images/admins/lucia.webp"
     linkedin: lucía-campos-díez-bb0345359
 
   - name: "Luis Eduardo Castillo Huamán"
-    role: "Marketing"
     image: "/images/admins/lucho.webp"
 
 oldadmins:
   - name: "Víctor Mesa Solano"
-    role: "Events Manager"
+    role: "Problem Solver"
     image: "/images/admins/vikzi.webp"
     linkedin: "victor-manuel-mesa-solano-a04663376"
     dates: "2025-2026"
+
+  - name: "Lucía Campos Díez"
+    role: "Marketing"
+    dates: "2025-2026"
+    image: "/images/admins/lucia.webp"
+    linkedin: lucía-campos-díez-bb0345359
 
   - name: "José García De Tejada Delgado"
     role: "Problem Solver"
@@ -113,14 +116,8 @@ oldadmins:
     github: Pablo-Davila
 
 members:
-  - name: "Adriana Gordillo Melero"
-    image: "/images/members/adriana.png"
-
   - name: "Alejandro Domínguez Muñoz"
     image: "/images/members/alejandro-haskell.jpeg"
-
-  - name: "Álvaro Galisteo Bermúdez"
-    image: "/images/members/gali.jpeg"
 
   - name: "Carlos Fernández - Llebrez Acedo"
     image: "/images/members/carlos-fernandez.jpeg"
@@ -131,23 +128,11 @@ members:
   - name: "Jesús Vílchez Martínez"
     image: "/images/members/jesus-vilche.jpeg"
 
-  - name: "José Constantino Benjumea Bellott"
-    image: "/images/members/constan.jpeg"
-
   - name: "José Escalera García"
     image: "/images/members/pepe-escalera.jpeg"
 
   - name: "Mario Mora Cortés"
     image: "/images/members/mario-mora.jpeg"
-
-  - name: "Nicolás Sibello Litrán"
-    image: "/images/members/nico-sibello.jpeg"
-
-  - name: "Nora Peñaloza Friqui"
-    image: "/images/members/nora.jpg"
-
-  - name: "Pablo Écija Laguna"
-    image: "/images/members/pablo-ecija.jpeg"
 
   - name: "Teodoro Jiménez Lepe"
     image: "/images/members/teodoro-jimenez-lepe.jpeg"
@@ -186,7 +171,7 @@ members:
     image: "/images/members/gael.jpeg"
 
   - name: "Irene Gutiérrez Enguix"
-    image: "/images/members/irene-enana.jpeg"
+    image: "/images/members/irene-leñadora-bonsais.jpeg"
 
   - name: "José María Sánchez Rubio"
     image: "/images/members/chema.png"
