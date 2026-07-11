@@ -1,6 +1,6 @@
 administrators:
   - name: "Pablo Reina Jiménez"
-    role: "Presidente · Co-founder · Problem Solver"
+    role: "Presidente · Co-founder"
     image: "/images/admins/pablo-reina.webp"
     linkedin: pablo-reina-jiménez-2b1869257
     github: preinaj
@@ -28,20 +28,6 @@ administrators:
   - name: "Julia Mara Moreno"
     role: "Marketing"
     image: "/images/admins/julia.webp"
-
-  - name: "Araceli Guerrero Morato"
-    role: "Marketing"
-    image: "/images/admins/araceli.webp"
-    linkedin: araceli-guerrero-morato
-
-  - name: "Lucía Campos Díez"
-    role: "Marketing"
-    image: "/images/admins/lucia.webp"
-    linkedin: lucía-campos-díez-bb0345359
-
-  - name: "Luis Eduardo Castillo Huamán"
-    role: "Marketing"
-    image: "/images/admins/lucho.webp"
 
   - name: "Lorenzo Tagua Santana"
     role: "Problem Solver"
@@ -83,36 +69,48 @@ administrators:
     image: "/images/admins/arnau.webp"
     linkedin: arnau-neches-vilà-096627255
 
+collaborators:
+  - name: "Araceli Guerrero Morato"
+    role: "Marketing"
+    image: "/images/admins/araceli.webp"
+    linkedin: araceli-guerrero-morato
+
+  - name: "Lucía Campos Díez"
+    role: "Marketing"
+    image: "/images/admins/lucia.webp"
+    linkedin: lucía-campos-díez-bb0345359
+
+  - name: "Luis Eduardo Castillo Huamán"
+    role: "Marketing"
+    image: "/images/admins/lucho.webp"
+
+oldadmins:
   - name: "Víctor Mesa Solano"
     role: "Events Manager"
     image: "/images/admins/vikzi.webp"
     linkedin: "victor-manuel-mesa-solano-a04663376"
-
-oldadmins:
-  # Antiguos admins: Os querremos siempre <3
-  - name: "Pablo Dávila Herrero"
-    role: "Ex-presidente · Co-founder · Event Manager"
-    image: "/images/admins/pablo-davila.webp"
-    website: https://pablodavila.eu
-    linkedin: pablo-davila-herrero
-    github: Pablo-Davila
+    dates: "2025-2026"
 
   - name: "José García De Tejada Delgado"
-    role: "Problem Solver · Event Manager"
+    role: "Problem Solver"
     image: "/images/admins/jose.webp"
+    dates: "2024-2025"
     linkedin: jose-garcia-de-tejada-delgado-3915a12a2
     github: Olivfhan
 
   - name: "Paula Gómez Matos"
     role: "Co-founder"
+    dates: "2023-2024"
     image: "/images/admins/paula.webp"
     linkedin: paulagomezmatos
 
-  - name: "María Lourdes Linares Barrera"
-    role: "Problem Solver"
-    image: "/images/admins/lourdes.webp"
-    linkedin: lourdeslb
-    github: lourdesLB
+  - name: "Pablo Dávila Herrero"
+    role: "Ex-presidente · Co-founder · Event Manager"
+    image: "/images/admins/pablo-davila.webp"
+    dates: "2023-2026"
+    website: https://pablodavila.eu
+    linkedin: pablo-davila-herrero
+    github: Pablo-Davila
 
 members:
   - name: "Adriana Gordillo Melero"

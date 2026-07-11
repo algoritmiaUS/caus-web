@@ -64,6 +64,10 @@ administrators:
   other: "Administrators"
 administrators_desc:
   other: "The team behind of all our events!"
+collaborators:
+  other: "Collaborators"
+collaborators_desc:
+  other: "Our support when we need it most!"
 old_admins:
   other: "Former administrators"
 old_admins_desc:
