@@ -60,7 +60,7 @@ En reconocimiento al esfuerzo y la colaboración de todos los miembros, el Club 
 
 <div align="center">
   <img 
-    src="1728434463180.jpg" 
+    src="1728434463180.webp" 
     alt="descripción" 
     style="max-width: 400px; width: 100%; height: auto;"
   >

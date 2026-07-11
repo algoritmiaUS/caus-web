@@ -26,8 +26,8 @@ Every Friday, we organise training sessions where we practise problem-solving on
 Everyone participates to learn and support each other, so don't be afraid if you think you don't know enough about programming\!
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-  <img src="/images/about/caus-sesiones-1.jpg" alt="Sesión 1" style="width: 100%; max-width: 600px; flex: 1; border-radius: 12px;">
-  <img src="/images/about/caus-sesiones-2.jpg" alt="Sesión 2" style="width: 100%; max-width: 600px; flex: 1; border-radius: 12px;">
+  <img src="/images/about/caus-sesiones-1.webp" alt="Sesión 1" style="width: 100%; max-width: 600px; flex: 1; border-radius: 12px;">
+  <img src="/images/about/caus-sesiones-2.webp" alt="Sesión 2" style="width: 100%; max-width: 600px; flex: 1; border-radius: 12px;">
 </div>
 
 ## Student and Industry Talks
@@ -38,8 +38,8 @@ We organise sessions every Friday on topics related to competitive programming. 
 - [Give your own talk\!](https://forms.gle/yY9WpbA6Lof41ufa7) If you are a professional passionate about technology and eager to share your knowledge, we would be delighted to have you. If you are a student, this is a great opportunity to delve deeper into a topic that interests you and boost your CV 😉
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-  <img src="/images/about/charla1.jpg" alt="Charla 1" style="width: 100%; max-width: 600px; flex: 1;border-radius: 12px;">
-  <img src="/images/about/charla2.jpg" alt="Charla 2" style="width: 100%; max-width: 600px; flex: 1;border-radius: 12px;">
+  <img src="/images/about/charla1.webp" alt="Charla 1" style="width: 100%; max-width: 600px; flex: 1;border-radius: 12px;">
+  <img src="/images/about/charla2.webp" alt="Charla 2" style="width: 100%; max-width: 600px; flex: 1;border-radius: 12px;">
 </div>
 
 ## Programming Competitions
@@ -47,8 +47,8 @@ We organise sessions every Friday on topics related to competitive programming. 
 We participate in annual events such as [Advent of Code](https://adventofcode.com/) and the [Ada Byron University Programming Contest](http://ada-byron.es/). Additionally, we organise [our own programming competitions](/news/2024-10-27-complicaus-2/) (Spanish only), with enticing prizes, to keep ourselves constantly practising and learning.
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-  <img src="/images/about/competiciones1.JPG" alt="Competición 1" style="width: 100%; max-width: 600px; flex: 1;border-radius: 12px;">
-  <img src="/images/about/competiciones2.jpg" alt="Competición 2" style="width: 100%; max-width: 600px; flex: 1;border-radius: 12px;">
+  <img src="/images/about/competiciones1.webp" alt="Competición 1" style="width: 100%; max-width: 600px; flex: 1;border-radius: 12px;">
+  <img src="/images/about/competiciones2.webp" alt="Competición 2" style="width: 100%; max-width: 600px; flex: 1;border-radius: 12px;">
 </div>
 
 ---
@@ -60,17 +60,17 @@ We participate in annual events such as [Advent of Code](https://adventofcode.co
 Each term, we organise a special meal to celebrate our achievements and enjoy time as a team. This is an excellent opportunity to share a memorable meal and get to know the people in the group you haven't met yet.
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-  <img src="/images/about/comida-caus.jpg" alt="Comida CAUS 1" style="width: 100%; max-width: 600px;border-radius: 12px;">
-  <img src="/images/about/comida-caus2.jpg" alt="Comida CAUS 2" style="width: 100%; max-width: 600px;border-radius: 12px;">
+  <img src="/images/about/comida-caus.webp" alt="Comida CAUS 1" style="width: 100%; max-width: 600px;border-radius: 12px;">
+  <img src="/images/about/comida-caus2.webp" alt="Comida CAUS 2" style="width: 100%; max-width: 600px;border-radius: 12px;">
 </div>
 
 ## Climbing Wall
 
 What better way to train those programmer fingers than a good climbing session? Every now and then, we organise unofficial outings to the climbing wall for some exercise after the Friday sessions. It's an excellent opportunity to challenge oneself and strengthen the group spirit\!
 
-<!-- ![alt text](rocodromo.png) -->
+<!-- ![alt text](rocodromo.webp) -->
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-  <img src="/images/about/rocodromo.png" alt="Rocódromo" style="width: 100%; max-width: 600px;border-radius: 12px;">
+  <img src="/images/about/rocodromo.webp" alt="Rocódromo" style="width: 100%; max-width: 600px;border-radius: 12px;">
 </div>
 
 # Our Team
