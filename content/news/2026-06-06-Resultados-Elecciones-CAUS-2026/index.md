@@ -3,7 +3,7 @@ title: 'Resultados oficiales de las elecciones CAUS (Curso 2026-27)'
 date: 2026-06-06T00:00:00+02:00
 draft: false
 language: es
-featured_image: images/featured/CompliCAUS-5-Foto-grupal.jpg
+featured_image: images/featured/CompliCAUS-5-Foto-grupal.webp
 summary: Resultados oficiales de las elecciones para los equipos del Club de Algoritmia de la Universidad de Sevilla (CAUS) para el curso 2026-2027.
 description: El Club de Algoritmia de la Universidad de Sevilla anuncia los resultados de sus elecciones internas, donde los miembros han elegido a los nuevos responsables de cada área para el próximo curso académico.
 author: Administradores CAUS
@@ -28,7 +28,7 @@ Este equipo se encarga de dar soporte al desarrollo de la web del club y de ayud
 <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 mt-8 justify-items-center">
 
   <div class="flex flex-col items-center text-center p-4 rounded w-full max-w-[240px]">
-    <img src="alepi.jpg" alt="Alejandro Pineda"
+    <img src="/images/elecciones-26-27/alepi.webp" alt="Alejandro Pineda"
          class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
          style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
     <p class="font-semibold text-sm truncate w-full">Alejandro Pineda</p>
@@ -38,7 +38,7 @@ Este equipo se encarga de dar soporte al desarrollo de la web del club y de ayud
   </div>
 
   <div class="flex flex-col items-center text-center p-4 rounded w-full max-w-[240px]">
-    <img src="fernando-ml.jpeg" alt="Fernando Giráldez"
+    <img src="/images/elecciones-26-27/fernando-ml.webp" alt="Fernando Giráldez"
          class="rounded-full object-cover object-top shadow-md bg-gray-100 mb-3 flex-shrink-0"
          style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
     <p class="font-semibold text-sm truncate w-full">Fernando Giráldez</p>
@@ -56,7 +56,7 @@ El área de Marketing inicia este año una nueva etapa con el objetivo de reforz
 <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 mt-8 justify-items-center">
 
   <div class="flex flex-col items-center text-center p-4 rounded w-full max-w-[240px]">
-    <img src="julia.jpg" alt="Julia Moreno"
+    <img src="/images/elecciones-26-27/julia.webp" alt="Julia Moreno"
          class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
          style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
     <p class="font-semibold text-sm truncate w-full">Julia Moreno</p>
@@ -72,21 +72,21 @@ Además, contaremos también con un grupo de colaboradores que apoyarán en even
 <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 mt-8 justify-items-center">
 
   <div class="flex flex-col items-center text-center p-4 rounded w-full max-w-[240px]">
-    <img src="araceli.jpg" alt="Araceli Guerrero"
+    <img src="/images/elecciones-26-27/araceli.webp" alt="Araceli Guerrero"
          class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
          style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
     <p class="font-semibold text-sm truncate w-full">Araceli Guerrero</p>
   </div>
 
   <div class="flex flex-col items-center text-center p-4 rounded w-full max-w-[240px]">
-    <img src="lucia-diez.jpg" alt="Lucía Campos"
+    <img src="/images/elecciones-26-27/lucia-diez.webp" alt="Lucía Campos"
          class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
          style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
     <p class="font-semibold text-sm truncate w-full">Lucía Campos</p>
   </div>
 
   <div class="flex flex-col items-center text-center p-4 rounded w-full max-w-[240px]">
-    <img src="lucho.jpg" alt="Luis Castillo"
+    <img src="/images/elecciones-26-27/lucho.webp" alt="Luis Castillo"
          class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
          style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
     <p class="font-semibold text-sm truncate w-full">Luis Castillo</p>
@@ -101,7 +101,7 @@ Una de las categorías más disputadas cada año. En esta ocasión, el objetivo 
 <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 mt-8 justify-items-center">
 
   <div class="flex flex-col items-center text-center p-4 rounded w-full max-w-[240px]">
-    <img src="lorenzo.jpg" alt="Lorenzo Tagua"
+    <img src="/images/elecciones-26-27/lorenzo.webp" alt="Lorenzo Tagua"
          class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
          style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
     <p class="font-semibold text-sm truncate w-full">Lorenzo Tagua</p>
@@ -111,7 +111,7 @@ Una de las categorías más disputadas cada año. En esta ocasión, el objetivo 
   </div>
 
   <div class="flex flex-col items-center text-center p-4 rounded w-full max-w-[240px]">
-    <img src="julio-ojeda.jpg" alt="Julio Ojeda"
+    <img src="/images/elecciones-26-27/julio-ojeda.webp" alt="Julio Ojeda"
          class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
          style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
     <p class="font-semibold text-sm truncate w-full">Julio Ojeda</p>
@@ -121,7 +121,7 @@ Una de las categorías más disputadas cada año. En esta ocasión, el objetivo 
   </div>
 
 <div class="flex flex-col items-center text-center p-4 rounded w-full max-w-[240px]">
-    <img src="anselmo.jpg" alt="Anselmo Jiménez"
+    <img src="/images/elecciones-26-27/anselmo.webp" alt="Anselmo Jiménez"
          class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
          style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
     <p class="font-semibold text-sm truncate w-full">Anselmo Jiménez  </p>
@@ -131,7 +131,7 @@ Una de las categorías más disputadas cada año. En esta ocasión, el objetivo 
   </div>
 
 <div class="flex flex-col items-center text-center p-4 rounded w-full max-w-[240px]">
-    <img src="pablo.jpeg" alt="Pablo Moreno "
+    <img src="/images/elecciones-26-27/pablo.webp" alt="Pablo Moreno "
          class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
          style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
     <p class="font-semibold text-sm truncate w-full">Pablo Moreno  </p>
@@ -141,7 +141,7 @@ Una de las categorías más disputadas cada año. En esta ocasión, el objetivo 
   </div>
 
 <div class="flex flex-col items-center text-center p-4 rounded w-full max-w-[240px]">
-    <img src="antequera.jpeg" alt="Miguel Antequera"
+    <img src="/images/elecciones-26-27/antequera.webp" alt="Miguel Antequera"
          class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
          style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
     <p class="font-semibold text-sm truncate w-full">Miguel Antequera</p>
@@ -151,7 +151,7 @@ Una de las categorías más disputadas cada año. En esta ocasión, el objetivo 
   </div>
 
 <div class="flex flex-col items-center text-center p-4 rounded w-full max-w-[240px]">
-    <img src="jesus-racero.jpeg" alt="Jesús Racero"
+    <img src="/images/elecciones-26-27/jesus-racero.webp" alt="Jesús Racero"
          class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
          style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
     <p class="font-semibold text-sm truncate w-full">Jesús Racero </p>
@@ -161,7 +161,7 @@ Una de las categorías más disputadas cada año. En esta ocasión, el objetivo 
   </div>
 
 <div class="flex flex-col items-center text-center p-4 rounded w-full max-w-[240px]">
-    <img src="ines.jpg" alt="Inés Dávila"
+    <img src="/images/elecciones-26-27/ines.webp" alt="Inés Dávila"
          class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
          style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
     <p class="font-semibold text-sm truncate w-full
@@ -179,7 +179,7 @@ Este año este rol cobra especial importancia, ya que con la salida de Pablo Dá
 <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 mt-8 justify-items-center">
 
   <div class="flex flex-col items-center text-center p-4 rounded w-full max-w-[240px]">
-    <img src="arnau.jpeg" alt="Arnau Neches"
+    <img src="/images/elecciones-26-27/arnau.webp" alt="Arnau Neches"
          class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
          style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
     <p class="font-semibold text-sm truncate w-full">Arnau Neches</p>
@@ -189,7 +189,7 @@ Este año este rol cobra especial importancia, ya que con la salida de Pablo Dá
   </div>
 
   <div class="flex flex-col items-center text-center p-4 rounded w-full max-w-[240px]">
-    <img src="vikzi.jpg" alt="Victor Mesa"
+    <img src="/images/elecciones-26-27/vikzi.webp" alt="Victor Mesa"
          class="rounded-full object-cover object-top shadow-md bg-gray-100 mb-3 flex-shrink-0"
          style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
     <p class="font-semibold text-sm truncate w-full">Victor Mesa</p>

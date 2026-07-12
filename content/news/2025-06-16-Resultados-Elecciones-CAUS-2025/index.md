@@ -3,7 +3,7 @@ title: 'Resultados oficiales de las elecciones CAUS 2025'
 date: 2025-06-16T00:00:00+02:00
 draft: false
 language: es
-featured_image: images/featured/CompliCAUS-3-Foto-grupal.jpg
+featured_image: images/featured/CompliCAUS-3-Foto-grupal.webp
 summary: Resultados oficiales de las elecciones para los equipos del Club de Algoritmia de la Universidad de Sevilla (CAUS) para el curso 2025-2026.
 description: El Club de Algoritmia de la Universidad de Sevilla anuncia los resultados de sus elecciones internas, donde los miembros han elegido a los nuevos responsables de cada área para el próximo curso académico.
 author: Administradores CAUS
@@ -28,7 +28,7 @@ En esta categoría se elegía a una persona para apoyar en el desarrollo de la w
 
 Fernando ha estado vinculado al club desde bachillerato y comienza su primer año de carrera como Web Master. ¡Empieza fuerte!
 
-![Photo of the Web Master team](web-master.png)
+![Photo of the Web Master team](web-master.webp)
 
 ---
 
@@ -41,7 +41,7 @@ Había dos plazas disponibles para encargarse de la imagen del club en redes soc
 
 Ambas aportarán frescura y creatividad al equipo de comunicación.
 
-![alt text](marketing.png)
+![alt text](marketing.webp)
 
 ### 🧠 Problem Solvers
 
@@ -52,7 +52,7 @@ La categoría más reñida. Inicialmente se ofrecían 3 plazas, pero debido a un
 - **Fernando Giráldez Curquejo**
 - **José García de Tejada Delgado**
 
-![alt text](problem-solver.png)
+![alt text](problem-solver.webp)
 
 Un equipo con muchísimo potencial para que, tanto nuevos como veteranos, sigamos creciendo juntos en las competiciones. ¡Que el podio del regional Ada Byron del próximo año hable solo de la US! 😄
 
@@ -65,7 +65,7 @@ Pablo Dávila continuará apoyando de forma puntual en la organización de event
 - **José García de Tejada Delgado**
 - **Lucía Campos Díez**
 
-![alt text](events-manager.png)
+![alt text](events-manager.webp)
 
 ¡Mucha ilusión y ganas de hacer grandes cosas este año!
 
@@ -88,7 +88,7 @@ Por lo que, los nuevos administradores para este nuevo curso 2025/26 son:
 
   <!-- Pablo Reina -->
   <div class="flex flex-col items-center text-center p-4 rounded h-[260px]">
-    <img src="pablo-reina.jpeg" alt="Pablo Reina"
+    <img src="pablo-reina.webp" alt="Pablo Reina"
          class="w-24 h-24 rounded-full object-cover object-center shadow-md bg-gray-100 mb-3">
     <p class="font-semibold text-sm truncate w-full">Pablo Reina</p>
     <p class="text-xs text-gray-500 text-wrap text-center mt-1 leading-tight">
@@ -99,7 +99,7 @@ Por lo que, los nuevos administradores para este nuevo curso 2025/26 son:
 
   <!-- Fernando -->
   <div class="flex flex-col items-center text-center p-4 rounded h-[260px]">
-    <img src="fernando-giraldez.png" alt="Fernando Giráldez"
+    <img src="fernando-giraldez.webp" alt="Fernando Giráldez"
          class="w-24 h-24 rounded-full object-cover object-center shadow-md bg-gray-100 mb-3">
     <p class="font-semibold text-sm truncate w-full">Fernando Giráldez</p>
     <p class="text-xs text-gray-500 text-wrap text-center mt-1 leading-tight">
@@ -110,7 +110,7 @@ Por lo que, los nuevos administradores para este nuevo curso 2025/26 son:
 
   <!-- Kenny -->
   <div class="flex flex-col items-center text-center p-4 rounded h-[260px]">
-    <img src="kenny.jpg" alt="Photo of Kenny Flores"
+    <img src="kenny.webp" alt="Photo of Kenny Flores"
          class="w-24 h-24 rounded-full object-cover object-center shadow-md bg-gray-100 mb-3">
     <p class="font-semibold text-sm truncate w-full">Kenny Flores</p>
     <p class="text-xs text-gray-500 text-wrap text-center mt-1 leading-tight">
@@ -120,7 +120,7 @@ Por lo que, los nuevos administradores para este nuevo curso 2025/26 son:
 
   <!-- Inés -->
   <div class="flex flex-col items-center text-center p-4 rounded h-[260px]">
-    <img src="ines.jpeg" alt="Inés Dávila"
+    <img src="ines.webp" alt="Inés Dávila"
          class="w-24 h-24 rounded-full object-cover object-center shadow-md bg-gray-100 mb-3">
     <p class="font-semibold text-sm truncate w-full">Inés Dávila</p>
     <p class="text-xs text-gray-500 text-wrap text-center mt-1 leading-tight">
@@ -131,7 +131,7 @@ Por lo que, los nuevos administradores para este nuevo curso 2025/26 son:
 
   <!-- Lucía -->
   <div class="flex flex-col items-center text-center p-4 rounded h-[260px]">
-    <img src="lucia-diez.jpg" alt="Lucía Campos"
+    <img src="lucia-diez.webp" alt="Lucía Campos"
          class="w-24 h-24 rounded-full object-cover object-center shadow-md bg-gray-100 mb-3">
     <p class="font-semibold text-sm truncate w-full">Lucía Campos</p>
     <p class="text-xs text-gray-500 text-wrap text-center mt-1 leading-tight">
@@ -142,7 +142,7 @@ Por lo que, los nuevos administradores para este nuevo curso 2025/26 son:
 
   <!-- José -->
   <div class="flex flex-col items-center text-center p-4 rounded h-[260px]">
-    <img src="jose.jpg" alt="José García"
+    <img src="jose.webp" alt="José García"
          class="w-24 h-24 rounded-full object-cover object-center shadow-md bg-gray-100 mb-3">
     <p class="font-semibold text-sm truncate w-full">José García</p>
     <p class="text-xs text-gray-500 text-wrap text-center mt-1 leading-tight">
@@ -153,7 +153,7 @@ Por lo que, los nuevos administradores para este nuevo curso 2025/26 son:
 
   <!-- Lorenzo -->
   <div class="flex flex-col items-center text-center p-4 rounded h-[260px]">
-    <img src="lorenzo.jpg" alt="Lorenzo Tagua"
+    <img src="lorenzo.webp" alt="Lorenzo Tagua"
          class="w-24 h-24 rounded-full object-cover object-center shadow-md bg-gray-100 mb-3">
     <p class="font-semibold text-sm truncate w-full">Lorenzo Tagua</p>
     <p class="text-xs text-gray-500 text-wrap text-center mt-1 leading-tight">
@@ -164,7 +164,7 @@ Por lo que, los nuevos administradores para este nuevo curso 2025/26 son:
 
   <!-- Pablo Dávila -->
   <div class="flex flex-col items-center text-center p-4 rounded h-[260px]">
-    <img src="pablo-davila.jpeg" alt="Pablo Dávila"
+    <img src="pablo-davila.webp" alt="Pablo Dávila"
          class="w-24 h-24 rounded-full object-cover object-center shadow-md bg-gray-100 mb-3">
     <p class="font-semibold text-sm truncate w-full">Pablo Dávila</p>
     <p class="text-xs text-gray-500 text-wrap text-center mt-1 leading-tight">

@@ -3,7 +3,7 @@ title: "Charlas y talleres - Noviembre 2024"
 date: 2024-10-28T12:20:00+00:00
 draft: false
 language: es
-featured_image: images/featured/charlas.png
+featured_image: images/featured/charlas.webp
 summary: Este año, el Club de Algoritmia de la Universidad de Sevilla ofrecerá charlas y talleres sobre informática, dirigidos tanto por profesionales como por estudiantes.
 description: Durante el curso 2024-25, el Club de Algoritmia de la Universidad de Sevilla organizará una serie de charlas y talleres prácticos en temas de informática, dirigidos por expertos de la industria, profesores y estudiantes de la propia universidad. Estas actividades ofrecen una excelente oportunidad para profundizar en diversos temas y habilidades en programación y algoritmia, además de promover el intercambio de conocimientos entre la comunidad académica. ¡Anímate a participar y contribuir con tus propias ideas!
 author: Administradores CAUS

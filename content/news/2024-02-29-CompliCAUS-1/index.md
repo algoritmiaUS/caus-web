@@ -3,7 +3,7 @@ title: 'CompliCAUS I: Primera competición organizada por el Club de Algoritmia'
 date: 2024-02-29T11:10:00+00:00
 draft: false
 language: es
-featured_image: images/featured/CompliCAUS-Foto-grupal.jpeg
+featured_image: images/featured/CompliCAUS-Foto-grupal.webp
 summary: La primera edición de CompliCAUS, competición de algoritmia organizada por el Club de Algoritmia de la Universidad de Sevilla, reunió a estudiantes de diversas disciplinas y niveles para enfrentar un desafiante reto de resolución de problemas en la plataforma HackerRank.
 description: El 23 de febrero se celebró la primera edición de CompliCAUS, una competición de algoritmia organizada por el Club de Algoritmia de la Universidad de Sevilla y patrocinada por la ETSII. El evento, realizado en HackerRank, reunió a estudiantes de distintas disciplinas y niveles para enfrentarse a retos algorítmicos. La competición fue intensa y mostró que la pasión por la programación trasciende niveles académicos. Agradecemos el apoyo de la ETSII y de Mª Lourdes Miró. Este es solo el comienzo de una prometedora tradición en la Universidad de Sevilla. ¡Nos vemos en la próxima edición!
 author: Administradores CAUS
@@ -18,7 +18,7 @@ La competición se llevó a cabo utilizando la plataforma HackerRank, que permit
 
 Entre los participantes, hubo representación de estudiantes de distintos cursos de la Escuela Técnica Superior de Ingeniería Informática, de la Escuela Técnica Superior de Ingeniería, de la Facultad de Matemáticas, e incluso de estudiantes de bachillerato del Colegio Santa Ana de Sevilla. Esto demuestra que la pasión por la programación competitiva no tiene fronteras y que cualquiera, sin importar su nivel o experiencia, puede aprender y disfrutar en este tipo de eventos.
 
-![CompliCAUS-1](CompliCAUS-I-1.jpg)
+![CompliCAUS-1](CompliCAUS-I-1.webp)
 
 La competición se mantuvo reñida desde el comienzo, con una primera hora durante la que los primeros puestos cambiaban constantemente. Sin embargo, al finalizar el evento, los tres primeros lugares quedaron definidos:
 

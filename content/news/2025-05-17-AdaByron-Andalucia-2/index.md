@@ -3,7 +3,7 @@ title: 'II Edición Regional de Andalucía del Concurso Ada Byron'
 date: 2025-05-17T13:00:00+00:00
 draft: false
 language: es
-featured_image: images/featured/AdaByron-Regional-II.png
+featured_image: images/featured/AdaByron-Regional-II.webp
 summary: La II Edición Regional de Andalucía del concurso Ada Byron reunió a más de 130 participantes distribuidos en 46 equipos de distintas universidades andaluzas y la UNED. El certamen se celebró simultáneamente en cinco sedes y consistió en una competición de 4 horas para resolver 11 problemas de programación. Destacaron los equipos de la Universidad de Sevilla, con tres clasificados para la final nacional en Madrid. El evento contó con el apoyo del Club de Algoritmia de la Universidad de Sevilla y la colaboración de las distintas sedes universitarias.
 description: La II Edición Regional de Andalucía del Concurso Ada Byron se celebró con gran éxito el 25 de abril, reuniendo a 46 equipos y más de 130 estudiantes de universidades andaluzas y la UNED. Durante 4 horas de intensa competición, los participantes resolvieron 11 problemas de alta dificultad. La sede de Sevilla destacó con tres equipos clasificados para la final nacional en Madrid. La organización y supervisión del evento fueron posibles gracias al compromiso del Club de Algoritmia de la Universidad de Sevilla y al trabajo coordinado entre las universidades andaluzas. Esta edición consolida el concurso como una cita clave para la promoción de la programación competitiva en la región.
 
@@ -48,7 +48,7 @@ Este equipo obtuvo el **primer lugar** en la sede de Sevilla en la categoría A 
 - **Jesús Vílchez Martínez** (Grado en Ingeniería Informática – Ingeniería del Software)
 - **José Escalera García** (Grado en Ingeniería Informática – Ingeniería del Software)
 
-<img src="ganadores-A.jpg" alt="Just Simply FLML" width="500"/>
+<img src="ganadores-A.webp" alt="Just Simply FLML" width="500"/>
 
 ---
 
@@ -60,7 +60,7 @@ Ganadores de la **categoría B** (segundo curso), que en este equipo hubo un int
 - **Alejandro Pineda Martín** (Grado en Ingeniería Informática – Tecnologías Informáticas)
 - **Henrique Rebollo Padovani** (Grado en Ingeniería Informática – Tecnologías Informáticas)
 
-<img src="ganadores-B.jpg" alt="Mikel Bul" width="500"/>
+<img src="ganadores-B.webp" alt="Mikel Bul" width="500"/>
 
 ---
 
@@ -72,7 +72,7 @@ Este equipo ganó la **categoría C** (tercer curso o superior) en la sede de Se
 - **Pablo Moreno Moreu** (Doble Grado en Matemáticas e Ingeniería Informática)
 - **Carlos Fernández-Llebrez Acedo** (Doble Grado en Matemáticas e Ingeniería Informática)
 
-<img src="ganadores-C.jpg" alt="Lema Técnico" width="500"/>
+<img src="ganadores-C.webp" alt="Lema Técnico" width="500"/>
 
 ---
 
@@ -102,7 +102,7 @@ Este equipo obtuvo el **primer lugar** en la sede de Sevilla en la categoría A,
 - **Jesús Vílchez Martínez** (Grado en Ingeniería Informática – Ingeniería del Software)
 - **José Escalera García** (Grado en Ingeniería Informática – Ingeniería del Software)
 
-<img src="just-simply-flml.jpg" alt="Just Simply FLML" width="500"/>
+<img src="just-simply-flml.webp" alt="Just Simply FLML" width="500"/>
 
 **Equipo Just Simply FLML durante la competición.**
 
@@ -116,7 +116,7 @@ A pesar de ser dos integrantes los que participaron, quedaron en un cuarto lugar
 - **Pablo Moreno Moreu** (Doble Grado en Matemáticas e Ingeniería Informática)
 - **Carlos Fernández-Llebrez Acedo** (Doble Grado en Matemáticas e Ingeniería Informática)
 
-<img src="lematecnico.jpg" alt="Lema Técnico" width="500"/>
+<img src="lematecnico.webp" alt="Lema Técnico" width="500"/>
 
 **El equipo IemaTecnico (Los favoritos de Renato)**
 
@@ -130,7 +130,7 @@ Este equipo, habiendo quedado en un increíble quinto lugar en el ranking genera
 - **José Luis Mesa Solano** (Doble Grado en Matemáticas y Física)
 - **José Aguilera Rodríguez** (Doble Grado en Física e Ingeniería de Materiales)
 
-<img src="massive.jpg" alt="Massive" width="500"/>
+<img src="massive.webp" alt="Massive" width="500"/>
 
 **El equipo Massive, uno de los representantes de la US en la categoría superior.**
 
@@ -144,7 +144,7 @@ Aunque no pertenecen a nuestra universidad, participaron en la sede de Sevilla y
 - **Adrián Peinado Santiago**(Grado en Ingeniería Informática)
 - **Juan Torres Gómez**(Grado en Ingeniería Informática)
 
-<img src="boquerones.jpg" alt="Boquerones" width="500"/>
+<img src="boquerones.webp" alt="Boquerones" width="500"/>
 
 **Los BoquerO(n³) Los únicos en la sede de sevilla que programaron con Java**
 
@@ -154,10 +154,10 @@ Además de los clasificados, queremos agradecer a los equipos **TLE Climbers**, 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
 
-  <img src="gitgut.png" alt="GitGut" style="width: 320px; height: auto; border-radius: 8px;"/>
-  <img src="virtem.png" alt="Virtem" style="width: 320px; height: auto; border-radius: 8px;"/>
-  <img src="tle_climbers.png" alt="TLE Climbers" style="width: 320px; height: auto; border-radius: 8px;"/>
-  <img src="mikelbull.png" alt="Mikel Bull" style="width: 320px; height: auto; border-radius: 8px;"/>
+  <img src="gitgut.webp" alt="GitGut" style="width: 320px; height: auto; border-radius: 8px;"/>
+  <img src="virtem.webp" alt="Virtem" style="width: 320px; height: auto; border-radius: 8px;"/>
+  <img src="tle_climbers.webp" alt="TLE Climbers" style="width: 320px; height: auto; border-radius: 8px;"/>
+  <img src="mikelbull.webp" alt="Mikel Bull" style="width: 320px; height: auto; border-radius: 8px;"/>
 
 </div>
 

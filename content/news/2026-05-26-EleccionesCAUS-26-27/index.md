@@ -3,7 +3,7 @@ title: 'Elecciones a admins del CAUS (Curso 2026-27)'
 date: 2026-05-18
 draft: false
 language: es
-featured_image: images/featured/Ada-Byron-Andalucia-2026-admins.jpg
+featured_image: images/featured/Ada-Byron-Andalucia-2026-admins.webp
 
 summary: Conoce a los candidatos que se presentan a las elecciones a admins del Club de Algoritmia de la Universidad de Sevilla (CAUS) para el próximo curso académico 2026-27. Descubre sus perfiles, motivaciones y propuestas para llevar al club al siguiente nivel.
 description: Se abre el plazo de elecciones a admins del Club de Algoritmia de la Universidad de Sevilla (CAUS) del curso 2026-2027. Aquí recopilamos la lista de todos los socios candidatos, sus motivaciones e ideas para el club.
@@ -29,7 +29,7 @@ A continuación, os presentamos a los miembros del club que han dado un paso al 
 
   <div class="not-prose flex flex-col md:flex-row gap-8 md:gap-10 p-6 bg-white dark:bg-gray-900 rounded-2xl border border-zinc-200/80 dark:border-gray-800/80 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
     <div class="flex flex-col items-center md:items-start text-center md:text-left flex-shrink-0 w-full md:w-48">
-      <img src="lorenzo.jpg" class="w-32 h-32 rounded-full object-cover shadow-md border-4 border-indigo-500/20 mb-4 bg-gray-100 dark:bg-gray-700" alt="Lorenzo Tagua Santana">
+      <img src="/images/elecciones-26-27/lorenzo.webp" class="w-32 h-32 rounded-full object-cover shadow-md border-4 border-indigo-500/20 mb-4 bg-gray-100 dark:bg-gray-700" alt="Lorenzo Tagua Santana">
       <div class="flex flex-wrap justify-center md:justify-start">
         <span class="mx-1 mt-1 px-2.5 py-0.5 text-xs font-semibold rounded-full border">Problem Solver</span>
       </div>
@@ -43,7 +43,7 @@ A continuación, os presentamos a los miembros del club que han dado un paso al 
 
   <div class="not-prose flex flex-col md:flex-row gap-8 md:gap-10 p-6 bg-white dark:bg-gray-900 rounded-2xl border border-zinc-200/80 dark:border-gray-800/80 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
     <div class="flex flex-col items-center md:items-start text-center md:text-left flex-shrink-0 w-full md:w-48">
-      <img src="alepi.jpg" class="w-32 h-32 rounded-full object-cover shadow-md border-4 border-indigo-500/20 mb-4 bg-gray-100 dark:bg-gray-700" alt="Alejandro Pineda Martín">
+      <img src="/images/elecciones-26-27/alepi.webp" class="w-32 h-32 rounded-full object-cover shadow-md border-4 border-indigo-500/20 mb-4 bg-gray-100 dark:bg-gray-700" alt="Alejandro Pineda Martín">
       <div class="flex flex-wrap justify-center md:justify-start">
         <span class="mx-1 mt-1 px-2.5 py-0.5 text-xs font-semibold rounded-full border">Web Master</span>
         <span class="mx-1 mt-1 px-2.5 py-0.5 text-xs font-semibold rounded-full border">Marketing</span>
@@ -59,7 +59,7 @@ A continuación, os presentamos a los miembros del club que han dado un paso al 
 
   <div class="not-prose flex flex-col md:flex-row gap-8 md:gap-10 p-6 bg-white dark:bg-gray-900 rounded-2xl border border-zinc-200/80 dark:border-gray-800/80 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
     <div class="flex flex-col items-center md:items-start text-center md:text-left flex-shrink-0 w-full md:w-48">
-      <img src="anselmo.jpg" class="w-32 h-32 rounded-full object-cover shadow-md border-4 border-indigo-500/20 mb-4 bg-gray-100 dark:bg-gray-700" alt="Anselmo Jiménez Zambrano">
+      <img src="/images/elecciones-26-27/anselmo.webp" class="w-32 h-32 rounded-full object-cover shadow-md border-4 border-indigo-500/20 mb-4 bg-gray-100 dark:bg-gray-700" alt="Anselmo Jiménez Zambrano">
       <div class="flex flex-wrap justify-center md:justify-start">
         <span class="mx-1 mt-1 px-2.5 py-0.5 text-xs font-semibold rounded-full border">Problem Solver</span>
       </div>
@@ -74,7 +74,7 @@ A continuación, os presentamos a los miembros del club que han dado un paso al 
 
   <div class="not-prose flex flex-col md:flex-row gap-8 md:gap-10 p-6 bg-white dark:bg-gray-900 rounded-2xl border border-zinc-200/80 dark:border-gray-800/80 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
     <div class="flex flex-col items-center md:items-start text-center md:text-left flex-shrink-0 w-full md:w-48">
-      <img src="jesus-racero.jpeg" class="w-32 h-32 rounded-full object-cover shadow-md border-4 border-indigo-500/20 mb-4 bg-gray-100 dark:bg-gray-700" alt="Jesús Racero San Román">
+      <img src="/images/elecciones-26-27/jesus-racero.webp" class="w-32 h-32 rounded-full object-cover shadow-md border-4 border-indigo-500/20 mb-4 bg-gray-100 dark:bg-gray-700" alt="Jesús Racero San Román">
       <div class="flex flex-wrap justify-center md:justify-start">
         <span class="mx-1 mt-1 px-2.5 py-0.5 text-xs font-semibold rounded-full border">Problem Solver</span>
       </div>
@@ -88,7 +88,7 @@ A continuación, os presentamos a los miembros del club que han dado un paso al 
 
   <div class="not-prose flex flex-col md:flex-row gap-8 md:gap-10 p-6 bg-white dark:bg-gray-900 rounded-2xl border border-zinc-200/80 dark:border-gray-800/80 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
     <div class="flex flex-col items-center md:items-start text-center md:text-left flex-shrink-0 w-full md:w-48">
-      <img src="fernando-ml.jpeg" class="w-32 h-32 rounded-full object-cover shadow-md border-4 border-indigo-500/20 mb-4 bg-gray-100 dark:bg-gray-700" alt="Fernando Giráldez Curquejo">
+      <img src="/images/elecciones-26-27/fernando-ml.webp" class="w-32 h-32 rounded-full object-cover shadow-md border-4 border-indigo-500/20 mb-4 bg-gray-100 dark:bg-gray-700" alt="Fernando Giráldez Curquejo">
       <div class="flex flex-wrap justify-center md:justify-start">
         <span class="mx-1 mt-1 px-2.5 py-0.5 text-xs font-semibold rounded-full border">Web Master</span>
         <span class="mx-1 mt-1 px-2.5 py-0.5 text-xs font-semibold rounded-full border">Problem Solver</span>
@@ -104,7 +104,7 @@ A continuación, os presentamos a los miembros del club que han dado un paso al 
 
   <div class="not-prose flex flex-col md:flex-row gap-8 md:gap-10 p-6 bg-white dark:bg-gray-900 rounded-2xl border border-zinc-200/80 dark:border-gray-800/80 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
     <div class="flex flex-col items-center md:items-start text-center md:text-left flex-shrink-0 w-full md:w-48">
-      <img src="arnau.jpeg" class="w-32 h-32 rounded-full object-cover shadow-md border-4 border-indigo-500/20 mb-4 bg-gray-100 dark:bg-gray-700" alt="Arnau Neches Vilà">
+      <img src="/images/elecciones-26-27/arnau.webp" class="w-32 h-32 rounded-full object-cover shadow-md border-4 border-indigo-500/20 mb-4 bg-gray-100 dark:bg-gray-700" alt="Arnau Neches Vilà">
       <div class="flex flex-wrap justify-center md:justify-start">
         <span class="mx-1 mt-1 px-2.5 py-0.5 text-xs font-semibold rounded-full border">Events Manager</span>
       </div>
@@ -124,7 +124,7 @@ A continuación, os presentamos a los miembros del club que han dado un paso al 
 
   <div class="not-prose flex flex-col md:flex-row gap-8 md:gap-10 p-6 bg-white dark:bg-gray-900 rounded-2xl border border-zinc-200/80 dark:border-gray-800/80 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
     <div class="flex flex-col items-center md:items-start text-center md:text-left flex-shrink-0 w-full md:w-48">
-      <img src="pablo.jpeg" class="w-32 h-32 rounded-full object-cover shadow-md border-4 border-indigo-500/20 mb-4 bg-gray-100 dark:bg-gray-700" alt="Pablo Moreno Moreu">
+      <img src="/images/elecciones-26-27/pablo.webp" class="w-32 h-32 rounded-full object-cover shadow-md border-4 border-indigo-500/20 mb-4 bg-gray-100 dark:bg-gray-700" alt="Pablo Moreno Moreu">
       <div class="flex flex-wrap justify-center md:justify-start">
         <span class="mx-1 mt-1 px-2.5 py-0.5 text-xs font-semibold rounded-full border">Web Master</span>
         <span class="mx-1 mt-1 px-2.5 py-0.5 text-xs font-semibold rounded-full border">Problem Solver</span>
@@ -141,7 +141,7 @@ A continuación, os presentamos a los miembros del club que han dado un paso al 
 
   <div class="not-prose flex flex-col md:flex-row gap-8 md:gap-10 p-6 bg-white dark:bg-gray-900 rounded-2xl border border-zinc-200/80 dark:border-gray-800/80 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
     <div class="flex flex-col items-center md:items-start text-center md:text-left flex-shrink-0 w-full md:w-48">
-      <img src="julia.jpg" class="w-32 h-32 rounded-full object-cover shadow-md border-4 border-indigo-500/20 mb-4 bg-gray-100 dark:bg-gray-700" alt="Julia Moreno Mejías">
+      <img src="/images/elecciones-26-27/julia.webp" class="w-32 h-32 rounded-full object-cover shadow-md border-4 border-indigo-500/20 mb-4 bg-gray-100 dark:bg-gray-700" alt="Julia Moreno Mejías">
       <div class="flex flex-wrap justify-center md:justify-start">
         <span class="mx-1 mt-1 px-2.5 py-0.5 text-xs font-semibold rounded-full border">Marketing</span>
       </div>
@@ -154,7 +154,7 @@ A continuación, os presentamos a los miembros del club que han dado un paso al 
 
   <div class="not-prose flex flex-col md:flex-row gap-8 md:gap-10 p-6 bg-white dark:bg-gray-900 rounded-2xl border border-zinc-200/80 dark:border-gray-800/80 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
     <div class="flex flex-col items-center md:items-start text-center md:text-left flex-shrink-0 w-full md:w-48">
-      <img src="vikzi.jpg" class="w-32 h-32 rounded-full object-cover shadow-md border-4 border-indigo-500/20 mb-4 bg-gray-100 dark:bg-gray-700" alt="Victor Manuel Mesa Solano">
+      <img src="/images/elecciones-26-27/vikzi.webp" class="w-32 h-32 rounded-full object-cover shadow-md border-4 border-indigo-500/20 mb-4 bg-gray-100 dark:bg-gray-700" alt="Victor Manuel Mesa Solano">
       <div class="flex flex-wrap justify-center md:justify-start">
         <span class="mx-1 mt-1 px-2.5 py-0.5 text-xs font-semibold rounded-full border">Problem Solver</span>
         <span class="mx-1 mt-1 px-2.5 py-0.5 text-xs font-semibold rounded-full border">Events Manager</span>
@@ -174,7 +174,7 @@ A continuación, os presentamos a los miembros del club que han dado un paso al 
 
   <div class="not-prose flex flex-col md:flex-row gap-8 md:gap-10 p-6 bg-white dark:bg-gray-900 rounded-2xl border border-zinc-200/80 dark:border-gray-800/80 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
     <div class="flex flex-col items-center md:items-start text-center md:text-left flex-shrink-0 w-full md:w-48">
-      <img src="ines.jpg" class="w-32 h-32 rounded-full object-cover shadow-md border-4 border-indigo-500/20 mb-4 bg-gray-100 dark:bg-gray-700" alt="Inés Dávila Herrero">
+      <img src="/images/elecciones-26-27/ines.webp" class="w-32 h-32 rounded-full object-cover shadow-md border-4 border-indigo-500/20 mb-4 bg-gray-100 dark:bg-gray-700" alt="Inés Dávila Herrero">
       <div class="flex flex-wrap justify-center md:justify-start">
         <span class="mx-1 mt-1 px-2.5 py-0.5 text-xs font-semibold rounded-full border">Marketing</span>
         <span class="mx-1 mt-1 px-2.5 py-0.5 text-xs font-semibold rounded-full border">Problem Solver</span>
@@ -189,7 +189,7 @@ A continuación, os presentamos a los miembros del club que han dado un paso al 
 
   <div class="not-prose flex flex-col md:flex-row gap-8 md:gap-10 p-6 bg-white dark:bg-gray-900 rounded-2xl border border-zinc-200/80 dark:border-gray-800/80 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
     <div class="flex flex-col items-center md:items-start text-center md:text-left flex-shrink-0 w-full md:w-48">
-      <img src="julio-ojeda.jpg" class="w-32 h-32 rounded-full object-cover shadow-md border-4 border-indigo-500/20 mb-4 bg-gray-100 dark:bg-gray-700" alt="Julio Ojeda Infantes">
+      <img src="/images/elecciones-26-27/julio-ojeda.webp" class="w-32 h-32 rounded-full object-cover shadow-md border-4 border-indigo-500/20 mb-4 bg-gray-100 dark:bg-gray-700" alt="Julio Ojeda Infantes">
       <div class="flex flex-wrap justify-center md:justify-start">
         <span class="mx-1 mt-1 px-2.5 py-0.5 text-xs font-semibold rounded-full border">Problem Solver</span>
         <span class="mx-1 mt-1 px-2.5 py-0.5 text-xs font-semibold rounded-full border">Events Manager</span>
@@ -204,7 +204,7 @@ A continuación, os presentamos a los miembros del club que han dado un paso al 
 
   <div class="not-prose flex flex-col md:flex-row gap-8 md:gap-10 p-6 bg-white dark:bg-gray-900 rounded-2xl border border-zinc-200/80 dark:border-gray-800/80 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
     <div class="flex flex-col items-center md:items-start text-center md:text-left flex-shrink-0 w-full md:w-48">
-      <img src="antequera.jpg" class="w-32 h-32 rounded-full object-cover shadow-md border-4 border-indigo-500/20 mb-4 bg-gray-100 dark:bg-gray-700" alt="Miguel Antequera Gaspar">
+      <img src="/images/elecciones-26-27/antequera.webp" class="w-32 h-32 rounded-full object-cover shadow-md border-4 border-indigo-500/20 mb-4 bg-gray-100 dark:bg-gray-700" alt="Miguel Antequera Gaspar">
       <div class="flex flex-wrap justify-center md:justify-start">
         <span class="mx-1 mt-1 px-2.5 py-0.5 text-xs font-semibold rounded-full border">Marketing</span>
         <span class="mx-1 mt-1 px-2.5 py-0.5 text-xs font-semibold rounded-full border">Problem Solver</span>
@@ -219,7 +219,7 @@ A continuación, os presentamos a los miembros del club que han dado un paso al 
 
   <div class="not-prose flex flex-col md:flex-row gap-8 md:gap-10 p-6 bg-white dark:bg-gray-900 rounded-2xl border border-zinc-200/80 dark:border-gray-800/80 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
     <div class="flex flex-col items-center md:items-start text-center md:text-left flex-shrink-0 w-full md:w-48">
-      <img src="araceli.jpg" class="w-32 h-32 rounded-full object-cover shadow-md border-4 border-indigo-500/20 mb-4 bg-gray-100 dark:bg-gray-700" alt="Araceli Guerrero Morato">
+      <img src="/images/elecciones-26-27/araceli.webp" class="w-32 h-32 rounded-full object-cover shadow-md border-4 border-indigo-500/20 mb-4 bg-gray-100 dark:bg-gray-700" alt="Araceli Guerrero Morato">
       <div class="flex flex-wrap justify-center md:justify-start">
         <span class="mx-1 mt-1 px-2.5 py-0.5 text-xs font-semibold rounded-full border">Marketing</span>
       </div>

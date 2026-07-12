@@ -43,7 +43,7 @@ Este equipo no solo dominó la Categoría C, sino que se alzó con el primer pue
 - **Julio Ojeda Infantes** (Grado en Matemáticas)
 - **Mario Mora Cortés** (Grado en Matemáticas)
 
-<img src="ganadores-C.jpg" alt="TLE Climbers" width="500"/>
+<img src="ganadores-C.webp" alt="TLE Climbers" width="500"/>
 
 ### 🥇 just simply flml
 
@@ -53,7 +53,7 @@ Este equipo, que el año pasado competía en la Categoría A, se ha proclamado e
 - **Jesús Vílchez Martínez** (Grado en Ingeniería Informática – Ingeniería del Software)
 - **José Escalera García** (Grado en Ingeniería Informática – Ingeniería del Software)
 
-<img src="ganadores-B.jpg" alt="Just Simply FLML" width="500"/>
+<img src="ganadores-B.webp" alt="Just Simply FLML" width="500"/>
 
 ### 🥇 sqlito
 
@@ -63,7 +63,7 @@ La gran sorpresa de la edición. Siendo estudiantes de primer año, lograron el 
 - **Fernando Giráldez Curquejo** (Grado en Ingeniería Informática - Ingeniería de Computadores)
 - **Lucas Franco Borrero** (Grado en Matemáticas)
 
-<img src="ganadores-A.jpg" alt="SQLito" width="500"/>
+<img src="ganadores-A.webp" alt="SQLito" width="500"/>
 
 ### menciones especiales
 
@@ -73,7 +73,7 @@ La gran sorpresa de la edición. Siendo estudiantes de primer año, lograron el 
 - Carlos Gamito Moreno (Grado en Ingeniería Informática - Tecnologías Informáticas)
 - Jesús Núñez Pelayo (Grado en Ingeniería Informática - Tecnologías Informáticas)
 
-<img src="./premio_secundario1.jpg" alt="Premio secundario 1" width="500" />
+<img src="./premio_secundario1.webp" alt="Premio secundario 1" width="500" />
 
 **HaskellRunners:** premiados por la "Última Entrega Correcta", resolviendo un problema in extremis justo antes del cierre del juez. Un homenaje perfecto a la perseverancia (y a David Solís).
 
@@ -81,7 +81,7 @@ La gran sorpresa de la edición. Siendo estudiantes de primer año, lograron el 
 - **Ángela Martínez Carrasco** (Doble Grado Ingeniería Informática y Matemáticas)
 - **Antonio María Halcón Álvarez** (Doble Grado Ingeniería Informática y Matemáticas)
 
-<img src="./premio_secundario2.jpg" alt="Premio secundario 2" width="500" />
+<img src="./premio_secundario2.webp" alt="Premio secundario 2" width="500" />
 
 ## Clasificados a la final nacional
 
@@ -121,7 +121,7 @@ Nada de esto habría sido posible sin el apoyo de los voluntarios que dedicaron 
 - José García De Tejada Delgado
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
-  <img src="voluntarios.jpg" alt="v1" style="width: 450px; height: auto; border-radius: 8px;"/>
+  <img src="voluntarios.webp" alt="v1" style="width: 450px; height: auto; border-radius: 8px;"/>
   <img src="voluntarios2.webp" alt="v2" style="width: 450px; height: auto; border-radius: 8px;"/>
 </div>
 

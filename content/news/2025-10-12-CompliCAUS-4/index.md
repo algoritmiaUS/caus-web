@@ -3,7 +3,7 @@ title: 'Celebrado el CompliCAUS IV'
 date: 2025-10-12T09:00:00+00:00
 draft: false
 language: es
-featured_image: images/featured/CompliCAUS-4-Foto-grupal.jpg
+featured_image: images/featured/CompliCAUS-4-Foto-grupal.webp
 summary: 'El CompliCAUS IV reunió a estudiantes de distintos niveles para una intensa competición de programación organizada por el Club de Algoritmia de la Universidad de Sevilla.'
 description: 'La cuarta edición de CompliCAUS se celebró con éxito, congregando a estudiantes de diferentes instituciones y niveles académicos en un desafío de algoritmia de tres horas.'
 author: Administradores CAUS
@@ -26,13 +26,13 @@ Las diapositivas explicativas de los problemas del CompliCAUS IV están disponib
 
 En esta edición participaron 40 estudiantes de instituciones como la Universidad de Sevilla (diversos grados de Ingeniería Informática, Matemáticas, Física, entre otros), la Universidad Politécnica de Cataluña y alumnos de bachillerato.
 
-![Foto grupal de los participantes del CompliCAUS IV](participantes1.jpg)
+![Foto grupal de los participantes del CompliCAUS IV](participantes1.webp)
 
 # Resolución de problemas
 
 Al finalizar la competición, nos dirigimos al Salón de Grados de la ETSII, donde los responsables del CAUS, Pablo Dávila, Pablo Reina y Kenny Flores, expusieron las estrategias utilizadas para resolver los problemas propuestos. Durante esta sesión, compartieron valiosos consejos y realizaron un análisis detallado de las soluciones.
 
-![Resolución problemas](resolucion-problemas.jpg)
+![Resolución problemas](resolucion-problemas.webp)
 
 # Entrega de premios
 
