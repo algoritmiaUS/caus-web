@@ -17,7 +17,7 @@
             {{ range site.Menus.main }}
             {{ if (eq "complexdropdown" .Pre) }}
             <div @click.away="open = false" class="relative" x-data="{ open: false }">
-                <button @click="open = !open" class="flex flex-row items-center w-full px-4 py-2 mt-2 text-sm font-semibold text-left bg-transparent rounded-lg dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:focus:bg-gray-600 dark-mode:hover:bg-gray-600 md:w-auto md:inline md:mt-0 md:ml-4 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-600 focus:outline-hidden focus:shadow-outline">
+                <button @click="open = !open" class="flex flex-row items-center w-full px-4 py-2 mt-2 text-sm font-semibold text-left bg-transparent rounded-lg dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:focus:bg-gray-600 dark-mode:hover:bg-gray-600 md:w-auto md:inline md:mt-0 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-600 focus:outline-hidden focus:shadow-outline">
                     <span>{{ .Name }}</span>
                     <svg fill="currentColor" viewBox="0 0 20 20" :class="{'rotate-180': open, 'rotate-0': !open}" class="inline w-4 h-4 mt-1 ml-1 transition-transform duration-200 transform md:-mt-1">
                         <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path>
@@ -71,8 +71,8 @@
             </div>
             {{ else if (eq "dropdown" .Pre) }}
             <div @click.away="open = false" class="relative" x-data="{ open: false }">
-                <button @click="open = !open" class="flex flex-row items-center w-full px-4 py-2 mt-2 text-sm font-semibold text-left bg-transparent rounded-lg md:w-auto md:inline md:mt-0 md:ml-4 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-600 focus:outline-hidden focus:shadow-outline">
-                    <span>{{ .Name }}</span>
+                <button @click="open = !open" class="flex flex-row items-center w-full px-4 py-2 mt-2 text-sm font-semibold text-left bg-transparent rounded-lg md:w-auto md:inline md:mt-0 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-600 focus:outline-hidden focus:shadow-outline text-nowrap">
+                    <span class="text-wrap">{{ .Name }}</span>
                     <svg fill="currentColor" viewBox="0 0 20 20" :class="{'rotate-180': open, 'rotate-0': !open}" class="inline w-4 h-4 mt-1 ml-1 transition-transform duration-200 transform md:-mt-1">
                         <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path>
                     </svg>
@@ -86,21 +86,24 @@
                 </div>
             </div>
             {{ else }}
-            <a class="px-4 py-2 mt-2 text-sm font-semibold rounded-lg md:mt-0 md:ml-4 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-700 focus:outline-hidden focus:shadow-outline" href="{{ .URL | relLangURL }}" title="{{ .Title | default .Name }}">
+            <a class="px-4 py-2 mt-2 text-sm font-semibold rounded-lg md:mt-0 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-700 focus:outline-hidden focus:shadow-outline" href="{{ .URL | relLangURL }}" title="{{ .Title | default .Name }}">
                 {{ .Name }}
             </a>
             {{ end }}
             {{ end }}
             {{ if hugo.IsMultilingual }}
             <div @click.away="open = false" class="relative" x-data="{ open: false }">
-                <button @click="open = !open" class="flex flex-row items-center w-full px-4 py-2 mt-2 text-sm font-semibold text-left bg-transparent rounded-lg md:w-auto md:inline md:mt-0 md:ml-4 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-600 focus:outline-hidden focus:shadow-outline">
-                    <span>🌐 {{ site.Language.Label }}</span>
-                    <svg fill="currentColor" viewBox="0 0 20 20" :class="{'rotate-180': open, 'rotate-0': !open}" class="inline w-4 h-4 mt-1 ml-1 transition-transform duration-200 transform md:-mt-1">
-                        <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path>
-                    </svg>
+                <button @click="open = !open" title="{{ site.Language.Label }}" class="flex flex-row items-center px-4 py-2 text-sm font-semibold text-left bg-transparent rounded-lg md:w-auto md:inline mt-auto mb-auto w-full hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-600 focus:outline-hidden focus:shadow-outline">
+                    <span>
+                        {{ if eq site.Language.Name "es" }}🇪🇸{{ end }}
+                        {{ if eq site.Language.Name "en" }}🇬🇧{{ end }}
+                        {{ if eq site.Language.Name "fr" }}🇫🇷{{ end }}
+                        {{ if eq site.Language.Name "de" }}🇩🇪{{ end }}
+                        {{ if eq site.Language.Name "ja" }}🇯🇵{{ end }}
+                    </span>
                 </button>
-                <div x-show="open" x-transition:enter="transition ease-out duration-100" x-transition:enter-start="transform opacity-0 scale-95" x-transition:enter-end="transform opacity-100 scale-100" x-transition:leave="transition ease-in duration-75" x-transition:leave-start="transform opacity-100 scale-100" x-transition:leave-end="transform opacity-0 scale-95" class="absolute right-0 z-30 w-full mt-2 origin-top-right rounded-md shadow-lg md:w-48">
-                    <div class="px-2 py-2 bg-white rounded-md shadow-sm text-primary-900">
+                <div x-show="open" x-transition:enter="transition ease-out duration-100" x-transition:enter-start="transform opacity-0 scale-95" x-transition:enter-end="transform opacity-100 scale-100" x-transition:leave="transition ease-in duration-75" x-transition:leave-start="transform opacity-100 scale-100" x-transition:leave-end="transform opacity-0 scale-95" class="absolute right-0 z-30 w-auto mt-2 origin-top-right rounded-md shadow-lg">
+                    <div class="p-1 bg-white rounded-md shadow-sm text-primary-900">
                         {{ range hugo.Sites }}
                             {{ if ne .Language.Name site.Language.Name }}
                             {{ $targetURL := "" }}
@@ -125,13 +128,13 @@
                                 {{ end }}
                             {{ end }}
                             
-                            <a class="block px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg md:mt-0 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-600 focus:outline-hidden focus:shadow-outline" 
-                               href="{{ $targetURL }}">
-                                {{ if eq .Language.Name "es" }}🇪🇸 Español{{ end }}
-                                {{ if eq .Language.Name "en" }}🇬🇧 English{{ end }}
-                                {{ if eq .Language.Name "fr" }}🇫🇷 Français{{ end }}
-                                {{ if eq .Language.Name "de" }}🇩🇪 Deutsch{{ end }}
-                                {{ if eq .Language.Name "ja" }}🇯🇵 日本語{{ end }}
+                            <a class="block px-4 py-2 text-center text-base font-semibold bg-transparent rounded-lg hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-600 focus:outline-hidden focus:shadow-outline" 
+                               href="{{ $targetURL }}" title="{{ .Language.Label }}">
+                                {{ if eq .Language.Name "es" }}🇪🇸{{ end }}
+                                {{ if eq .Language.Name "en" }}🇬🇧{{ end }}
+                                {{ if eq .Language.Name "fr" }}🇫🇷{{ end }}
+                                {{ if eq .Language.Name "de" }}🇩🇪{{ end }}
+                                {{ if eq .Language.Name "ja" }}🇯🇵{{ end }}
                             </a>
                             {{ end }}
                         {{ end }}
@@ -141,7 +144,7 @@
             {{ end }}
             
             {{ if not site.Params.Disable_theme_toggle }}
-            <button id="theme-toggle" type="button" class="p-2 text-sm text-gray-500 rounded-lg md: dark:text-gray-400 md:hover:bg-gray-100 dark:md:hover:bg-gray-700 md:focus:outline-hidden md:focus:ring-4 md:focus:ring-gray-200 dark:md:focus:ring-gray-700 md:ml-2 xs:hidden">
+            <button id="theme-toggle" type="button" class="p-2 px-4 text-sm text-gray-500 rounded-lg dark:text-gray-400 md:hover:bg-gray-100 dark:md:hover:bg-gray-700 md:focus:outline-hidden md:focus:ring-4 md:focus:ring-gray-200 dark:md:focus:ring-gray-700 md:ml-2 xs:hidden">
                 <svg id="theme-toggle-dark-icon" class="hidden w-5 h-5" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
                     <path d="M17.293 13.293A8 8 0 016.707 2.707a8.001 8.001 0 1010.586 10.586z">
                     </path>
