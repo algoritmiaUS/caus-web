@@ -15,9 +15,7 @@ En el Club de Algoritmia, creemos firmemente en el valor de enfrentar desafíos 
 
 Únete a nosotros y forma parte de una comunidad apasionada por la programación, donde cada desafío es una oportunidad para aprender y crecer juntos.
 
-
 # 📚 Actividades Académicas
-
 
 ## Sesiones de entrenamiento
 
@@ -59,9 +57,7 @@ Participamos en eventos anuales como [Advent of Code](https://adventofcode.com/)
   <img src="/images/about/competiciones2.jpg" alt="Competición 2" style="width: 100%; max-width: 600px; flex: 1;border-radius: 12px;">
 </div>
 
-
 # 🎉 Actividades Sociales
-
 
 ## Comida cuatrimestral
 
@@ -72,7 +68,6 @@ Cada cuatrimestre, organizamos una comida especial para celebrar nuestros logros
   <img src="/images/about/comida-caus2.jpg" alt="Comida CAUS 2" style="width: 100%; max-width: 600px;border-radius: 12px;">
 </div>
 
-
 ## Rocódromo
 
 ¿Qué mejor para entrenar esos dedos de programador que una buena sesión de escalada? De vez en cuando organizamos salidas extraoficiales al rocódromo para hacer un poco de ejercicio después de las sesiones de los viernes ¡Es una excelente oportunidad para desafiarse a uno mismo y fortalecer el espíritu de grupo!
@@ -81,7 +76,6 @@ Cada cuatrimestre, organizamos una comida especial para celebrar nuestros logros
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
   <img src="/images/about/rocodromo.png" alt="Rocódromo" style="width: 100%; max-width: 600px;border-radius: 12px;">
 </div>
-
 
 # Nuestro equipo
 
