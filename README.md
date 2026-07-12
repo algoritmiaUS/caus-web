@@ -10,7 +10,7 @@ Esta es la página web oficial del Club de Algoritmia de la Universidad de Sevil
 
 **Dependencias principales**
 
-- hugo (v0.162.1)
+- hugo (v0.164.0)
 - npm (11.14.1)
 - golang-go (1.26.3)
 
@@ -29,7 +29,7 @@ npm install
 
 ## Sistemas Windows
 
-1.  [Descargar e instalar Hugo](https://github.com/gohugoio/hugo/releases/tag/v0.128.2)
+1.  [Descargar e instalar Hugo](https://github.com/gohugoio/hugo/releases/tag/v0.164.0)
 2.  [Descargar e instalar Node.js](https://nodejs.org/en/download)
 3.  [Descargar e instalar golang-go](https://go.dev/doc/install)
 4.  Instalar dependencias de npm

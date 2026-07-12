@@ -3,7 +3,7 @@ title: 'Anuncio: CompliCAUS IV!'
 date: 2025-09-25T23:00:36+08:00
 draft: false
 language: es
-featured_image: images/featured/Cartel-CompliCAUS IV.jpg
+featured_image: images/featured/Cartel-CompliCAUS IV.webp
 summary: 'Participa en la cuarta edición del CompliCAUS, la competición interna de programación organizada por el Club de Algoritmia de la Universidad de Sevilla. Prepárate para resolver problemas de distintos niveles el próximo 10 de octubre en la ETSII.'
 description: 'El Club de Algoritmia de la Universidad de Sevilla presenta la cuarta edición del CompliCAUS, una competición de programación abierta a todos los interesados. Con problemas diseñados para desafiar tanto a principiantes como a expertos, esta edición promete ser un evento emocionante y formativo. Inscríbete y demuestra tus habilidades en una jornada llena de retos y diversión.'
 author: Administradores CAUS
@@ -40,7 +40,7 @@ El **CompliCAUS** es nuestra propia competición de programación, abierta a tod
 
   <div style="display: flex; justify-content: center; flex-direction: column">
     <a href="https://www.informatica.us.es/">
-        <img src="logo-ETSII.png" alt="Descripción de la imagen" style="width: 25rem; max-width: 80%; margin: auto;">
+        <img src="logo-ETSII.webp" alt="Descripción de la imagen" style="width: 25rem; max-width: 80%; margin: auto;">
     </a>
     <p style="margin: auto">Patrocinador Platino</p>
   </div>

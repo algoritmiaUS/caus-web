@@ -117,61 +117,61 @@ oldadmins:
 
 members:
   - name: "Alejandro Domínguez Muñoz"
-    image: "/images/members/alejandro-haskell.jpeg"
+    image: "/images/members/alejandro-haskell.webp"
 
   - name: "Carlos Fernández - Llebrez Acedo"
-    image: "/images/members/carlos-fernandez.jpeg"
+    image: "/images/members/carlos-fernandez.webp"
 
   - name: "Jacobo Tagua Santana"
-    image: "/images/members/jacobo.png"
+    image: "/images/members/jacobo.webp"
 
   - name: "Jesús Vílchez Martínez"
-    image: "/images/members/jesus-vilche.jpeg"
+    image: "/images/members/jesus-vilche.webp"
 
   - name: "José Escalera García"
-    image: "/images/members/pepe-escalera.jpeg"
+    image: "/images/members/pepe-escalera.webp"
 
   - name: "Mario Mora Cortés"
-    image: "/images/members/mario-mora.jpeg"
+    image: "/images/members/mario-mora.webp"
 
   - name: "Teodoro Jiménez Lepe"
-    image: "/images/members/teodoro-jimenez-lepe.jpeg"
+    image: "/images/members/teodoro-jimenez-lepe.webp"
 
   - name: "Jesús Pérez Bazarot"
-    image: "/images/members/persus.png"
+    image: "/images/members/persus.webp"
 
   - name: "Jairo Serrano Picón"
-    image: "/images/members/jairo.jpeg"
+    image: "/images/members/jairo.webp"
 
   - name: "Jose Luis Mesa Solano"
-    image: "/images/members/jose-luis-mesa.jpeg"
+    image: "/images/members/jose-luis-mesa.webp"
 
   - name: "José Aguilera Rodríguez"
-    image: "/images/members/jose-aguilera-rodriguez.jpeg"
+    image: "/images/members/jose-aguilera-rodriguez.webp"
 
   - name: "Alejandro Gómez Oliveira"
-    image: "/images/members/alejandro-gomez-oliveira.jpeg"
+    image: "/images/members/alejandro-gomez-oliveira.webp"
 
   - name: "Sebastián Romero Moreno"
-    image: "/images/members/sebastian-romero-moreno.jpeg"
+    image: "/images/members/sebastian-romero-moreno.webp"
 
   - name: "Carlos Gamito Moreno"
-    image: "/images/members/carlos-gamito-moreno.jpeg"
+    image: "/images/members/carlos-gamito-moreno.webp"
 
   - name: "Joaquín González Granados"
-    image: "/images/members/joaquin-gonzalez-granados.jpg"
+    image: "/images/members/joaquin-gonzalez-granados.webp"
 
   - name: "Ignacio Bueno Egea"
-    image: "/images/members/ignacio-bueno-egea.jpeg"
+    image: "/images/members/ignacio-bueno-egea.webp"
 
   - name: "Álvaro Luque Buzón"
-    image: "/images/members/alvaro-luque-buzon.jpeg"
+    image: "/images/members/alvaro-luque-buzon.webp"
 
   - name: "Gael Bolaños López"
-    image: "/images/members/gael.jpeg"
+    image: "/images/members/gael.webp"
 
   - name: "Irene Gutiérrez Enguix"
-    image: "/images/members/irene-leñadora-bonsais.jpeg"
+    image: "/images/members/irene-leñadora-bonsais.webp"
 
   - name: "José María Sánchez Rubio"
-    image: "/images/members/chema.png"
+    image: "/images/members/chema.webp"

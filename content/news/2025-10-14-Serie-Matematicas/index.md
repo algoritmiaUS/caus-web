@@ -3,7 +3,7 @@ title: "A mí me apasionan las matemáticas, ¿y a ti?"
 date: 2025-10-14T00:00:00+00:00
 draft: false
 language: es
-featured_image: images/featured/charlas.png
+featured_image: images/featured/charlas.webp
 summary: Una serie de charlas sobre las matemáticas, presentada por el catedrático Renato Álvarez-Nodarse.
 description: Durante el curso 2025-2026, el catedrático Renato Álvarez-Nodarse ofrecerá una serie de charlas apasionantes sobre matemáticas. La primera estará dedicada a explorar las contribuciones del genio indio Srinivasa Ramanujan.
 author: Administradores CAUS

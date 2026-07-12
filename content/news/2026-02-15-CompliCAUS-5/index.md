@@ -3,7 +3,7 @@ title: 'Celebrado el CompliCAUS V'
 date: 2026-02-15T09:00:00+00:00
 draft: false
 language: es
-featured_image: images/featured/CompliCAUS-5-Foto-grupal.jpg
+featured_image: images/featured/CompliCAUS-5-Foto-grupal.webp
 summary: 'El CompliCAUS V reunió a estudiantes de distintos niveles para una intensa competición de programación organizada por el Club de Algoritmia de la Universidad de Sevilla.'
 description: 'La quinta edición de CompliCAUS se celebró con éxito, congregando a estudiantes de diferentes instituciones y niveles académicos en un desafío de algoritmia de tres horas.'
 author: Administradores CAUS
@@ -30,13 +30,13 @@ Las instituciones representadas presencialmente fueron la Universidad de Sevilla
 
 Además, el concurso contó con participación a distancia de varios equipos, entre ellos uno de la Universidad de Granada, uno de la Universidad de Cádiz y un equipo internacional formado por estudiantes de la Universidad Politécnica de Cataluña y la Universidad de Oxford.
 
-![Foto grupal de los participantes del CompliCAUS V](participantes.jpg)
+![Foto grupal de los participantes del CompliCAUS V](participantes.webp)
 
 # Resolución de problemas
 
 Al finalizar la competición, nos dirigimos al Salón de Grados de la ETSII, donde los responsables del CAUS, Pablo Dávila, Pablo Reina y Kenny Flores, expusieron las estrategias utilizadas para resolver los problemas propuestos. Durante esta sesión, compartieron valiosos consejos y realizaron un análisis detallado de las soluciones.
 
-![Resolución problemas](resolucion-problemas.jpg)
+![Resolución problemas](resolucion-problemas.webp)
 
 # Entrega de premios
 
@@ -48,7 +48,7 @@ La competición fue reñida desde el inicio, con constantes cambios en los prime
 - **Javier Giménez Cabanillas** (Doble Grado en Ingeniería Informática - Tecnologías Informáticas y Matemáticas)
 - **Anselmo Jiménez Zambrano** (Doble Grado en Ingeniería Informática - Tecnologías Informáticas y Matemáticas)
 
-<img src="/images/winners-complicaus-5/first.jpg" alt="Primer premio: Time Limit Subceeded" width="500"/>
+<img src="/images/winners-complicaus-5/first.webp" alt="Primer premio: Time Limit Subceeded" width="500"/>
 
 ### 🥈 Segundo premio: TLE Climbers
 
@@ -56,7 +56,7 @@ La competición fue reñida desde el inicio, con constantes cambios en los prime
 - **Lorenzo Tagua** (Grado en Ingeniería de Tecnologías Industriales)
 - **Mario Mora Cortés** (Grado en Matemáticas)
 
-<img src="/images/winners-complicaus-5/second.jpg" alt="Segundo premio: TLE Climbers" width="500"/>
+<img src="/images/winners-complicaus-5/second.webp" alt="Segundo premio: TLE Climbers" width="500"/>
 
 ### 🥉 Tercer premio: Three pointers
 
@@ -64,7 +64,7 @@ La competición fue reñida desde el inicio, con constantes cambios en los prime
 - **Lester Adrián Arencibia Arteaga** (Grado en Ingeniería Informática - Tecnologías Informáticas)
 - **Nacho Gorostidi Colás** (Grado en Ingeniería Informática - Tecnologías Informáticas)
 
-<img src="/images/winners-complicaus-5/third.jpg" alt="Tercer premio: Three pointers" width="500"/>
+<img src="/images/winners-complicaus-5/third.webp" alt="Tercer premio: Three pointers" width="500"/>
 
 ### 🎖️ Premio secundario: Los problemas de Reina
 
@@ -72,7 +72,7 @@ La competición fue reñida desde el inicio, con constantes cambios en los prime
 - **Jesús Pérez Bazarot** (Grado en Ingeniería Informática - Ingeniería de Computadores)
 - **Miguel España Montero** (Doble Grado Física + Matemáticas)
 
-<img src="/images/winners-complicaus-5/secondary.jpg" alt="Premio secundario: Los problemas de Reina" width="500"/>
+<img src="/images/winners-complicaus-5/secondary.webp" alt="Premio secundario: Los problemas de Reina" width="500"/>
 
 # Agradecimientos
 
@@ -80,4 +80,4 @@ Agradecemos a la Escuela Técnica Superior de Ingeniería Informática por su pa
 
 También extendemos nuestro agradecimiento a [Ramsés Rodríguez Martínez](https://www.linkedin.com/in/ramsesrodriguez/) y [Isabel Rodríguez Olivar](https://www.linkedin.com/in/isabel-rodriguez-olivar-573124b/), representantes de [Next Digital](https://www.nextdigital.es/), por su patrocinio y por todas las facilidades brindadas para el buen desarrollo del concurso.
 
-![Logo de Next Digital](/images/global/Logo_ND.png)
+![Logo de Next Digital](/images/global/Logo_ND.webp)

@@ -3,7 +3,7 @@ title: 'Anuncio: CompliCAUS V!'
 date: 2026-01-22
 draft: false
 language: es
-featured_image: images/featured/Cartel-CompliCAUS V.jpeg
+featured_image: images/featured/Cartel-CompliCAUS V.webp
 summary: 'Participa en la quinta edición del CompliCAUS, la competición interna de programación organizada por el Club de Algoritmia de la Universidad de Sevilla. Prepárate para resolver problemas de distintos niveles el próximo 13 de febrero en la ETSII junto a tus compañeros.'
 description: 'El Club de Algoritmia de la Universidad de Sevilla presenta la quinta edición del CompliCAUS, una competición de programación abierta a todos los interesados. En esta competición tenemos la novedad de que es en equipos. Con problemas diseñados para desafiar tanto a principiantes como a expertos, esta edición promete ser un evento emocionante y formativo. Inscríbete y demuestra tus habilidades en una jornada llena de retos y diversión.'
 author: Administradores CAUS
@@ -45,9 +45,9 @@ Con el apoyo de:
 
 <div style="display: flex; justify-content: center; flex-direction: column; gap: 1rem;">
   <a href="https://www.nextdigital.es/">
-      <img src="/images/global/logo-next-digital-fondo-blanco.png" alt="Logo de Next Digital" style="width: 25rem; max-width: 80%; margin: auto;">
+      <img src="/images/global/logo-next-digital-fondo-blanco.webp" alt="Logo de Next Digital" style="width: 25rem; max-width: 80%; margin: auto;">
   </a>
   <a href="https://www.informatica.us.es/">
-      <img src="/images/global/logo-etsii-fondo-blanco.png" alt="Logo de la Escuela Técnica Superior de Ingeniería Informática" style="width: 25rem; max-width: 80%; margin: auto; border-radius: .5rem;">
+      <img src="/images/global/logo-etsii-fondo-blanco.webp" alt="Logo de la Escuela Técnica Superior de Ingeniería Informática" style="width: 25rem; max-width: 80%; margin: auto; border-radius: .5rem;">
   </a>
 </div>

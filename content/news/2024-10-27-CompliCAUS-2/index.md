@@ -3,7 +3,7 @@ title: 'Celebrado el CompliCAUS II'
 date: 2024-10-27T09:00:00+00:00
 draft: false
 language: es
-featured_image: images/featured/CompliCAUS-2-Foto-grupal.jpg
+featured_image: images/featured/CompliCAUS-2-Foto-grupal.webp
 summary: La segunda edición de CompliCAUS, organizada por el Club de Algoritmia de la Universidad de Sevilla, reunió a estudiantes de distintas disciplinas y niveles académicos, retándolos a resolver problemas en la plataforma Virtual Judge.
 description: El 18 de octubre tuvo lugar la segunda edición de CompliCAUS, una competición de algoritmia organizada por el Club de Algoritmia de la Universidad de Sevilla y patrocinada por la ETSII. Esta competición, que congregó a estudiantes de diferentes facultades de la US y alumnos de bachillerato, ofreció un reto estimulante que puso a prueba las habilidades de resolución de problemas de los participantes. El evento demostró que la pasión por la programación es una fuerza que supera fronteras académicas. Agradecemos profundamente el apoyo de la ETSII y de Mª Lourdes Miró. ¡Esperamos verlos en la próxima edición!
 author: Administradores CAUS
@@ -24,15 +24,15 @@ Las diapositivas explicativas de los problemas del CompliCAUS II están disponib
 
 En esta edición participaron 27 estudiantes de instituciones como la Universidad de Sevilla (diversos grados de Ingeniería Informática, Matemáticas, Física, entre otros), la Universidad Politécnica de Cataluña, así como alumnos de bachillerato (Colegio Santa Ana, Colegio Esclavas Sevilla - Fundación Spínola) y de Formación Profesional (Grado Superior en Desarrollo de Aplicaciones Multiplataforma - IES El Majuelo).
 
-![alt text](participantes1.jpg)
+![alt text](participantes1.webp)
 
-![alt text](participantes2.jpg)
+![alt text](participantes2.webp)
 
 # Resolución de problemas
 
 Al terminar la competición, los responsables del CAUS, Pablo Dávila, Pablo Reina y Kenny Flores, guiaron una sesión en la sala Multiusos de la ETSII para explicar las estrategias de resolución de los problemas propuestos, brindando valiosos consejos y análisis.
 
-![Resolución problemas](resolucion-problemas.png)
+![Resolución problemas](resolucion-problemas.webp)
 
 <!-- *Este es el subtítulo de la imagen.* -->
 
