@@ -1,6 +1,6 @@
 administrators:
   - name: "Pablo Reina Jiménez"
-    role: "Presidente · Co-founder · Problem Solver"
+    role: "Presidente · Co-founder"
     image: "/images/admins/pablo-reina.webp"
     linkedin: pablo-reina-jiménez-2b1869257
     github: preinaj
@@ -29,20 +29,6 @@ administrators:
     role: "Marketing"
     image: "/images/admins/julia.webp"
 
-  - name: "Araceli Guerrero Morato"
-    role: "Marketing"
-    image: "/images/admins/araceli.webp"
-    linkedin: araceli-guerrero-morato
-
-  - name: "Lucía Campos Díez"
-    role: "Marketing"
-    image: "/images/admins/lucia.webp"
-    linkedin: lucía-campos-díez-bb0345359
-
-  - name: "Luis Eduardo Castillo Huamán"
-    role: "Marketing"
-    image: "/images/admins/lucho.webp"
-
   - name: "Lorenzo Tagua Santana"
     role: "Problem Solver"
     image: "/images/admins/lorenzo.webp"
@@ -68,7 +54,7 @@ administrators:
     image: "/images/admins/antequera.webp"
     linkedin: miguel-antequera-gaspar
 
-  - name: "Jesus Racero San Román"
+  - name: "Jesús Racero San Román"
     role: "Problem Solver"
     image: "/images/admins/jesus-racero.webp"
     linkedin: jesús-racero-san-román-6b0960374
@@ -83,46 +69,55 @@ administrators:
     image: "/images/admins/arnau.webp"
     linkedin: arnau-neches-vilà-096627255
 
-  - name: "Víctor Mesa Solano"
-    role: "Events Manager"
-    image: "/images/admins/vikzi.webp"
-    linkedin: "victor-manuel-mesa-solano-a04663376"
+collaborators:
+  - name: "Araceli Guerrero Morato"
+    image: "/images/admins/araceli.webp"
+    linkedin: araceli-guerrero-morato
+
+  - name: "Lucía Campos Díez"
+    image: "/images/admins/lucia.webp"
+    linkedin: lucía-campos-díez-bb0345359
+
+  - name: "Luis Eduardo Castillo Huamán"
+    image: "/images/admins/lucho.webp"
 
 oldadmins:
-  # Antiguos admins: Os querremos siempre <3
-  - name: "Pablo Dávila Herrero"
-    role: "Ex-presidente · Co-founder · Event Manager"
-    image: "/images/admins/pablo-davila.webp"
-    website: https://pablodavila.eu
-    linkedin: pablo-davila-herrero
-    github: Pablo-Davila
+  - name: "Víctor Mesa Solano"
+    role: "Problem Solver"
+    image: "/images/admins/vikzi.webp"
+    linkedin: "victor-manuel-mesa-solano-a04663376"
+    dates: "2025-2026"
+
+  - name: "Lucía Campos Díez"
+    role: "Marketing"
+    dates: "2025-2026"
+    image: "/images/admins/lucia.webp"
+    linkedin: lucía-campos-díez-bb0345359
 
   - name: "José García De Tejada Delgado"
-    role: "Problem Solver · Event Manager"
+    role: "Problem Solver"
     image: "/images/admins/jose.webp"
+    dates: "2024-2025"
     linkedin: jose-garcia-de-tejada-delgado-3915a12a2
     github: Olivfhan
 
   - name: "Paula Gómez Matos"
     role: "Co-founder"
+    dates: "2023-2024"
     image: "/images/admins/paula.webp"
     linkedin: paulagomezmatos
 
-  - name: "María Lourdes Linares Barrera"
-    role: "Problem Solver"
-    image: "/images/admins/lourdes.webp"
-    linkedin: lourdeslb
-    github: lourdesLB
+  - name: "Pablo Dávila Herrero"
+    role: "Ex-presidente · Co-founder · Event Manager"
+    image: "/images/admins/pablo-davila.webp"
+    dates: "2023-2026"
+    website: https://pablodavila.eu
+    linkedin: pablo-davila-herrero
+    github: Pablo-Davila
 
 members:
-  - name: "Adriana Gordillo Melero"
-    image: "/images/members/adriana.webp"
-
   - name: "Alejandro Domínguez Muñoz"
     image: "/images/members/alejandro-haskell.webp"
-
-  - name: "Álvaro Galisteo Bermúdez"
-    image: "/images/members/gali.webp"
 
   - name: "Carlos Fernández - Llebrez Acedo"
     image: "/images/members/carlos-fernandez.webp"
@@ -133,23 +128,11 @@ members:
   - name: "Jesús Vílchez Martínez"
     image: "/images/members/jesus-vilche.webp"
 
-  - name: "José Constantino Benjumea Bellott"
-    image: "/images/members/constan.webp"
-
   - name: "José Escalera García"
     image: "/images/members/pepe-escalera.webp"
 
   - name: "Mario Mora Cortés"
     image: "/images/members/mario-mora.webp"
-
-  - name: "Nicolás Sibello Litrán"
-    image: "/images/members/nico-sibello.webp"
-
-  - name: "Nora Peñaloza Friqui"
-    image: "/images/members/nora.webp"
-
-  - name: "Pablo Écija Laguna"
-    image: "/images/members/pablo-ecija.webp"
 
   - name: "Teodoro Jiménez Lepe"
     image: "/images/members/teodoro-jimenez-lepe.webp"
@@ -188,7 +171,7 @@ members:
     image: "/images/members/gael.webp"
 
   - name: "Irene Gutiérrez Enguix"
-    image: "/images/members/irene-enana.webp"
+    image: "/images/members/irene-leñadora-bonsais.webp"
 
   - name: "José María Sánchez Rubio"
     image: "/images/members/chema.webp"

@@ -16,13 +16,11 @@ Esta es la página web oficial del Club de Algoritmia de la Universidad de Sevil
 
 ## Sistemas GNU/Linux
 
-Si utilizas Linux/OSX/WSL2 es recomendable usar homebrew.
-
 ```Bash
-brew install hugo
-brew install npm
+sudo apt install npm golang-go
 
-sudo apt install golang-go
+sudo snap install hugo
+sudo snap switch hugo --channel=v.0.162.1/stable
 
 npm install
 ```
