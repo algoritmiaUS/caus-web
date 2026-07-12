@@ -16,8 +16,6 @@ Esta es la página web oficial del Club de Algoritmia de la Universidad de Sevil
 
 ## Sistemas GNU/Linux
 
-Si utilizas Linux/OSX/WSL2 es recomendable usar homebrew.
-
 ```Bash
 sudo apt install npm golang-go
 
