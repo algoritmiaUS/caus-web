@@ -83,6 +83,11 @@ administrators:
     image: "/images/admins/arnau.webp"
     linkedin: arnau-neches-vilà-096627255
 
+  - name: "Jairo Serrano Picón"
+    role: "Events Manager"
+    image: "/images/admins/jairo.webp"
+    linkedin: jairosp
+
   - name: "Víctor Mesa Solano"
     role: "Events Manager"
     image: "/images/admins/vikzi.webp"
@@ -156,9 +161,6 @@ members:
 
   - name: "Jesús Pérez Bazarot"
     image: "/images/members/persus.webp"
-
-  - name: "Jairo Serrano Picón"
-    image: "/images/members/jairo.webp"
 
   - name: "Jose Luis Mesa Solano"
     image: "/images/members/jose-luis-mesa.webp"
