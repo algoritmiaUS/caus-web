@@ -148,3 +148,4 @@ security:
     allow:
       - "^git"
       - "^tailwindcss$"
+      - ^node$
