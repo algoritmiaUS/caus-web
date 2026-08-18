@@ -61,7 +61,7 @@ En reconocimiento al esfuerzo y la colaboración de todos los miembros, el Club 
 <div align="center">
   <img
     src="premio.webp"
-    alt="descripción"
+    alt="Premio SOMOS ETSII (curso 2023-24)"
     style="max-width: 400px; width: 100%; height: auto;"
   >
 </div>
