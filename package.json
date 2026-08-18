@@ -40,5 +40,8 @@
   "bugs": {
     "url": "https://github.com/nusserstudios/tailbliss/issues"
   },
-  "homepage": "https://github.com/nusserstudios/tailbliss"
+  "homepage": "https://github.com/nusserstudios/tailbliss",
+  "allowScripts": {
+    "@parcel/watcher@2.5.1": true
+  }
 }
