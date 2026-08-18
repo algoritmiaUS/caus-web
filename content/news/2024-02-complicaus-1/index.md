@@ -18,7 +18,7 @@ La competición se llevó a cabo utilizando la plataforma HackerRank, que permit
 
 Entre los participantes, hubo representación de estudiantes de distintos cursos de la Escuela Técnica Superior de Ingeniería Informática, de la Escuela Técnica Superior de Ingeniería, de la Facultad de Matemáticas, e incluso de estudiantes de bachillerato del Colegio Santa Ana de Sevilla. Esto demuestra que la pasión por la programación competitiva no tiene fronteras y que cualquiera, sin importar su nivel o experiencia, puede aprender y disfrutar en este tipo de eventos.
 
-![CompliCAUS-1](CompliCAUS-I-1.webp)
+![CompliCAUS-1](complicaus-1.webp)
 
 La competición se mantuvo reñida desde el comienzo, con una primera hora durante la que los primeros puestos cambiaban constantemente. Sin embargo, al finalizar el evento, los tres primeros lugares quedaron definidos:
 

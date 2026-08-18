@@ -32,7 +32,7 @@ params:
   disable_stay_uptodate: false
 
   p1:
-    image: "images/pages/complicaus-v.webp"
+    image: "images/pages/complicaus-5.webp"
   p2:
     image: "images/pages/roco.webp"
   p3:
