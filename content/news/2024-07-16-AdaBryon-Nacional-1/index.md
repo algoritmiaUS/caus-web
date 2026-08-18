@@ -49,4 +49,4 @@ Finalmente, desde el **CAUS** queremos expresar nuestro agradecimiento a la **Es
 
 Finalmente, desde el **CAUS**, queremos expresar nuestro agradecimiento a la **Escuela Técnica Superior de Ingeniería Informática de Sevilla** por cedernos la sede para los equipos de esta ciudad, así como a los organizadores de **Ada Byron Madrid** y **Galicia** por hacer posible esta primera edición andaluza.
 
-![alt text](IMG_8207.webp)
+![Participantes](participantes.webp)
