@@ -15,8 +15,6 @@ En el Club de Algoritmia, creemos firmemente en el valor de enfrentar desafíos 
 
 Únete a nosotros y forma parte de una comunidad apasionada por la programación, donde cada desafío es una oportunidad para aprender y crecer juntos.
 
----
-
 # 📚 Actividades Académicas
 
 ## Sesiones de entrenamiento
@@ -24,9 +22,6 @@ En el Club de Algoritmia, creemos firmemente en el valor de enfrentar desafíos 
 Cada viernes organizamos sesiones de entrenamiento en las que practicamos la resolución de problemas en plataformas como LeetCode y HackerRank. Antes de empezar, nuestros administradores introducen las distintas estrategias, algoritmos o estructuras de datos que sean necesarios para enfrentar los problemas.
 
 Todos participamos para aprender y apoyarnos unos a otros, así que no tengas miedo si crees que no sabes suficiente sobre programación!
-
-<!-- ![alt text](caus-sesiones-1.webp)
-![alt text](caus-sesiones-2.webp) -->
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
   <img src="/images/about/caus-sesiones-1.webp" alt="Sesión 1" style="width: 100%; max-width: 600px; flex: 1; border-radius: 12px;">
@@ -40,9 +35,6 @@ Organizamos sesiones cada viernes sobre temas relacionados con la programación 
 - Comprueba las próximas charlas [en la sección de noticias](/news).
 - [Da tu propia ponencia!](https://forms.gle/yY9WpbA6Lof41ufa7) Si eres un profesional apasionado por la tecnología y con ganas de compartir tus conocimientos, estaremos encantados de contar contigo. Si eres un estudiante, esta es una gran oportunidad para profundizar en algún tema que te interese y hacer CV 😉
 
-<!-- ![alt text](charla1.webp)
-![alt text](charla2.webp) -->
-
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
   <img src="/images/about/charla1.webp" alt="Charla 1" style="width: 100%; max-width: 600px; flex: 1;border-radius: 12px;">
   <img src="/images/about/charla2.webp" alt="Charla 2" style="width: 100%; max-width: 600px; flex: 1;border-radius: 12px;">
@@ -52,25 +44,16 @@ Organizamos sesiones cada viernes sobre temas relacionados con la programación 
 
 Participamos en eventos anuales como [Advent of Code](https://adventofcode.com/) y el [Concurso Universitario de Programación Ada Byron](http://ada-byron.es/). Además, organizamos [nuestras propias competiciones de programación](/news/2024-10-27-complicaus-2/) con suculentos premios, para mantenernos en constante práctica y aprendizaje.
 
-<!-- ![alt text](competiciones1.webp)
-![alt text](competiciones2.webp) -->
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
   <img src="/images/about/competiciones1.webp" alt="Competición 1" style="width: 100%; max-width: 600px; flex: 1;border-radius: 12px;">
   <img src="/images/about/competiciones2.webp" alt="Competición 2" style="width: 100%; max-width: 600px; flex: 1;border-radius: 12px;">
 </div>
-
----
 
 # 🎉 Actividades Sociales
 
 ## Comida cuatrimestral
 
 Cada cuatrimestre, organizamos una comida especial para celebrar nuestros logros y disfrutar en equipo. Esta es una excelente oportunidad para compartir una comida memorable y conocer a esas personas del grupo con las que aún no has coincidido.
-
-<!-- ![alt text](comida-caus.webp) -->
-<!-- <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-  <img src="comida-caus.webp" alt="Comida CAUS" style="width: 100%; max-width: 600px;border-radius: 12px;">
-</div> -->
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
   <img src="/images/about/comida-caus.webp" alt="Comida CAUS 1" style="width: 100%; max-width: 600px;border-radius: 12px;">
@@ -81,7 +64,6 @@ Cada cuatrimestre, organizamos una comida especial para celebrar nuestros logros
 
 ¿Qué mejor para entrenar esos dedos de programador que una buena sesión de escalada? De vez en cuando organizamos salidas extraoficiales al rocódromo para hacer un poco de ejercicio después de las sesiones de los viernes ¡Es una excelente oportunidad para desafiarse a uno mismo y fortalecer el espíritu de grupo!
 
-<!-- ![alt text](rocodromo.webp) -->
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
   <img src="/images/about/rocodromo.webp" alt="Rocódromo" style="width: 100%; max-width: 600px;border-radius: 12px;">
 </div>
