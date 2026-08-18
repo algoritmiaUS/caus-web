@@ -1,6 +1,6 @@
 ---
 title: "Charlas y talleres - Noviembre 2024"
-date: 2024-10-28T12:20:00+00:00
+date: 2024-11-02T12:20:00+00:00
 draft: false
 language: es
 featured_image: images/featured/charlas.webp

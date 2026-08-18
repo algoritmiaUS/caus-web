@@ -1,6 +1,6 @@
 ---
 title: "Charlas y talleres - Diciembre 2024"
-date: 2024-11-29T12:20:00+00:00
+date: 2024-12-01T12:20:00+00:00
 draft: false
 language: es
 featured_image: images/featured/charlas.webp
