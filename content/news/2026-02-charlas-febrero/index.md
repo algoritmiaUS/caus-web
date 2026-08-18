@@ -1,6 +1,6 @@
 ---
 title: "Charlas y talleres - Febrero 2026"
-date: 2026-01-07T12:20:00+00:00
+date: 2026-02-01T12:20:00+00:00
 draft: false
 language: es
 featured_image: images/featured/charlas.webp
