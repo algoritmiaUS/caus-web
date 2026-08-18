@@ -3,7 +3,7 @@ title: 'XII Edición de la Final Nacional del Concurso Ada Byron'
 date: 2026-07-05T18:00:00+00:00
 draft: false
 language: es
-featured_image: images/featured/ada_byron_nacional_2026.webp
+featured_image: images/featured/Ada_Byron_Nacional_III.webp
 
 summary: La XII Final Nacional del Concurso Ada Byron reunió en Madrid a 42 equipos de 23 universidades españolas. La Universidad de Sevilla estuvo representada por cuatro equipos, destacando el noveno puesto de TLE Climbers, que se situó entre los diez mejores equipos de España.
 
@@ -19,7 +19,7 @@ Los pasados **3 y 4 de julio de 2026** se celebró la **XII Final Nacional del C
 
 # Equipos del CAUS
 
-El Club de Algoritmia de la Universidad de Sevilla estuvo representado en la final nacional por **cuatro equipos**, clasificados tras el excelente desempeño obtenido en la fase regional de Andalucía. Además, los administradores del club asistimos como entrenadores y participamos en una competición paralela para *coaches*, resolviendo el mismo conjunto de problemas que los participantes junto a los entrenadores del resto de universidades.
+El Club de Algoritmia de la Universidad de Sevilla estuvo representado en la final nacional por **cuatro equipos**, clasificados tras el excelente desempeño obtenido en la fase regional de Andalucía. Además, los administradores del club asistimos como entrenadores y participamos en una competición paralela para _coaches_, resolviendo el mismo conjunto de problemas que los participantes junto a los entrenadores del resto de universidades.
 
 ## Equipo **"SQLito"**
 

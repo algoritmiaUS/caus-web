@@ -59,9 +59,9 @@ La principal novedad de esta edición fue el patrocinio de la empresa NEXT DIGIT
 En reconocimiento al esfuerzo y la colaboración de todos los miembros, el Club recibió el premio "SOMOS ETSII" durante el curso académico 2023-24, otorgado por la Escuela Técnica Superior de Ingeniería Informática de la Universidad de Sevilla. Este galardón fue concedido "como reconocimiento a la generosidad y entrega hacia el beneficio común, aportando valor a la convivencia de nuestra comunidad, no solo desde la perspectiva académica." Un premio que refleja el trabajo colectivo y el compromiso de cada persona que ha formado parte de esta iniciativa.
 
 <div align="center">
-  <img 
-    src="1728434463180.webp" 
-    alt="descripción" 
+  <img
+    src="premio.webp"
+    alt="descripción"
     style="max-width: 400px; width: 100%; height: auto;"
   >
 </div>
