@@ -10,7 +10,7 @@ Esta es la página web oficial del Club de Algoritmia de la Universidad de Sevil
 
 ### Dependencias principales
 
-- hugo (v0.164.0)
+- hugo (v0.165.0)
 - bun (1.3.14)
 
 #### Sistemas GNU/Linux
@@ -26,7 +26,7 @@ bun install
 
 #### Sistemas Windows
 
-1. [Descargar e instalar Hugo](https://github.com/gohugoio/hugo/releases/tag/v0.164.0)
+1. [Descargar e instalar Hugo](https://github.com/gohugoio/hugo/releases/tag/v0.165.0)
 2. [Descargar e instalar Node.js](https://nodejs.org/en/download)
 3. Instalar dependencias de bun
 
