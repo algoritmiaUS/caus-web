@@ -1,5 +1,3 @@
-{{/* Ruta del archivo: layouts/resources/list.html */}}
-
 {{ define "main" }}
 <main>
     <article>
@@ -8,22 +6,17 @@
               {{ .Title }}
             </h1>
         </header>
-
         {{ with .Content }}
         <div class="max-w-2xl px-6 mx-auto mt-6 prose dark:prose-invert dark:text-white">
             {{- . -}}
         </div>
         {{ end }}
-        
         {{ partial "resources-grid.html" . }} 
-
         <div class="max-w-7xl px-6 pt-6 pb-16 mx-auto prose dark:prose-invert dark:text-white">
             <p>Por si no tienes suficiente con todo lo anterior, te dejamos <a href="https://github.com/lnishan/awesome-competitive-programming">este listado interminable</a> de recursos extra sobre programación competitiva.</p>
         </div>
-
     </article>
     <br>
     <br>
 </main>
-
 {{ end }}
