@@ -1,1 +1,0 @@
-Los logos son sacados de https://iconmonstr.com/speech-bubble-comment-thin-svg/
