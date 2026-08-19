@@ -2,12 +2,10 @@
   "name": "caus-web",
   "version": "1.0.0",
   "description": "CAUS WEB",
-  "main": "index.js",
   "devDependencies": {
     "@tailwindcss/cli": "^4.3.3",
     "@tailwindcss/typography": "^0.5.20",
     "alpinejs": "^3.16.1",
-    "concurrently": "^10.0.4",
     "prettier": "^3.9.6",
     "tailwindcss": "^4.3.3"
   },
@@ -18,15 +16,10 @@
     "format": "prettier --write .",
     "format:check": "prettier --check ."
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nusserstudios/tailbliss.git"
-  },
   "keywords": [
     "hugo",
     "tailwind",
     "tailwindcss",
-    "alpinejs",
     "minimal",
     "responsive",
     "light mode",
@@ -35,12 +28,6 @@
     "categories",
     "tags"
   ],
-  "author": "NusserStudios",
-  "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/nusserstudios/tailbliss/issues"
-  },
-  "homepage": "https://github.com/nusserstudios/tailbliss",
   "allowScripts": {
     "@parcel/watcher@2.5.1": true
   }
