@@ -7,3 +7,7 @@ package-lock.json
 layouts/**/*.html
 archetypes/**/*.md
 
+# Content folders to skip
+**/*charlas*
+**/*serie-matematicas*
+
