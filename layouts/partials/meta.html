@@ -10,19 +10,15 @@
 {{- if not $ogImage -}}
   {{- $ogImage = site.Params.og_image | absURL -}}
 {{- end -}}
-<title itemprop="name">{{if .IsHome}} {{ .Title }}
-    {{else}} {{ .Title }} | {{ site.Title }} {{end}}
-</title>
 <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ site.Params.description }}{{ end }}" />
 <meta property="og:title" content="{{ .Title }} | {{ site.Title }}" />
 <meta name="twitter:title" content="{{ .Title }} | {{ site.Title }}" />
 <meta itemprop="name" content="{{ .Title }} | {{ site.Title }}" />
-<meta name="application-name" content="{{ .Title }} | {{ site.Title }}" />
 <meta property="og:description"
       content="{{ if .Description }}{{ .Description }}{{ else }}{{ site.Params.description }}{{ end }}" />
 <meta property="og:site_name" content="{{ site.Title }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
-<meta property="og:locale" content="en">
+<meta property="og:locale" content="{{ if eq .Language.Lang "en" }}en_US{{ else }}es_ES{{ end }}">
 <meta property="og:image" content="{{ $ogImage }}" />
 <meta property="og:image:secure_url" content="{{ $ogImage }}" />
 <meta property="og:type" content="{{if .IsHome}}website{{else}}article{{end}}" />
