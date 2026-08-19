@@ -1,7 +1,7 @@
 node_modules
 public
 resources
-package-lock.json
+bun.lock
 
 # Hugo Go templates — not valid HTML from Prettier's perspective
 layouts/**/*.html

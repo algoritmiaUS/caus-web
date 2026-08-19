@@ -2,56 +2,52 @@
 
 Esta es la página web oficial del Club de Algoritmia de la Universidad de Sevilla. Es un sitio web estático generado mediante el framework [Hugo](https://gohugo.io). Todo el contenido está escrito en Markdown y se puede editar empleando cualquier editor y Git. Además, se tiene una configuración de `Github Actions` que reconstruye automáticamente el sitio una vez se realicen `push` a la rama `main`.
 
-# Instalación
+## Instalación
 
-**Clonar el repositorio en local**
+### Clonar el repositorio en local
 
-`git clone git@github.com:algoritmiaUS/caus-web.git`
+`git clone --depth 1 git@github.com:algoritmiaUS/caus-web.git`
 
-**Dependencias principales**
+### Dependencias principales
 
-- hugo (v0.164.0)
-- npm (11.14.1)
-- golang-go (1.26.3)
+- hugo (v0.165.0)
+- bun (1.3.14)
 
-## Sistemas GNU/Linux
+#### Sistemas GNU/Linux
 
 Si utilizas Linux/OSX/WSL2 es recomendable usar homebrew.
 
 ```Bash
 brew install hugo
-brew install npm
+brew install bun
 
-sudo apt install golang-go
-
-npm install
+bun install
 ```
 
-## Sistemas Windows
+#### Sistemas Windows
 
-1.  [Descargar e instalar Hugo](https://github.com/gohugoio/hugo/releases/tag/v0.164.0)
-2.  [Descargar e instalar Node.js](https://nodejs.org/en/download)
-3.  [Descargar e instalar golang-go](https://go.dev/doc/install)
-4.  Instalar dependencias de npm
+1. [Descargar e instalar Hugo](https://github.com/gohugoio/hugo/releases/tag/v0.165.0)
+2. [Descargar e instalar Node.js](https://nodejs.org/en/download)
+3. Instalar dependencias de bun
 
-    ```Bash
-    npm install
-    ```
+   ```Bash
+   bun install
+   ```
 
-# Ejecución
+## Ejecución
 
-**Para desarrollo local**
+### Para desarrollo local
 
 ```Bash
 hugo server --config hugo.yaml
 ```
 
-**Para generar el sitio HTML**
+### Para generar el sitio HTML
 
 El código se generará en el directorio ./public.
 
-```Bash
-sudo hugo --gc --minify
+```bash
+bun run build
 ```
 
 ## Agradecimientos

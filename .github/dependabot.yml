@@ -1,4 +1,4 @@
-# Basic set up for three package managers
+# Basic set up for two package managers
 
 version: 2
 updates:
@@ -8,8 +8,8 @@ updates:
     schedule:
       interval: 'weekly'
 
-  # Maintain dependencies for npm
-  - package-ecosystem: 'npm'
+  # Maintain dependencies for bun (see bun.lock)
+  - package-ecosystem: 'bun'
     directory: '/'
     schedule:
       interval: 'weekly'
@@ -18,10 +18,3 @@ updates:
         patterns:
           - 'tailwindcss'
           - '@tailwindcss/*'
-          - 'postcss'
-
-  # Maintain dependencies for go
-  - package-ecosystem: 'gomod'
-    directory: '/'
-    schedule:
-      interval: 'weekly'
