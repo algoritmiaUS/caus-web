@@ -1,0 +1,49 @@
+{{ if hugo.IsMultilingual }}
+{{ $page := . }}
+<li class="relative" x-data="{ open: false }" @click.away="open = false">
+    <button @click="open = !open" title="{{ site.Language.Label }}"
+        class="flex flex-row items-center w-full px-4 py-2 mt-2 text-sm font-semibold text-left bg-transparent rounded-lg md:w-auto md:inline md:mt-0 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-600 focus:outline-hidden focus:shadow-outline">
+        <span>{{ index hugo.Data.flags site.Language.Lang }}</span>
+    </button>
+    <div x-show="open" x-transition:enter="transition ease-out duration-100"
+        x-transition:enter-start="transform opacity-0 scale-95" x-transition:enter-end="transform opacity-100 scale-100"
+        x-transition:leave="transition ease-in duration-75" x-transition:leave-start="transform opacity-100 scale-100"
+        x-transition:leave-end="transform opacity-0 scale-95"
+        class="absolute right-0 z-30 w-auto mt-2 origin-top-right rounded-md shadow-lg">
+        <ul class="p-1 bg-white rounded-md shadow-sm text-primary-900">
+            {{ range hugo.Sites }}
+            {{ if ne .Language.Name site.Language.Name }}
+            {{ $targetURL := "" }}
+            {{ $currentLang := $page.Language.Name }}
+            {{ $targetLang := .Language.Name }}
+
+            {{ if $page.IsTranslated }}
+            {{ range $page.Translations }}
+            {{ if eq .Language.Name $targetLang }}
+            {{ $targetURL = .RelPermalink }}
+            {{ end }}
+            {{ end }}
+            {{ end }}
+
+            {{ if not $targetURL }}
+            {{ if eq $targetLang site.Home.Language.Name }}
+            {{ $targetURL = $page.RelPermalink | replaceRE (printf "^/%s/" $currentLang) "/" }}
+            {{ else if eq $currentLang site.Home.Language.Name }}
+            {{ $targetURL = printf "/%s%s" $targetLang $page.RelPermalink }}
+            {{ else }}
+            {{ $targetURL = $page.RelPermalink | replaceRE (printf "^/%s/" $currentLang) (printf "/%s/" $targetLang) }}
+            {{ end }}
+            {{ end }}
+
+            <li>
+                <a class="block px-4 py-2 text-center text-base font-semibold bg-transparent rounded-lg hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-600 focus:outline-hidden focus:shadow-outline"
+                    href="{{ $targetURL }}" title="{{ .Language.Label }}">
+                    {{ index hugo.Data.flags .Language.Lang }}
+                </a>
+            </li>
+            {{ end }}
+            {{ end }}
+        </ul>
+    </div>
+</li>
+{{ end }}

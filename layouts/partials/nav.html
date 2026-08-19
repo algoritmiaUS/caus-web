@@ -1,13 +1,15 @@
 <header class="top-0 z-50 w-full text-gray-200 bg-gray-900 border-b-2 border-b-stone-200/10 sticky">
     <div x-data="{ open: false }" class="flex flex-col max-w-full px-4 py-4 mx-auto md:items-center md:justify-between md:flex-row md:px-6 lg:px-8">
-        <a href="{{ "/" | relLangURL }}" class="flex text-gray-100 transition duration-1000 ease-in-out group">
-            <img src="{{ "/images/site-logo.svg" | relURL }}" class="transition-opacity h-9 w-9 group-hover:opacity-50 group-focus:opacity-70" alt="{{ site.Title }} Logo" />
-            <span class="mt-1 ml-3 text-xl font-black tracking-tight text-gray-100 uppercase transition-colors group-hover:text-gray-400/60">{{ site.Params.Title_Short }}</span>
-        </a>
-        <button @click="open = !open" class="rounded-lg md:hidden focus:outline-hidden focus:shadow-outline" :aria-expanded="open ? 'true' : 'false'" aria-controls="menuItems" aria-label="Main">
-            {{ partial "icon.html" (dict "name" "menu" "class" "w-6 h-6" "attr" `x-show="!open"`) }}
-            {{ partial "icon.html" (dict "name" "close" "class" "w-6 h-6" "attr" `x-show="open"`) }}
-        </button>
+        <div class="flex flex-row items-center justify-between">
+            <a href="{{ "/" | relLangURL }}" class="flex text-gray-100 transition duration-1000 ease-in-out group">
+                <img src="{{ "/images/site-logo.svg" | relURL }}" class="transition-opacity h-9 w-9 group-hover:opacity-50 group-focus:opacity-70" alt="{{ site.Title }} Logo" />
+                <span class="mt-1 ml-3 text-xl font-black tracking-tight text-gray-100 uppercase transition-colors group-hover:text-gray-400/60">{{ site.Params.Title_Short }}</span>
+            </a>
+            <button @click="open = !open" class="rounded-lg md:hidden focus:outline-hidden focus:shadow-outline" :aria-expanded="open ? 'true' : 'false'" aria-controls="menuItems" aria-label="Main">
+                {{ partial "icon.html" (dict "name" "menu" "class" "w-6 h-6" "attr" `x-show="!open"`) }}
+                {{ partial "icon.html" (dict "name" "close" "class" "w-6 h-6" "attr" `x-show="open"`) }}
+            </button>
+        </div>
         <nav id="menuItems" :class="{'flex': open, 'hidden': !open}" class="flex-col grow hidden pb-4 md:pb-0 md:flex md:justify-end md:flex-row" aria-label="Main">
             <ul class="flex flex-col grow md:flex-row md:justify-end md:items-center">
                 {{ partial "menu-items.html" site.Menus.main }}

@@ -9,18 +9,6 @@
                 {{ end }}
             </ul>
         </nav>
-        <div class="flex justify-center mt-8 space-x-6">
-            {{ range $name, $social := site.Params.social_media }}
-            {{ if $social.enabled }}
-            {{ with resources.Get (printf "images/social/%s.svg" $name) }}
-            <a href="{{ $social.url }}" class="text-gray-400 hover:text-gray-300">
-                <span class="sr-only">{{ $name }}</span>
-                {{ .Content | safeHTML }}
-            </a>
-            {{ end }}
-            {{ end }}
-            {{ end }}
-        </div>
         <p class="mt-8 text-base text-center text-gray-400">&copy; {{ now.Format "2006" }}
             {{ site.Title }}. Reservados todos los derechos.</p>
     </div>
