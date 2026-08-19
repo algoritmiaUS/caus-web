@@ -2,12 +2,14 @@
   "name": "caus-web",
   "version": "1.0.0",
   "description": "CAUS WEB",
-  "devDependencies": {
+  "dependencies": {
     "@tailwindcss/cli": "^4.3.3",
     "@tailwindcss/typography": "^0.5.20",
     "alpinejs": "^3.16.1",
-    "prettier": "^3.9.6",
     "tailwindcss": "^4.3.3"
+  },
+  "devDependencies": {
+    "prettier": "^3.9.6"
   },
   "scripts": {
     "start": "hugo server",
