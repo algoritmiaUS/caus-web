@@ -13,7 +13,7 @@
   },
   "scripts": {
     "start": "hugo server",
-    "build": "hugo --minify",
+    "build": "hugo --gc --minify",
     "test": "hugo",
     "format": "prettier --write .",
     "format:check": "prettier --check ."
