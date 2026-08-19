@@ -69,6 +69,11 @@ administrators:
     image: "/images/admins/arnau.webp"
     linkedin: arnau-neches-vilà-096627255
 
+  - name: "Jairo Serrano Picón"
+    role: "Events Manager"
+    image: "/images/admins/jairo.webp"
+    linkedin: jairosp
+
 collaborators:
   - name: "Araceli Guerrero Morato"
     image: "/images/admins/araceli.webp"
