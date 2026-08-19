@@ -18,16 +18,13 @@ enableRobotsTXT: true
 canonifyURLs: true
 pagination:
   pagerSize: 9
-darkmode_js:
-  - assets/js/darkmode.js
 enableInlineShortcodes: true
 
 params:
   title_short: CAUS
   author: Club Algoritmia de la Universidad de Sevilla
-  authorimage: ../assets/images/global/author-CAUS.webp # caus-web/assets/images/global/author-CAUS.webp
   heropic: /images/pages/logo_CAUS.webp
-  og_image: /images/logo-CAUS.webp # caus-web/static/images/logo-CAUS.webp
+  og_image: /images/logo-CAUS.webp
   disable_theme_toggle: false
   disable_stay_uptodate: false
 
@@ -36,8 +33,6 @@ params:
   p2:
     image: "images/pages/roco.webp"
   p3:
-    links:
-      - url: "/community-partners"
     logos:
       - identifier: a
         image: "images/global/Logo_ND.webp"
@@ -45,12 +40,6 @@ params:
       - identifier: b
         image: "images/global/logo-ETSII-Color.webp"
         alt: "b"
-      # - identifier: c
-      #   image: "images/global/Logo_ND.webp"
-      #   alt: "c"
-      # - identifier: d
-      #   image: "images/global/logo-ETSII-Color.webp"
-      # alt: "d"
 
   social_media:
     github:
@@ -105,11 +94,6 @@ markup:
       hardWraps: false
       unsafe: true
       xhtml: false
-
-# markup:
-#   goldmark:
-#     renderer:
-#       unsafe: true
 
 taxonomies:
   category: Categories
