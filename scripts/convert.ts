@@ -1,14 +1,14 @@
-const glob = new Bun.Glob("**/*.{png,jpg,jpeg,PNG,JPG,JPEG}");
+const glob = new Bun.Glob('**/*.{png,jpg,jpeg,PNG,JPG,JPEG}');
 
-for await (const path of glob.scan(".")) {
-  const outPath = path.replace(/\.[^.]+$/, ".webp");
+for await (const path of glob.scan('.')) {
+  const outPath = path.replace(/\.[^.]+$/, '.webp');
   const original = Bun.file(path);
 
   console.log(`Converting ${path} -> ${outPath}`);
 
   await original
     .image()
-    .resize(1500, 1500, { fit: "inside", withoutEnlargement: true })
+    .resize(1500, 1500, { fit: 'inside', withoutEnlargement: true })
     .webp({ quality: 80 })
     .write(outPath);
 
@@ -17,4 +17,4 @@ for await (const path of glob.scan(".")) {
   }
 }
 
-console.log("Done!");
+console.log('Done!');
