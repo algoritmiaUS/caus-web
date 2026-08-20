@@ -67,12 +67,11 @@ lg:mt-0">
             <div class="flex justify-center items-center p-6 bg-white rounded-2xl w-full 
                 {{ if eq $count 1 }} max-w-md {{ end }}"> 
 
-                {{ if .image }}
-                    {{ $sponsor := resources.Get .image }}
-                    <img src="{{ $sponsor.RelPermalink }}" alt="{{ .alt }}" loading="lazy" class="max-h-16 w-auto object-contain"/>
-                {{ else }}
-                    {{ $sponsor := resources.Get "images/global/sample-logo.svg" }}
-                    <img src="{{ $sponsor.RelPermalink }}" alt="{{ .alt }}" loading="lazy" class="max-h-16 w-auto object-contain"/>
+                {{ $img := .image }}
+                {{ $alt := .alt }}
+                {{ with $img }}
+                    {{ $sponsor := resources.Get . }}
+                    <img src="{{ $sponsor.RelPermalink }}" alt="{{ $alt }}" loading="lazy" class="max-h-16 w-auto object-contain"/>
                 {{ end }}
             </div>
             {{ end }}
