@@ -86,7 +86,7 @@ Además, contaremos también con un grupo de colaboradores que apoyarán en even
   </div>
 
   <div class="flex flex-col items-center text-center p-4 rounded w-full max-w-[240px]">
-    <img src="/images/elecciones-26-27/lucho.webp" alt="Luis Castillo"
+    <img src="/images/admins/lucho.webp" alt="Luis Castillo"
          class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
          style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
     <p class="font-semibold text-sm truncate w-full">Luis Castillo</p>
