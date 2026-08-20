@@ -1,0 +1,88 @@
+/*
+ * colors.css — Site color palette (single source of truth).
+ * How to change colors and related rules: see CONTRIBUTE.md.
+ */
+@theme {
+  /* ===== Brand palette: primary ===== */
+  --color-primary: #6366f1;
+  --color-primary-50: #ffffff;
+  --color-primary-100: #f9f9fe;
+  --color-primary-200: #d3d4fb;
+  --color-primary-300: #aeaff8;
+  --color-primary-400: #888bf4;
+  --color-primary-500: #6366f1;
+  --color-primary-600: #3034ec;
+  --color-primary-700: #1317d1;
+  --color-primary-800: #0e119e;
+  --color-primary-900: #0a0c6a;
+
+  /* ===== Brand palette: secondary ===== */
+  --color-secondary: #ec4899;
+  --color-secondary-50: #fdeef6;
+  --color-secondary-100: #fbdceb;
+  --color-secondary-200: #f8b7d7;
+  --color-secondary-300: #f492c2;
+  --color-secondary-400: #f06dae;
+  --color-secondary-500: #ec4899;
+  --color-secondary-600: #e4187d;
+  --color-secondary-700: #b11261;
+  --color-secondary-800: #7f0d45;
+  --color-secondary-900: #4c0829;
+
+  /* ===== Brand palette: neutral ===== */
+  --color-neutral: #6b7280;
+  --color-neutral-50: #cdd0d5;
+  --color-neutral-100: #c2c5cc;
+  --color-neutral-200: #acb0ba;
+  --color-neutral-300: #969ba7;
+  --color-neutral-400: #7f8694;
+  --color-neutral-500: #6b7280;
+  --color-neutral-600: #515761;
+  --color-neutral-700: #383c43;
+  --color-neutral-800: #1e2024;
+  --color-neutral-900: #050506;
+
+  /*
+   * ===== Built-in shades used across the site =====
+   * Values are the Tailwind CSS v4 defaults (identical to what the site
+   * compiled to before this refactor, so the look does not change).
+   */
+  --color-blue-300: oklch(80.9% 0.105 251.813);
+  --color-blue-400: oklch(70.7% 0.165 254.624);
+  --color-blue-500: oklch(62.3% 0.214 259.815);
+  --color-blue-600: oklch(54.6% 0.245 262.881);
+  --color-blue-700: oklch(48.8% 0.243 264.376);
+  --color-indigo-300: oklch(78.5% 0.115 274.713);
+  --color-indigo-400: oklch(67.3% 0.182 276.935);
+  --color-indigo-500: oklch(58.5% 0.233 277.117);
+  --color-indigo-600: oklch(51.1% 0.262 276.966);
+  --color-indigo-700: oklch(45.7% 0.24 277.023);
+  --color-indigo-800: oklch(39.8% 0.195 277.366);
+  --color-slate-400: oklch(70.4% 0.04 256.788);
+  --color-gray-50: oklch(98.5% 0.002 247.839);
+  --color-gray-100: oklch(96.7% 0.003 264.542);
+  --color-gray-200: oklch(92.8% 0.006 264.531);
+  --color-gray-300: oklch(87.2% 0.01 258.338);
+  --color-gray-400: oklch(70.7% 0.022 261.325);
+  --color-gray-500: oklch(55.1% 0.027 264.364);
+  --color-gray-600: oklch(44.6% 0.03 256.802);
+  --color-gray-700: oklch(37.3% 0.034 259.733);
+  --color-gray-800: oklch(27.8% 0.033 256.848);
+  --color-gray-900: oklch(21% 0.034 264.665);
+  --color-zinc-100: oklch(96.7% 0.001 286.375);
+  --color-zinc-200: oklch(92% 0.004 286.32);
+  --color-zinc-300: oklch(87.1% 0.006 286.286);
+  --color-stone-200: oklch(92.3% 0.003 48.717);
+  --color-white: #fff;
+  --color-black: #000;
+}
+
+/*
+ * Semantic tokens for one-off usages.
+ * Kept outside `@theme` (plain CSS) so they are always emitted and usable
+ * from any custom CSS via var(--color-*).
+ */
+:root {
+  --color-overlay: rgb(0 0 0 / 0.4); /* modal backdrop (rankings shortcodes) */
+  --color-placeholder: #8a2be2; /* resources grid description (legacy) */
+}

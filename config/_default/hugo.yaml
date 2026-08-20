@@ -25,6 +25,7 @@ params:
   author: Club Algoritmia de la Universidad de Sevilla
   heropic: /images/pages/logo_CAUS.webp
   og_image: /images/logo-CAUS.webp
+  theme_color: "#ffffff"
   disable_theme_toggle: false
   disable_stay_uptodate: false
 

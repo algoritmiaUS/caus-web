@@ -17,7 +17,12 @@
 {{ end }}
 <link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}" />
 
-<meta name="theme-color" content="#ffffff">
+{{ if or (.HasShortcode "rankings") (.HasShortcode "team-rankings") }}
+{{ $rankingsStyles := resources.Get "css/rankings.css" | css.TailwindCSS | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $rankingsStyles.RelPermalink }}" integrity="{{ $rankingsStyles.Data.Integrity }}" />
+{{ end }}
+
+<meta name="theme-color" content="{{ site.Params.theme_color | default "#ffffff" }}">
 
 <link rel="icon" type="image/svg+xml" href="/favicon/favicon.svg">
 <link rel="icon" type="image/webp" sizes="32x32" href="/favicon/favicon-32x32.webp">
