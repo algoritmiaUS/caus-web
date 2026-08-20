@@ -1,6 +1,5 @@
 <svg
     {{ with .id }}id="{{ . }}"{{ end }}
-    {{ with .attr }}{{ . | safeHTMLAttr }}{{ end }}
     class="{{ .class | default "h-6 w-6" }}" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"
     {{ if eq .name "sun" }}aria-label="Dark or Light Mode"{{ end }}>
     {{ if eq .name "menu" }}
