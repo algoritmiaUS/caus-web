@@ -1,0 +1,22 @@
+{{- $name := .name -}}
+{{- $icon := resources.Get (printf "images/icons/%s.svg" $name) -}}
+{{- if not $icon -}}
+{{- errorf "svg.html: unknown icon %q (caller must pass a dict with a valid \"name\")" $name -}}
+{{- end -}}
+{{- $content := $icon.Content -}}
+{{- $id := .id | default "" -}}
+{{- $class := .class | default "w-6 h-6" -}}
+
+{{- /* dots pattern: replace the placeholder id with a unique one per usage */ -}}
+{{- if and (eq $name "dots") $id -}}
+  {{- $content = replace $content "ID_PLACEHOLDER" $id -}}
+{{- end -}}
+
+{{- /* Inject optional id/class onto the opening <svg> tag */ -}}
+{{- $newSvg := printf `<svg class="%s"` $class -}}
+{{- if $id -}}
+  {{- $newSvg = printf `<svg id="%s" class="%s"` $id $class -}}
+{{- end -}}
+{{- $content = replace $content "<svg" $newSvg 1 -}}
+
+{{- $content | safeHTML -}}
