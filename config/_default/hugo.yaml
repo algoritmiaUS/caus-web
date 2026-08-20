@@ -11,7 +11,6 @@ languages:
     label: English
     weight: 2
 
-# defaultContentLanguageInSubdir: false
 enableEmoji: true
 enableGitInfo: true
 enableRobotsTXT: true
