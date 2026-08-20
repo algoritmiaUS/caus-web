@@ -7,7 +7,7 @@ featured_image: images/featured/CompliCAUS-5-Foto-grupal.webp
 summary: 'El CompliCAUS V reunió a estudiantes de distintos niveles para una intensa competición de programación organizada por el Club de Algoritmia de la Universidad de Sevilla.'
 description: 'La quinta edición de CompliCAUS se celebró con éxito, congregando a estudiantes de diferentes instituciones y niveles académicos en un desafío de algoritmia de tres horas.'
 author: Administradores CAUS
-authorimage: images/global/author-CAUS.webp
+authorimage: images/pages/logo_CAUS.webp
 categories: Eventos
 tags: Eventos
 ---
