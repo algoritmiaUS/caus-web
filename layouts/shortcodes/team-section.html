@@ -3,42 +3,11 @@
   <!-- Administradores -->
   <div class="col-span-full text-center">
     <h2 class="text-2xl font-bold mb-2">{{ i18n "administrators" }}</h2>
-    <p class="text-gray-500 text-lg">{{ i18n "administrators_desc" }}</p>
+    <p class="text-gray-500 dark:text-gray-300 text-lg">{{ i18n "administrators_desc" }}</p>
 
-    <div class="grid justify-center gap-6 mt-6"
-      style="grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); max-width: 1200px; margin: 0 auto;">
+    <div class="grid-auto-fit-center gap-6 mt-6">
       {{ range hugo.Data.members.administrators }}
-      <div class="flex flex-col items-center p-3 w-full">
-        <img src="{{ .image }}" alt="{{ .name }}" class="mt-0 mb-0 max-w-68 max-h-68 rounded-full object-cover">
-        <h3 class="text-base font-bold mt-3 truncate">{{ .name }}</h3>
-        <p class="text-gray-400 text-sm truncate">{{ .role }}</p>
-        <div class="flex space-x-6 mt-2">
-          {{with .website}}
-          {{if ne . ""}}
-          <a href="{{ . }}" class="text-gray-400 hover:text-gray-300">
-            <span class="sr-only">Website</span>
-            {{ partial "svg.html" (dict "name" "globe") }}
-          </a>
-          {{ end }}
-          {{ end }}
-          {{with .linkedin}}
-          {{if ne . ""}}
-          <a href="https://www.linkedin.com/in/{{ . }}" class="text-gray-400 hover:text-gray-300">
-            <span class="sr-only">Linkedin</span>
-            {{ partial "svg.html" (dict "name" "linkedin") }}
-          </a>
-          {{ end }}
-          {{ end }}
-          {{ with .github }}
-          {{ if ne . "" }}
-          <a href="https://github.com/{{ . }}" class="text-gray-400 hover:text-gray-300">
-            <span class="sr-only">GitHub</span>
-            {{ partial "svg.html" (dict "name" "github") }}
-          </a>
-          {{ end }}
-          {{ end }}
-        </div>
-      </div>
+      {{ partial "team-member.html" (dict "member" .) }}
       {{ end }}
     </div>
   </div>
@@ -46,41 +15,11 @@
   <!-- Colaboradores -->
   <div class="col-span-full mt-12 text-center">
     <h2 class="text-2xl font-bold mb-2">{{ i18n "collaborators" }}</h2>
-    <p class="text-gray-500 text-lg">{{ i18n "collaborators_desc" }}</p>
+    <p class="text-gray-500 dark:text-gray-300 text-lg">{{ i18n "collaborators_desc" }}</p>
 
-    <div class="grid justify-center gap-6 mt-6"
-      style="grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); max-width: 1200px; margin: 0 auto;">
+    <div class="grid-auto-fit-center gap-6 mt-6">
       {{ range hugo.Data.members.collaborators }}
-      <div class="flex flex-col items-center p-3 w-full">
-        <img src="{{ .image }}" alt="{{ .name }}" class="mt-0 mb-0 max-w-68 max-h-68 rounded-full object-cover">
-        <h3 class="text-base font-bold mt-3 truncate">{{ .name }}</h3>
-        <div class="flex space-x-6 mt-2">
-          {{with .website}}
-          {{if ne . ""}}
-          <a href="{{ . }}" class="text-gray-400 hover:text-gray-300">
-            <span class="sr-only">Website</span>
-            {{ partial "svg.html" (dict "name" "globe") }}
-          </a>
-          {{ end }}
-          {{ end }}
-          {{with .linkedin}}
-          {{if ne . ""}}
-          <a href="https://www.linkedin.com/in/{{ . }}" class="text-gray-400 hover:text-gray-300">
-            <span class="sr-only">Linkedin</span>
-            {{ partial "svg.html" (dict "name" "linkedin") }}
-          </a>
-          {{ end }}
-          {{ end }}
-          {{ with .github }}
-          {{ if ne . "" }}
-          <a href="https://github.com/{{ . }}" class="text-gray-400 hover:text-gray-300">
-            <span class="sr-only">GitHub</span>
-            {{ partial "svg.html" (dict "name" "github") }}
-          </a>
-          {{ end }}
-          {{ end }}
-        </div>
-      </div>
+      {{ partial "team-member.html" (dict "member" . "showRole" false) }}
       {{ end }}
     </div>
   </div>
@@ -88,43 +27,11 @@
   <!-- Antiguos admins -->
   <div class="col-span-full mt-12 text-center">
     <h2 class="text-2xl font-bold mb-2">{{ i18n "old_admins" }}</h2>
-    <p class="text-gray-500 text-lg">{{ i18n "old_admins_desc" }}</p>
+    <p class="text-gray-500 dark:text-gray-300 text-lg">{{ i18n "old_admins_desc" }}</p>
 
-    <div class="grid justify-center gap-6 mt-6"
-      style="grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); max-width: 1200px; margin: 0 auto;">
+    <div class="grid-auto-fit-center gap-6 mt-6">
       {{ range hugo.Data.members.oldadmins }}
-      <div class="flex flex-col items-center p-3 max-w-xs w-full mx-auto hover:bg-gray-50/20 transition-colors">
-        <img src="{{ .image }}" alt="{{ .name }}" class="mt-0 mb-0 rounded-full object-cover mx-auto"
-          style="width: min(300px, 100%); aspect-ratio: 1;">
-        <h3 class="text-base font-bold mt-3 truncate">{{ .name }}</h3>
-        <p class="text-gray-400 text-sm truncate">{{ .role }}<br>{{ .dates }}</p>
-        <div class="flex space-x-6 mt-2">
-          {{with .website}}
-          {{if ne . ""}}
-          <a href="{{ . }}" class="text-gray-400 hover:text-gray-300">
-            <span class="sr-only">Website</span>
-            {{ partial "svg.html" (dict "name" "globe") }}
-          </a>
-          {{ end }}
-          {{ end }}
-          {{with .linkedin}}
-          {{if ne . ""}}
-          <a href="https://www.linkedin.com/in/{{ . }}" class="text-gray-400 hover:text-gray-300">
-            <span class="sr-only">Linkedin</span>
-            {{ partial "svg.html" (dict "name" "linkedin") }}
-          </a>
-          {{ end }}
-          {{ end }}
-          {{ with .github }}
-          {{ if ne . "" }}
-          <a href="https://github.com/{{ . }}" class="text-gray-400 hover:text-gray-300">
-            <span class="sr-only">GitHub</span>
-            {{ partial "svg.html" (dict "name" "github") }}
-          </a>
-          {{ end }}
-          {{ end }}
-        </div>
-      </div>
+      {{ partial "team-member.html" (dict "member" . "compact" true "square" true "showDates" true) }}
       {{ end }}
     </div>
   </div>
@@ -132,13 +39,9 @@
   <!-- Miembros Activos -->
   <div class="col-span-full mt-6 text-center">
     <h2 class="text-2xl font-bold mb-4">{{ i18n "members" }}</h2>
-    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mt-6"
-      style="grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));">
+    <div class="grid-auto-fit-member gap-4 mt-6">
       {{ range hugo.Data.members.members }}
-      <div class="flex flex-col items-center p-3 max-w-xs w-full mx-auto hover:bg-gray-50/20 transition-colors">
-        <img src="{{ .image }}" alt="{{ .name }}" class="mt-0 mb-0 rounded-full object-cover mx-auto">
-        <h3 class="text-base font-bold mt-3 truncate">{{ .name }}</h3>
-      </div>
+      {{ partial "team-member.html" (dict "member" . "compact" true "showRole" false "showSocials" false) }}
       {{ end }}
     </div>
   </div>
