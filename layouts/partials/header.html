@@ -2,12 +2,12 @@
     <div class="flex flex-col max-w-full px-4 py-4 mx-auto md:items-center md:justify-between md:flex-row md:px-6 lg:px-8">
         <div class="flex flex-row items-center justify-between">
             <a href="{{ "/" | relLangURL }}" class="flex text-gray-100 transition duration-1000 ease-in-out group">
-                <img src="{{ "/images/site-logo.svg" | relURL }}" class="transition-opacity h-9 w-9 group-hover:opacity-50 group-focus:opacity-70" alt="{{ site.Title }} Logo" />
+                <img src="{{ "/images/global/site-logo.svg" | relURL }}" class="transition-opacity h-9 w-9 group-hover:opacity-50 group-focus:opacity-70" alt="{{ site.Title }} Logo" />
                 <span class="mt-1 ml-3 text-xl font-black tracking-tight text-gray-100 uppercase transition-colors group-hover:text-gray-400/60">{{ site.Params.Title_Short }}</span>
             </a>
             <button id="menu-toggle" type="button" class="rounded-lg md:hidden focus:outline-hidden focus:shadow-outline" aria-expanded="false" aria-controls="menuItems" aria-label="Main">
-                {{ partial "icon.html" (dict "name" "menu" "class" "w-6 h-6" "id" "menu-icon-open") }}
-                {{ partial "icon.html" (dict "name" "close" "class" "hidden w-6 h-6" "id" "menu-icon-close") }}
+                {{ partial "svg.html" (dict "name" "menu" "class" "w-6 h-6" "id" "menu-icon-open") }}
+                {{ partial "svg.html" (dict "name" "close" "class" "hidden w-6 h-6" "id" "menu-icon-close") }}
             </button>
         </div>
         <nav id="menuItems" class="flex-col grow hidden pb-4 md:pb-0 md:flex md:justify-end md:flex-row" aria-label="Main">
@@ -17,8 +17,8 @@
                 {{ if not site.Params.Disable_theme_toggle }}
                 <li>
                     <button id="theme-toggle" type="button" class="px-4 py-2 text-sm text-gray-500 rounded-lg dark:text-gray-400 md:hover:bg-gray-100 dark:md:hover:bg-gray-700 md:focus:outline-hidden md:focus:ring-4 md:focus:ring-gray-200 dark:md:focus:ring-gray-700 md:ml-2">
-                        {{ partial "icon.html" (dict "name" "moon" "class" "hidden w-5 h-5" "id" "theme-toggle-dark-icon") }}
-                        {{ partial "icon.html" (dict "name" "sun" "class" "hidden w-5 h-5" "id" "theme-toggle-light-icon") }}
+                        {{ partial "svg.html" (dict "name" "moon" "class" "hidden w-5 h-5" "id" "theme-toggle-dark-icon") }}
+                        {{ partial "svg.html" (dict "name" "sun" "class" "hidden w-5 h-5" "id" "theme-toggle-light-icon") }}
                     </button>
                 </li>
                 {{ end }}
