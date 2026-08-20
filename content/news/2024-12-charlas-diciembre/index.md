@@ -7,7 +7,7 @@ featured_image: images/featured/charlas.webp
 summary: Este año, el Club de Algoritmia de la Universidad de Sevilla ofrecerá charlas y talleres sobre informática, dirigidos tanto por profesionales como por estudiantes.
 description: Durante el curso 2024-25, el Club de Algoritmia de la Universidad de Sevilla organizará una serie de charlas y talleres prácticos en temas de informática, dirigidos por expertos de la industria, profesores y estudiantes de la propia universidad. Estas actividades ofrecen una excelente oportunidad para profundizar en diversos temas y habilidades en programación y algoritmia, además de promover el intercambio de conocimientos entre la comunidad académica. ¡Anímate a participar y contribuir con tus propias ideas!
 author: Administradores CAUS
-authorimage: images/global/author-CAUS.webp
+authorimage: images/pages/logo_CAUS.webp
 categories: Eventos
 tags: Eventos
 ---
