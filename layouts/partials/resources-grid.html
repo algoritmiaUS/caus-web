@@ -1,13 +1,13 @@
 <div class="w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-16">
-    <div style="display: flex; flex-wrap: wrap; gap: 1rem;">
+    <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
         {{ range .Pages.ByWeight }}
-            <a href="{{ .RelPermalink }}" style="flex: 1 1 320px; text-decoration: none; color: inherit;">
-                <div style="border: 1px solid var(--color-gray-200); border-radius: 8px; padding: 2rem; text-align: center; height: 100%; display: flex; flex-direction: column; justify-content: center;">
+            <a href="{{ .RelPermalink }}" class="block h-full no-underline text-inherit">
+                <div class="h-full rounded-lg border border-gray-200 p-8 text-center flex flex-col justify-center">
                     <h2 class="text-xl font-bold text-gray-900 dark:text-white mb-2">
                         {{ .Title }}
                     </h2>
                     {{ with .Params.description }}
-                    <p style="color: var(--color-placeholder);">{{ . }}</p>
+                    <p class="text-neutral-400">{{ . }}</p>
                     {{ end }}
                 </div>
             </a>

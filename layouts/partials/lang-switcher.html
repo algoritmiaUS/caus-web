@@ -2,7 +2,7 @@
 {{ $page := . }}
 <li id="lang-switcher" class="relative">
     <button id="lang-toggle" type="button" title="{{ site.Language.Label }}"
-        class="flex flex-row items-center w-full px-4 py-2 mt-2 text-sm font-semibold text-left bg-transparent rounded-lg md:w-auto md:inline md:mt-0 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-600 focus:outline-hidden focus:shadow-outline" aria-expanded="false" aria-controls="lang-panel">
+        class="flex flex-row items-center w-full px-4 py-2 mt-2 text-sm font-semibold text-left bg-transparent rounded-lg lg:w-auto lg:inline lg:mt-0 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-600 focus:outline-hidden focus:shadow-outline" aria-expanded="false" aria-controls="lang-panel">
         <span>{{ index hugo.Data.flags site.Language.Lang }}</span>
     </button>
     <div id="lang-panel" class="hidden absolute right-0 z-30 w-auto mt-2 origin-top-right rounded-md shadow-lg">

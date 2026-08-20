@@ -24,7 +24,38 @@
 
 /* Custom CSS */
 
+@layer components {
+  .grid-auto-fit-center {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(17rem, 1fr));
+    justify-content: center;
+    max-width: 75rem; /* 1200px */
+    margin-inline: auto;
+  }
+  .grid-auto-fit-member {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(12.5rem, 1fr));
+  }
+  .grid-auto-fit-logo {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr));
+  }
+  .styled-calendar-container {
+    width: 50%;
+    border: none;
+  }
+  @media (max-width: 768px) {
+    .styled-calendar-container {
+      width: 100%;
+      min-width: 300px;
+    }
+  }
+}
+
 .prose :where(h1):not(:where([class~='not-prose'] *)) {
+  color: var(--color-gray-900) !important;
+}
+.dark .prose :where(h1):not(:where([class~='not-prose'] *)) {
   color: var(--color-white) !important;
 }
 

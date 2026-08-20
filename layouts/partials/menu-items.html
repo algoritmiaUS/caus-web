@@ -1,11 +1,6 @@
-{{/*
-  layouts/partials/menu-items.html — renders a Hugo menu as <li> items (drop inside a <ul>).
-
-  Usage: {{ partial "menu-items.html" site.Menus.main }}
-*/}}
 {{ range . }}
 <li class="flex">
-    <a class="grow px-4 py-2 mt-2 text-sm font-semibold rounded-lg md:mt-0 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-700 focus:outline-hidden focus:shadow-outline"
+    <a class="grow px-4 py-2 mt-2 text-sm font-semibold rounded-lg lg:mt-0 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-700 focus:outline-hidden focus:shadow-outline"
         href="{{ .URL | relLangURL }}" title="{{ .Title | default .Name }}">
         {{ .Name }}
     </a>

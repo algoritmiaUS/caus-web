@@ -1,35 +1,24 @@
-
-<!-- Our mission section -->
-<div class="relative my-4">
-    <div class="lg:mx-auto lg:grid lg:max-w-7xl lg:grid-cols-2 lg:items-start lg:gap-24 lg:px-8">
-        <div class="relative sm:py-8 lg:py-0">
-            <div aria-hidden="true" class="hidden sm:block lg:absolute lg:inset-y-0 lg:right-0 lg:w-screen">
-                <div class="absolute inset-y-0 w-full bg-gray-50 dark:bg-gray-900/10 right-1/2 rounded-r-3xl lg:right-72"></div>{{ partial "svg.html" (dict "name" "dots" "class" "absolute -ml-3 top-8 left-1/2 lg:-right-8 lg:left-auto lg:top-12" "id" "mission-dots-pattern") }}
+{{/* Our mission section */}}
+<section id="mission" class="relative py-16 sm:py-24">
+    <div aria-hidden="true" class="pointer-events-none absolute left-0 top-12 hidden text-gray-200 dark:text-gray-900/60 lg:block">
+        {{ partial "svg.html" (dict "name" "dots" "id" "mission-dots-pattern" "class" "w-40 h-auto") }}
+    </div>
+    <div class="mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8">
+        <div class="grid items-start gap-12 lg:grid-cols-2 lg:gap-16">
+            <div class="order-1">
+                {{ partial "section-heading.html" (dict "title" (i18n "mission.heading") "subtitle" (i18n "mission.description")) }}
             </div>
-            <div class="relative w-full h-auto px-4 py-6 mx-auto sm:max-w-3xl sm:px-6 lg:px-0 lg:py-20">
-                <div class="overflow-hidden shadow-xl rounded-2xl">
+            <div class="order-2">
+                <div class="overflow-hidden rounded-2xl shadow-xl">
                     {{ $p1image := resources.Get site.Params.P1.Image }}
                     {{ with $p1image }}
                     {{ with .Resize (printf "%dx%d webp q90" .Width .Height) }}
-                    <img imgh src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" class="w-full h-auto" alt="P1" loading="lazy" />
+                    <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}"
+                         class="h-auto w-full" alt="P1" loading="lazy" decoding="async" />
                     {{ end }}
                     {{ end }}
-                </div>
-            </div>
-        </div>
-        <div class="relative max-w-md px-4 mx-auto sm:max-w-3xl sm:px-6 lg:px-0">
-            <div class="md:pt-12 sm:pt-6 lg:pt-20">
-                <h2 class="text-3xl font-bold tracking-tight text-gray-900 dark:text-gray-50 sm:text-4xl">
-                      {{ i18n "mission.heading"}}
-                </h2>
-                <div class="mt-6 text-gray-900 dark:text-white">
-                    <div class="mt-6 space-y-6 text-gray-900 dark:text-white">
-                        <p class="text-lg text-gray-900 dark:text-white">
-                            {{ i18n "mission.description"}}
-                        </p>
-                    </div>
                 </div>
             </div>
         </div>
     </div>
-</div>
+</section>

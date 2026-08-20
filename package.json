@@ -15,7 +15,8 @@
     "build": "hugo --gc --minify",
     "test": "hugo",
     "format": "prettier --log-level silent --write .",
-    "format:check": "prettier --check ."
+    "format:check": "prettier --check .",
+    "convert": "bun run scripts/convert.ts"
   },
   "keywords": [
     "hugo",

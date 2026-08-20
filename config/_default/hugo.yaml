@@ -1,8 +1,9 @@
 baseURL: "https://clubalgoritmiaus.es"
 title: Club de Algoritmia de la Universidad de Sevilla
-DefaultContentLanguage: es
-disableLanguages: []
+defaultContentLanguage: es
 defaultContentLanguageInSubdir: false
+disableLanguages: []
+
 languages:
   es:
     label: Español
@@ -11,28 +12,33 @@ languages:
     label: English
     weight: 2
 
-# defaultContentLanguageInSubdir: false
+# General site settings
 enableEmoji: true
 enableGitInfo: true
+enableInlineShortcodes: true
 enableRobotsTXT: true
 canonifyURLs: true
+
 pagination:
   pagerSize: 9
-enableInlineShortcodes: true
 
+# Site parameters
 params:
   title_short: CAUS
   author: Club Algoritmia de la Universidad de Sevilla
   heropic: /images/pages/logo_CAUS.webp
-  og_image: /images/logo-CAUS.webp
+  og_image: /images/logo_CAUS.webp
   theme_color: "#ffffff"
+
   disable_theme_toggle: false
   disable_stay_uptodate: false
 
   p1:
     image: "images/pages/complicaus-5.webp"
+
   p2:
     image: "images/pages/roco.webp"
+
   p3:
     logos:
       - identifier: a
@@ -46,22 +52,33 @@ params:
     github:
       enabled: true
       url: "https://github.com/algoritmiaUS"
+
     linkedin:
       enabled: true
       url: "https://linkedin.com/company/club-de-algoritmia-universidad-de-sevilla"
+
     whatsapp:
       enabled: true
       url: "https://chat.whatsapp.com/DFm3DnLHbGn4vWimWN1Wmc"
+
     instagram:
       enabled: true
       url: "https://instagram.com/clubalgoritmiaus"
+
     twitter:
       enabled: true
       url: "https://x.com/algoritmiaus"
+
     youtube:
       enabled: true
       url: "https://www.youtube.com/@ClubAlgoritmiaUS"
 
+# Content
+taxonomies:
+  category: Categories
+  tag: Tags
+
+# Markdown
 markup:
   goldmark:
     extensions:
@@ -72,6 +89,7 @@ markup:
       strikethrough: true
       table: true
       taskList: true
+
       typographer:
         apostrophe: "&rsquo;"
         disable: false
@@ -84,6 +102,7 @@ markup:
         rightAngleQuote: "&raquo;"
         rightDoubleQuote: "&rdquo;"
         rightSingleQuote: "&rsquo;"
+
     parser:
       attribute:
         block: false
@@ -91,46 +110,51 @@ markup:
       autoHeadingID: true
       autoHeadingIDType: github
       wrapStandAloneImageWithinParagraph: true
+
     renderer:
       hardWraps: false
       unsafe: true
       xhtml: false
 
-taxonomies:
-  category: Categories
-  tag: Tags
-
+# Privacy
 privacy:
   disqus:
     disable: false
+
   googleAnalytics:
     anonymizeIP: true
     disable: false
     respectDoNotTrack: false
     useSessionStorage: false
+
   instagram:
     disable: false
     simple: false
+
   twitter:
     disable: false
     enableDNT: false
     simple: false
+
   vimeo:
     disable: false
     enableDNT: false
     simple: false
-  youtube:
-    disable: false
-    privacyEnhanced: true
 
+  youtube:
+    privacyEnhanced: true
+    disable: false
+
+# Hugo modules
 module:
   hugoVersion:
     extended: true
     min: "0.165.0"
 
+# Security
 security:
   exec:
     allow:
       - "^git"
       - "^tailwindcss$"
-      - ^node$
+      - "^node$"
