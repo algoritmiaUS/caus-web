@@ -13,7 +13,7 @@
             {{ range $name, $social := site.Params.social_media }}
             {{ if $social.enabled }}
             {{ with resources.Get (printf "images/icons/%s.svg" $name) }}
-            <a href="{{ $social.url }}" class="text-gray-400 hover:text-gray-300">
+            <a href="{{ $social.url }}" target="_blank" class="text-gray-400 hover:text-gray-300">
                 <span class="sr-only">{{ $name }}</span>
                 {{ .Content | safeHTML }}
             </a>
