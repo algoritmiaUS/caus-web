@@ -15,7 +15,7 @@
     "start": "hugo server",
     "build": "hugo --gc --minify",
     "test": "hugo",
-    "format": "prettier --write .",
+    "format": "prettier --log-level silent --write .",
     "format:check": "prettier --check ."
   },
   "keywords": [
