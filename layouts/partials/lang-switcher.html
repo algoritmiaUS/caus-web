@@ -1,15 +1,11 @@
 {{ if hugo.IsMultilingual }}
 {{ $page := . }}
-<li class="relative" x-data="{ open: false }" @click.away="open = false">
-    <button @click="open = !open" title="{{ site.Language.Label }}"
-        class="flex flex-row items-center w-full px-4 py-2 mt-2 text-sm font-semibold text-left bg-transparent rounded-lg md:w-auto md:inline md:mt-0 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-600 focus:outline-hidden focus:shadow-outline">
+<li id="lang-switcher" class="relative">
+    <button id="lang-toggle" type="button" title="{{ site.Language.Label }}"
+        class="flex flex-row items-center w-full px-4 py-2 mt-2 text-sm font-semibold text-left bg-transparent rounded-lg md:w-auto md:inline md:mt-0 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-600 focus:outline-hidden focus:shadow-outline" aria-expanded="false" aria-controls="lang-panel">
         <span>{{ index hugo.Data.flags site.Language.Lang }}</span>
     </button>
-    <div x-show="open" x-transition:enter="transition ease-out duration-100"
-        x-transition:enter-start="transform opacity-0 scale-95" x-transition:enter-end="transform opacity-100 scale-100"
-        x-transition:leave="transition ease-in duration-75" x-transition:leave-start="transform opacity-100 scale-100"
-        x-transition:leave-end="transform opacity-0 scale-95"
-        class="absolute right-0 z-30 w-auto mt-2 origin-top-right rounded-md shadow-lg">
+    <div id="lang-panel" class="hidden absolute right-0 z-30 w-auto mt-2 origin-top-right rounded-md shadow-lg">
         <ul class="p-1 bg-white rounded-md shadow-sm text-primary-900">
             {{ range hugo.Sites }}
             {{ if ne .Language.Name site.Language.Name }}

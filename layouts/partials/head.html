@@ -36,7 +36,7 @@
 
 {{ partial "meta" . }}
 
-{{ $alpine := resources.Get "js/alpine.js" | js.Build }}
-<script src="{{ $alpine.RelPermalink }}" defer></script>
 {{ $js := resources.Get "js/darkmode.js" | js.Build }}
 <script src="{{ $js.RelPermalink }}" defer></script>
+{{ $main := resources.Get "js/main.js" | js.Build }}
+<script src="{{ $main.RelPermalink }}" defer></script>
