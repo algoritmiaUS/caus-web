@@ -1,20 +1,21 @@
-# Basic set up for two package managers
-
 version: 2
-updates:
-  # Maintain dependencies for GitHub Actions
-  - package-ecosystem: 'github-actions'
-    directory: '/'
-    schedule:
-      interval: 'weekly'
 
-  # Maintain dependencies for bun (see bun.lock)
-  - package-ecosystem: 'bun'
-    directory: '/'
+updates:
+  - package-ecosystem: github-actions
+    directory: /
     schedule:
-      interval: 'weekly'
+      interval: weekly
+    groups:
+      github-actions:
+        patterns:
+          - '*'
+
+  - package-ecosystem: bun
+    directory: /
+    schedule:
+      interval: weekly
     groups:
       tailwind:
         patterns:
-          - 'tailwindcss'
+          - tailwindcss
           - '@tailwindcss/*'
