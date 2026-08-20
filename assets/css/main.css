@@ -25,11 +25,6 @@
 /* Custom CSS */
 
 @layer components {
-  /*
-   * Centered auto-filling grids, driven by theme tokens.
-   * Defined once here so templates carry no inline `style` attributes
-   * and the behavior stays centralized (see CONTRIBUTE.md).
-   */
   .grid-auto-fit-center {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(17rem, 1fr));
