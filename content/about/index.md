@@ -15,6 +15,8 @@ En el Club de Algoritmia, creemos firmemente en el valor de enfrentar desafíos 
 
 Únete a nosotros y forma parte de una comunidad apasionada por la programación, donde cada desafío es una oportunidad para aprender y crecer juntos.
 
+---
+
 # 📚 Actividades Académicas
 
 ## Sesiones de entrenamiento
@@ -48,6 +50,8 @@ Participamos en eventos anuales como [Advent of Code](https://adventofcode.com/)
   <img src="/images/about/competiciones1.webp" alt="Competición 1" style="width: 100%; max-width: 600px; flex: 1;border-radius: 12px;">
   <img src="/images/about/competiciones2.webp" alt="Competición 2" style="width: 100%; max-width: 600px; flex: 1;border-radius: 12px;">
 </div>
+
+---
 
 # 🎉 Actividades Sociales
 
