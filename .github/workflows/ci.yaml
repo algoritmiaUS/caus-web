@@ -60,8 +60,7 @@ jobs:
           if [[ -n "$forbidden_files" ]]; then
             echo "::error::Only .webp and .svg images are allowed."
             echo
-            echo "Forbidden files:"
-            printf '%s\n' "$forbidden_files"
+            echo "Run: bun convert"
             exit 1
           fi
 
