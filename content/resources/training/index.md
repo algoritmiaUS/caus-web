@@ -7,9 +7,6 @@ description: Problemas del club, retos y grabaciones
 weight: 80
 ---
 
-[⬅ Volver a Recursos](../)
-
-
 Esta es nuestra sección. Aquí encontrarás todo el material que preparamos en el club: desde las diapositivas y el código de nuestros talleres hasta listas de problemas seleccionadas por nosotros para que puedas practicar de forma guiada.
 
 --- 

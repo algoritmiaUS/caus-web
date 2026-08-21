@@ -7,9 +7,6 @@ description: Libros y materiales de aprendizaje recomendados.
 weight: 40
 ---
 
-[⬅ Volver a Recursos](../)
-
-
 Una base teórica sólida es lo que diferencia a un buen programador de uno excelente. Esta página recopila los libros de referencia y el material online que te ayudarán a construir y consolidar tus conocimientos en algoritmos, estructuras de datos y estrategias de resolución de problemas.
 
 

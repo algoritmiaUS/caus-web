@@ -7,12 +7,9 @@ description: Qué concursos hay y cómo son
 weight: 60
 ---
 
-[⬅ Volver a Recursos](../)
-
 Participar en tu primer concurso puede parecer intimidante, pero en realidad es una de las experiencias más divertidas y enriquecedoras del club. Esta guía desglosa todo lo que necesitas saber, desde el formato y las reglas hasta las estrategias clave para que llegues con confianza.
 
 ---
-
 
 ## Cómo es una competición?
 

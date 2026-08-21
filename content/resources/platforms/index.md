@@ -7,13 +7,9 @@ description: Los mejores jueces en línea y sitios de concursos
 weight: 20
 ---
 
-[⬅ Volver a Recursos](../)
-
-
 El corazón de la programación competitiva es la práctica constante y la participación en desafíos. Aquí tienes una guía de los mejores lugares para entrenar y competir.
 
 ---
-
 
 ## Plataformas de práctica y competición
 

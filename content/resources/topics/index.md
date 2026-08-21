@@ -7,12 +7,9 @@ description: Mapa de ruta de algoritmos y estructuras de datos
 weight: 30
 ---
 
-[⬅ Volver a Recursos](../)
-
 Esta sección es tu mapa y tu brújula. El mapa te muestra el camino a seguir (qué temas aprender y en qué orden), mientras que la brújula son las herramientas de referencia rápida que te mantendrán orientado cuando estés resolviendo problemas.
 
 ---
-
 
 ## Roadmap de temas
 

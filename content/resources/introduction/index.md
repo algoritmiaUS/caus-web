@@ -7,9 +7,6 @@ description: Qué es la programación competitiva y cómo empezar
 weight: 10
 ---
 
-[⬅ Volver a Recursos](../)
-
-
 ## ¿Qué es la Programación Competitiva?
 
 La programación competitiva es un "deporte mental" en el que los participantes (de manera individual o por equipos) resuelven problemas complejos bajo ciertas restriciones, como límites de tiempo y memoria. No se trata solamente de que tu código funcione, si no que lo haga de la manera más eficiente posible.
