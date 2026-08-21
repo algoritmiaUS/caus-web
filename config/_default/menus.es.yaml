@@ -23,10 +23,6 @@ main:
     name: Patrocinadores
     url: /community-partners/
     weight: 60
-  - identifier: contact
-    name: Contacto
-    url: /contact/
-    weight: 70
 
 footer:
   - identifier: about
@@ -45,7 +41,3 @@ footer:
     name: Patrocinadores
     url: /community-partners/
     weight: 40
-  - identifier: contact
-    name: Contacto
-    url: /contact/
-    weight: 50
