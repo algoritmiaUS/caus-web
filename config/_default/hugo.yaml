@@ -26,7 +26,7 @@ pagination:
 params:
   title_short: CAUS
   author: Club Algoritmia de la Universidad de Sevilla
-  og_image: /images/logo_CAUS.webp
+  og_image: /images/pages/logo_CAUS.webp
   theme_color: "#ffffff"
 
   disable_theme_toggle: false
@@ -42,10 +42,12 @@ params:
     logos:
       - identifier: a
         image: "images/global/Logo_ND.webp"
-        alt: "a"
+        alt: "Logo de Next Digital"
       - identifier: b
         image: "images/global/logo-ETSII-Color.webp"
-        alt: "b"
+        alt:
+          "Logo de la Escuela Técnica Superior de Ingeniería Informática de la Universidad de
+          Sevilla"
 
   social_media:
     github:
