@@ -1,14 +1,11 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="{{ .Language.Locale }}">
-
-<head>
+  <head>
     {{ partial "head/head.html" . }}
-</head>
+  </head>
 
-<body class="bg-zinc-100 dark:bg-gray-800">
-    {{ partial "layout/header.html" . }}
-    {{ block "main" . }}{{ end }}
-    {{ partial "layout/footer" . }}
-</body>
-
+  <body class="bg-zinc-100 dark:bg-gray-800">
+    {{ partial "layout/header.html" . }} {{ block "main" . }}{{ end }} {{ partial "layout/footer" .
+    }}
+  </body>
 </html>

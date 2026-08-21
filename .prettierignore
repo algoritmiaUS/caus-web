@@ -3,9 +3,6 @@ public
 resources
 bun.lock
 
-# Hugo Go templates — not valid HTML from Prettier's perspective
-layouts/**/*.html
-archetypes/**/*.md
 
 # Content folders to skip
 **/*charlas*
