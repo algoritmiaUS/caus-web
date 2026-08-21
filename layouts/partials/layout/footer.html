@@ -1,28 +1,29 @@
 <footer class="bg-gray-900">
-    <div class="max-w-md px-4 py-12 mx-auto overflow-hidden sm:max-w-3xl sm:px-6 lg:max-w-7xl lg:px-8">
-        <nav aria-label="Footer">
-            <ul class="flex flex-wrap justify-center -mx-5 -my-2">
-                {{ range site.Menus.footer }}
-                <li class="px-5 py-2">
-                    <a href="{{ .URL | relLangURL }}" class="text-base text-gray-400 hover:text-gray-300">{{ .Name }}</a>
-                </li>
-                {{ end }}
-            </ul>
-        </nav>
-        <div class="flex justify-center mt-8 space-x-6">
-            {{ range $name, $social := site.Params.social_media }}
-            {{ if $social.enabled }}
-            {{ with resources.Get (printf "images/icons/%s.svg" $name) }}
-            <a href="{{ $social.url }}" target="_blank" class="text-gray-400 hover:text-gray-300">
-                <span class="sr-only">{{ $name }}</span>
-                {{ .Content | safeHTML }}
-            </a>
-            {{ end }}
-            {{ end }}
-            {{ end }}
-        </div>
-    <p class="mt-8 text-base text-center text-gray-400">&copy; {{ now.Format "2006" }}
-            {{ site.Title }}. Reservados todos los derechos.</p>
+  <div
+    class="max-w-md px-4 py-12 mx-auto overflow-hidden sm:max-w-3xl sm:px-6 lg:max-w-7xl lg:px-8"
+  >
+    <nav aria-label="Footer">
+      <ul class="flex flex-wrap justify-center -mx-5 -my-2">
+        {{ range site.Menus.footer }}
+        <li class="px-5 py-2">
+          <a href="{{ .URL | relLangURL }}" class="text-base text-gray-400 hover:text-gray-300"
+            >{{ .Name }}</a
+          >
+        </li>
+        {{ end }}
+      </ul>
+    </nav>
+    <div class="flex justify-center mt-8 space-x-6">
+      {{ range $name, $social := site.Params.social_media }} {{ if $social.enabled }} {{ with
+      resources.Get (printf "images/icons/%s.svg" $name) }}
+      <a href="{{ $social.url }}" target="_blank" class="text-gray-400 hover:text-gray-300">
+        <span class="sr-only">{{ $name }}</span>
+        {{ .Content | safeHTML }}
+      </a>
+      {{ end }} {{ end }} {{ end }}
     </div>
+    <p class="mt-8 text-base text-center text-gray-400">
+      &copy; {{ now.Format "2006" }} {{ site.Title }}. Reservados todos los derechos.
+    </p>
+  </div>
 </footer>
-

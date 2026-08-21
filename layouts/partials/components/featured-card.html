@@ -1,7 +1,12 @@
-{{- $page := . -}}
-{{ with $page.Params.featured_image }}
-{{ with resources.Get . }}
-{{ $postimage := (.Resize "500x webp q90").RelPermalink }}
-<img src="{{ $postimage }}" class="object-fill w-full overflow-hidden rounded-t-lg" width="100%" height="" loading="lazy" decoding="async" alt="{{ $page.Title }}" />
-{{ end }}
-{{ end }}
+{{- $page := . -}} {{ with $page.Params.featured_image }} {{ with resources.Get . }} {{ $postimage
+:= (.Resize "500x webp q90").RelPermalink }}
+<img
+  src="{{ $postimage }}"
+  class="object-fill w-full overflow-hidden rounded-t-lg"
+  width="100%"
+  height=""
+  loading="lazy"
+  decoding="async"
+  alt="{{ $page.Title }}"
+/>
+{{ end }} {{ end }}

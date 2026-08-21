@@ -1,17 +1,28 @@
-<ul class="mx-auto mt-12 flex max-w-3xl flex-col divide-y divide-gray-200 dark:divide-gray-700 px-4 sm:px-6 lg:px-8">
-    {{ range .Pages.ByWeight }}
-    <li>
-        <a href="{{ .RelPermalink }}" class="group flex items-center justify-between gap-4 -mx-4 rounded-lg px-4 py-6 transition-colors hover:bg-gray-50 dark:hover:bg-gray-800/50">
-            <div class="min-w-0">
-                <h2 class="text-lg font-bold text-gray-900 dark:text-white group-hover:text-primary-600 dark:group-hover:text-primary-400">
-                    {{ .Title }}
-                </h2>
-                {{ with .Params.description }}
-                <p class="mt-1 text-sm text-gray-500 dark:text-gray-400">{{ . }}</p>
-                {{ end }}
-            </div>
-            <span aria-hidden="true" class="shrink-0 text-xl text-gray-400 group-hover:text-primary-600 dark:group-hover:text-primary-400">→</span>
-        </a>
-    </li>
-    {{ end }}
+<ul
+  class="mx-auto mt-12 flex max-w-3xl flex-col divide-y divide-gray-200 dark:divide-gray-700 px-4 sm:px-6 lg:px-8"
+>
+  {{ range .Pages.ByWeight }}
+  <li>
+    <a
+      href="{{ .RelPermalink }}"
+      class="group flex items-center justify-between gap-4 -mx-4 rounded-lg px-4 py-6 transition-colors hover:bg-gray-50 dark:hover:bg-gray-800/50"
+    >
+      <div class="min-w-0">
+        <h2
+          class="text-lg font-bold text-gray-900 dark:text-white group-hover:text-primary-600 dark:group-hover:text-primary-400"
+        >
+          {{ .Title }}
+        </h2>
+        {{ with .Params.description }}
+        <p class="mt-1 text-sm text-gray-500 dark:text-gray-400">{{ . }}</p>
+        {{ end }}
+      </div>
+      <span
+        aria-hidden="true"
+        class="shrink-0 text-xl text-gray-400 group-hover:text-primary-600 dark:group-hover:text-primary-400"
+        >→</span
+      >
+    </a>
+  </li>
+  {{ end }}
 </ul>
