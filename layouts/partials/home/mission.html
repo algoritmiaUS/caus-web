@@ -5,7 +5,7 @@
             {{ $p1image := resources.Get site.Params.P1.Image }}
             {{ with $p1image }}
             {{ with .Resize (printf "%dx%d webp q90" .Width .Height) }}
-            <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" class="h-auto w-full" alt="P1" loading="lazy" decoding="async" />
+            <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" class="h-auto w-full" alt="{{ i18n "mission.image_alt" }}" loading="lazy" decoding="async" />
             {{ end }}
             {{ end }}
         </div>
