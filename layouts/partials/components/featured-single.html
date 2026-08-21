@@ -1,11 +1,9 @@
 {{- $page := . -}}
 {{ with $page.Params.featured_image }}
 {{ with resources.Get . }}
-{{ $medium := (.Resize "550x webp q80").RelPermalink }}
-{{ $featuredimage := (.Resize "1500x webp q80").RelPermalink }}
-<img src="{{ $featuredimage }}" srcset="
-        {{- with $medium -}}{{ . }} 550w, {{- end -}}
-        {{- with $featuredimage -}}{{ . }} 1500w{{- end -}}"
+<img src="{{ .RelPermalink }}" srcset="
+        {{- with .Resize "550x webp q80" -}}{{ .RelPermalink }} 550w, {{- end -}}
+        {{ .RelPermalink }} {{ .Width }}w"
      class="object-fill overflow-hidden rounded-lg shadow-lg ring-4 ring-zinc-300/40 dark:ring-gray-900/40 shadow-neutral-100/20 dark:shadow-neutral-800/40"
      width="100%" alt="{{ $page.Title }}" />
 {{ end }}
