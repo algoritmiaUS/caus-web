@@ -7,11 +7,6 @@
 {{- $id := .id | default "" -}}
 {{- $class := .class | default "w-6 h-6" -}}
 
-{{- /* dots pattern: replace the placeholder id with a unique one per usage */ -}}
-{{- if and (eq $name "dots") $id -}}
-  {{- $content = replace $content "ID_PLACEHOLDER" $id -}}
-{{- end -}}
-
 {{- /* Inject optional id/class onto the opening <svg> tag */ -}}
 {{- $newSvg := printf `<svg class="%s"` $class -}}
 {{- if $id -}}
