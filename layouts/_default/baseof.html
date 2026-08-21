@@ -2,13 +2,13 @@
 <html lang="{{ .Language.Locale }}">
 
 <head>
-    {{ partial "head.html" . }}
+    {{ partial "head/head.html" . }}
 </head>
 
 <body class="bg-zinc-100 dark:bg-gray-800">
-    {{ partial "header.html" . }}
+    {{ partial "layout/header.html" . }}
     {{ block "main" . }}{{ end }}
-    {{ partial "footer" . }}
+    {{ partial "layout/footer" . }}
 </body>
 
 </html>

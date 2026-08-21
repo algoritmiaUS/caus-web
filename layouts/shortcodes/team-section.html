@@ -7,7 +7,7 @@
 
     <div class="grid-auto-fit-center gap-6 mt-6">
       {{ range hugo.Data.members.administrators }}
-      {{ partial "team-member.html" (dict "member" .) }}
+      {{ partial "components/team-member.html" (dict "member" .) }}
       {{ end }}
     </div>
   </div>
@@ -19,7 +19,7 @@
 
     <div class="grid-auto-fit-center gap-6 mt-6">
       {{ range hugo.Data.members.collaborators }}
-      {{ partial "team-member.html" (dict "member" . "showRole" false) }}
+      {{ partial "components/team-member.html" (dict "member" . "showRole" false) }}
       {{ end }}
     </div>
   </div>
@@ -31,7 +31,7 @@
 
     <div class="grid-auto-fit-center gap-6 mt-6">
       {{ range hugo.Data.members.oldadmins }}
-      {{ partial "team-member.html" (dict "member" . "compact" true "square" true "showDates" true) }}
+      {{ partial "components/team-member.html" (dict "member" . "compact" true "square" true "showDates" true) }}
       {{ end }}
     </div>
   </div>
@@ -41,7 +41,7 @@
     <h2 class="text-2xl font-bold mb-4">{{ i18n "members" }}</h2>
     <div class="grid-auto-fit-member gap-4 mt-6">
       {{ range hugo.Data.members.members }}
-      {{ partial "team-member.html" (dict "member" . "compact" true "showRole" false "showSocials" false) }}
+      {{ partial "components/team-member.html" (dict "member" . "compact" true "showRole" false "showSocials" false) }}
       {{ end }}
     </div>
   </div>
