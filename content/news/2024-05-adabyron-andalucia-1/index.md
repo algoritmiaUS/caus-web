@@ -47,7 +47,7 @@ Este equipo obtuvo el **tercer lugar** en la clasificación global del regional.
 - **Pablo Puerto Muñoz** (Grado en Matemáticas)
 - **Álvaro Luque Buzón** (Grado en Ingeniería Informática – Ingeniería del Software)
 
-### Equipo **"lemaTécnico"**
+### Equipo **"LemaTecnico"**
 
 Este equipo consiguió el **sexto lugar** en la clasificación global del regional. ¡Felicidades!
 

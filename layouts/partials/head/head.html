@@ -17,11 +17,6 @@
 {{ end }}
 <link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}" />
 
-{{ if or (.HasShortcode "rankings") (.HasShortcode "team-rankings") }}
-{{ $rankingsStyles := resources.Get "css/rankings.css" | css.TailwindCSS | minify | fingerprint }}
-<link rel="stylesheet" href="{{ $rankingsStyles.RelPermalink }}" integrity="{{ $rankingsStyles.Data.Integrity }}" />
-{{ end }}
-
 <meta name="theme-color" content="{{ site.Params.theme_color | default "#ffffff" }}">
 
 <link rel="icon" type="image/svg+xml" href="/images/global/site-logo.svg">
@@ -36,3 +31,7 @@
 <script src="{{ $js.RelPermalink }}" defer></script>
 {{ $main := resources.Get "js/main.js" | js.Build }}
 <script src="{{ $main.RelPermalink }}" defer></script>
+{{ if .HasShortcode "rankings" }}
+{{ $lightbox := resources.Get "js/lightbox.js" | js.Build }}
+<script src="{{ $lightbox.RelPermalink }}" defer></script>
+{{ end }}

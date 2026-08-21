@@ -108,7 +108,7 @@ Este equipo obtuvo el **primer lugar** en la sede de Sevilla en la categoría A,
 
 ---
 
-### 🥇 IemaTecnico – Categoría C
+### 🥇 LemaTecnico – Categoría C
 
 A pesar de ser dos integrantes los que participaron, quedaron en un cuarto lugar en el ranking global, por lo que este equipo también representará a la US en su categoría más avanzada ¡Excelente trabajo!
 
@@ -118,7 +118,7 @@ A pesar de ser dos integrantes los que participaron, quedaron en un cuarto lugar
 
 <img src="lematecnico.webp" alt="Lema Técnico" width="500"/>
 
-**El equipo IemaTecnico (Los favoritos de Renato)**
+**El equipo LemaTecnico (Los favoritos de Renato)**
 
 ---
 
