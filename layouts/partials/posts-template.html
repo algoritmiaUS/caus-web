@@ -36,12 +36,7 @@
                     <div class="flex items-center mt-6">
                         <div class="shrink-0">
                             <span class="sr-only">{{ .Params.author }}</span>
-                            {{ with .Params.authorimage }}
-                            {{ with resources.Get . }}
-                            {{ $authorimage := (.Resize "40x webp").RelPermalink }}
-                            <img class="w-10 h-10 rounded-full" src="{{ $authorimage }}" alt="">
-                            {{ end }}
-                            {{ end }}
+                            <img class="w-10 h-10 rounded-full" src="/images/pages/author_caus.webp" alt="">
                         </div>
                         <div class="pt-1 ml-3">
                             <p class="text-sm font-medium text-gray-900 dark:text-white">
