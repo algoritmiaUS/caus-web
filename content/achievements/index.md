@@ -10,12 +10,8 @@ description: Logros
 Desde nuestra fundación, hemos recibido diversos premios y reconocimientos que reflejan nuestro compromiso con la innovación y el trabajo en equipo. Estos logros, obtenidos en competiciones locales y nacionales, son un testimonio de nuestra dedicación y pasión por resolver problemas a través de la tecnología. A continuación, presentamos los premios y menciones que hemos alcanzado hasta la fecha.
 
 <!-- ============ 2026 ============ -->
-<div class="not-prose mt-14">
-  <div class="mb-6 flex items-center gap-3">
-    <span class="rounded-full bg-primary-600 px-4 py-1 text-base font-bold tracking-wide text-white">2026</span>
-    <div class="h-px flex-1 bg-gray-200 dark:bg-gray-700"></div>
-  </div>
-</div>
+
+{{< year "2026" >}}
 
 ### Ganadores CompliCAUS V
 
@@ -24,12 +20,8 @@ El 13 de febrero de 2026 se celebró la quinta edición del CompliCAUS. Aprovech
 {{< rankings "complicaus5" >}}
 
 <!-- ============ 2025 ============ -->
-<div class="not-prose mt-14">
-  <div class="mb-6 flex items-center gap-3">
-    <span class="rounded-full bg-primary-600 px-4 py-1 text-base font-bold tracking-wide text-white">2025</span>
-    <div class="h-px flex-1 bg-gray-200 dark:bg-gray-700"></div>
-  </div>
-</div>
+
+{{< year "2025" >}}
 
 ### Ganadores CompliCAUS IV
 
@@ -52,12 +44,8 @@ La principal novedad de esta edición fue el patrocinio de la empresa NEXT DIGIT
 {{< rankings "complicaus3" >}}
 
 <!-- ============ 2024 ============ -->
-<div class="not-prose mt-14">
-  <div class="mb-6 flex items-center gap-3">
-    <span class="rounded-full bg-primary-600 px-4 py-1 text-base font-bold tracking-wide text-white">2024</span>
-    <div class="h-px flex-1 bg-gray-200 dark:bg-gray-700"></div>
-  </div>
-</div>
+
+{{< year "2024" >}}
 
 ### Premio "SOMOS ETSII" del curso 2023/2024
 

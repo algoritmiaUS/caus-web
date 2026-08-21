@@ -1,10 +1,29 @@
-{{/* Lightbox markup rendered once per page. Wired up by the conditional lightbox.js script (see layouts/partials/head.html). */}}<div id="lightbox" role="dialog" aria-modal="true"
-     aria-hidden="true" aria-label="Imagen"
-     class="fixed inset-0 z-[1000] flex items-center justify-center bg-black/60 p-4 backdrop-blur-sm opacity-0 pointer-events-none transition-opacity duration-200">
-  <div class="relative w-auto max-h-[90vh] max-w-[900px] rounded-xl bg-white p-5 shadow-2xl transition-transform duration-200 scale-95 dark:bg-gray-800">
-    <span id="lightbox-close" role="button" tabindex="0" aria-label="Cerrar"
-          class="absolute right-3 top-2 cursor-pointer select-none text-3xl leading-none text-gray-400 transition-colors duration-150 hover:text-gray-900 dark:hover:text-white">&times;</span>
-    <img id="lightbox-image" src="" alt="Imagen"
-         class="mx-auto block h-auto max-h-[calc(90vh-2.5rem)] max-w-full rounded-md">
+{{/* Lightbox markup rendered once per page. Wired up by the conditional lightbox.js script (see
+layouts/partials/head.html). */}}
+<div
+  id="lightbox"
+  role="dialog"
+  aria-modal="true"
+  aria-hidden="true"
+  aria-label="Imagen"
+  class="fixed inset-0 z-[1000] flex items-center justify-center bg-black/60 p-4 backdrop-blur-sm opacity-0 pointer-events-none transition-opacity duration-200"
+>
+  <div
+    class="relative w-auto max-h-[90vh] max-w-[900px] rounded-xl bg-white p-5 shadow-2xl transition-transform duration-200 scale-95 dark:bg-gray-800"
+  >
+    <span
+      id="lightbox-close"
+      role="button"
+      tabindex="0"
+      aria-label="Cerrar"
+      class="absolute right-3 top-2 cursor-pointer select-none text-3xl leading-none text-gray-400 transition-colors duration-150 hover:text-gray-900 dark:hover:text-white"
+      >&times;</span
+    >
+    <img
+      id="lightbox-image"
+      src=""
+      alt="Imagen"
+      class="mx-auto block h-auto max-h-[calc(90vh-2.5rem)] max-w-full rounded-md"
+    />
   </div>
 </div>
