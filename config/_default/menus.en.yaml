@@ -7,17 +7,9 @@ main:
     name: About us
     url: /about/
     weight: 20
-  - identifier: contact
-    name: Contact
-    url: /contact/
-    weight: 40
 
 footer:
   - identifier: about
     name: About Us
     url: /about/
     weight: 10
-  - identifier: contact
-    name: Contact
-    url: /contact/
-    weight: 20
