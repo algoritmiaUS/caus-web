@@ -15,8 +15,8 @@
                 {{ partial "layout/menu-items.html" site.Menus.main }}
                 {{ partial "layout/lang-switcher.html" . }}
                 {{ if not site.Params.Disable_theme_toggle }}
-                <li>
-                    <button id="theme-toggle" type="button" class="px-4 py-2 text-sm text-gray-500 rounded-lg dark:text-gray-400 lg:hover:bg-gray-100 dark:lg:hover:bg-gray-700 lg:focus:outline-hidden lg:focus:ring-4 lg:focus:ring-gray-200 dark:lg:focus:ring-gray-700 lg:ml-2">
+                <li class="flex items-center">
+                    <button id="theme-toggle" type="button" class="flex grow justify-start lg:justify-center text-left lg:text-center px-4 py-2 mt-2 text-sm text-gray-400 rounded-lg lg:mt-0 lg:ml-2 hover:text-white hover:bg-primary-600 focus:outline-hidden transition-colors" aria-label="Cambiar tema">
                         {{ partial "components/svg.html" (dict "name" "moon" "class" "hidden w-5 h-5" "id" "theme-toggle-dark-icon") }}
                         {{ partial "components/svg.html" (dict "name" "sun" "class" "hidden w-5 h-5" "id" "theme-toggle-light-icon") }}
                     </button>

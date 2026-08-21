@@ -1,36 +1,49 @@
-{{ if hugo.IsMultilingual }} {{ $page := . }}
-<li id="lang-switcher" class="relative">
+{{ if hugo.IsMultilingual }}
+{{ $page := . }}
+<li id="lang-switcher" class="relative flex items-center">
   <button
     id="lang-toggle"
     type="button"
     title="{{ site.Language.Label }}"
-    class="flex flex-row items-center w-full px-4 py-2 mt-2 text-sm font-semibold text-left bg-transparent rounded-lg lg:w-auto lg:inline lg:mt-0 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-600 focus:outline-hidden focus:shadow-outline"
+    class="flex grow items-center justify-start lg:justify-center px-4 py-2 mt-2 text-sm font-semibold rounded-lg lg:mt-0 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-600 focus:outline-hidden transition-colors"
     aria-expanded="false"
     aria-controls="lang-panel"
   >
-    <span>{{ index hugo.Data.flags site.Language.Lang }}</span>
+    <span class="text-base leading-none">{{ index hugo.Data.flags site.Language.Lang }}</span>
   </button>
+
   <div
     id="lang-panel"
-    class="hidden absolute right-0 z-30 w-auto mt-2 origin-top-right rounded-md shadow-lg"
+    class="hidden absolute left-0 lg:left-auto lg:right-0 top-full z-30 w-full min-w-full mt-1 overflow-hidden rounded-lg bg-gray-800 border border-gray-700 shadow-lg"
   >
-    <ul class="p-1 bg-white rounded-md shadow-sm text-primary-900">
-      {{ range hugo.Sites }} {{ if ne .Language.Name site.Language.Name }} {{ $targetSite := . }} {{
-      $targetURL := "" }} {{ $currentLang := $page.Language.Name }} {{ $targetLang :=
-      $targetSite.Language.Name }} {{ if $page.IsTranslated }} {{ range $page.Translations }} {{ if
-      eq .Language.Name $targetLang }} {{ $targetURL = .RelPermalink }} {{ end }} {{ end }} {{ end
-      }} {{ if not $targetURL }} {{ $targetURL = $targetSite.Home.RelPermalink }} {{ end }}
+    <ul class="text-gray-200">
+      {{ range hugo.Sites }}
+        {{ if ne .Language.Name site.Language.Name }}
+          {{ $targetSite := . }}
+          {{ $targetURL := "" }}
+          {{ $targetLang := $targetSite.Language.Name }}
+          {{ if $page.IsTranslated }}
+            {{ range $page.Translations }}
+              {{ if eq .Language.Name $targetLang }}
+                {{ $targetURL = .RelPermalink }}
+              {{ end }}
+            {{ end }}
+          {{ end }}
+          {{ if not $targetURL }}
+            {{ $targetURL = $targetSite.Home.RelPermalink }}
+          {{ end }}
 
-      <li>
-        <a
-          class="block px-4 py-2 text-center text-base font-semibold bg-transparent rounded-lg hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-600 focus:outline-hidden focus:shadow-outline"
-          href="{{ $targetURL }}"
-          title="{{ .Language.Label }}"
-        >
-          {{ index hugo.Data.flags .Language.Lang }}
-        </a>
-      </li>
-      {{ end }} {{ end }}
+          <li>
+            <a
+              class="flex items-center justify-start lg:justify-center w-full px-4 py-2 text-left lg:text-center text-base hover:text-white hover:bg-primary-600 focus:bg-primary-600 focus:outline-hidden transition-colors"
+              href="{{ $targetURL }}"
+              title="{{ .Language.Label }}"
+            >
+              {{ index hugo.Data.flags .Language.Lang }}
+            </a>
+          </li>
+        {{ end }}
+      {{ end }}
     </ul>
   </div>
 </li>
