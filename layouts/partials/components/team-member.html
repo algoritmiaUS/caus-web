@@ -24,7 +24,7 @@
         {{ if ne . "" }}
         <a href="{{ . }}" class="text-gray-400 hover:text-gray-300 dark:text-gray-300 dark:hover:text-white">
             <span class="sr-only">Website</span>
-            {{ partial "svg.html" (dict "name" "globe") }}
+            {{ partial "components/svg.html" (dict "name" "globe") }}
         </a>
         {{ end }}
         {{ end }}
@@ -32,7 +32,7 @@
         {{ if ne . "" }}
         <a href="https://www.linkedin.com/in/{{ . }}" class="text-gray-400 hover:text-gray-300 dark:text-gray-300 dark:hover:text-white">
             <span class="sr-only">Linkedin</span>
-            {{ partial "svg.html" (dict "name" "linkedin") }}
+            {{ partial "components/svg.html" (dict "name" "linkedin") }}
         </a>
         {{ end }}
         {{ end }}
@@ -40,7 +40,7 @@
         {{ if ne . "" }}
         <a href="https://github.com/{{ . }}" class="text-gray-400 hover:text-gray-300 dark:text-gray-300 dark:hover:text-white">
             <span class="sr-only">GitHub</span>
-            {{ partial "svg.html" (dict "name" "github") }}
+            {{ partial "components/svg.html" (dict "name" "github") }}
         </a>
         {{ end }}
         {{ end }}

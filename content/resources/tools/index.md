@@ -7,12 +7,9 @@ description: Configuración de IDE, plantillas y script útiles
 weight: 50
 ---
 
-[⬅ Volver a Recursos](../)
-
 Un flujo de trabajo rápido y eficiente te permite concentrarte en lo que de verdad importa: resolver el problema. En esta sección, te mostramos cómo configurar tu entorno de desarrollo, usar plantillas de código para empezar con buen pie y automatizar las tareas repetitivas.
 
 ---
-
 
 ## Configuración de Editores e IDEs (Tu Taller)
 

@@ -6,19 +6,19 @@
                 <span class="mt-1 ml-3 text-xl font-black tracking-tight text-gray-100 uppercase transition-colors group-hover:text-gray-400/60">{{ site.Params.Title_Short }}</span>
             </a>
             <button id="menu-toggle" type="button" class="rounded-lg lg:hidden focus:outline-hidden focus:shadow-outline" aria-expanded="false" aria-controls="menuItems" aria-label="Main">
-                {{ partial "svg.html" (dict "name" "menu" "class" "w-6 h-6" "id" "menu-icon-open") }}
-                {{ partial "svg.html" (dict "name" "close" "class" "hidden w-6 h-6" "id" "menu-icon-close") }}
+                {{ partial "components/svg.html" (dict "name" "menu" "class" "w-6 h-6" "id" "menu-icon-open") }}
+                {{ partial "components/svg.html" (dict "name" "close" "class" "hidden w-6 h-6" "id" "menu-icon-close") }}
             </button>
         </div>
         <nav id="menuItems" class="flex-col grow hidden pb-4 lg:pb-0 lg:flex lg:justify-end lg:flex-row" aria-label="Main">
             <ul class="flex flex-col grow lg:flex-row lg:justify-end lg:items-center">
-                {{ partial "menu-items.html" site.Menus.main }}
-                {{ partial "lang-switcher.html" . }}
+                {{ partial "layout/menu-items.html" site.Menus.main }}
+                {{ partial "layout/lang-switcher.html" . }}
                 {{ if not site.Params.Disable_theme_toggle }}
                 <li>
                     <button id="theme-toggle" type="button" class="px-4 py-2 text-sm text-gray-500 rounded-lg dark:text-gray-400 lg:hover:bg-gray-100 dark:lg:hover:bg-gray-700 lg:focus:outline-hidden lg:focus:ring-4 lg:focus:ring-gray-200 dark:lg:focus:ring-gray-700 lg:ml-2">
-                        {{ partial "svg.html" (dict "name" "moon" "class" "hidden w-5 h-5" "id" "theme-toggle-dark-icon") }}
-                        {{ partial "svg.html" (dict "name" "sun" "class" "hidden w-5 h-5" "id" "theme-toggle-light-icon") }}
+                        {{ partial "components/svg.html" (dict "name" "moon" "class" "hidden w-5 h-5" "id" "theme-toggle-dark-icon") }}
+                        {{ partial "components/svg.html" (dict "name" "sun" "class" "hidden w-5 h-5" "id" "theme-toggle-light-icon") }}
                     </button>
                 </li>
                 {{ end }}

@@ -30,7 +30,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
-{{ partial "meta" . }}
+{{ partial "head/meta.html" . }}
 
 {{ $js := resources.Get "js/darkmode.js" | js.Build }}
 <script src="{{ $js.RelPermalink }}" defer></script>

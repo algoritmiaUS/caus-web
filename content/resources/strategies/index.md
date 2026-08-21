@@ -7,13 +7,9 @@ weight: 70
 description: Consejos y técnicas para competir eficazmente
 ---
 
-[⬅ Volver a Recursos](../)
-
-
 Tener los conocimientos es solo la mitad de la batalla. La otra mitad es saber aplicarlos bajo la presión del reloj. Esta sección se centra en las estrategias y hábitos mentales que te ayudarán a maximizar tu rendimiento durante un concurso.
 
 ---
-
 
 ## Cómo Abordar un Problema: El Ciclo de 5 Pasos
 
