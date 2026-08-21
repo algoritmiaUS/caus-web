@@ -22,10 +22,6 @@ Entre los participantes, hubo representación de estudiantes de distintos cursos
 
 La competición se mantuvo reñida desde el comienzo, con una primera hora durante la que los primeros puestos cambiaban constantemente. Sin embargo, al finalizar el evento, los tres primeros lugares quedaron definidos:
 
-<!-- - **Primer puesto:** Pablo Moreno Moreu
-- **Segundo puesto:** Jaime Argilés Pérez
-- **Tercer puesto:** Nicolás Sibello Litrán -->
-
 # Premios Principales
 
 {{< rankings "complicaus1" >}}

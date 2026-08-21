@@ -72,34 +72,3 @@ Los encargados de resolver dudas y verificar los resultados proporcionados por e
 Las soluciones a los problemas de la competición están disponibles en nuestro [repositorio de GitHub](https://github.com/algoritmiaUS/ada-byron). Además, puedes consultar una [guía detallada para resolver los problemas planteados](Soluciones-Regional-Andalucía.pdf).
 
 Finalmente, desde el **CAUS**, queremos expresar nuestro agradecimiento a la **Escuela Técnica Superior de Ingeniería Informática de Sevilla** por hacer de sede para la fase regional, así como a los organizadores de **Ada Byron Madrid** y **Galicia** por hacer posible esta primera edición andaluza.
-
-<!--
-El viernes 12 de abril se celebró la I edición de la Regional de Andalucía del concurso Ada Byron.
-
-AdaByron Andalucía se celebrará simultáneamente en la Escuela Superior de Ingeniería de la Universidad de Almería, en la Escuela Superior de Ingeniería de la Universidad de Cádiz, en la Escuela Técnica Superior Ingenierías Informática y de Telecomunicación de la Universidad de Granada, en la Escuela Técnica Superior de Ingeniería Informática de la Universidad de Málaga y en la Escuela Técnica Superior de Ingeniería Informática de la Universidad de Sevilla.
-
-Aunque diferentes provincias de Andalucía ya han participado previamente en en las regionales multisede o en un pequeño regional específico, este es el primer año que se va a realizar en andalucía.
-
-Ada Byron es un concurso de programación que nace en la Comunidad de Madrid, con el objetivo de incentivar la participación de los estudiantes de informática al concurso internacional de programación ICPC y que a lo largo de estos años, se ha ido abriendo a otras universidades españolas pertenecientes a diferentes comunidades autónomas. En esta regional se tenían que resolver 11 problemas durante 4 horas.
-
-En esta primera edición han participado 33 equipos de las Universidades andaluzas de Almería (3 equipos), Cádiz (2), Granada (7), Málaga (13) y Sevilla (7) y un equipo de la Universidad de Educación a Distancia (UNED).
-
-Hubo mucha competencia durante esas 4 horas sin embargo, se pudieron clasificar dos equipos a la gran final que será en Madrid, esos equipos pertenecientes al club de algoritmia son:
-
-Equipo lemaTécnico formado por:
-Carlos Fernández - Llebrez Acedo
-Pablo Moreno Moreu
-Arnau Neches Vilà
-Los 3 pertenecientes al grado del doble Grado Ingeniería Informática – Tecnologías Informáticas y Matemáticas
-----
-
-La Cabeza de Turing, está formado por los estudiantes Julio Ojeda Infantes, del Grado de Matemáticas, Pablo Puerto Muñoz, del Grado de Matemáticas y Álvaro Luque Buzón, del Grado de Ingeniería Informática – Ingeniería del Software.
-
-Los jueces que han estado resolviendo dudas, revisando si el veredicto dado por el juez automático están correctas fueron miembros del club de algoritmia, los cuales fueron:
-
-- Pablo Dávila Herrero
-- Pablo Reina Jiménez
-- Kenny Jesús Flores Huamán
-
-Desde el CAUS queremos agradecer a la Escuela Técnica Superior de Ingeniería Informática por darnos la sede para los equipos de Sevilla y a los organizadores de Ada Byron Madrid y Galicia por hacer posible esta primera edición.
- -->
