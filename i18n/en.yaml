@@ -80,3 +80,10 @@ old_admins_desc:
   other: "We’ll always love you! ❤️"
 members:
   other: "Some members"
+
+footer.rights:
+  other: "All rights reserved"
+
+
+header.menu_aria:
+  other: "Main menu"

@@ -5,12 +5,12 @@
                 <img src="{{ "/images/pages/logo_CAUS.webp" | relURL }}" class="transition-opacity h-9 w-9 group-hover:opacity-50 group-focus:opacity-70" alt="{{ site.Title }} Logo" />
                 <span class="mt-1 ml-3 text-xl font-black tracking-tight text-gray-100 uppercase transition-colors group-hover:text-gray-400/60">{{ site.Params.Title_Short }}</span>
             </a>
-            <button id="menu-toggle" type="button" class="rounded-lg lg:hidden focus:outline-hidden focus:shadow-outline" aria-expanded="false" aria-controls="menuItems" aria-label="Main">
+            <button id="menu-toggle" type="button" class="rounded-lg lg:hidden focus:outline-hidden focus:shadow-outline" aria-expanded="false" aria-controls="menuItems" aria-label="{{ i18n "header.menu_aria" }}">
                 {{ partial "components/svg.html" (dict "name" "menu" "class" "w-6 h-6" "id" "menu-icon-open") }}
                 {{ partial "components/svg.html" (dict "name" "close" "class" "hidden w-6 h-6" "id" "menu-icon-close") }}
             </button>
         </div>
-        <nav id="menuItems" class="flex-col grow hidden pb-4 lg:pb-0 lg:flex lg:justify-end lg:flex-row" aria-label="Main">
+        <nav id="menuItems" class="flex-col grow hidden pb-4 lg:pb-0 lg:flex lg:justify-end lg:flex-row" aria-label="{{ i18n "header.menu_aria" }}">
             <ul class="flex flex-col grow lg:flex-row lg:justify-end lg:items-center">
                 {{ partial "layout/menu-items.html" site.Menus.main }}
                 {{ partial "layout/lang-switcher.html" . }}

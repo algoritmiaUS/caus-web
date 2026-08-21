@@ -4,7 +4,7 @@ date: 2024-08-22T11:18:36+08:00
 toc: true
 draft: false
 language: es
-description: About Us
+description: Sobre nosotros
 ---
 
 Bienvenidos al **Club de Algoritmia**, un grupo fundado por estudiantes de la Universidad de Sevilla con el objetivo de aprender y perfeccionar habilidades en programación a través de la colaboración y la participación en competiciones.

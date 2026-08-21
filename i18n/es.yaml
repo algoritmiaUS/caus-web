@@ -83,3 +83,9 @@ old_admins_desc:
   other: "¡Os querremos siempre! ❤️"
 members:
   other: "Algunos miembros"
+
+footer.rights:
+  other: "Reservados todos los derechos"
+
+header.menu_aria:
+  other: "Menú principal"
