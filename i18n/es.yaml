@@ -18,6 +18,9 @@ hero.whatsapp:
 mission.heading:
   other: "Nuestra misión"
 
+mission.image_alt:
+  other: "Participantes del ComplicauS 5, el concurso de programación del CAUS"
+
 mission.description:
   other:
     "Nuestro objetivo es crear una comunidad colaborativa e inclusiva donde los miembros puedan
@@ -29,6 +32,9 @@ mission.description:
 
 challenge.heading:
   other: "Desafíos, comunidad y diversión en el CAUS"
+
+challenge.image_alt:
+  other: "Salida al rocódromo del Club de Algoritmia"
 
 challenge.description:
   other:
