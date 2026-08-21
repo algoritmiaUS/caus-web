@@ -1,5 +1,4 @@
-{{ if hugo.IsMultilingual }}
-{{ $page := . }}
+{{ if hugo.IsMultilingual }} {{ $page := . }}
 <li id="lang-switcher" class="relative flex items-center">
   <button
     id="lang-toggle"
@@ -17,33 +16,22 @@
     class="hidden absolute left-0 lg:left-auto lg:right-0 top-full z-30 w-full min-w-full mt-1 overflow-hidden rounded-lg bg-gray-800 border border-gray-700 shadow-lg"
   >
     <ul class="text-gray-200">
-      {{ range hugo.Sites }}
-        {{ if ne .Language.Name site.Language.Name }}
-          {{ $targetSite := . }}
-          {{ $targetURL := "" }}
-          {{ $targetLang := $targetSite.Language.Name }}
-          {{ if $page.IsTranslated }}
-            {{ range $page.Translations }}
-              {{ if eq .Language.Name $targetLang }}
-                {{ $targetURL = .RelPermalink }}
-              {{ end }}
-            {{ end }}
-          {{ end }}
-          {{ if not $targetURL }}
-            {{ $targetURL = $targetSite.Home.RelPermalink }}
-          {{ end }}
+      {{ range hugo.Sites }} {{ if ne .Language.Name site.Language.Name }} {{ $targetSite := . }} {{
+      $targetURL := "" }} {{ $targetLang := $targetSite.Language.Name }} {{ if $page.IsTranslated }}
+      {{ range $page.Translations }} {{ if eq .Language.Name $targetLang }} {{ $targetURL =
+      .RelPermalink }} {{ end }} {{ end }} {{ end }} {{ if not $targetURL }} {{ $targetURL =
+      $targetSite.Home.RelPermalink }} {{ end }}
 
-          <li>
-            <a
-              class="flex items-center justify-start lg:justify-center w-full px-4 py-2 text-left lg:text-center text-base hover:text-white hover:bg-primary-600 focus:bg-primary-600 focus:outline-hidden transition-colors"
-              href="{{ $targetURL }}"
-              title="{{ .Language.Label }}"
-            >
-              {{ index hugo.Data.flags .Language.Lang }}
-            </a>
-          </li>
-        {{ end }}
-      {{ end }}
+      <li>
+        <a
+          class="flex items-center justify-start lg:justify-center w-full px-4 py-2 text-left lg:text-center text-base hover:text-white hover:bg-primary-600 focus:bg-primary-600 focus:outline-hidden transition-colors"
+          href="{{ $targetURL }}"
+          title="{{ .Language.Label }}"
+        >
+          {{ index hugo.Data.flags .Language.Lang }}
+        </a>
+      </li>
+      {{ end }} {{ end }}
     </ul>
   </div>
 </li>

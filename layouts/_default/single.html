@@ -20,5 +20,8 @@
   <div class="max-w-7xl px-6 pt-6 pb-16 mx-auto prose dark:prose-invert dark:text-white">
     {{.Content}}
   </div>
+  {{ if .HasShortcode "rankings" }}
+  {{ partial "components/lightbox.html" . }}
+  {{ end }}
 </article>
 {{end}}

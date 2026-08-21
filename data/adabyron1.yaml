@@ -1,0 +1,16 @@
+teams:
+  - name: "La Cabeza de Turing"
+    placement: "Tercer lugar en la clasificación global del regional. ¡Enhorabuena!"
+    members:
+      - "Julio Ojeda Infantes (Grado en Matemáticas)"
+      - "Pablo Puerto Muñoz (Grado en Matemáticas)"
+      - "Álvaro Luque Buzón (Grado en Ingeniería Informática – Ingeniería del Software)"
+  - name: "LemaTecnico"
+    placement: "Sexto lugar en la clasificación global del regional. ¡Felicidades!"
+    members:
+      - "Carlos Fernández-Llebrez Acedo (Doble Grado en Ingeniería Informática – Tecnologías
+        Informáticas y Matemáticas)"
+      - "Pablo Moreno Moreu (Doble Grado en Ingeniería Informática – Tecnologías Informáticas y
+        Matemáticas)"
+      - "Arnau Neches Vilà (Doble Grado en Ingeniería Informática – Tecnologías Informáticas y
+        Matemáticas)"
