@@ -39,7 +39,7 @@ bun install
 ### Para desarrollo local
 
 ```Bash
-hugo server --config hugo.yaml
+bun start
 ```
 
 ### Para generar el sitio HTML
