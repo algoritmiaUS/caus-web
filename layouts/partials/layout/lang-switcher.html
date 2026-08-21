@@ -15,15 +15,11 @@
     class="hidden absolute right-0 z-30 w-auto mt-2 origin-top-right rounded-md shadow-lg"
   >
     <ul class="p-1 bg-white rounded-md shadow-sm text-primary-900">
-      {{ range hugo.Sites }} {{ if ne .Language.Name site.Language.Name }} {{ $targetURL := "" }} {{
-      $currentLang := $page.Language.Name }} {{ $targetLang := .Language.Name }} {{ if
-      $page.IsTranslated }} {{ range $page.Translations }} {{ if eq .Language.Name $targetLang }} {{
-      $targetURL = .RelPermalink }} {{ end }} {{ end }} {{ end }} {{ if not $targetURL }} {{ if eq
-      $targetLang site.Home.Language.Name }} {{ $targetURL = $page.RelPermalink | replaceRE (printf
-      "^/%s/" $currentLang) "/" }} {{ else if eq $currentLang site.Home.Language.Name }} {{
-      $targetURL = printf "/%s%s" $targetLang $page.RelPermalink }} {{ else }} {{ $targetURL =
-      $page.RelPermalink | replaceRE (printf "^/%s/" $currentLang) (printf "/%s/" $targetLang) }} {{
-      end }} {{ end }}
+      {{ range hugo.Sites }} {{ if ne .Language.Name site.Language.Name }} {{ $targetSite := . }} {{
+      $targetURL := "" }} {{ $currentLang := $page.Language.Name }} {{ $targetLang :=
+      $targetSite.Language.Name }} {{ if $page.IsTranslated }} {{ range $page.Translations }} {{ if
+      eq .Language.Name $targetLang }} {{ $targetURL = .RelPermalink }} {{ end }} {{ end }} {{ end
+      }} {{ if not $targetURL }} {{ $targetURL = $targetSite.Home.RelPermalink }} {{ end }}
 
       <li>
         <a
