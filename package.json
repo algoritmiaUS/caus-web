@@ -14,6 +14,7 @@
     "start": "hugo server",
     "build": "hugo --gc --minify",
     "test": "hugo",
+    "clean": "rm -rf public/ && rm -rf resources/",
     "format": "prettier --log-level silent --write .",
     "format:check": "prettier --check .",
     "convert": "bun run scripts/convert.ts"
