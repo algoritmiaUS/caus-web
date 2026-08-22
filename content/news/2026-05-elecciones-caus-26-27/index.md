@@ -74,8 +74,8 @@ Como Web Master, aporto mi experiencia desarrollando aplicaciones reales a gran 
 
 Soy Arnau de quinto del doble en mates-info. Llevo en el CAUS desde el inicio (creo que la mayoría ya me conocéis). Mi objetivo como event manager es el siguiente:
 
-- <strong class="font-semibold text-gray-900 dark:text-white">5-10 charlas de empresas:</strong> Con posibilidad de intentar encontraros internships, etc.
-- <strong class="font-semibold text-gray-900 dark:text-white">5-10 charlas de profesores / profesionales / gente interesante en general:</strong> Cosas que estén chulas y nos gusten a todos.
+- <strong class="font-semibold text-shadow-grey dark:text-white">5-10 charlas de empresas:</strong> Con posibilidad de intentar encontraros internships, etc.
+- <strong class="font-semibold text-shadow-grey dark:text-white">5-10 charlas de profesores / profesionales / gente interesante en general:</strong> Cosas que estén chulas y nos gusten a todos.
 
 Quiero intentar hacer un evento cada dos semanas y tratar de dar la máxima visibilidad al CAUS (voy a obligar a todo el mundo que conozca a venir). Además de charlas, también he pensado en organizar algún evento social (los anglosajones hacen la típica de <em>pub crawl</em>, nosotros podemos hacer ruta de cerveza y tapas por el centro jeje, así como idea).
 
