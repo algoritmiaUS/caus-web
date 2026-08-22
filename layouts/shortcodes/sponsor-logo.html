@@ -1,0 +1,24 @@
+{{- /* Sponsor logo image inside a white rounded card.
+  Params:
+    src   (required): path to the image, e.g. "/images/global/Logo_ND.webp"
+    alt   (required): alt text for the image
+    href  (optional): URL to wrap the image in a link
+    class (optional): extra/image classes, defaults to "max-h-20 w-auto object-contain"
+    size  (optional): extra inline style for the image (e.g. width/max-width)
+*/ -}}
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" -}}
+{{- $href := .Get "href" -}}
+{{- $imgClass := .Get "class" | default "max-h-20 w-auto object-contain" -}}
+{{- $style := .Get "style" -}}
+<div class="my-6 flex justify-center rounded-2xl bg-white p-6">
+  {{- if $href -}}<a href="{{ $href }}" class="flex justify-center">{{- end -}}
+  <img
+    src="{{ $src }}"
+    alt="{{ $alt }}"
+    class="{{ $imgClass }}"
+    {{- with $style }} style="{{ . }}"{{ end }}
+    loading="lazy"
+  />
+  {{- if $href -}}</a>{{- end -}}
+</div>
