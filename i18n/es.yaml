@@ -1,3 +1,15 @@
+footer.rights:
+  other: "Reservados todos los derechos."
+
+header.theme_toggle:
+  other: "Cambiar tema"
+
+post.tags:
+  other: "Etiquetas:"
+
+post.read_time:
+  other: "min de lectura"
+
 error.404_title:
   other: "Ooooops, falta algo."
 error.404_message:
