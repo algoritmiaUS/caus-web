@@ -9,7 +9,6 @@ categories: ['Noticias']
 tags: ['Noticias']
 ---
 
-
 ¡Hola a todos!
 
 Estamos emocionados de presentar nuestra nueva página web del **Club de Algoritmia de la Universidad de Sevilla**. Fundado por estudiantes de la Escuela Técnica Superior de Ingeniería Informática y la Facultad de Matemáticas, nuestro club ha crecido para incluir a miembros de diversas facultades y escuelas, así como a entusiastas de la programación provenientes incluso del bachillerato. Esta diversidad enriquece nuestras sesiones y competiciones, creando un entorno dinámico y estimulante.

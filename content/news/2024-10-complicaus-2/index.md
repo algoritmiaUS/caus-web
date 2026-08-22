@@ -31,7 +31,6 @@ Al terminar la competición, los responsables del CAUS, Pablo Dávila, Pablo Rei
 
 ![Resolución problemas](resolucion-problemas.webp)
 
-
 # Entrega de premios
 
 La competición fue reñida desde el inicio, con cambios frecuentes en los primeros puestos durante la primera hora. Al final, estos fueron los ganadores:
@@ -41,4 +40,3 @@ La competición fue reñida desde el inicio, con cambios frecuentes en los prime
 # Agradecimientos
 
 Agradecemos a la Escuela Técnica Superior de Ingeniería Informática por su patrocinio y apoyo, así como a María Lourdes Miró (Subdirectora de Estudiantes, Innovación y Responsabilidad Social) y Juan Antonio Álvarez García (Subdirector de Investigación, Transferencia y Emprendimiento) quienes han sido clave para hacer de este evento una realidad.
-
