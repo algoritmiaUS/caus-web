@@ -12,44 +12,7 @@
 
         <div class="mx-auto mt-12 mb-4 grid gap-4 md:max-w-none md:grid-cols-3">
             {{ range (first 3 (where site.RegularPages "Section" "news")).ByDate.Reverse }}
-            <div class="flex flex-col overflow-hidden rounded-lg bg-gray-50 shadow-lg dark:bg-gray-900">
-                <a href="{{ .Permalink }}">
-                    {{ partial "components/featured-card.html" . }}
-                </a>
-                <div class="p-6">
-                    <div class="flex-1">
-                        <a href="{{ .Permalink }}" class="mt-2 block text-2xl font-black text-gray-900 hover:underline hover:text-primary-600 dark:text-gray-200 dark:hover:text-primary-500">
-                            {{ .Title }}
-                        </a>
-                        <p class="mt-3 text-base text-gray-900 dark:text-gray-300">
-                            {{ .Params.summary }}
-                        </p>
-                    </div>
-                    <div class="flex pt-6 text-md font-medium text-primary-600 dark:text-primary-100">
-                        <span class="pr-2 font-black">Tags:</span>
-                        {{ range $elem_index, $elem_val := (.GetTerms "tags") }}
-                        {{- if gt $elem_index 0 }}, {{ end -}}
-                        <a href="{{ .Permalink }}" class="inline-flex items-center rounded-md bg-gray-300 px-2.5 py-0.5 text-sm font-medium text-gray-900 hover:bg-primary-200 hover:text-black">{{ .LinkTitle }}</a>
-                        {{- end -}}
-                    </div>
-                    <div class="mt-6 flex items-center">
-                        <div class="shrink-0">
-                            <span class="sr-only">{{ .Params.author }}</span>
-                            <img class="h-10 w-10 rounded-full" src="/images/global/author_caus.webp" alt="" decoding="async" />
-                        </div>
-                        <div class="ml-3 pt-1">
-                            <p class="text-sm font-medium text-gray-900 dark:text-white">
-                                {{ .Params.author }}
-                            </p>
-                            <div class="flex space-x-1 text-sm text-gray-500 dark:text-white">
-                                <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "02-01-2006" }}</time>
-                                <span aria-hidden="true">&middot;</span>
-                                <span>{{ math.Round (div (countwords .Content) 220.0) }} min read</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            {{ partial "components/post-card.html" . }}
             {{ end }}
         </div>
     </div>
