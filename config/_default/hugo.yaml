@@ -24,7 +24,6 @@ languages:
 enableEmoji: true
 enableInlineShortcodes: true
 enableRobotsTXT: true
-canonifyURLs: true
 
 pagination:
   pagerSize: 9
@@ -102,3 +101,4 @@ security:
   exec:
     allow:
       - "^tailwindcss$"
+      - "^node$"
