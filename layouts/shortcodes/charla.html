@@ -4,15 +4,15 @@
   <h2 class="text-lg font-semibold text-gray-800 dark:text-white">{{ .Get "title" }}</h2>
   <div class="mt-4 text-gray-600 dark:text-gray-300 space-y-2">
     <div class="flex items-center space-x-2">
-      <span class="material-icons dark:text-gray-100">calendar_today</span>
+      {{ partial "components/svg.html" (dict "name" "calendar" "class" "w-5 h-5 text-gray-600 dark:text-gray-100") }}
       <span class="text-sm md:text-base">{{ .Get "date" }}</span>
     </div>
     <div class="flex items-center space-x-2">
-      <span class="material-icons dark:text-gray-100">access_time</span>
+      {{ partial "components/svg.html" (dict "name" "clock" "class" "w-5 h-5 text-gray-600 dark:text-gray-100") }}
       <span class="text-sm md:text-base">{{ .Get "time" }}</span>
     </div>
     <div class="flex items-center space-x-2">
-      <span class="material-icons dark:text-gray-100">location_on</span>
+      {{ partial "components/svg.html" (dict "name" "location" "class" "w-5 h-5 text-gray-600 dark:text-gray-100") }}
       <span class="text-sm md:text-base">{{ .Get "location" }}</span>
     </div>
     {{ with .Get "stream_url" }}
