@@ -7,7 +7,6 @@ featured_image: images/featured/bienvenida.webp
 summary: 'Presentamos la nueva página web del Club de Algoritmia de la Universidad de Sevilla. Descubre nuestras actividades, eventos y cómo puedes unirte a nosotros.'
 description: 'Nos complace anunciar el lanzamiento de la nueva página web del Club de Algoritmia de la Universidad de Sevilla. En esta publicación, te presentamos nuestra misión, nuestras actividades principales, y cómo puedes formar parte de esta apasionante comunidad dedicada a la programación y la resolución de problemas algorítmicos.'
 author: Administradores CAUS
-authorimage: images/pages/logo_CAUS.webp
 categories: ['Noticias']
 tags: ['Noticias']
 ---

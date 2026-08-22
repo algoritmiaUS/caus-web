@@ -8,7 +8,6 @@ summary: La II Edición Regional de Andalucía del concurso Ada Byron reunió a 
 description: La II Edición Regional de Andalucía del Concurso Ada Byron se celebró con gran éxito el 25 de abril, reuniendo a 46 equipos y más de 130 estudiantes de universidades andaluzas y la UNED. Durante 4 horas de intensa competición, los participantes resolvieron 11 problemas de alta dificultad. La sede de Sevilla destacó con tres equipos clasificados para la final nacional en Madrid. La organización y supervisión del evento fueron posibles gracias al compromiso del Club de Algoritmia de la Universidad de Sevilla y al trabajo coordinado entre las universidades andaluzas. Esta edición consolida el concurso como una cita clave para la promoción de la programación competitiva en la región.
 
 author: Administradores CAUS
-authorimage: images/pages/logo_CAUS.webp
 categories: Eventos
 tags: Eventos
 ---
