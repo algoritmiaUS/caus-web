@@ -1,8 +1,6 @@
 ---
 title: Concursos
 date: 2025-08-11
-draft: false
-language: es
 description: Qué concursos hay y cómo son
 weight: 60
 ---

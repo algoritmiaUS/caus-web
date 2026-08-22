@@ -1,8 +1,6 @@
 ---
 title: Estrategias
 date: 2025-08-11
-draft: false
-language: es
 weight: 70
 description: Consejos y técnicas para competir eficazmente
 ---

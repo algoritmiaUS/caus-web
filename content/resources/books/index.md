@@ -1,8 +1,6 @@
 ---
 title: Libros y guías
 date: 2025-08-11
-draft: false
-language: es
 description: Libros y materiales de aprendizaje recomendados.
 weight: 40
 ---

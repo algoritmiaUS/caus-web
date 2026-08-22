@@ -1,13 +1,10 @@
 ---
 title: 'Resultados oficiales de las elecciones CAUS 2025'
 date: 2025-06-16T00:00:00+02:00
-draft: false
-language: es
 featured_image: images/featured/CompliCAUS-3-Foto-grupal.webp
 summary: Resultados oficiales de las elecciones para los equipos del Club de Algoritmia de la Universidad de Sevilla (CAUS) para el curso 2025-2026.
 description: El Club de Algoritmia de la Universidad de Sevilla anuncia los resultados de sus elecciones internas, donde los miembros han elegido a los nuevos responsables de cada área para el próximo curso académico.
 author: Administradores CAUS
-authorimage: images/pages/logo_CAUS.webp
 categories: Eventos
 tags: Eventos
 ---
@@ -86,7 +83,6 @@ Por lo que, los nuevos administradores para este nuevo curso 2025/26 son:
 
 <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4 mt-8 items-stretch">
 
-  <!-- Pablo Reina -->
   <div class="flex flex-col items-center text-center p-4 rounded h-[260px]">
     <img src="pablo-reina.webp" alt="Pablo Reina"
          class="w-24 h-24 rounded-full object-cover object-center shadow-md bg-gray-100 mb-3">
@@ -97,7 +93,6 @@ Por lo que, los nuevos administradores para este nuevo curso 2025/26 son:
     </p>
   </div>
 
-  <!-- Fernando -->
   <div class="flex flex-col items-center text-center p-4 rounded h-[260px]">
     <img src="fernando-giraldez.webp" alt="Fernando Giráldez"
          class="w-24 h-24 rounded-full object-cover object-center shadow-md bg-gray-100 mb-3">
@@ -108,7 +103,6 @@ Por lo que, los nuevos administradores para este nuevo curso 2025/26 son:
     </p>
   </div>
 
-  <!-- Kenny -->
   <div class="flex flex-col items-center text-center p-4 rounded h-[260px]">
     <img src="kenny.webp" alt="Photo of Kenny Flores"
          class="w-24 h-24 rounded-full object-cover object-center shadow-md bg-gray-100 mb-3">
@@ -118,7 +112,6 @@ Por lo que, los nuevos administradores para este nuevo curso 2025/26 son:
     </p>
   </div>
 
-  <!-- Inés -->
   <div class="flex flex-col items-center text-center p-4 rounded h-[260px]">
     <img src="ines.webp" alt="Inés Dávila"
          class="w-24 h-24 rounded-full object-cover object-center shadow-md bg-gray-100 mb-3">
@@ -129,7 +122,6 @@ Por lo que, los nuevos administradores para este nuevo curso 2025/26 son:
     </p>
   </div>
 
-  <!-- Lucía -->
   <div class="flex flex-col items-center text-center p-4 rounded h-[260px]">
     <img src="lucia-diez.webp" alt="Lucía Campos"
          class="w-24 h-24 rounded-full object-cover object-center shadow-md bg-gray-100 mb-3">
@@ -140,7 +132,6 @@ Por lo que, los nuevos administradores para este nuevo curso 2025/26 son:
     </p>
   </div>
 
-  <!-- José -->
   <div class="flex flex-col items-center text-center p-4 rounded h-[260px]">
     <img src="jose.webp" alt="José García"
          class="w-24 h-24 rounded-full object-cover object-center shadow-md bg-gray-100 mb-3">
@@ -151,7 +142,6 @@ Por lo que, los nuevos administradores para este nuevo curso 2025/26 son:
     </p>
   </div>
 
-  <!-- Lorenzo -->
   <div class="flex flex-col items-center text-center p-4 rounded h-[260px]">
     <img src="lorenzo.webp" alt="Lorenzo Tagua"
          class="w-24 h-24 rounded-full object-cover object-center shadow-md bg-gray-100 mb-3">
@@ -162,7 +152,6 @@ Por lo que, los nuevos administradores para este nuevo curso 2025/26 son:
     </p> 
   </div>
 
-  <!-- Pablo Dávila -->
   <div class="flex flex-col items-center text-center p-4 rounded h-[260px]">
     <img src="pablo-davila.webp" alt="Pablo Dávila"
          class="w-24 h-24 rounded-full object-cover object-center shadow-md bg-gray-100 mb-3">

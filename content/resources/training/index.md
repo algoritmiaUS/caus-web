@@ -1,8 +1,6 @@
 ---
 title: Entrenamiento
 date: 2025-08-11
-draft: false
-language: es
 description: Problemas del club, retos y grabaciones
 weight: 80
 ---

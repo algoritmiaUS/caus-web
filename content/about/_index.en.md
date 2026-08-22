@@ -2,7 +2,6 @@
 title: 'About Us'
 date: 2024-08-22T11:18:36+08:00
 toc: true
-draft: false
 language: en
 description: About Us
 layout: single
@@ -69,7 +68,6 @@ Each term, we organise a special meal to celebrate our achievements and enjoy ti
 
 What better way to train those programmer fingers than a good climbing session? Every now and then, we organise unofficial outings to the climbing wall for some exercise after the Friday sessions. It's an excellent opportunity to challenge oneself and strengthen the group spirit\!
 
-<!-- ![alt text](rocodromo.webp) -->
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
   <img src="/images/about/rocodromo.webp" alt="Rocódromo" style="width: 100%; max-width: 600px;border-radius: 12px;">
 </div>

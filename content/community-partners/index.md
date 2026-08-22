@@ -2,8 +2,6 @@
 title: 'Patrocinadores'
 date: 2024-09-15T19:02:36+02:00
 
-draft: false
-language: es
 description: Patrocinadores
 ---
 
@@ -71,14 +69,3 @@ Desde el CAUS, queremos expresar nuestro más sincero agradecimiento por su apoy
   <br>
   </div>
 </details>
-
-<!-- <div class="my-6 rounded-lg border border-dashed border-gray-300 bg-gray-100 px-4 py-3 text-center dark:border-gray-600 dark:bg-gray-800">
-  <p class="text-sm font-medium text-gray-700 dark:text-gray-300">
-    ¿Quieres aparecer aquí el próximo curso?
-    <a href="/contact"
-       class="ml-1 font-semibold text-primary hover:underline">
-      ¡Contacta con nosotros!
-    </a>
-  </p>
-</div>
- -->

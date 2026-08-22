@@ -1,8 +1,6 @@
 ---
 title: 'XII Edición de la Final Nacional del Concurso Ada Byron'
 date: 2026-07-05T18:00:00+00:00
-draft: false
-language: es
 featured_image: images/featured/Ada-Byron-Nacional-3.webp
 
 summary: La XII Final Nacional del Concurso Ada Byron reunió en Madrid a 42 equipos de 23 universidades españolas. La Universidad de Sevilla estuvo representada por cuatro equipos, destacando el noveno puesto de TLE Climbers, que se situó entre los diez mejores equipos de España.
@@ -10,7 +8,6 @@ summary: La XII Final Nacional del Concurso Ada Byron reunió en Madrid a 42 equ
 description: La XII Final Nacional del Concurso Ada Byron se celebró los días 3 y 4 de julio en la Facultad de Informática de la Universidad Complutense de Madrid. La Universidad de Sevilla participó con cuatro equipos clasificados —SQLito, Teorema de Pigátoras, Just Simply FLML y TLE Climbers—, siendo este último protagonista de una destacada actuación al finalizar en novena posición entre los 42 equipos participantes.
 
 author: Administradores CAUS
-authorimage: images/pages/logo_CAUS.webp
 categories: Eventos
 tags: Eventos
 ---

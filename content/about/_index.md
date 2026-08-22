@@ -2,8 +2,6 @@
 title: 'Sobre nosotros'
 date: 2024-08-22T11:18:36+08:00
 toc: true
-draft: false
-language: es
 description: About Us
 layout: single
 ---
