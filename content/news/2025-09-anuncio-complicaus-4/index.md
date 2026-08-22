@@ -37,7 +37,7 @@ El **CompliCAUS** es nuestra propia competición de programación, abierta a tod
 
   <div style="display: flex; justify-content: center; flex-direction: column">
     <a href="https://www.informatica.us.es/">
-        <img src="/images/global/logo-etsii-fondo-blanco.webp" alt="Logo de la Escuela Técnica Superior de Ingeniería Informática" style="width: 25rem; max-width: 80%; margin: auto;">
+        <img src="/images/global/logo-ETSII-Color.webp" alt="Logo de la Escuela Técnica Superior de Ingeniería Informática" style="width: 25rem; max-width: 80%; margin: auto;">
     </a>
     <p style="margin: auto">Patrocinador Platino</p>
   </div>

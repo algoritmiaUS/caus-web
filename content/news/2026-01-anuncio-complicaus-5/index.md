@@ -42,9 +42,9 @@ Con el apoyo de:
 
 <div style="display: flex; justify-content: center; flex-direction: column; gap: 1rem;">
   <a href="https://www.nextdigital.es/">
-      <img src="/images/global/logo-next-digital-fondo-blanco.webp" alt="Logo de Next Digital" style="width: 25rem; max-width: 80%; margin: auto;">
+      <img src="/images/global/Logo_ND.webp" alt="Logo de Next Digital" style="width: 25rem; max-width: 80%; margin: auto;">
   </a>
   <a href="https://www.informatica.us.es/">
-      <img src="/images/global/logo-etsii-fondo-blanco.webp" alt="Logo de la Escuela Técnica Superior de Ingeniería Informática" style="width: 25rem; max-width: 80%; margin: auto; border-radius: .5rem;">
+      <img src="/images/global/logo-ETSII-Color.webp" alt="Logo de la Escuela Técnica Superior de Ingeniería Informática" style="width: 25rem; max-width: 80%; margin: auto; border-radius: .5rem;">
   </a>
 </div>
