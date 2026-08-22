@@ -42,29 +42,10 @@ jobs:
 
       - name: Check image formats
         run: |
-          forbidden_files=$(
-            find . \
-              -type f \
-              \( \
-                -iname '*.jpg' \
-                -o -iname '*.jpeg' \
-                -o -iname '*.png' \
-                -o -iname '*.gif' \
-                -o -iname '*.bmp' \
-                -o -iname '*.tiff' \
-                -o -iname '*.ico' \
-              \) \
-              -not -path './.git/*'
-          )
-
-          if [[ -n "$forbidden_files" ]]; then
-            echo "::error::Only .webp and .svg images are allowed."
-            echo
-            echo "Run: bun convert"
+          if git ls-files | grep -Eiq '\.(jpe?g|png|gif|bmp|tiff|ico)$'; then
+            echo "::error::Only .webp and .svg images are allowed. Run: bun convert"
             exit 1
           fi
-
-          echo "Image format check passed."
 
       - name: Format check
         run: bun run format:check

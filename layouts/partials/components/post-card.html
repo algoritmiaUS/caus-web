@@ -13,7 +13,7 @@
             </p>
         </div>
         <div class="flex pt-6 font-medium text-primary-600 dark:text-primary-100 text-md">
-            <span class="pr-2 font-black">Tags:</span>
+            <span class="pr-2 font-black">{{ i18n "post.tags" }}</span>
             <span>
             {{ range $elem_index, $elem_val := (.GetTerms "tags") }}
             {{- if gt $elem_index 0 }}, {{ end -}}
@@ -34,7 +34,7 @@
                 <div class="flex space-x-1 text-sm text-gray-500 dark:text-white">
                     <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "02-01-2006" }}</time>
                     <span aria-hidden="true">&middot;</span>
-                    <span>{{ math.Round (div (countwords .Content) 220.0) }} min read</span>
+                    <span>{{ math.Round (div (countwords .Content) 220.0) }} {{ i18n "post.read_time" }}</span>
                 </div>
             </div>
         </div>

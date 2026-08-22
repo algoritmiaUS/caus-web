@@ -8,16 +8,22 @@ languages:
   es:
     label: Español
     weight: 1
+    params:
+      description:
+        "Club de Algoritmia de la Universidad de Sevilla: charlas, competiciones de programación y
+        una comunidad abierta para aprender algoritmia."
   en:
     label: English
     weight: 2
+    params:
+      description:
+        "Algorithm Club of the University of Seville: talks, programming contests and an open
+        community for learning algorithms."
 
 # General site settings
 enableEmoji: true
-enableGitInfo: true
 enableInlineShortcodes: true
 enableRobotsTXT: true
-canonifyURLs: true
 
 pagination:
   pagerSize: 9
@@ -30,7 +36,6 @@ params:
   theme_color: "#ffffff"
 
   disable_theme_toggle: false
-  disable_stay_uptodate: false
 
   p1:
     image: "images/pages/complicaus-5.webp"
@@ -82,69 +87,8 @@ taxonomies:
 # Markdown
 markup:
   goldmark:
-    extensions:
-      definitionList: true
-      footnote: true
-      linkify: true
-      linkifyProtocol: https
-      strikethrough: true
-      table: true
-      taskList: true
-
-      typographer:
-        apostrophe: "&rsquo;"
-        disable: false
-        ellipsis: "&hellip;"
-        emDash: "&mdash;"
-        enDash: "&ndash;"
-        leftAngleQuote: "&laquo;"
-        leftDoubleQuote: "&ldquo;"
-        leftSingleQuote: "&lsquo;"
-        rightAngleQuote: "&raquo;"
-        rightDoubleQuote: "&rdquo;"
-        rightSingleQuote: "&rsquo;"
-
-    parser:
-      attribute:
-        block: false
-        title: true
-      autoHeadingID: true
-      autoHeadingIDType: github
-      wrapStandAloneImageWithinParagraph: true
-
     renderer:
-      hardWraps: false
       unsafe: true
-      xhtml: false
-
-# Privacy
-privacy:
-  disqus:
-    disable: false
-
-  googleAnalytics:
-    anonymizeIP: true
-    disable: false
-    respectDoNotTrack: false
-    useSessionStorage: false
-
-  instagram:
-    disable: false
-    simple: false
-
-  twitter:
-    disable: false
-    enableDNT: false
-    simple: false
-
-  vimeo:
-    disable: false
-    enableDNT: false
-    simple: false
-
-  youtube:
-    privacyEnhanced: true
-    disable: false
 
 # Hugo modules
 module:
@@ -156,6 +100,5 @@ module:
 security:
   exec:
     allow:
-      - "^git"
       - "^tailwindcss$"
       - "^node$"
