@@ -72,8 +72,4 @@ Cada cuatrimestre, organizamos una comida especial para celebrar nuestros logros
   <img src="/images/about/rocodromo.webp" alt="Rocódromo" style="width: 100%; max-width: 600px;border-radius: 12px;">
 </div>
 
-# Nuestro equipo
-
-Conoce a las personas que hacen posible este proyecto, comprometidos con nuestra misión y valores.
-
-{{< team-section >}}
+¿Quieres saber quiénes somos? [Conoce a nuestro equipo →](/about/members/)
