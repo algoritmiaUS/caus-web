@@ -1,4 +1,3 @@
-// --- Lightbox (only loaded on pages that render the `rankings` shortcode) ---
 var lightbox = document.getElementById('lightbox');
 var lightboxImage = document.getElementById('lightbox-image');
 var lightboxClose = document.getElementById('lightbox-close');
@@ -26,8 +25,6 @@ function closeLightbox() {
 }
 
 if (lightbox) {
-  // Delegate so any button carrying data-lightbox-src works, no matter
-  // where it lives on the page.
   document.addEventListener('click', function (e) {
     var trigger = e.target.closest('[data-lightbox-src]');
     if (trigger) {

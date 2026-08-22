@@ -1,4 +1,3 @@
-// Mobile nav toggle
 var menuToggle = document.getElementById('menu-toggle');
 var menu = document.getElementById('menuItems');
 var menuIconOpen = document.getElementById('menu-icon-open');
@@ -15,7 +14,6 @@ menuToggle.addEventListener('click', function () {
   setMenu(menu.classList.contains('hidden'));
 });
 
-// Language switcher dropdown
 var langSwitcher = document.getElementById('lang-switcher');
 var langToggle = document.getElementById('lang-toggle');
 var langPanel = document.getElementById('lang-panel');

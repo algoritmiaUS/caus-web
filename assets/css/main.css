@@ -1,17 +1,13 @@
-/* assets */
 @import 'tailwindcss';
 @import './colors.css';
 
-@config './tailwind.config.js';
+@source '../../layouts/**/*.html';
+@source '../../content/**/*.md';
 
-/*
-  The default border color has changed to `currentColor` in Tailwind CSS v4,
-  so we've added these compatibility styles to make sure everything still
-  looks the same as it did with Tailwind CSS v3.
+@plugin '@tailwindcss/typography';
 
-  If we ever want to remove these styles, we need to add an explicit border
-  color utility to any element that depends on these defaults.
-*/
+@custom-variant dark (&:is(.dark *));
+
 @layer base {
   *,
   ::after,
@@ -22,14 +18,12 @@
   }
 }
 
-/* Custom CSS */
-
 @layer components {
   .grid-auto-fit-center {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(17rem, 1fr));
     justify-content: center;
-    max-width: 75rem; /* 1200px */
+    max-width: 75rem;
     margin-inline: auto;
   }
   .grid-auto-fit-member {
@@ -40,16 +34,41 @@
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr));
   }
-  .styled-calendar-container {
-    width: 50%;
-    border: none;
-  }
-  @media (max-width: 768px) {
-    .styled-calendar-container {
-      width: 100%;
-      min-width: 300px;
-    }
-  }
+}
+
+.prose {
+  --tw-prose-body: var(--color-zinc-800);
+  --tw-prose-headings: var(--color-zinc-900);
+  --tw-prose-lead: var(--color-zinc-700);
+  --tw-prose-links: var(--color-zinc-900);
+  --tw-prose-bold: var(--color-zinc-900);
+  --tw-prose-counters: var(--color-zinc-600);
+  --tw-prose-bullets: var(--color-zinc-400);
+  --tw-prose-hr: var(--color-zinc-300);
+  --tw-prose-quotes: var(--color-zinc-900);
+  --tw-prose-quote-borders: var(--color-zinc-300);
+  --tw-prose-captions: var(--color-zinc-700);
+  --tw-prose-code: var(--color-indigo-500);
+  --tw-prose-pre-code: var(--color-indigo-300);
+  --tw-prose-pre-bg: var(--color-gray-900);
+  --tw-prose-th-borders: var(--color-zinc-300);
+  --tw-prose-td-borders: var(--color-zinc-200);
+  --tw-prose-invert-body: var(--color-zinc-200);
+  --tw-prose-invert-headings: var(--color-white);
+  --tw-prose-invert-lead: var(--color-zinc-300);
+  --tw-prose-invert-links: var(--color-indigo-400);
+  --tw-prose-invert-bold: var(--color-white);
+  --tw-prose-invert-counters: var(--color-zinc-400);
+  --tw-prose-invert-bullets: var(--color-zinc-200);
+  --tw-prose-invert-hr: var(--color-zinc-500);
+  --tw-prose-invert-quotes: var(--color-zinc-100);
+  --tw-prose-invert-quote-borders: var(--color-zinc-700);
+  --tw-prose-invert-captions: var(--color-zinc-400);
+  --tw-prose-invert-code: var(--color-indigo-400);
+  --tw-prose-invert-pre-code: var(--color-indigo-300);
+  --tw-prose-invert-pre-bg: var(--color-gray-900);
+  --tw-prose-invert-th-borders: var(--color-zinc-100);
+  --tw-prose-invert-td-borders: var(--color-zinc-500);
 }
 
 .prose :where(h1):not(:where([class~='not-prose'] *)) {
@@ -58,5 +77,3 @@
 .dark .prose :where(h1):not(:where([class~='not-prose'] *)) {
   color: var(--color-white) !important;
 }
-
-/* Custom CSS end */
