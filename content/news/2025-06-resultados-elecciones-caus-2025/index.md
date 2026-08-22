@@ -11,62 +11,75 @@ tags: Eventos
 
 En las elecciones del Club de Algoritmia de la Universidad de Sevilla (CAUS) para el curso **2025-2026**, participaron **19 miembros**. ¡Gracias a todos por su implicación! 🎉
 
----
-
-## 🗳️ Resultados por categoría
-
-A continuación presentamos los resultados oficiales por cada área del club. ¡Enhorabuena a todos los seleccionados!
+A continuación se detalla cómo han quedado los equipos para este nuevo curso.
 
 ### 👨‍💻 Web Masters
 
 En esta categoría se elegía a una persona para apoyar en el desarrollo de la web del club junto a Kenny. La persona seleccionada ha sido:
 
-- **Fernando Giráldez Curquejo**
+<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 mt-8 justify-items-center">
+
+{{< person name="Fernando Giráldez" image="/images/elecciones-25-26/fernando-giraldez.webp" >}}
+
+</div>
 
 Fernando ha estado vinculado al club desde bachillerato y comienza su primer año de carrera como Web Master. ¡Empieza fuerte!
 
-![Photo of the Web Master team](web-master.webp)
-
----
+![Photo of the Web Master team](/images/elecciones-25-26/web-master.webp)
 
 ### 📢 Marketing
 
 Había dos plazas disponibles para encargarse de la imagen del club en redes sociales. Las más votadas fueron:
 
-- **Inés Dávila Herrero**
-- **Lucía Campos Díez**
+<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 mt-8 justify-items-center">
+
+{{< person name="Inés Dávila" image="/images/elecciones-25-26/ines.webp" >}}
+
+{{< person name="Lucía Campos" image="/images/elecciones-25-26/lucia-diez.webp" >}}
+
+</div>
 
 Ambas aportarán frescura y creatividad al equipo de comunicación.
 
-![alt text](marketing.webp)
+![Marketing team](/images/elecciones-25-26/marketing.webp)
 
 ### 🧠 Problem Solvers
 
 La categoría más reñida. Inicialmente se ofrecían 3 plazas, pero debido a un empate técnico, se han concedido 4. Los nuevos integrantes son:
 
-- **Inés Dávila Herrero**,
-- **Lorenzo Tagua Santana**,
-- **Fernando Giráldez Curquejo**
-- **José García de Tejada Delgado**
+<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 mt-8 justify-items-center">
 
-![alt text](problem-solver.webp)
+{{< person name="Inés Dávila" image="/images/elecciones-25-26/ines.webp" >}}
+
+{{< person name="Lorenzo Tagua" image="/images/elecciones-25-26/lorenzo.webp" >}}
+
+{{< person name="Fernando Giráldez" image="/images/elecciones-25-26/fernando-giraldez.webp" >}}
+
+{{< person name="José García" image="/images/elecciones-25-26/jose.webp" >}}
+
+</div>
 
 Un equipo con muchísimo potencial para que, tanto nuevos como veteranos, sigamos creciendo juntos en las competiciones. ¡Que el podio del regional Ada Byron del próximo año hable solo de la US! 😄
 
----
+![Problem Solver team](/images/elecciones-25-26/problem-solver.webp)
 
 ### 🎪 Events Managers
 
 Pablo Dávila continuará apoyando de forma puntual en la organización de eventos, pero cede el protagonismo a los nuevos responsables:
 
-- **José García de Tejada Delgado**
-- **Lucía Campos Díez**
+<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 mt-8 justify-items-center">
 
-![alt text](events-manager.webp)
+{{< person name="José García" image="/images/elecciones-25-26/jose.webp" >}}
+
+{{< person name="Lucía Campos" image="/images/elecciones-25-26/lucia-diez.webp" >}}
+
+{{< person name="Pablo Dávila" image="/images/elecciones-25-26/pablo-davila.webp" subtitle="Support Events" >}}
+
+</div>
 
 ¡Mucha ilusión y ganas de hacer grandes cosas este año!
 
----
+![Events Manager team](/images/elecciones-25-26/events-manager.webp)
 
 ### 👋 Despedida a quienes se retiran
 
@@ -79,88 +92,23 @@ Pablo Dávila continuará apoyando de forma puntual en la organización de event
 
 Por lo que, los nuevos administradores para este nuevo curso 2025/26 son:
 
----
+<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 mt-8 justify-items-center">
 
-<div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4 mt-8 items-stretch">
+{{< person name="Pablo Reina" image="/images/elecciones-25-26/pablo-reina.webp" subtitle="Presidente y Problem Solver – Doctorado en Ingeniería Informática" >}}
 
-  <div class="flex flex-col items-center text-center p-4 rounded h-[260px]">
-    <img src="pablo-reina.webp" alt="Pablo Reina"
-         class="w-24 h-24 rounded-full object-cover object-center shadow-md bg-gray-100 mb-3">
-    <p class="font-semibold text-sm truncate w-full">Pablo Reina</p>
-    <p class="text-xs text-gray-500 text-wrap text-center mt-1 leading-tight">
-      Presidente y Problem Solver<br>
-      Doctorado en Ingeniería Informática
-    </p>
-  </div>
+{{< person name="Kenny Flores" image="/images/elecciones-25-26/kenny.webp" subtitle="Web Master y Problem Solver – Doctorado en Organización Industrial" >}}
 
-  <div class="flex flex-col items-center text-center p-4 rounded h-[260px]">
-    <img src="fernando-giraldez.webp" alt="Fernando Giráldez"
-         class="w-24 h-24 rounded-full object-cover object-center shadow-md bg-gray-100 mb-3">
-    <p class="font-semibold text-sm truncate w-full">Fernando Giráldez</p>
-    <p class="text-xs text-gray-500 text-wrap text-center mt-1 leading-tight">
-      Web Master y Problem Solver<br>
-      ???
-    </p>
-  </div>
+{{< person name="Fernando Giráldez" image="/images/elecciones-25-26/fernando-giraldez.webp" subtitle="Web Master y Problem Solver" >}}
 
-  <div class="flex flex-col items-center text-center p-4 rounded h-[260px]">
-    <img src="kenny.webp" alt="Photo of Kenny Flores"
-         class="w-24 h-24 rounded-full object-cover object-center shadow-md bg-gray-100 mb-3">
-    <p class="font-semibold text-sm truncate w-full">Kenny Flores</p>
-    <p class="text-xs text-gray-500 text-wrap text-center mt-1 leading-tight">
-      Web Master y Problem Solver <br> Doctorado en Organización Industrial
-    </p>
-  </div>
+{{< person name="Inés Dávila" image="/images/elecciones-25-26/ines.webp" subtitle="Marketing & Problem Solver" >}}
 
-  <div class="flex flex-col items-center text-center p-4 rounded h-[260px]">
-    <img src="ines.webp" alt="Inés Dávila"
-         class="w-24 h-24 rounded-full object-cover object-center shadow-md bg-gray-100 mb-3">
-    <p class="font-semibold text-sm truncate w-full">Inés Dávila</p>
-    <p class="text-xs text-gray-500 text-wrap text-center mt-1 leading-tight">
-      Marketing & Problem Solver<br>
-      ???
-    </p>
-  </div>
+{{< person name="Lucía Campos" image="/images/elecciones-25-26/lucia-diez.webp" subtitle="Marketing y Event Manager – Ingeniería de Software" >}}
 
-  <div class="flex flex-col items-center text-center p-4 rounded h-[260px]">
-    <img src="lucia-diez.webp" alt="Lucía Campos"
-         class="w-24 h-24 rounded-full object-cover object-center shadow-md bg-gray-100 mb-3">
-    <p class="font-semibold text-sm truncate w-full">Lucía Campos</p>
-    <p class="text-xs text-gray-500 text-wrap text-center mt-1 leading-tight">
-      Marketing y Event Manager<br>
-      Ingeniería de Software
-    </p>
-  </div>
+{{< person name="José García" image="/images/elecciones-25-26/jose.webp" subtitle="Problem Solver y Event Manager – Máster IA" >}}
 
-  <div class="flex flex-col items-center text-center p-4 rounded h-[260px]">
-    <img src="jose.webp" alt="José García"
-         class="w-24 h-24 rounded-full object-cover object-center shadow-md bg-gray-100 mb-3">
-    <p class="font-semibold text-sm truncate w-full">José García</p>
-    <p class="text-xs text-gray-500 text-wrap text-center mt-1 leading-tight">
-      Problem Solver y Event Manager<br>
-      Máster IA
-    </p>
-  </div>
+{{< person name="Lorenzo Tagua" image="/images/elecciones-25-26/lorenzo.webp" subtitle="Problem Solver" >}}
 
-  <div class="flex flex-col items-center text-center p-4 rounded h-[260px]">
-    <img src="lorenzo.webp" alt="Lorenzo Tagua"
-         class="w-24 h-24 rounded-full object-cover object-center shadow-md bg-gray-100 mb-3">
-    <p class="font-semibold text-sm truncate w-full">Lorenzo Tagua</p>
-    <p class="text-xs text-gray-500 text-wrap text-center mt-1 leading-tight">
-      Problem Solver<br>
-      ???
-    </p> 
-  </div>
-
-  <div class="flex flex-col items-center text-center p-4 rounded h-[260px]">
-    <img src="pablo-davila.webp" alt="Pablo Dávila"
-         class="w-24 h-24 rounded-full object-cover object-center shadow-md bg-gray-100 mb-3">
-    <p class="font-semibold text-sm truncate w-full">Pablo Dávila</p>
-    <p class="text-xs text-gray-500 text-wrap text-center mt-1 leading-tight">
-      Support Events<br>
-      ???
-    </p>
-  </div>
+{{< person name="Pablo Dávila" image="/images/elecciones-25-26/pablo-davila.webp" subtitle="Support Events" >}}
 
 </div>
 
