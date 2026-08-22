@@ -7,9 +7,17 @@ main:
     name: About us
     url: /about/
     weight: 20
+  - identifier: members
+    name: Members
+    url: /about/members/
+    weight: 30
 
 footer:
   - identifier: about
     name: About Us
     url: /about/
     weight: 10
+  - identifier: members
+    name: Members
+    url: /about/members/
+    weight: 20
