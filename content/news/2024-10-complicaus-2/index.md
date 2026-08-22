@@ -1,8 +1,6 @@
 ---
 title: 'Celebrado el CompliCAUS II'
 date: 2024-10-27T09:00:00+00:00
-draft: false
-language: es
 featured_image: images/featured/CompliCAUS-2-Foto-grupal.webp
 summary: La segunda edición de CompliCAUS, organizada por el Club de Algoritmia de la Universidad de Sevilla, reunió a estudiantes de distintas disciplinas y niveles académicos, retándolos a resolver problemas en la plataforma Virtual Judge.
 description: El 18 de octubre tuvo lugar la segunda edición de CompliCAUS, una competición de algoritmia organizada por el Club de Algoritmia de la Universidad de Sevilla y patrocinada por la ETSII. Esta competición, que congregó a estudiantes de diferentes facultades de la US y alumnos de bachillerato, ofreció un reto estimulante que puso a prueba las habilidades de resolución de problemas de los participantes. El evento demostró que la pasión por la programación es una fuerza que supera fronteras académicas. Agradecemos profundamente el apoyo de la ETSII y de Mª Lourdes Miró. ¡Esperamos verlos en la próxima edición!
@@ -33,7 +31,6 @@ Al terminar la competición, los responsables del CAUS, Pablo Dávila, Pablo Rei
 
 ![Resolución problemas](resolucion-problemas.webp)
 
-<!-- *Este es el subtítulo de la imagen.* -->
 
 # Entrega de premios
 
@@ -45,4 +42,3 @@ La competición fue reñida desde el inicio, con cambios frecuentes en los prime
 
 Agradecemos a la Escuela Técnica Superior de Ingeniería Informática por su patrocinio y apoyo, así como a María Lourdes Miró (Subdirectora de Estudiantes, Innovación y Responsabilidad Social) y Juan Antonio Álvarez García (Subdirector de Investigación, Transferencia y Emprendimiento) quienes han sido clave para hacer de este evento una realidad.
 
-<!-- Este ha sido solo el comienzo de lo que esperamos sea una larga tradición en la Universidad de Sevilla. Estamos seguros de que vendrán más competiciones como esta, donde los estudiantes podrán seguir desafiándose, aprendiendo y, por supuesto, divirtiéndose con la programación y la algoritmia. ¡Nos vemos en la próxima edición de CompliCAUS! -->

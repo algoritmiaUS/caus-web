@@ -1,8 +1,6 @@
 ---
 title: Plataformas
 date: 2025-08-11
-draft: false
-language: es
 description: Los mejores jueces en línea y sitios de concursos
 weight: 20
 ---

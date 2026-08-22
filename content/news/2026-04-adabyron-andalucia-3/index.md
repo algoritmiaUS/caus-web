@@ -1,8 +1,6 @@
 ---
 title: 'III Edición Regional de Andalucía del Concurso Ada Byron'
 date: 2026-04-17T13:00:00+00:00
-draft: false
-language: es
 featured_image: images/featured/Ada-Byron-Andalucia-3.webp
 
 summary: La III Edición Regional de Andalucía del concurso Ada Byron reunió a más de 200 participantes distribuidos en 69 equipos de distintas universidades andaluzas y la UNED. El certamen se celebró simultáneamente en seis sedes y consistió en una competición de 4 horas para resolver 13 problemas de programación. Destacaron los equipos de la Universidad de Sevilla, con tres clasificados para la final nacional en Madrid. El evento contó con el apoyo del Club de Algoritmia de la Universidad de Sevilla y la colaboración de las distintas sedes universitarias.

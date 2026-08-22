@@ -2,7 +2,6 @@
 title: 'Members'
 date: 2026-08-21T00:00:00+00:00
 toc: false
-draft: false
 language: en
 description: Members of the Algorithms Club
 ---

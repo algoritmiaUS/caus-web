@@ -1,8 +1,6 @@
 ---
 title: 'Anuncio: CompliCAUS V!'
 date: 2026-01-22
-draft: false
-language: es
 featured_image: images/featured/Cartel-CompliCAUS-5.webp
 summary: 'Participa en la quinta edición del CompliCAUS, la competición interna de programación organizada por el Club de Algoritmia de la Universidad de Sevilla. Prepárate para resolver problemas de distintos niveles el próximo 13 de febrero en la ETSII junto a tus compañeros.'
 description: 'El Club de Algoritmia de la Universidad de Sevilla presenta la quinta edición del CompliCAUS, una competición de programación abierta a todos los interesados. En esta competición tenemos la novedad de que es en equipos. Con problemas diseñados para desafiar tanto a principiantes como a expertos, esta edición promete ser un evento emocionante y formativo. Inscríbete y demuestra tus habilidades en una jornada llena de retos y diversión.'

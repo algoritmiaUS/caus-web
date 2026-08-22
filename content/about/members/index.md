@@ -2,8 +2,6 @@
 title: 'Miembros'
 date: 2026-08-21T00:00:00+00:00
 toc: false
-draft: false
-language: es
 description: Miembros del Club de Algoritmia
 ---
 

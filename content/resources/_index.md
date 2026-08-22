@@ -1,8 +1,6 @@
 ---
 title: Recursos
 date: 2025-08-11T01:40:00+02:00
-draft: false
-language: es
 description: Competitive programming resources
 ---
 

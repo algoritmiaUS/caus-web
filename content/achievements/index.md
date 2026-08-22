@@ -2,14 +2,11 @@
 title: 'Logros'
 date: 2025-01-06T21:23:52+02:00
 
-draft: false
-language: es
 description: Logros
 ---
 
 Desde nuestra fundación, hemos recibido diversos premios y reconocimientos que reflejan nuestro compromiso con la innovación y el trabajo en equipo. Estos logros, obtenidos en competiciones locales y nacionales, son un testimonio de nuestra dedicación y pasión por resolver problemas a través de la tecnología. A continuación, presentamos los premios y menciones que hemos alcanzado hasta la fecha.
 
-<!-- ============ 2026 ============ -->
 
 {{< year "2026" >}}
 
@@ -19,7 +16,6 @@ El 13 de febrero de 2026 se celebró la quinta edición del CompliCAUS. Aprovech
 
 {{< rankings "complicaus5" >}}
 
-<!-- ============ 2025 ============ -->
 
 {{< year "2025" >}}
 
@@ -43,7 +39,6 @@ La principal novedad de esta edición fue el patrocinio de la empresa NEXT DIGIT
 
 {{< rankings "complicaus3" >}}
 
-<!-- ============ 2024 ============ -->
 
 {{< year "2024" >}}
 

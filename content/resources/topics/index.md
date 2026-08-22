@@ -1,8 +1,6 @@
 ---
 title: Temas
 date: 2025-08-11
-draft: false
-language: es
 description: Mapa de ruta de algoritmos y estructuras de datos
 weight: 30
 ---
