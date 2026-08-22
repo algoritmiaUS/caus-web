@@ -169,7 +169,7 @@ Durante la competición, la resolución de dudas y la verificación de resultado
 - **Pablo Reina Jiménez**
 - **Kenny Jesús Flores Huamán**
 
-Las soluciones a los problemas propuestos están disponibles en nuestro [repositorio de GitHub](https://github.com/algoritmiaUS/ada-byron), junto con una [guía detallada para abordarlos](Soluciones-Regional-Andalucia-ii.pdf).
+  Para aquellos que quieran revisar los problemas, aprender nuevas estrategias o practicar para próximas ediciones, hemos publicado los enunciados, soluciones y explicación de las soluciones en nuestro [repositorio de GitHub](https://github.com/algoritmiaUS/ada-byron/tree/master/2025/regional-andaluza).
 
 Desde la organización, también vivimos nuestro propio reto: además de supervisar cientos de envíos en C, C++, Java y Python, fue necesario resolver algunas incidencias en tiempo real, lo cual supuso un esfuerzo importante y enriquecedor.
 
