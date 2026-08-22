@@ -69,6 +69,6 @@ Los encargados de resolver dudas y verificar los resultados proporcionados por e
 - **Pablo Reina Jiménez**
 - **Kenny Jesús Flores Huamán**
 
-Las soluciones a los problemas de la competición están disponibles en nuestro [repositorio de GitHub](https://github.com/algoritmiaUS/ada-byron). Además, puedes consultar una [guía detallada para resolver los problemas planteados](Soluciones-Regional-Andalucía.pdf).
+Para aquellos que quieran revisar los problemas, aprender nuevas estrategias o practicar para próximas ediciones, hemos publicado los enunciados, soluciones y explicación de las soluciones en nuestro [repositorio de GitHub](https://github.com/algoritmiaUS/ada-byron/tree/master/2024/regional-andaluza).
 
 Finalmente, desde el **CAUS**, queremos expresar nuestro agradecimiento a la **Escuela Técnica Superior de Ingeniería Informática de Sevilla** por hacer de sede para la fase regional, así como a los organizadores de **Ada Byron Madrid** y **Galicia** por hacer posible esta primera edición andaluza.
