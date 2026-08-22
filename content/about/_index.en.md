@@ -5,6 +5,7 @@ toc: true
 draft: false
 language: en
 description: About Us
+layout: single
 ---
 
 Welcome to the **Algorithms Club** (**Club de Algoritmia**), a group founded by students of the **University of Seville** with the aim of learning and perfecting programming skills through collaboration and participation in competitions.
@@ -73,8 +74,4 @@ What better way to train those programmer fingers than a good climbing session? 
   <img src="/images/about/rocodromo.webp" alt="Rocódromo" style="width: 100%; max-width: 600px;border-radius: 12px;">
 </div>
 
-# Our Team
-
-Meet the people who make this project possible, committed to our mission and values.
-
-{{< team-section >}}
+Want to know who we are? [Meet our team →](/about/members/)

@@ -7,6 +7,10 @@ main:
     name: Sobre nosotros
     url: /about/
     weight: 20
+  - identifier: members
+    name: Miembros
+    url: /about/members/
+    weight: 25
   - identifier: achievementsw
     name: Logros
     url: /achievements/
@@ -29,6 +33,10 @@ footer:
     name: Sobre nosotros
     url: /about/
     weight: 10
+  - identifier: members
+    name: Miembros
+    url: /about/members/
+    weight: 15
   - identifier: news
     name: Noticias
     url: /news/

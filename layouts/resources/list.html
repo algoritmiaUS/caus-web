@@ -1,11 +1,16 @@
 {{ define "main" }}
-<main>
-    <article>
-        {{ partial "components/page-header.html" (dict "page" .) }}
-        {{ partial "components/resources.html" . }}
-        <div class="max-w-3xl px-4 sm:px-6 lg:px-8 pt-8 pb-16 mx-auto">
-            <p class="text-sm text-gray-500 dark:text-gray-400">Por si no tienes suficiente con todo lo anterior, te dejamos <a href="https://github.com/lnishan/awesome-competitive-programming" class="text-primary-600 hover:text-primary-700 dark:text-primary-400 dark:hover:text-primary-300 underline underline-offset-4" target="_blank">este listado interminable</a> de recursos extra sobre programación competitiva.</p>
-        </div>
-    </article>
-</main>
+<article>
+  <header class="mt-4">
+    <h1 class="py-16 text-5xl font-black text-center capitalize text-gray-900 dark:text-white">
+      {{ .Title }}
+    </h1>
+  </header>
+  <div class="max-w-7xl px-6 pt-6 pb-16 mx-auto prose dark:prose-invert dark:text-white">
+    {{ .Content }}
+    {{ partial "components/resources.html" . }}
+    <div class="pt-8">
+      <p class="text-sm text-gray-500 dark:text-gray-400">Por si no tienes suficiente con todo lo anterior, te dejamos <a href="https://github.com/lnishan/awesome-competitive-programming" class="text-primary-600 hover:text-primary-700 dark:text-primary-400 dark:hover:text-primary-300 underline underline-offset-4" target="_blank">este listado interminable</a> de recursos extra sobre programación competitiva.</p>
+    </div>
+  </div>
+</article>
 {{ end }}
