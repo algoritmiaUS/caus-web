@@ -1,10 +1,6 @@
 {{ define "main" }}
 <article>
-  <header class="mt-4">
-    <h1 class="py-16 text-5xl font-black text-center capitalize text-gray-900 dark:text-white">
-      {{ .Title }}
-    </h1>
-  </header>
+  {{ partial "components/page-title.html" . }}
   <div class="max-w-7xl px-6 pt-6 pb-16 mx-auto prose dark:prose-invert dark:text-white">
     {{ .Content }}
     {{ partial "components/resources.html" . }}

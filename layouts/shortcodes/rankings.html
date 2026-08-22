@@ -1,60 +1,46 @@
 {{ $dataFile := .Get 0 }} <!-- Nombre del archivo YAML -->
 {{ $data := index hugo.Data $dataFile }}
 {{ $isTeam := isset $data "teams" }}
+{{ $rows := $data.teams }}
+{{ if not $isTeam }}{{ $rows = $data.participants }}{{ end }}
+{{ $thClass := "px-4 py-3 align-middle text-center text-xs font-medium uppercase tracking-wide text-gray-500 dark:text-gray-400" }}
 
 <table class="min-w-full divide-y divide-gray-200 dark:divide-gray-700 overflow-hidden rounded-xl border border-gray-200 dark:border-gray-700 border-separate border-spacing-0">
     <thead class="bg-gray-50 dark:bg-gray-800">
       <tr>
-        <th scope="col" class="px-4 py-3 align-middle text-center text-xs font-medium uppercase tracking-wide text-gray-500 dark:text-gray-400">Pos.</th>
+        <th scope="col" class="{{ $thClass }}">Pos.</th>
         {{ if $isTeam }}
-        <th scope="col" class="px-4 py-3 align-middle text-center text-xs font-medium uppercase tracking-wide text-gray-500 dark:text-gray-400">Equipo</th>
-        <th scope="col" class="px-4 py-3 align-middle text-center text-xs font-medium uppercase tracking-wide text-gray-500 dark:text-gray-400">Integrantes</th>
+        <th scope="col" class="{{ $thClass }}">Equipo</th>
+        <th scope="col" class="{{ $thClass }}">Integrantes</th>
         {{ else }}
-        <th scope="col" class="px-4 py-3 align-middle text-center text-xs font-medium uppercase tracking-wide text-gray-500 dark:text-gray-400">Participante</th>
+        <th scope="col" class="{{ $thClass }}">Participante</th>
         {{ end }}
-        <th scope="col" class="px-4 py-3 align-middle text-center text-xs font-medium uppercase tracking-wide text-gray-500 dark:text-gray-400">Ver</th>
+        <th scope="col" class="{{ $thClass }}">Ver</th>
       </tr>
     </thead>
     <tbody class="divide-y divide-gray-100 dark:divide-gray-700 bg-white dark:bg-gray-900">
-      {{ if $isTeam }}
-      {{ range $data.teams }}
+      {{ range $rows }}
       <tr class="transition-colors hover:bg-gray-50 dark:hover:bg-gray-800">
         <td class="px-4 py-3 whitespace-nowrap align-middle text-center text-sm text-gray-500 dark:text-gray-400">{{ .position }}.º</td>
         <td class="px-4 py-3 align-middle text-center text-sm text-gray-800 dark:text-gray-200">{{ .name }}</td>
+        {{ if $isTeam }}
         <td class="px-4 py-3 align-middle text-center text-sm text-gray-700 dark:text-gray-300">
           <ul class="list-none space-y-0.5">
             {{ range .members }}<li>{{ . }}</li>{{ end }}
           </ul>
         </td>
+        {{ end }}
         <td class="px-4 py-3 align-middle text-center">
           <button
             type="button"
             data-lightbox-src="{{ strings.TrimPrefix "/" .image | absURL }}"
             class="inline-flex cursor-pointer items-center justify-center rounded-md p-1.5 text-gray-400 transition-colors hover:bg-gray-100 hover:text-gray-700 focus:outline-none focus:ring-2 focus:ring-primary-400 dark:text-gray-500 dark:hover:bg-gray-800 dark:hover:text-gray-200"
-            aria-label="Ver imagen del equipo"
+            aria-label="{{ if $isTeam }}Ver imagen del equipo{{ else }}Ver imagen del participante{{ end }}"
           >
             {{ partial "components/svg.html" (dict "name" "camera" "class" "w-4 h-4") }}
           </button>
         </td>
       </tr>
-      {{ end }}
-      {{ else }}
-      {{ range $data.participants }}
-      <tr class="transition-colors hover:bg-gray-50 dark:hover:bg-gray-800">
-        <td class="px-4 py-3 whitespace-nowrap align-middle text-center text-sm text-gray-500 dark:text-gray-400">{{ .position }}.º</td>
-        <td class="px-4 py-3 align-middle text-center text-sm text-gray-800 dark:text-gray-200">{{ .name }}</td>
-        <td class="px-4 py-3 align-middle text-center">
-          <button
-            type="button"
-            data-lightbox-src="{{ strings.TrimPrefix "/" .image | absURL }}"
-            class="inline-flex cursor-pointer items-center justify-center rounded-md p-1.5 text-gray-400 transition-colors hover:bg-gray-100 hover:text-gray-700 focus:outline-none focus:ring-2 focus:ring-primary-400 dark:text-gray-500 dark:hover:bg-gray-800 dark:hover:text-gray-200"
-            aria-label="Ver imagen del participante"
-          >
-            {{ partial "components/svg.html" (dict "name" "camera" "class" "w-4 h-4") }}
-          </button>
-        </td>
-      </tr>
-      {{ end }}
       {{ end }}
     </tbody>
   </table>
