@@ -3,20 +3,16 @@
 .showSocials | default true }}
 
 <div
-  class="flex flex-col items-center p-3 w-full
-    {{ if $compact }}max-w-xs w-full mx-auto hover:bg-gray-50/20 transition-colors{{ end }}"
+  class="flex flex-col items-center p-3 w-full {{ if $compact }}max-w-xs w-full mx-auto hover:bg-pale-slate/20 transition-colors{{ end }}"
 >
   <img
     src="{{ $m.image }}"
     alt="{{ $m.name }}"
-    class="mt-0 mb-0 rounded-full object-cover
-            {{ if and $compact (not $square) }}mx-auto
-            {{ else if $square }}aspect-square w-full max-w-[300px] mx-auto
-            {{ else }}max-w-68 max-h-68{{ end }}"
+    class="mt-0 mb-0 rounded-full object-cover {{ if and $compact (not $square) }}mx-auto {{ else if $square }}aspect-square w-full max-w-[300px] mx-auto {{ else }}max-w-68 max-h-68{{ end }}"
   />
   <h3 class="text-base font-bold mt-3 truncate">{{ $m.name }}</h3>
   {{ if $role }}
-  <p class="text-gray-400 dark:text-gray-300 text-sm truncate">
+  <p class="text-space-indigo dark:text-pale-slate text-sm truncate">
     {{ $m.role }}{{ if $dates }}<br />{{ $m.dates }}{{ end }}
   </p>
   {{ end }} {{ if $socials }}
@@ -24,7 +20,7 @@
     {{ with $m.website }} {{ if ne . "" }}
     <a
       href="{{ . }}"
-      class="text-gray-400 hover:text-gray-300 dark:text-gray-300 dark:hover:text-white"
+      class="text-space-indigo hover:text-shadow-grey dark:text-pale-slate dark:hover:text-white"
     >
       <span class="sr-only">Website</span>
       {{ partial "components/svg.html" (dict "name" "globe") }}
@@ -32,7 +28,7 @@
     {{ end }} {{ end }} {{ with $m.linkedin }} {{ if ne . "" }}
     <a
       href="https://www.linkedin.com/in/{{ . }}"
-      class="text-gray-400 hover:text-gray-300 dark:text-gray-300 dark:hover:text-white"
+      class="text-space-indigo hover:text-shadow-grey dark:text-pale-slate dark:hover:text-white"
     >
       <span class="sr-only">Linkedin</span>
       {{ partial "components/svg.html" (dict "name" "linkedin") }}
@@ -40,7 +36,7 @@
     {{ end }} {{ end }} {{ with $m.github }} {{ if ne . "" }}
     <a
       href="https://github.com/{{ . }}"
-      class="text-gray-400 hover:text-gray-300 dark:text-gray-300 dark:hover:text-white"
+      class="text-space-indigo hover:text-shadow-grey dark:text-pale-slate dark:hover:text-white"
     >
       <span class="sr-only">GitHub</span>
       {{ partial "components/svg.html" (dict "name" "github") }}
