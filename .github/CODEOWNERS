@@ -1,10 +1,8 @@
 .github/ @raquezin
 archetypes/ @raquezin
 layouts/ @raquezin
-layouts/ @raquezin
 scripts/ @raquezin
 .gitignore @raquezin
 .prettierignore @raquezin
 .prettierrc @raquezin
 package.json @raquezin
-
