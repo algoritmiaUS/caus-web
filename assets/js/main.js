@@ -28,4 +28,21 @@ document.addEventListener('click', function (e) {
     langPanel.classList.add('hidden');
     langToggle.setAttribute('aria-expanded', 'false');
   }
+  if (
+    !menu.classList.contains('hidden') &&
+    !menu.contains(e.target) &&
+    !menuToggle.contains(e.target)
+  ) {
+    setMenu(false);
+  }
+});
+
+document.addEventListener('keydown', function (e) {
+  if (e.key === 'Escape') {
+    if (!menu.classList.contains('hidden')) setMenu(false);
+    if (!langPanel.classList.contains('hidden')) {
+      langPanel.classList.add('hidden');
+      langToggle.setAttribute('aria-expanded', 'false');
+    }
+  }
 });
