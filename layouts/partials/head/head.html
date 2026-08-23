@@ -23,10 +23,8 @@
 
 {{ partial "head/meta.html" . }}
 
-{{ $js := resources.Get "js/darkmode.js" | js.Build }}
+{{ $js := resources.Get "js/index.js" | js.Build }}
 <script src="{{ $js.RelPermalink }}" defer></script>
-{{ $main := resources.Get "js/main.js" | js.Build }}
-<script src="{{ $main.RelPermalink }}" defer></script>
 {{ if .HasShortcode "rankings" }}
 {{ $lightbox := resources.Get "js/lightbox.js" | js.Build }}
 <script src="{{ $lightbox.RelPermalink }}" defer></script>
