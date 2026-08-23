@@ -16,7 +16,7 @@ Cómo anunciamos en la sesión de presentación, este curso vamos a organizar ch
 
 # Charlas de Diciembre
 
-<div class="space-y-6 dark:bg-gray-900 dark:text-gray-100">
+<div class="space-y-6 dark:bg-space-indigo dark:text-white">
 
 {{< charla
     title="GIT: Lo básico y lo que nadie te enseña"

@@ -1,36 +1,36 @@
 <div
-  class="border border-gray-200 rounded-lg p-4 md:p-6 bg-white shadow-xs dark:bg-gray-800 dark:border-gray-700"
+  class="border border-pale-slate/40 rounded-lg p-4 md:p-6 bg-white shadow-xs dark:bg-shadow-grey dark:border-pale-slate/20"
 >
-  <h2 class="text-lg font-semibold text-gray-800 dark:text-white">{{ .Get "title" }}</h2>
-  <div class="mt-4 text-gray-600 dark:text-gray-300 space-y-2">
+  <h2 class="text-lg font-semibold text-space-indigo dark:text-white">{{ .Get "title" }}</h2>
+  <div class="mt-4 text-space-indigo dark:text-pale-slate space-y-2">
     <div class="flex items-center space-x-2">
-      {{ partial "components/svg.html" (dict "name" "calendar" "class" "w-5 h-5 text-gray-600 dark:text-gray-100") }}
+      {{ partial "components/svg.html" (dict "name" "calendar" "class" "w-5 h-5 text-space-indigo dark:text-white") }}
       <span class="text-sm md:text-base">{{ .Get "date" }}</span>
     </div>
     <div class="flex items-center space-x-2">
-      {{ partial "components/svg.html" (dict "name" "clock" "class" "w-5 h-5 text-gray-600 dark:text-gray-100") }}
+      {{ partial "components/svg.html" (dict "name" "clock" "class" "w-5 h-5 text-space-indigo dark:text-white") }}
       <span class="text-sm md:text-base">{{ .Get "time" }}</span>
     </div>
     <div class="flex items-center space-x-2">
-      {{ partial "components/svg.html" (dict "name" "location" "class" "w-5 h-5 text-gray-600 dark:text-gray-100") }}
+      {{ partial "components/svg.html" (dict "name" "location" "class" "w-5 h-5 text-space-indigo dark:text-white") }}
       <span class="text-sm md:text-base">{{ .Get "location" }}</span>
     </div>
     {{ with .Get "stream_url" }}
     <div>
-      <a href="{{ . }}" class="text-blue-500 dark:text-blue-400 hover:underline"
+      <a href="{{ . }}" class="text-violet-twilight dark:text-golden-pollen hover:underline"
         >Enlace de la retransmisión telemática</a
       >
     </div>
     {{ end }}
-    <p class="mt-4 text-sm md:text-base text-gray-500 dark:text-gray-400">
+    <p class="mt-4 text-sm md:text-base text-space-indigo dark:text-pale-slate">
       <strong>Ponente:</strong> {{ .Get "speaker" | markdownify }}
     </p>
-    <div class="text-sm md:text-base text-gray-500 dark:text-gray-400">
+    <div class="text-sm md:text-base text-space-indigo dark:text-pale-slate">
       <strong>Descripción:</strong>
       {{ .Inner | markdownify }}
     </div>
     {{ with .Get "language" }}
-    <p class="text-sm md:text-base text-gray-500 dark:text-gray-400">Ponencia en {{ . }}</p>
+    <p class="text-sm md:text-base text-space-indigo dark:text-pale-slate">Ponencia en {{ . }}</p>
     {{ end }}
   </div>
 </div>

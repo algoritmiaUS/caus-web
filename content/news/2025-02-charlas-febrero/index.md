@@ -16,7 +16,7 @@ Cómo anunciamos en la sesión de presentación, este curso estamos organizando 
 
 # Charlas de febrero 2025
 
-<div class="space-y-6 dark:bg-gray-900 dark:text-gray-100">
+<div class="space-y-6 dark:bg-space-indigo dark:text-white">
 
 {{< charla
     title="Docker desde cero"

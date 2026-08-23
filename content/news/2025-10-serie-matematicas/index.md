@@ -11,7 +11,7 @@ tags: Eventos
 
 # Charla de abril
 
-<div class="space-y-6 dark:bg-gray-900 dark:text-gray-100">
+<div class="space-y-6 dark:bg-space-indigo dark:text-white">
 {{< charla
     title="Empaquetamientos de esferas: no cabe ni un alfiler"
     date="Martes, 14 de abril de 2026"
@@ -27,7 +27,7 @@ En esta charla hablaremos de simetría y orden en el espacio y de cómo un probl
 
 # Charlas impartidas
 
-<div class="space-y-6 dark:bg-gray-900 dark:text-gray-100">
+<div class="space-y-6 dark:bg-space-indigo dark:text-white">
 {{< charla
     title="Hablando de Ramanujan con Renato: lo que no te contaron de las matemáticas de Ramanujan"
     date="Jueves, 23 de octubre de 2025"

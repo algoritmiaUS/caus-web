@@ -16,7 +16,7 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
 
 # Charlas de Mayo
 
-<div class="space-y-6 dark:bg-gray-900 dark:text-gray-100">
+<div class="space-y-6 dark:bg-space-indigo dark:text-white">
 {{< charla
     title="Hay vida más allá de la IA y los datos: Robótica, drones, señales y algo de mates"
     date="Viernes, 22 de mayo de 2026"

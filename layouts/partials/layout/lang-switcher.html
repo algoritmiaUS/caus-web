@@ -4,7 +4,7 @@
     id="lang-toggle"
     type="button"
     title="{{ site.Language.Label }}"
-    class="flex grow items-center justify-start lg:justify-center px-4 py-2 mt-2 text-sm font-semibold rounded-lg lg:mt-0 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-600 focus:outline-hidden transition-colors"
+    class="flex grow items-center justify-start lg:justify-center px-4 py-2 mt-2 text-sm font-semibold rounded-lg lg:mt-0 hover:text-white focus:text-white hover:bg-violet-twilight/85 focus:bg-violet-twilight/85 focus:outline-hidden transition-colors"
     aria-expanded="false"
     aria-controls="lang-panel"
   >
@@ -13,9 +13,9 @@
 
   <div
     id="lang-panel"
-    class="hidden absolute left-0 lg:left-auto lg:right-0 top-full z-30 w-full min-w-full mt-1 overflow-hidden rounded-lg bg-gray-800 border border-gray-700 shadow-lg"
+    class="hidden absolute left-0 lg:left-auto lg:right-0 top-full z-30 w-full min-w-full mt-1 overflow-hidden rounded-lg bg-space-indigo border border-pale-slate/20 shadow-lg"
   >
-    <ul class="text-gray-200">
+    <ul class="text-white">
       {{ range hugo.Sites }} {{ if ne .Language.Name site.Language.Name }} {{ $targetSite := . }} {{
       $targetURL := "" }} {{ $targetLang := $targetSite.Language.Name }} {{ if $page.IsTranslated }}
       {{ range $page.Translations }} {{ if eq .Language.Name $targetLang }} {{ $targetURL =
@@ -24,7 +24,7 @@
 
       <li>
         <a
-          class="flex items-center justify-start lg:justify-center w-full px-4 py-2 text-left lg:text-center text-base hover:text-white hover:bg-primary-600 focus:bg-primary-600 focus:outline-hidden transition-colors"
+          class="flex items-center justify-start lg:justify-center w-full px-4 py-2 text-left lg:text-center text-base hover:text-white hover:bg-violet-twilight/85 focus:bg-violet-twilight/85 focus:outline-hidden transition-colors"
           href="{{ $targetURL }}"
           title="{{ .Language.Label }}"
         >

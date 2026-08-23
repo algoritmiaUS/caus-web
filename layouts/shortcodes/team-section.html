@@ -2,7 +2,7 @@
   <!-- Administradores -->
   <div class="col-span-full text-center">
     <h2 class="text-2xl font-bold mb-2">{{ i18n "administrators" }}</h2>
-    <p class="text-gray-500 dark:text-gray-300 text-lg">{{ i18n "administrators_desc" }}</p>
+    <p class="text-space-indigo dark:text-pale-slate text-lg">{{ i18n "administrators_desc" }}</p>
 
     <div class="grid-auto-fit-center gap-6 mt-6">
       {{ range hugo.Data.members.administrators }} {{ partial "components/team-member.html" (dict
@@ -13,7 +13,7 @@
   <!-- Colaboradores -->
   <div class="col-span-full mt-12 text-center">
     <h2 class="text-2xl font-bold mb-2">{{ i18n "collaborators" }}</h2>
-    <p class="text-gray-500 dark:text-gray-300 text-lg">{{ i18n "collaborators_desc" }}</p>
+    <p class="text-space-indigo dark:text-pale-slate text-lg">{{ i18n "collaborators_desc" }}</p>
 
     <div class="grid-auto-fit-center gap-6 mt-6">
       {{ range hugo.Data.members.collaborators }} {{ partial "components/team-member.html" (dict
@@ -24,7 +24,7 @@
   <!-- Antiguos admins -->
   <div class="col-span-full mt-12 text-center">
     <h2 class="text-2xl font-bold mb-2">{{ i18n "old_admins" }}</h2>
-    <p class="text-gray-500 dark:text-gray-300 text-lg">{{ i18n "old_admins_desc" }}</p>
+    <p class="text-space-indigo dark:text-pale-slate text-lg">{{ i18n "old_admins_desc" }}</p>
 
     <div class="grid-auto-fit-center gap-6 mt-6">
       {{ range hugo.Data.members.oldadmins }} {{ partial "components/team-member.html" (dict
