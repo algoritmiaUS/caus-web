@@ -24,25 +24,9 @@ Este equipo se encarga de dar soporte al desarrollo de la web del club y de ayud
 
 <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 mt-8 justify-items-center">
 
-  <div class="flex flex-col items-center text-center p-4 rounded w-full max-w-[240px]">
-    <img src="/images/elecciones-26-27/alepi.webp" alt="Alejandro Pineda"
-         class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
-         style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
-    <p class="font-semibold text-sm truncate w-full">Alejandro Pineda</p>
-    <p class="text-xs text-slate-400 text-wrap text-center mt-1 leading-tight">
-      Estudiante de GII – Tecnologías Informáticas
-    </p>
-  </div>
+{{< person name="Alejandro Pineda" image="/images/elecciones-26-27/alepi.webp" subtitle="Estudiante de GII – Tecnologías Informáticas" >}}
 
-  <div class="flex flex-col items-center text-center p-4 rounded w-full max-w-[240px]">
-    <img src="/images/elecciones-26-27/fernando-ml.webp" alt="Fernando Giráldez"
-         class="rounded-full object-cover object-top shadow-md bg-gray-100 mb-3 flex-shrink-0"
-         style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
-    <p class="font-semibold text-sm truncate w-full">Fernando Giráldez</p>
-    <p class="text-xs text-slate-400 text-wrap text-center mt-1 leading-tight">
-      Estudiante de GII – Ingeniería de Computadores
-    </p>
-  </div>
+{{< person name="Fernando Giráldez" image="/images/elecciones-26-27/fernando-ml.webp" subtitle="Estudiante de GII – Ingeniería de Computadores" focus="top" >}}
 
 </div>
 
@@ -52,15 +36,7 @@ El área de Marketing inicia este año una nueva etapa con el objetivo de reforz
 
 <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 mt-8 justify-items-center">
 
-  <div class="flex flex-col items-center text-center p-4 rounded w-full max-w-[240px]">
-    <img src="/images/elecciones-26-27/julia.webp" alt="Julia Moreno"
-         class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
-         style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
-    <p class="font-semibold text-sm truncate w-full">Julia Moreno</p>
-    <p class="text-xs text-slate-400 text-wrap text-center mt-1 leading-tight">
-      Estudiante de bachillerato
-    </p>
-  </div>
+{{< person name="Julia Moreno" image="/images/elecciones-26-27/julia.webp" subtitle="Estudiante de bachillerato" >}}
 
 </div>
 
@@ -68,26 +44,11 @@ Además, contaremos también con un grupo de colaboradores que apoyarán en even
 
 <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 mt-8 justify-items-center">
 
-  <div class="flex flex-col items-center text-center p-4 rounded w-full max-w-[240px]">
-    <img src="/images/elecciones-26-27/araceli.webp" alt="Araceli Guerrero"
-         class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
-         style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
-    <p class="font-semibold text-sm truncate w-full">Araceli Guerrero</p>
-  </div>
+{{< person name="Araceli Guerrero" image="/images/elecciones-26-27/araceli.webp" >}}
 
-  <div class="flex flex-col items-center text-center p-4 rounded w-full max-w-[240px]">
-    <img src="/images/elecciones-26-27/lucia-diez.webp" alt="Lucía Campos"
-         class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
-         style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
-    <p class="font-semibold text-sm truncate w-full">Lucía Campos</p>
-  </div>
+{{< person name="Lucía Campos" image="/images/elecciones-26-27/lucia-diez.webp" >}}
 
-  <div class="flex flex-col items-center text-center p-4 rounded w-full max-w-[240px]">
-    <img src="/images/admins/lucho.webp" alt="Luis Castillo"
-         class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
-         style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
-    <p class="font-semibold text-sm truncate w-full">Luis Castillo</p>
-  </div>
+{{< person name="Luis Castillo" image="/images/admins/lucho.webp" >}}
 
 </div>
 
@@ -97,76 +58,19 @@ Una de las categorías más disputadas cada año. En esta ocasión, el objetivo 
 
 <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 mt-8 justify-items-center">
 
-  <div class="flex flex-col items-center text-center p-4 rounded w-full max-w-[240px]">
-    <img src="/images/elecciones-26-27/lorenzo.webp" alt="Lorenzo Tagua"
-         class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
-         style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
-    <p class="font-semibold text-sm truncate w-full">Lorenzo Tagua</p>
-    <p class="text-xs text-slate-400 text-wrap text-center mt-1 leading-tight">
-      Estudiante de Ingeniería Industrial
-    </p>
-  </div>
+{{< person name="Lorenzo Tagua" image="/images/elecciones-26-27/lorenzo.webp" subtitle="Estudiante de Ingeniería Industrial" >}}
 
-  <div class="flex flex-col items-center text-center p-4 rounded w-full max-w-[240px]">
-    <img src="/images/elecciones-26-27/julio-ojeda.webp" alt="Julio Ojeda"
-         class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
-         style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
-    <p class="font-semibold text-sm truncate w-full">Julio Ojeda</p>
-    <p class="text-xs text-slate-400 text-wrap text-center mt-1 leading-tight">
-      Estudiante de matemáticas
-    </p>
-  </div>
+{{< person name="Julio Ojeda" image="/images/elecciones-26-27/julio-ojeda.webp" subtitle="Estudiante de matemáticas" >}}
 
-<div class="flex flex-col items-center text-center p-4 rounded w-full max-w-[240px]">
-    <img src="/images/elecciones-26-27/anselmo.webp" alt="Anselmo Jiménez"
-         class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
-         style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
-    <p class="font-semibold text-sm truncate w-full">Anselmo Jiménez  </p>
-    <p class="text-xs text-slate-400 text-wrap text-center mt-1 leading-tight">
-      Estudiante de GII – Tecnologías Informáticas y Matemáticas
-    </p>
-  </div>
+{{< person name="Anselmo Jiménez" image="/images/elecciones-26-27/anselmo.webp" subtitle="Estudiante de GII – Tecnologías Informáticas y Matemáticas" >}}
 
-<div class="flex flex-col items-center text-center p-4 rounded w-full max-w-[240px]">
-    <img src="/images/elecciones-26-27/pablo.webp" alt="Pablo Moreno "
-         class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
-         style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
-    <p class="font-semibold text-sm truncate w-full">Pablo Moreno  </p>
-    <p class="text-xs text-slate-400 text-wrap text-center mt-1 leading-tight">
-      Estudiante de GII – Tecnologías Informáticas y Matemáticas
-    </p>
-  </div>
+{{< person name="Pablo Moreno" image="/images/elecciones-26-27/pablo.webp" subtitle="Estudiante de GII – Tecnologías Informáticas y Matemáticas" >}}
 
-<div class="flex flex-col items-center text-center p-4 rounded w-full max-w-[240px]">
-    <img src="/images/elecciones-26-27/antequera.webp" alt="Miguel Antequera"
-         class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
-         style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
-    <p class="font-semibold text-sm truncate w-full">Miguel Antequera</p>
-    <p class="text-xs text-slate-400 text-wrap text-center mt-1 leading-tight">
-      Estudiante de Matemáticas y Física
-    </p>
-  </div>
+{{< person name="Miguel Antequera" image="/images/elecciones-26-27/antequera.webp" subtitle="Estudiante de Matemáticas y Física" >}}
 
-<div class="flex flex-col items-center text-center p-4 rounded w-full max-w-[240px]">
-    <img src="/images/elecciones-26-27/jesus-racero.webp" alt="Jesús Racero"
-         class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
-         style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
-    <p class="font-semibold text-sm truncate w-full">Jesús Racero </p>
-    <p class="text-xs text-slate-400 text-wrap text-center mt-1 leading-tight">
-      Estudiante de Ingeniería de Software
-    </p>
-  </div>
+{{< person name="Jesús Racero" image="/images/elecciones-26-27/jesus-racero.webp" subtitle="Estudiante de Ingeniería de Software" >}}
 
-<div class="flex flex-col items-center text-center p-4 rounded w-full max-w-[240px]">
-    <img src="/images/elecciones-26-27/ines.webp" alt="Inés Dávila"
-         class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
-         style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
-    <p class="font-semibold text-sm truncate w-full
-   ">Inés Dávila  </p>
-    <p class="text-xs text-slate-400 text-wrap text-center mt-1 leading-tight">
-      Estudiante de GII - Inteligencia Artificial
-    </p>
-  </div>
+{{< person name="Inés Dávila" image="/images/elecciones-26-27/ines.webp" subtitle="Estudiante de GII - Inteligencia Artificial" >}}
 </div>
 
 ### Events Managers
@@ -175,25 +79,9 @@ Este año este rol cobra especial importancia, ya que con la salida de Pablo Dá
 
 <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 mt-8 justify-items-center">
 
-  <div class="flex flex-col items-center text-center p-4 rounded w-full max-w-[240px]">
-    <img src="/images/elecciones-26-27/arnau.webp" alt="Arnau Neches"
-         class="rounded-full object-cover object-center shadow-md bg-gray-100 mb-3 flex-shrink-0"
-         style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
-    <p class="font-semibold text-sm truncate w-full">Arnau Neches</p>
-    <p class="text-xs text-slate-400 text-wrap text-center mt-1 leading-tight">
-      Estudiante de GII – Tecnologías Informáticas y Matemáticas
-    </p>
-  </div>
+{{< person name="Arnau Neches" image="/images/elecciones-26-27/arnau.webp" subtitle="Estudiante de GII – Tecnologías Informáticas y Matemáticas" >}}
 
-  <div class="flex flex-col items-center text-center p-4 rounded w-full max-w-[240px]">
-    <img src="/images/elecciones-26-27/vikzi.webp" alt="Victor Mesa"
-         class="rounded-full object-cover object-top shadow-md bg-gray-100 mb-3 flex-shrink-0"
-         style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; max-width: 200px; max-height: 200px;">
-    <p class="font-semibold text-sm truncate w-full">Victor Mesa</p>
-    <p class="text-xs text-slate-400 text-wrap text-center mt-1 leading-tight">
-      Estudiante de Matemáticas y Estadística
-    </p>
-  </div>
+{{< person name="Victor Mesa" image="/images/elecciones-26-27/vikzi.webp" subtitle="Estudiante de Matemáticas y Estadística" focus="top" >}}
 
 </div>
 
