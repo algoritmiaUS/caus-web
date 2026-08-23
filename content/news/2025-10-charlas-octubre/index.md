@@ -14,7 +14,7 @@ Cómo anunciamos en la sesión de presentación, este curso vamos a organizar ch
 - [En este formulario podéis indicar el horario y la temática que mejor os viene para estas actividades](https://forms.gle/UFRSKaJdg7NxaRg69)
 - [En este otro podéis apuntaros para dar vuestra propia charla](https://forms.gle/LpYS4ih8dFgfuX7N7)
 
-<div class="space-y-6 dark:bg-gray-900 dark:text-gray-100">
+<div class="space-y-6 dark:bg-space-indigo dark:text-white">
 
 {{< charla
     title="Geometría hiperbólica"
