@@ -8,7 +8,8 @@
     "tailwindcss": "^4.3.3"
   },
   "devDependencies": {
-    "prettier": "^3.9.6"
+    "prettier": "^3.9.6",
+    "prettier-plugin-go-template": "^0.0.15"
   },
   "scripts": {
     "start": "hugo server",

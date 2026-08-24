@@ -7,6 +7,12 @@
   "proseWrap": "always",
   "overrides": [
     {
+      "files": ["layouts/**/*.html"],
+      "options": {
+        "parser": "go-template"
+      }
+    },
+    {
       "files": "*.yaml",
       "options": {
         "singleQuote": false
@@ -18,5 +24,6 @@
         "proseWrap": "preserve"
       }
     }
-  ]
+  ],
+  "plugins": ["prettier-plugin-go-template"]
 }

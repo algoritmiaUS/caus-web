@@ -68,6 +68,14 @@ sponsors.description:
     together to build a more connected community and offer valuable opportunities for growth and
     innovation."
 
+events.heading:
+  other: "Latest news"
+
+events.description:
+  other:
+    "Our recent events, including meetups, workshops and more, reflect what is happening in our
+    community."
+
 ######################################
 # Team Section
 ######################################
