@@ -16,7 +16,7 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
 
 # Charlas de Abril
 
-<div class="space-y-6 dark:bg-space-indigo dark:text-white">
+<div class="space-y-6 dark:bg-surface dark:text-fg">
 {{< charla
     title="Empaquetamientos de esferas: no cabe ni un alfiler"
     date="Martes, 14 de abril de 2026"

@@ -1,24 +1,68 @@
 /*
  * colors.css — Site color palette (single source of truth).
- * How to change colors and related rules: see CONTRIBUTE.md.
+ * How to change colors and related rules: see CONTRIBUTE.pdf.
  *
- * `--color-*: initial` clears every Tailwind default so the six below are the
- * only colors the site can produce: a class naming any other color emits no
- * CSS at all, which is what makes a palette change verifiable.
+ * Semantic roles: templates never reference raw hues, so re-theming the site
+ * means editing only the hex values below. Values under `.dark` are picked up
+ * automatically wherever a role is used — no `dark:` variants needed.
  *
- * Contrast (WCAG): white/shadow-grey 17.8 · white/space-indigo 11.9 ·
- * white/violet-twilight 7.1 · pale-slate/shadow-grey 8.3 ·
- * golden-pollen/shadow-grey 11.8. Two rules follow:
- *   - violet-twilight is never text on a dark surface (2.5) — gold is.
- *   - pale-slate is never text on white (2.2) — space-indigo is.
+ * `--color-*: initial` clears every Tailwind default so the roles below are
+ * the only colors the site can produce: a class naming any other color emits
+ * no CSS at all, which is what makes a palette change verifiable.
+ *
+ * Roles that flip with the `.dark` class (see assets/js/darkmode.js):
+ *   - canvas     page background            #efedee ↔ #17151d
+ *   - surface    cards, tables, panels      #fefdfd ↔ #3a3153
+ *   - fg         primary text               #17151d ↔ #fefdfd
+ *   - muted      secondary text             #3a3153 ↔ #b1aebb
+ *   - accent     links, tags, buttons       #5f43b2 ↔ #ffc857
+ *   - on-accent  text placed on accent      #fefdfd ↔ #17151d
+ *   - wash       tinted sections, hovers    slate@25% ↔ indigo@50%
+ *
+ * Fixed roles, identical in both themes:
+ *   - line   hairlines, dividers, borders (#b1aebb)
+ *   - ink    always-dark chrome: header, footer, dropdowns (#17151d)
+ *   - paper  text on ink (#fefdfd)
+ *
+ * Contrast (WCAG): paper/ink 17.8 · fg/canvas ≥ 14 · paper/surface 11.9 ·
+ * fg/muted(light) 8.3 · on-accent/accent ≥ 7. Two rules follow:
+ *   - violet (accent in light) is never text on a dark surface (2.5) — gold is.
+ *   - pale slate (muted in dark) is never text on white (2.2) — indigo is.
  */
-@theme {
+:root {
+  --c-canvas: #efedee;
+  --c-surface: #fefdfd;
+  --c-fg: #17151d;
+  --c-muted: #3a3153;
+  --c-accent: #5f43b2;
+  --c-on-accent: #fefdfd;
+  --c-wash: rgb(177 174 187 / 0.25);
+}
+
+.dark {
+  --c-canvas: #17151d;
+  --c-surface: #3a3153;
+  --c-fg: #fefdfd;
+  --c-muted: #b1aebb;
+  --c-accent: #ffc857;
+  --c-on-accent: #17151d;
+  --c-wash: rgb(58 49 83 / 0.5);
+}
+
+@theme inline {
   --color-*: initial;
 
-  --color-white: #fefdfd;
-  --color-pale-slate: #b1aebb;
-  --color-space-indigo: #3a3153;
-  --color-shadow-grey: #17151d;
-  --color-violet-twilight: #5f43b2;
-  --color-golden-pollen: #ffc857;
+  /* Flips automatically with the .dark class. */
+  --color-canvas: var(--c-canvas);
+  --color-surface: var(--c-surface);
+  --color-fg: var(--c-fg);
+  --color-muted: var(--c-muted);
+  --color-accent: var(--c-accent);
+  --color-on-accent: var(--c-on-accent);
+  --color-wash: var(--c-wash);
+
+  /* Fixed roles, identical in both themes. */
+  --color-line: #b1aebb;
+  --color-ink: #17151d;
+  --color-paper: #fefdfd;
 }

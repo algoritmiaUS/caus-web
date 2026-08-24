@@ -1,4 +1,4 @@
-<footer class="bg-shadow-grey">
+<footer class="bg-ink">
   <div
     class="max-w-md px-4 py-12 mx-auto overflow-hidden sm:max-w-3xl sm:px-6 lg:max-w-7xl lg:px-8"
   >
@@ -6,7 +6,7 @@
       <ul class="flex flex-wrap justify-center -mx-5 -my-2">
         {{ range site.Menus.footer }}
           <li class="px-5 py-2">
-            <a href="{{ .URL | relLangURL }}" class="text-base text-pale-slate hover:text-white"
+            <a href="{{ .URL | relLangURL }}" class="text-base text-paper/80 hover:text-paper"
               >{{ .Name }}</a
             >
           </li>
@@ -19,7 +19,7 @@
           {{ with
             resources.Get (printf "images/icons/%s.svg" $name)
           }}
-            <a href="{{ $social.url }}" target="_blank" class="text-pale-slate hover:text-white">
+            <a href="{{ $social.url }}" target="_blank" class="text-paper/80 hover:text-paper">
               <span class="sr-only">{{ $name }}</span>
               {{ .Content | safeHTML }}
             </a>
@@ -27,7 +27,7 @@
         {{ end }}
       {{ end }}
     </div>
-    <p class="mt-8 text-base text-center text-pale-slate">
+    <p class="mt-8 text-base text-center text-paper/80">
       &copy; {{ now.Format "2006" }} {{ site.Title }}.
       {{ i18n "footer.rights" }}
     </p>

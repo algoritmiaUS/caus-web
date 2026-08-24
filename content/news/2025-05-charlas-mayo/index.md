@@ -16,7 +16,7 @@ Cómo anunciamos en la sesión de presentación, este curso estamos organizando 
 
 # Charlas de mayo 2025
 
-<div class="space-y-6 dark:bg-space-indigo dark:text-white">
+<div class="space-y-6 dark:bg-surface dark:text-fg">
 
 {{< charla
     title="100 años de la mecánica cuántica: la teoría más desconcertante y revolucionaria que haya existido jamás"

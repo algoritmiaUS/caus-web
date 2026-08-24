@@ -11,13 +11,13 @@
         <div class="mx-auto max-w-7xl px-6 pt-6">
           <a
             href="{{ "/resources/" | relLangURL }}"
-            class="inline-flex items-center gap-1 text-sm text-space-indigo hover:text-violet-twilight dark:text-pale-slate dark:hover:text-golden-pollen transition-colors"
+            class="inline-flex items-center gap-1 text-sm text-muted hover:text-accent transition-colors"
           >
             ⬅ Volver a Recursos
           </a>
         </div>
       {{ end }}
-      <div class="max-w-7xl px-6 pt-6 pb-16 mx-auto prose dark:prose-invert dark:text-white">
+      <div class="max-w-7xl px-6 pt-6 pb-16 mx-auto prose">
         {{ .Content }}
       </div>
       {{ if .HasShortcode "rankings" }}

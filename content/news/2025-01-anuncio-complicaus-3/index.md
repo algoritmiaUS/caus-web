@@ -9,7 +9,7 @@ categories: ['Noticias']
 tags: Eventos
 ---
 
-<p class="mb-8 font-light text-center text-space-indigo lg:mb-16 dark:text-pale-slate sm:text-xl">
+<p class="mb-8 font-light text-center text-muted lg:mb-16 sm:text-xl">
   Patrocinador principal: <a href="https://www.nextdigital.es/">NEXT DIGITAL</a>
 </p>
 

@@ -14,7 +14,7 @@
   ::before,
   ::backdrop,
   ::file-selector-button {
-    border-color: var(--color-pale-slate, currentColor);
+    border-color: var(--color-line, currentColor);
   }
 }
 
@@ -38,37 +38,22 @@
 
 @layer utilities {
   .prose {
-    --tw-prose-body: var(--color-shadow-grey);
-    --tw-prose-headings: var(--color-shadow-grey);
-    --tw-prose-lead: var(--color-space-indigo);
-    --tw-prose-links: var(--color-violet-twilight);
-    --tw-prose-bold: var(--color-shadow-grey);
-    --tw-prose-counters: var(--color-space-indigo);
-    --tw-prose-bullets: var(--color-pale-slate);
-    --tw-prose-hr: var(--color-pale-slate);
-    --tw-prose-quotes: var(--color-shadow-grey);
-    --tw-prose-quote-borders: var(--color-pale-slate);
-    --tw-prose-captions: var(--color-space-indigo);
-    --tw-prose-code: var(--color-violet-twilight);
-    --tw-prose-pre-code: var(--color-pale-slate);
-    --tw-prose-pre-bg: var(--color-shadow-grey);
-    --tw-prose-th-borders: var(--color-pale-slate);
-    --tw-prose-td-borders: var(--color-pale-slate);
-    --tw-prose-invert-body: var(--color-pale-slate);
-    --tw-prose-invert-headings: var(--color-white);
-    --tw-prose-invert-lead: var(--color-pale-slate);
-    --tw-prose-invert-links: var(--color-golden-pollen);
-    --tw-prose-invert-bold: var(--color-white);
-    --tw-prose-invert-counters: var(--color-pale-slate);
-    --tw-prose-invert-bullets: var(--color-pale-slate);
-    --tw-prose-invert-hr: var(--color-pale-slate);
-    --tw-prose-invert-quotes: var(--color-white);
-    --tw-prose-invert-quote-borders: var(--color-pale-slate);
-    --tw-prose-invert-captions: var(--color-pale-slate);
-    --tw-prose-invert-code: var(--color-golden-pollen);
-    --tw-prose-invert-pre-code: var(--color-pale-slate);
-    --tw-prose-invert-pre-bg: var(--color-shadow-grey);
-    --tw-prose-invert-th-borders: var(--color-pale-slate);
-    --tw-prose-invert-td-borders: var(--color-pale-slate);
+    /* Roles flip with .dark, so prose needs no `prose-invert` variant. */
+    --tw-prose-body: var(--color-fg);
+    --tw-prose-headings: var(--color-fg);
+    --tw-prose-lead: var(--color-muted);
+    --tw-prose-links: var(--color-accent);
+    --tw-prose-bold: var(--color-fg);
+    --tw-prose-counters: var(--color-muted);
+    --tw-prose-bullets: var(--color-line);
+    --tw-prose-hr: var(--color-line);
+    --tw-prose-quotes: var(--color-fg);
+    --tw-prose-quote-borders: var(--color-line);
+    --tw-prose-captions: var(--color-muted);
+    --tw-prose-code: var(--color-accent);
+    --tw-prose-pre-code: var(--color-line);
+    --tw-prose-pre-bg: var(--color-fg);
+    --tw-prose-th-borders: var(--color-line);
+    --tw-prose-td-borders: var(--color-line);
   }
 }
