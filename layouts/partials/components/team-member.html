@@ -29,28 +29,17 @@
     </p>
   {{ end }}
   {{ if $socials }}
+    {{ $links := slice
+      (dict "value" $m.website "url" $m.website "icon" "globe" "label" "Website")
+      (dict "value" $m.linkedin "url" (printf "https://www.linkedin.com/in/%s" $m.linkedin) "icon" "linkedin" "label" "Linkedin")
+      (dict "value" $m.github "url" (printf "https://github.com/%s" $m.github) "icon" "github" "label" "GitHub")
+    }}
     <div class="flex space-x-6 mt-2">
-      {{ with $m.website }}
-        {{ if ne . "" }}
-          <a href="{{ . }}" class="text-muted hover:text-fg">
-            <span class="sr-only">Website</span>
-            {{ partial "components/svg.html" (dict "name" "globe") }}
-          </a>
-        {{ end }}
-      {{ end }}
-      {{ with $m.linkedin }}
-        {{ if ne . "" }}
-          <a href="https://www.linkedin.com/in/{{ . }}" class="text-muted hover:text-fg">
-            <span class="sr-only">Linkedin</span>
-            {{ partial "components/svg.html" (dict "name" "linkedin") }}
-          </a>
-        {{ end }}
-      {{ end }}
-      {{ with $m.github }}
-        {{ if ne . "" }}
-          <a href="https://github.com/{{ . }}" class="text-muted hover:text-fg">
-            <span class="sr-only">GitHub</span>
-            {{ partial "components/svg.html" (dict "name" "github") }}
+      {{ range $l := $links }}
+        {{ with $l.value }}
+          <a href="{{ $l.url }}" class="text-muted hover:text-fg">
+            <span class="sr-only">{{ $l.label }}</span>
+            {{ partial "components/svg.html" (dict "name" $l.icon) }}
           </a>
         {{ end }}
       {{ end }}

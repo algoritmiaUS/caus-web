@@ -1,10 +1,8 @@
 {{ define "main" }}
   <main>
     {{ partial "home/hero.html" . }}
-    {{ partial "home/mission.html" . }}
-    {{ partial
-      "home/challenge.html" .
-    }}
+    {{ partial "home/split-feature.html" (dict "key" "mission" "image" site.Params.P1.Image "class" "py-16 sm:py-24" "imageFirst" true) }}
+    {{ partial "home/split-feature.html" (dict "key" "challenge" "image" site.Params.P2.Image "class" "bg-canvas py-16 sm:py-24") }}
     {{ partial "home/sponsors.html" . }}
     {{ if eq .Language.Name "es" }}{{ partial "home/events.html" . }}{{ end }}
   </main>

@@ -4,6 +4,3 @@
     {{ .title | default $page.Title }}
   </h1>
 </header>
-{{ with $page.Content }}
-  <div class="max-w-2xl px-6 mx-auto mt-6 prose">{{- . -}}</div>
-{{ end }}

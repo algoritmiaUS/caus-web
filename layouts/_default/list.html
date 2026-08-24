@@ -2,6 +2,9 @@
   <main>
     <article>
       {{ partial "components/page-header.html" (dict "page" .) }}
+      {{ with .Content }}
+        <div class="max-w-2xl px-6 mx-auto mt-6 prose">{{- . -}}</div>
+      {{ end }}
       {{ partial "components/posts-template.html" . }}
     </article>
     <div class="max-w-xl mx-auto my-16">{{ partial "components/pagination" . }}</div>
