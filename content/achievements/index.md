@@ -51,7 +51,7 @@ En reconocimiento al esfuerzo y la colaboración de todos los miembros, el Club 
       class="w-full rounded-lg"
       loading="lazy"
     >
-    <figcaption class="mt-2 text-center text-xs text-space-indigo dark:text-pale-slate">
+    <figcaption class="mt-2 text-center text-xs text-muted">
       Premio SOMOS ETSII (curso 2023-24)
     </figcaption>
   </figure>
