@@ -6,7 +6,7 @@ summary: 'Participa en la tercera edición del CompliCAUS, la competición inter
 description: 'El Club de Algoritmia de la Universidad de Sevilla presenta la tercera edición del CompliCAUS, una competición de programación abierta a todos los interesados. Con problemas diseñados para desafiar tanto a principiantes como a expertos, esta edición promete ser un evento emocionante y formativo. Inscríbete y demuestra tus habilidades en una jornada llena de retos y diversión.'
 author: Administradores CAUS
 categories: ['Noticias']
-tags: Eventos
+tags: ['Eventos', 'complicaus', 'competiciones']
 ---
 
 <p class="mb-8 font-light text-center text-muted lg:mb-16 sm:text-xl">

@@ -8,7 +8,7 @@ description: La III Edición Regional de Andalucía del Concurso Ada Byron se ce
 
 author: Administradores CAUS
 categories: Eventos
-tags: Eventos
+tags: ['Eventos', 'adabyron', 'competiciones']
 ---
 
 El pasado viernes 17 de abril, en la Escuela Técnica Superior de Ingeniería Informática (ETSII) se celebró la III Edición Regional de Andalucía del Concurso Ada Byron. Este certamen no solo premia la destreza lógica, sino que sirve como plataforma de preparación para el prestigioso concurso internacional ICPC.
