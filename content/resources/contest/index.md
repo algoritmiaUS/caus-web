@@ -26,7 +26,7 @@ La mejor forma de entenderlo es verlo. El siguiente vídeo muestra el ambiente, 
 
 <br>
 <div class="flex justify-center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/H7emGqxE3NI?si=Pf-P1Z9GS7BHN8AK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/H7emGqxE3NI?si=Pf-P1Z9GS7BHN8AK" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 <br>
 

@@ -90,6 +90,12 @@ markup:
     renderer:
       unsafe: true
 
+# Minify
+minify:
+  tdewolff:
+    html:
+      keepQuotes: true
+
 # Hugo modules
 module:
   hugoVersion:

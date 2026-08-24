@@ -1,7 +1,15 @@
 var lightbox = document.getElementById('lightbox');
-var lightboxImage = document.getElementById('lightbox-image');
 var lightboxClose = document.getElementById('lightbox-close');
 var lightboxPanel = lightbox ? lightbox.querySelector('div') : null;
+var lightboxImage = null;
+
+if (lightbox && lightboxPanel) {
+  lightboxImage = document.createElement('img');
+  lightboxImage.id = 'lightbox-image';
+  lightboxImage.alt = 'Imagen';
+  lightboxImage.className = 'mx-auto block h-auto max-h-[calc(90vh-2.5rem)] max-w-full rounded-md';
+  lightboxPanel.insertBefore(lightboxImage, lightboxPanel.firstChild);
+}
 
 function openLightbox(src) {
   if (!lightbox || !lightboxImage) return;
