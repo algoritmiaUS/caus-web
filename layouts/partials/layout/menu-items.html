@@ -1,11 +1,11 @@
 {{ range . }}
-<li class="flex">
-  <a
-    class="grow px-4 py-2 mt-2 text-sm font-semibold rounded-lg lg:mt-0 hover:text-white focus:text-white hover:bg-violet-twilight/85 focus:bg-violet-twilight/85 focus:outline-hidden focus:shadow-outline"
-    href="{{ .URL | relLangURL }}"
-    title="{{ .Title | default .Name }}"
-  >
-    {{ .Name }}
-  </a>
-</li>
+  <li class="flex">
+    <a
+      class="grow px-4 py-2 mt-2 text-sm font-semibold rounded-lg lg:mt-0 hover:text-white focus:text-white hover:bg-violet-twilight/85 focus:bg-violet-twilight/85 focus:outline-hidden focus:shadow-outline"
+      href="{{ .URL | relLangURL }}"
+      title="{{ .Title | default .Name }}"
+    >
+      {{ .Name }}
+    </a>
+  </li>
 {{ end }}

@@ -1,9 +1,9 @@
 <div class="mx-auto text-shadow-grey max-w-7xl dark:text-white">
-    <div class="px-4 not-prose">
-        <div class="grid gap-4 mx-auto mt-12 mb-4 lg:max-w-none md:grid-cols-3">
-            {{ range .Paginator.Pages }}
-            {{ partial "components/post-card.html" . }}
-            {{ end }}
-        </div>
+  <div class="px-4 not-prose">
+    <div class="grid gap-4 mx-auto mt-12 mb-4 lg:max-w-none md:grid-cols-3">
+      {{ range .Paginator.Pages }}
+        {{ partial "components/post-card.html" . }}
+      {{ end }}
     </div>
+  </div>
 </div>

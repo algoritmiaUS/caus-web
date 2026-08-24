@@ -1,7 +1,10 @@
 {{ define "main" }}
-<main>
-  {{ partial "home/hero.html" . }} {{ partial "home/mission.html" . }} {{ partial
-  "home/challenge.html" . }} {{ partial "home/sponsors.html" . }}
-  {{ if eq .Language.Name "es" }} {{ partial "home/events.html" .}} {{ end }}
-</main>
+  <main>
+    {{ partial "home/hero.html" . }} {{ partial "home/mission.html" . }}
+    {{ partial
+      "home/challenge.html" .
+    }}
+    {{ partial "home/sponsors.html" . }}
+    {{ if eq .Language.Name "es" }}{{ partial "home/events.html" . }}{{ end }}
+  </main>
 {{ end }}
