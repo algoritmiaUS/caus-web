@@ -6,7 +6,7 @@ summary: Resultados oficiales de las elecciones para los equipos del Club de Alg
 description: El Club de Algoritmia de la Universidad de Sevilla anuncia los resultados de sus elecciones internas, donde los miembros han elegido a los nuevos responsables de cada área para el próximo curso académico.
 author: Administradores CAUS
 categories: Eventos
-tags: Eventos
+tags: ['Eventos', 'elecciones']
 ---
 
 En las elecciones del Club de Algoritmia de la Universidad de Sevilla (CAUS) para el curso 2026-2027 han participado un total de 30 miembros. Queremos dar las gracias a todos por la implicación y por seguir haciendo crecer el club, ya que este año hemos vuelto a aumentar la participación respecto al anterior, algo que nos alegra especialmente.
