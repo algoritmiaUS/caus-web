@@ -37,10 +37,10 @@ Por petición popular, y gracias a los comentarios recibidos sobre la edición a
 <div>
   <p>Patrocinado por:</p>
 
-  <div style="display: flex; justify-content: center; flex-direction: column">
+  <div class="flex flex-col items-center">
     <a href="https://www.nextdigital.es/">
-        <img src="/images/global/Logo_ND.webp" alt="Logo de Next Digital" style="width: 25rem; max-width: 80%; margin: auto;">
+        <img src="/images/global/Logo_ND.webp" alt="Logo de Next Digital" class="w-25 max-w-[80%] mx-auto">
     </a>
-    <p style="margin: auto">Patrocinador Platino</p>
+    <p class="mx-auto">Patrocinador Platino</p>
   </div>
 </div>

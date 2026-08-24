@@ -149,12 +149,12 @@ Aunque no pertenecen a nuestra universidad, participaron en la sede de Sevilla y
 
 Además de los clasificados, queremos agradecer a los equipos **TLE Climbers**, **Virtem**, **Los Mikel Bull** y **git gud** por haber participado en este certamen. La verdad es que en general, el rendimiento de los equipos ha sido muy bueno.
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
+<div class="flex flex-wrap justify-center gap-4">
 
-  <img src="gitgut.webp" alt="GitGut" style="width: 320px; height: auto; border-radius: 8px;"/>
-  <img src="virtem.webp" alt="Virtem" style="width: 320px; height: auto; border-radius: 8px;"/>
-  <img src="tle_climbers.webp" alt="TLE Climbers" style="width: 320px; height: auto; border-radius: 8px;"/>
-  <img src="mikelbull.webp" alt="Mikel Bull" style="width: 320px; height: auto; border-radius: 8px;"/>
+  <img src="gitgut.webp" alt="GitGut" class="w-[320px] h-auto rounded-lg"/>
+  <img src="virtem.webp" alt="Virtem" class="w-[320px] h-auto rounded-lg"/>
+  <img src="tle_climbers.webp" alt="TLE Climbers" class="w-[320px] h-auto rounded-lg"/>
+  <img src="mikelbull.webp" alt="Mikel Bull" class="w-[320px] h-auto rounded-lg"/>
 
 </div>
 

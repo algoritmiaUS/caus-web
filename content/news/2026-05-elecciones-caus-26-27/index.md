@@ -158,7 +158,7 @@ Tengo muchas ganas de implicarme y ayudar a que más gente vea lo chulo que pued
 ¡Mucha suerte a todos los candidatos! Vuestro compromiso e implicación es lo que hace grande a esta asociación ✨
 
 <div class="flex flex-row justify-center">
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLSe1As5n7InsNaXy4Ge3M0dn8sWyOob1MqpgkcRWAZlgg1cpFg/viewform?usp=publish-editor" class="mx-1 mt-6 text-2xl" style="font-weight: 800; text-decoration: none;">
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSe1As5n7InsNaXy4Ge3M0dn8sWyOob1MqpgkcRWAZlgg1cpFg/viewform?usp=publish-editor" class="mx-1 mt-6 text-2xl font-extrabold no-underline">
       <span class="px-6 py-6 rounded-full border">
         Vota aquí
       </span>
