@@ -77,6 +77,17 @@ events.description:
     "Nuestros eventos recientes, incluidos encuentros, talleres y más, reflejan lo que está
     sucediendo en nuestra comunidad."
 
+pagination.label:
+  other: "Paginación"
+pagination.first:
+  other: "Primera"
+pagination.prev:
+  other: "Anterior"
+pagination.next:
+  other: "Siguiente"
+pagination.last:
+  other: "Última"
+
 ######################################
 # Team Section
 ######################################
