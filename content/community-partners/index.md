@@ -9,9 +9,9 @@ description: Patrocinadores
 
 ## Next Digital (CompliCAUS V)
 
-<p><a href="https://www.nextdigital.es/">Next Digital</a> es una empresa española especializada en desarrollo de software, ingeniería de datos e innovación tecnológica. Next Digital lidera la transformación digital de empresas mediante soluciones en Big Data, Business Intelligence, Machine Learning, plataformas en la nube, interfaces conversacionales... Su equipo se enfoca en acompañar a otras organizaciones en su proceso de transformación digital, poniendo énfasis en la innovación y el diseño.
+[Next Digital](https://www.nextdigital.es/) es una empresa española especializada en desarrollo de software, ingeniería de datos e innovación tecnológica. Next Digital lidera la transformación digital de empresas mediante soluciones en Big Data, Business Intelligence, Machine Learning, plataformas en la nube, interfaces conversacionales... Su equipo se enfoca en acompañar a otras organizaciones en su proceso de transformación digital, poniendo énfasis en la innovación y el diseño.
 
-Desde el CAUS, queremos expresar nuestro más sincero agradecimiento por su apoyo decisivo en esta edición. Gracias a su compromiso con el talento joven, Next Digital hace posible el CompliCAUS V patrocinando íntegramente los premios del primer y segundo lugar.</p>
+Desde el CAUS, queremos expresar nuestro más sincero agradecimiento por su apoyo decisivo en esta edición. Gracias a su compromiso con el talento joven, Next Digital hace posible el CompliCAUS V patrocinando íntegramente los premios del primer y segundo lugar.
 
 {{< sponsor-logo src="/images/global/Logo_ND.webp" alt="Logo de Next Digital" >}}
 
@@ -32,7 +32,7 @@ Desde el CAUS, queremos expresar nuestro más sincero agradecimiento por su apoy
 </summary>
   <div class="pl-[2em]">
   <p><a href="https://www.nextdigital.es/">Next Digital</a> es una empresa española especializada en desarrollo de software, ingeniería de datos e innovación tecnológica. Next Digital lidera la transformación digital de empresas mediante soluciones en Big Data, Business Intelligence, Machine Learning, plataformas en la nube, interfaces conversacionales... Su equipo se enfoca en acompañar a otras organizaciones en su proceso de transformación digital, poniendo énfasis en la innovación y el diseño.
-  Desde el CAUS queremos agradecer su enorme apoyo haciendo posible el <a href="/news/2025-01-19-anuncio-complicaus-3">CompliCAUS III</a> como patrocinador Platino.</p>
+  Desde el CAUS queremos agradecer su enorme apoyo haciendo posible el <a href="/news/2025-01-anuncio-complicaus-3">CompliCAUS III</a> como patrocinador Platino.</p>
     {{< sponsor-logo src="/images/global/Logo_ND.webp" alt="Logo de Next Digital" >}}
   <br>
   </div>

@@ -1,0 +1,1 @@
+<h{{ .Level }} id="{{ strings.TrimLeft "-" .Anchor }}"{{ with .Attributes }}{{ range $k, $v := . }}{{ if ne $k "id" }} {{ $k }}="{{ $v }}"{{ end }}{{ end }}{{ end }}>{{ .Text }}</h{{ .Level }}>

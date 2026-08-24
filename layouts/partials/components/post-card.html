@@ -1,9 +1,11 @@
 <div
   class="group flex h-full flex-col overflow-hidden rounded-lg bg-surface shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-lg"
 >
-  <a href="{{ .Permalink }}">
-    {{ partial "components/featured-card.html" . }}
-  </a>
+  {{ if .Params.featured_image }}
+    <a href="{{ .Permalink }}">
+      {{ partial "components/featured-card.html" . }}
+    </a>
+  {{ end }}
   <div class="flex h-full flex-col p-6">
     <div class="flex-1">
       <a
