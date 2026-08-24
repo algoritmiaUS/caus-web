@@ -6,7 +6,7 @@ summary: La primera edición regional del concurso Ada Byron en Andalucía reuni
 description: La I Edición Regional de Andalucía del concurso Ada Byron se celebró con la participación de 33 equipos de universidades andaluzas en un emocionante certamen de programación. Durante 4 horas, los estudiantes enfrentaron 11 problemas complejos, destacando los equipos BoquerO(n³), LosdelDobleBueno y TuringIncomplete en sus respectivas categorías. Además, dos equipos del Club de Algoritmia se clasificaron para la gran final en Madrid. La competición fue posible gracias a la colaboración de las sedes universitarias y la dedicación de los jueces del CAUS.
 author: Administradores CAUS
 categories: eventos
-tags: ["eventos", "adabyron", "competiciones"]
+tags: ['eventos', 'adabyron', 'competiciones']
 ---
 
 El pasado **viernes 12 de abril** se celebró la primera edición de la **Regional de Andalucía** del concurso **Ada Byron**, un certamen de programación cuyo objetivo es fomentar la participación de estudiantes en el prestigioso concurso internacional **ICPC**. Aunque provincias andaluzas ya habían participado previamente en regionales multisede o en regionales específicos, esta es la primera vez que se celebra una edición propia en la comunidad autónoma.

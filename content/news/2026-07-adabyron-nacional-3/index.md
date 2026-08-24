@@ -9,7 +9,7 @@ description: La XII Final Nacional del Concurso Ada Byron se celebró los días 
 
 author: Administradores CAUS
 categories: eventos
-tags: ["eventos", "adabyron", "competiciones"]
+tags: ['eventos', 'adabyron', 'competiciones']
 ---
 
 Los pasados **3 y 4 de julio de 2026** se celebró la **XII Final Nacional del Concurso Ada Byron** en la Facultad de Informática de la Universidad Complutense de Madrid, donde se reunieron los mejores equipos clasificados en las distintas fases regionales del concurso. En esta ocasión participaron **42 equipos procedentes de 23 universidades españolas**, en una nueva edición de una de las competiciones universitarias de programación más importantes del país. La Universidad de Sevilla estuvo representada por cuatro equipos del CAUS, entre los que destacó **TLE Climbers**, que logró finalizar en una meritoria **novena posición**, situándose entre los diez mejores equipos de la competición.

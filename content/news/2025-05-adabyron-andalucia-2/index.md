@@ -7,7 +7,7 @@ description: La II Edición Regional de Andalucía del Concurso Ada Byron se cel
 
 author: Administradores CAUS
 categories: eventos
-tags: ["eventos", "adabyron", "competiciones"]
+tags: ['eventos', 'adabyron', 'competiciones']
 ---
 
 El viernes 25 de abril se celebró en la ETSII la segunda edición dela **Regional de Andalucía** del concurso **Ada Byron**, un certamen de programación cuyo objetivo es fomentar la participación de estudiantes en el prestigioso concurso internacional **ICPC**.

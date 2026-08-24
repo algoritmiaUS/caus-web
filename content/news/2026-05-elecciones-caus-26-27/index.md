@@ -8,7 +8,7 @@ description: Se abre el plazo de elecciones a admins del Club de Algoritmia de l
 
 author: Administradores CAUS
 categories: eventos
-tags: ["eventos", "elecciones"]
+tags: ['eventos', 'elecciones']
 ---
 
 ¡El Club de Algoritmia de la Universidad de Sevilla (CAUS) se prepara para un nuevo curso lleno de retos, aprendizaje y grandes competiciones! 🚀
