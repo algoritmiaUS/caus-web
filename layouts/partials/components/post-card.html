@@ -1,4 +1,4 @@
-<div class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-white dark:bg-space-indigo">
+<div class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-surface">
   <a href="{{ .Permalink }}">
     {{ partial "components/featured-card.html" . }}
   </a>
@@ -6,22 +6,22 @@
     <div class="flex-1">
       <a
         href="{{ .Permalink }}"
-        class="block mt-2 text-2xl font-black text-shadow-grey dark:text-white hover:text-violet-twilight dark:hover:text-golden-pollen hover:underline"
+        class="block mt-2 text-2xl font-black text-fg hover:text-accent hover:underline"
       >
         {{ .Title }}
       </a>
-      <p class="mt-3 text-base text-shadow-grey dark:text-pale-slate">
+      <p class="mt-3 text-base text-fg dark:text-muted">
         {{ .Params.summary }}
       </p>
     </div>
-    <div class="flex pt-6 font-medium text-violet-twilight dark:text-golden-pollen text-md">
+    <div class="flex pt-6 font-medium text-accent text-md">
       <span class="pr-2 font-black">{{ i18n "post.tags" }}</span>
       <span>
         {{ range $elem_index, $elem_val := (.GetTerms "tags") }}
           {{- if gt $elem_index 0 }},{{ end -}}
           <a
             href="{{ .Permalink }}"
-            class="inline-flex items-center rounded-md bg-pale-slate/30 hover:bg-violet-twilight/20 px-2.5 py-0.5 text-sm font-medium text-shadow-grey dark:text-white capitalize"
+            class="inline-flex items-center rounded-md bg-wash hover:bg-accent/20 px-2.5 py-0.5 text-sm font-medium text-fg capitalize"
             >{{ .LinkTitle }}</a
           >
         {{- end -}}
@@ -38,10 +38,10 @@
         />
       </div>
       <div class="ml-3 pt-1">
-        <p class="text-sm font-medium text-shadow-grey dark:text-white">
+        <p class="text-sm font-medium text-fg">
           {{ .Params.author }}
         </p>
-        <div class="flex space-x-1 text-sm text-space-indigo dark:text-white">
+        <div class="flex space-x-1 text-sm text-muted">
           <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}"
             >{{ .Date.Format "02-01-2006" }}</time
           >

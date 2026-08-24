@@ -1,36 +1,34 @@
-<div
-  class="border border-pale-slate/40 rounded-lg p-4 md:p-6 bg-white shadow-xs dark:bg-shadow-grey dark:border-pale-slate/20"
->
-  <h2 class="text-lg font-semibold text-space-indigo dark:text-white">{{ .Get "title" }}</h2>
-  <div class="mt-4 text-space-indigo dark:text-pale-slate space-y-2">
+<div class="border border-line/40 rounded-lg p-4 md:p-6 bg-surface shadow-xs">
+  <h2 class="text-lg font-semibold text-muted">{{ .Get "title" }}</h2>
+  <div class="mt-4 text-muted space-y-2">
     <div class="flex items-center space-x-2">
-      {{ partial "components/svg.html" (dict "name" "calendar" "class" "w-5 h-5 text-space-indigo dark:text-white") }}
+      {{ partial "components/svg.html" (dict "name" "calendar" "class" "w-5 h-5 text-muted") }}
       <span class="text-sm md:text-base">{{ .Get "date" }}</span>
     </div>
     <div class="flex items-center space-x-2">
-      {{ partial "components/svg.html" (dict "name" "clock" "class" "w-5 h-5 text-space-indigo dark:text-white") }}
+      {{ partial "components/svg.html" (dict "name" "clock" "class" "w-5 h-5 text-muted") }}
       <span class="text-sm md:text-base">{{ .Get "time" }}</span>
     </div>
     <div class="flex items-center space-x-2">
-      {{ partial "components/svg.html" (dict "name" "location" "class" "w-5 h-5 text-space-indigo dark:text-white") }}
+      {{ partial "components/svg.html" (dict "name" "location" "class" "w-5 h-5 text-muted") }}
       <span class="text-sm md:text-base">{{ .Get "location" }}</span>
     </div>
     {{ with .Get "stream_url" }}
       <div>
-        <a href="{{ . }}" class="text-violet-twilight dark:text-golden-pollen hover:underline"
+        <a href="{{ . }}" class="text-accent hover:underline"
           >Enlace de la retransmisión telemática</a
         >
       </div>
     {{ end }}
-    <p class="mt-4 text-sm md:text-base text-space-indigo dark:text-pale-slate">
+    <p class="mt-4 text-sm md:text-base text-muted">
       <strong>Ponente:</strong> {{ .Get "speaker" | markdownify }}
     </p>
-    <div class="text-sm md:text-base text-space-indigo dark:text-pale-slate">
+    <div class="text-sm md:text-base text-muted">
       <strong>Descripción:</strong>
       {{ .Inner | markdownify }}
     </div>
     {{ with .Get "language" }}
-      <p class="text-sm md:text-base text-space-indigo dark:text-pale-slate">Ponencia en {{ . }}</p>
+      <p class="text-sm md:text-base text-muted">Ponencia en {{ . }}</p>
     {{ end }}
   </div>
 </div>

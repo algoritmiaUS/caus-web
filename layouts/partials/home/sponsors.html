@@ -7,7 +7,7 @@
       {{ range $logos }}
         {{ $logoAlt := .alt }}
         {{ $image := .image }}
-        <li class="flex items-center justify-center rounded-2xl bg-white p-6">
+        <li class="flex items-center justify-center rounded-2xl bg-paper p-6">
           <img
             src="{{ $image | relURL }}"
             alt="{{ $logoAlt }}"
@@ -23,10 +23,7 @@
       }}
       {{ range site.Params.P3.Links }}
         <div class="mt-6">
-          <a
-            href="{{ .url }}"
-            class="text-base font-medium text-violet-twilight dark:text-golden-pollen"
-          >
+          <a href="{{ .url }}" class="text-base font-medium text-accent">
             {{ i18n "sponsors.cta" }}&nbsp;&rarr;
           </a>
         </div>

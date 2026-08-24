@@ -7,13 +7,11 @@
     height="200"
     loading="lazy"
     decoding="async"
-    class="size-50 shrink-0 rounded-full object-cover object-{{ $focus }} shadow-md bg-pale-slate/30 mb-3"
+    class="size-50 shrink-0 rounded-full object-cover object-{{ $focus }} shadow-md bg-wash mb-3"
   />
   <p class="font-semibold text-sm truncate w-full">{{ .Get "name" }}</p>
   {{ with .Get "subtitle" }}
-    <p
-      class="text-xs text-space-indigo dark:text-pale-slate text-wrap text-center mt-1 leading-tight"
-    >
+    <p class="text-xs text-muted text-wrap text-center mt-1 leading-tight">
       {{ . }}
     </p>
   {{ end }}

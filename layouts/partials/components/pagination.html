@@ -1,14 +1,14 @@
 {{ $pag := $.Paginator }}
 {{ if gt $pag.TotalPages 1 }}
   {{ $.Scratch.Set "dot_rendered" false }}
-  {{ $link := "inline-flex items-center px-4 pt-4 text-lg text-violet-twilight dark:text-golden-pollen" }}
+  {{ $link := "inline-flex items-center px-4 pt-4 text-lg text-accent" }}
 
 
   <nav
     class="flex items-center justify-center px-4 sm:px-0"
     aria-label="{{ i18n "pagination.label" }}"
   >
-    <div class="mx-auto border-t-2 border-pale-slate/40 dark:border-pale-slate/20">
+    <div class="mx-auto border-t-2 border-line/30">
       {{ if and (ne $pag.PageNumber 1) (ne $pag.PageNumber 2) }}
         <a href="{{ $pag.First.URL }}" rel="first" class="{{ $link }} font-black"
           >&laquo; {{ i18n "pagination.first" }}</a

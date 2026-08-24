@@ -3,9 +3,7 @@
     <article>
       {{ partial "components/page-header.html" (dict "page" . "title" "Noticias") }}
       <section class="calendar-iframe my-8">
-        <h2 class="text-center text-3xl font-semibold text-space-indigo dark:text-white">
-          Eventos
-        </h2>
+        <h2 class="text-center text-3xl font-semibold text-muted">Eventos</h2>
 
         <div class="flex justify-center mt-4 dark:invert">
           <iframe
@@ -20,12 +18,10 @@
       <br />
       <br />
       <section class="calendar-iframe my-8">
-        <h2 class="text-center text-3xl font-semibold text-space-indigo dark:text-white">
-          Noticias
-        </h2>
+        <h2 class="text-center text-3xl font-semibold text-muted">Noticias</h2>
       </section>
       {{ with .Content }}
-        <div class="max-w-2xl px-6 mx-auto mt-6 prose dark:prose-invert dark:text-white">
+        <div class="max-w-2xl px-6 mx-auto mt-6 prose">
           {{- . -}}
         </div>
       {{ end }}

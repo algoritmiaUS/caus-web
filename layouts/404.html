@@ -3,21 +3,19 @@
     <div class="max-w-(--breakpoint-xl) px-4 py-8 mx-auto lg:py-16 lg:px-6">
       <div class="max-w-(--breakpoint-sm) mx-auto text-center">
         <h1
-          class="mb-4 font-black tracking-tight capitalize text-8xl lg:text-7xl xl:text-9xl dark:text-white"
+          class="mb-4 font-black tracking-tight capitalize text-fg text-8xl lg:text-7xl xl:text-9xl"
         >
           404
         </h1>
-        <p
-          class="mb-4 text-3xl font-bold tracking-tight text-shadow-grey md:text-4xl dark:text-white"
-        >
+        <p class="mb-4 text-3xl font-bold tracking-tight text-fg md:text-4xl">
           {{ i18n "error.404_title" }}
         </p>
-        <p class="mb-4 text-lg font-light text-space-indigo dark:text-pale-slate">
+        <p class="mb-4 text-lg font-light text-muted">
           {{ i18n "error.404_message" }}
         </p>
         <a
           href="/"
-          class="inline-flex text-white bg-violet-twilight hover:bg-violet-twilight/85 focus:ring-4 focus:outline-hidden focus:ring-violet-twilight/40 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:focus:ring-golden-pollen/40 my-4"
+          class="inline-flex text-on-accent bg-accent hover:bg-accent/85 focus:ring-4 focus:outline-hidden focus:ring-accent/40 font-medium rounded-lg text-sm px-5 py-2.5 text-center my-4"
           >{{ i18n "error.404_button" }}</a
         >
       </div>

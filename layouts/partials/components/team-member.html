@@ -7,7 +7,7 @@
 
 {{ $wrapperClass := "flex flex-col items-center p-3 w-full" }}
 {{ if $compact }}
-  {{ $wrapperClass = printf "%s max-w-xs mx-auto hover:bg-pale-slate/20 transition-colors" $wrapperClass }}
+  {{ $wrapperClass = printf "%s max-w-xs mx-auto hover:bg-wash transition-colors" $wrapperClass }}
 {{ end }}
 
 {{ $imageClass := "mt-0 mb-0 rounded-full object-cover" }}
@@ -24,7 +24,7 @@
   <img src="{{ $m.image }}" alt="{{ $m.name }}" class="{{ $imageClass }}" />
   <h3 class="text-base font-bold mt-3 truncate">{{ $m.name }}</h3>
   {{ if $role }}
-    <p class="text-space-indigo dark:text-pale-slate text-sm truncate">
+    <p class="text-muted text-sm truncate">
       {{ $m.role }}{{ if $dates }}<br />{{ $m.dates }}{{ end }}
     </p>
   {{ end }}
@@ -32,10 +32,7 @@
     <div class="flex space-x-6 mt-2">
       {{ with $m.website }}
         {{ if ne . "" }}
-          <a
-            href="{{ . }}"
-            class="text-space-indigo hover:text-shadow-grey dark:text-pale-slate dark:hover:text-white"
-          >
+          <a href="{{ . }}" class="text-muted hover:text-fg">
             <span class="sr-only">Website</span>
             {{ partial "components/svg.html" (dict "name" "globe") }}
           </a>
@@ -43,10 +40,7 @@
       {{ end }}
       {{ with $m.linkedin }}
         {{ if ne . "" }}
-          <a
-            href="https://www.linkedin.com/in/{{ . }}"
-            class="text-space-indigo hover:text-shadow-grey dark:text-pale-slate dark:hover:text-white"
-          >
+          <a href="https://www.linkedin.com/in/{{ . }}" class="text-muted hover:text-fg">
             <span class="sr-only">Linkedin</span>
             {{ partial "components/svg.html" (dict "name" "linkedin") }}
           </a>
@@ -54,10 +48,7 @@
       {{ end }}
       {{ with $m.github }}
         {{ if ne . "" }}
-          <a
-            href="https://github.com/{{ . }}"
-            class="text-space-indigo hover:text-shadow-grey dark:text-pale-slate dark:hover:text-white"
-          >
+          <a href="https://github.com/{{ . }}" class="text-muted hover:text-fg">
             <span class="sr-only">GitHub</span>
             {{ partial "components/svg.html" (dict "name" "github") }}
           </a>

@@ -5,7 +5,7 @@
       id="lang-toggle"
       type="button"
       title="{{ site.Language.Label }}"
-      class="flex grow items-center justify-start lg:justify-center px-4 py-2 mt-2 text-sm font-semibold rounded-lg lg:mt-0 hover:text-white focus:text-white hover:bg-violet-twilight/85 focus:bg-violet-twilight/85 focus:outline-hidden transition-colors"
+      class="flex grow items-center justify-start lg:justify-center px-4 py-2 mt-2 text-sm font-semibold rounded-lg lg:mt-0 hover:text-paper focus:text-paper hover:bg-accent/85 focus:bg-accent/85 focus:outline-hidden transition-colors"
       aria-expanded="false"
       aria-controls="lang-panel"
     >
@@ -14,9 +14,9 @@
 
     <div
       id="lang-panel"
-      class="hidden absolute left-0 lg:left-auto lg:right-0 top-full z-30 w-full min-w-full mt-1 overflow-hidden rounded-lg bg-space-indigo border border-pale-slate/20 shadow-lg"
+      class="hidden absolute left-0 lg:left-auto lg:right-0 top-full z-30 w-full min-w-full mt-1 overflow-hidden rounded-lg bg-ink border border-line/20 shadow-lg"
     >
-      <ul class="text-white">
+      <ul class="text-paper">
         {{ range hugo.Sites }}
           {{ if ne .Language.Name site.Language.Name }}
             {{ $targetSite := . }}
@@ -40,7 +40,7 @@
 
             <li>
               <a
-                class="flex items-center justify-start lg:justify-center w-full px-4 py-2 text-left lg:text-center text-base hover:text-white hover:bg-violet-twilight/85 focus:bg-violet-twilight/85 focus:outline-hidden transition-colors"
+                class="flex items-center justify-start lg:justify-center w-full px-4 py-2 text-left lg:text-center text-base hover:text-paper hover:bg-accent/85 focus:bg-accent/85 focus:outline-hidden transition-colors"
                 href="{{ $targetURL }}"
                 title="{{ .Language.Label }}"
               >
