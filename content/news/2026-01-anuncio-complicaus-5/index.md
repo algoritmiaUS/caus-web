@@ -40,7 +40,7 @@ En esta ocasión, buscamos la experiencia más profesional posible, por lo que u
 
 Con el apoyo de:
 
-<div style="display: flex; justify-content: center; flex-direction: column; gap: 1rem;">
-  {{< sponsor-logo src="/images/global/Logo_ND.webp" alt="Logo de Next Digital" href="https://www.nextdigital.es/" style="width: 25rem; max-width: 80%; margin: auto;" class="w-auto object-contain" >}}
-  {{< sponsor-logo src="/images/global/logo-ETSII-Color.webp" alt="Logo de la Escuela Técnica Superior de Ingeniería Informática" href="https://www.informatica.us.es/" style="width: 25rem; max-width: 80%; margin: auto; border-radius: .5rem;" class="w-auto object-contain" >}}
+<div class="flex flex-col items-center gap-4">
+  {{< sponsor-logo src="/images/global/Logo_ND.webp" alt="Logo de Next Digital" href="https://www.nextdigital.es/" class="w-[25rem] max-w-[80%] object-contain" >}}
+  {{< sponsor-logo src="/images/global/logo-ETSII-Color.webp" alt="Logo de la Escuela Técnica Superior de Ingeniería Informática" href="https://www.informatica.us.es/" class="w-[25rem] max-w-[80%] object-contain" >}}
 </div>
