@@ -3,7 +3,6 @@
   {{ with resources.Get . }}
     {{ $small := .Resize "550x webp q80" }}
     {{ $large := . }}
-    {{ if gt .Width 1200 }}{{ $large = .Resize "1200x webp q80" }}{{ end }}
     <img
       src="{{ $large.RelPermalink }}"
       srcset="{{ $small.RelPermalink }} {{ $small.Width }}w, {{ $large.RelPermalink }} {{ $large.Width }}w"
