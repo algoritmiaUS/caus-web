@@ -14,7 +14,7 @@
         {{ .Params.summary }}
       </p>
     </div>
-    <div class="flex pt-6 font-medium text-accent text-md">
+    <div class="flex pt-6 font-medium text-accent">
       <span class="pr-2 font-black">{{ i18n "post.tags" }}</span>
       <span>
         {{ range $elem_index, $elem_val := (.GetTerms "tags") }}

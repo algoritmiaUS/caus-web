@@ -2,7 +2,7 @@
   <main>
     <article>
       {{ partial "components/page-header.html" (dict "page" . "title" "Noticias") }}
-      <section class="calendar-iframe my-8">
+      <section class="my-8">
         <h2 class="text-center text-3xl font-semibold text-muted">Eventos</h2>
 
         <div class="flex justify-center mt-4 dark:invert">
@@ -17,7 +17,7 @@
       </section>
       <br />
       <br />
-      <section class="calendar-iframe my-8">
+      <section class="my-8">
         <h2 class="text-center text-3xl font-semibold text-muted">Noticias</h2>
       </section>
       {{ with .Content }}

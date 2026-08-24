@@ -3,9 +3,7 @@
   "title" (i18n (printf "%s.heading" $key)) "subtitle" (i18n (printf "%s.description" $key)))
 }}
 <section id="{{ $key }}" class="{{ .class }}">
-  <div
-    class="mx-auto grid w-full max-w-7xl items-start gap-12 px-4 sm:px-6 lg:grid-cols-2 lg:gap-16 lg:px-8"
-  >
+  <div class="container-page grid items-start gap-12 lg:grid-cols-2 lg:gap-16">
     {{ if not .imageFirst }}{{ $heading }}{{ end }}
     <div class="overflow-hidden rounded-2xl shadow-xl">
       {{ with resources.Get .image }}
