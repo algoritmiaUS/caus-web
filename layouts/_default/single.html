@@ -1,7 +1,7 @@
 {{ define "main" }}
   <main>
     <article>
-      {{ partial "components/page-title.html" . }}
+      {{ partial "components/page-header.html" (dict "page" .) }}
       <div class="max-w-6xl mx-auto mt-8 mb-2">
         <div class="px-6">
           {{ partial "components/featured-single.html" . }}

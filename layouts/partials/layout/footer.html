@@ -16,14 +16,10 @@
     <div class="flex justify-center mt-8 space-x-6">
       {{ range $name, $social := site.Params.social_media }}
         {{ if $social.enabled }}
-          {{ with
-            resources.Get (printf "images/icons/%s.svg" $name)
-          }}
-            <a href="{{ $social.url }}" target="_blank" class="text-paper/80 hover:text-paper">
-              <span class="sr-only">{{ $name }}</span>
-              {{ .Content | safeHTML }}
-            </a>
-          {{ end }}
+          <a href="{{ $social.url }}" target="_blank" class="text-paper/80 hover:text-paper">
+            <span class="sr-only">{{ $name }}</span>
+            {{ partial "components/svg.html" (dict "name" $name) }}
+          </a>
         {{ end }}
       {{ end }}
     </div>
