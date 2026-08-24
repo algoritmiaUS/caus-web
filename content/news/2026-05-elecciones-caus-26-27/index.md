@@ -7,8 +7,8 @@ summary: Conoce a los candidatos que se presentan a las elecciones a admins del 
 description: Se abre el plazo de elecciones a admins del Club de Algoritmia de la Universidad de Sevilla (CAUS) del curso 2026-2027. Aquí recopilamos la lista de todos los socios candidatos, sus motivaciones e ideas para el club.
 
 author: Administradores CAUS
-categories: Eventos
-tags: ['Eventos', 'elecciones']
+categories: eventos
+tags: ['eventos', 'elecciones']
 ---
 
 ¡El Club de Algoritmia de la Universidad de Sevilla (CAUS) se prepara para un nuevo curso lleno de retos, aprendizaje y grandes competiciones! 🚀

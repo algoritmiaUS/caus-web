@@ -5,8 +5,8 @@ featured_image: images/featured/Cartel-CompliCAUS-4.webp
 summary: 'Participa en la cuarta edición del CompliCAUS, la competición interna de programación organizada por el Club de Algoritmia de la Universidad de Sevilla. Prepárate para resolver problemas de distintos niveles el próximo 10 de octubre en la ETSII.'
 description: 'El Club de Algoritmia de la Universidad de Sevilla presenta la cuarta edición del CompliCAUS, una competición de programación abierta a todos los interesados. Con problemas diseñados para desafiar tanto a principiantes como a expertos, esta edición promete ser un evento emocionante y formativo. Inscríbete y demuestra tus habilidades en una jornada llena de retos y diversión.'
 author: Administradores CAUS
-categories: ['Noticias']
-tags: ['Eventos', 'complicaus', 'competiciones']
+categories: ['noticias']
+tags: ['eventos', 'complicaus', 'competiciones']
 ---
 
 <p class="mb-8 font-light text-center text-muted lg:mb-16 sm:text-xl">

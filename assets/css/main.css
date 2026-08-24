@@ -19,6 +19,9 @@
 }
 
 @layer components {
+  .container-page {
+    @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8;
+  }
   .grid-auto-fit-center {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(17rem, 1fr));

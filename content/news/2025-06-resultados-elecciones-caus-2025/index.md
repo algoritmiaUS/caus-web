@@ -5,8 +5,8 @@ featured_image: images/featured/CompliCAUS-3-Foto-grupal.webp
 summary: Resultados oficiales de las elecciones para los equipos del Club de Algoritmia de la Universidad de Sevilla (CAUS) para el curso 2025-2026.
 description: El Club de Algoritmia de la Universidad de Sevilla anuncia los resultados de sus elecciones internas, donde los miembros han elegido a los nuevos responsables de cada área para el próximo curso académico.
 author: Administradores CAUS
-categories: Eventos
-tags: ['Eventos', 'elecciones']
+categories: eventos
+tags: ['eventos', 'elecciones']
 ---
 
 En las elecciones del Club de Algoritmia de la Universidad de Sevilla (CAUS) para el curso **2025-2026**, participaron **19 miembros**. ¡Gracias a todos por su implicación! 🎉

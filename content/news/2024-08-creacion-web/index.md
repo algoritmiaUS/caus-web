@@ -5,8 +5,8 @@ featured_image: images/featured/bienvenida.webp
 summary: 'Presentamos la nueva página web del Club de Algoritmia de la Universidad de Sevilla. Descubre nuestras actividades, eventos y cómo puedes unirte a nosotros.'
 description: 'Nos complace anunciar el lanzamiento de la nueva página web del Club de Algoritmia de la Universidad de Sevilla. En esta publicación, te presentamos nuestra misión, nuestras actividades principales, y cómo puedes formar parte de esta apasionante comunidad dedicada a la programación y la resolución de problemas algorítmicos.'
 author: Administradores CAUS
-categories: ['Noticias']
-tags: ['Noticias']
+categories: ['noticias']
+tags: ['noticias']
 ---
 
 ¡Hola a todos!
@@ -23,7 +23,7 @@ En el Club de Algoritmia, nuestro objetivo es aprender y perfeccionar habilidade
 
 - **Competiciones de programación:** Participamos en eventos anuales como Advent of Code y el Concurso Universitario de Programación Ada Byron, además de organizar desafíos de programación en la universidad cada seis meses.
 
-- **Eventos sociales:** Cada trimestre, organizamos una comida especial en un lugar exótico para celebrar nuestros logros. También disfrutamos de salidas al rocódromo después de las sesiones para escalar y fortalecer el espíritu de grupo.
+- **eventos sociales:** Cada trimestre, organizamos una comida especial en un lugar exótico para celebrar nuestros logros. También disfrutamos de salidas al rocódromo después de las sesiones para escalar y fortalecer el espíritu de grupo.
 
 ### Únete a Nosotros
 

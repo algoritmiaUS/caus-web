@@ -5,8 +5,8 @@ featured_image: images/featured/CompliCAUS-5-Foto-grupal.webp
 summary: 'El CompliCAUS V reunió a estudiantes de distintos niveles para una intensa competición de programación organizada por el Club de Algoritmia de la Universidad de Sevilla.'
 description: 'La quinta edición de CompliCAUS se celebró con éxito, congregando a estudiantes de diferentes instituciones y niveles académicos en un desafío de algoritmia de tres horas.'
 author: Administradores CAUS
-categories: Eventos
-tags: ['Eventos', 'complicaus', 'competiciones']
+categories: eventos
+tags: ['eventos', 'complicaus', 'competiciones']
 ---
 
 El pasado viernes 13 de febrero tuvo lugar la quinta edición de CompliCAUS, una competición de programación organizada por el Club de Algoritmia de la Universidad de Sevilla. Con el respaldo de la Escuela Técnica Superior de Ingeniería Informática (ETSII) y la empresa NEXT Digital, el evento atrajo a estudiantes de diversas facultades, niveles académicos y centros educativos, incluyendo bachillerato y formación profesional, quienes se enfrentaron a un exigente reto de algoritmia de tres horas.

@@ -5,8 +5,8 @@ featured_image: images/featured/CompliCAUS-2-Foto-grupal.webp
 summary: La segunda edición de CompliCAUS, organizada por el Club de Algoritmia de la Universidad de Sevilla, reunió a estudiantes de distintas disciplinas y niveles académicos, retándolos a resolver problemas en la plataforma Virtual Judge.
 description: El 18 de octubre tuvo lugar la segunda edición de CompliCAUS, una competición de algoritmia organizada por el Club de Algoritmia de la Universidad de Sevilla y patrocinada por la ETSII. Esta competición, que congregó a estudiantes de diferentes facultades de la US y alumnos de bachillerato, ofreció un reto estimulante que puso a prueba las habilidades de resolución de problemas de los participantes. El evento demostró que la pasión por la programación es una fuerza que supera fronteras académicas. Agradecemos profundamente el apoyo de la ETSII y de Mª Lourdes Miró. ¡Esperamos verlos en la próxima edición!
 author: Administradores CAUS
-categories: Eventos
-tags: ['Eventos', 'complicaus', 'competiciones']
+categories: eventos
+tags: ['eventos', 'complicaus', 'competiciones']
 ---
 
 El viernes 18 de octubre se celebró la segunda edición de CompliCAUS, una competición de programación organizada por el Club de Algoritmia de la Universidad de Sevilla. Con el apoyo de la Escuela Técnica Superior de Ingeniería Informática (ETSII), el evento reunió a estudiantes de distintas facultades, niveles académicos y centros, incluyendo también bachillerato y formación profesional, para enfrentar un desafiante reto de algoritmia de dos horas.
