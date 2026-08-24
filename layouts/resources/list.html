@@ -1,12 +1,14 @@
 {{ define "main" }}
-<article>
-  {{ partial "components/page-title.html" . }}
-  <div class="max-w-7xl px-6 pt-6 pb-16 mx-auto prose dark:prose-invert dark:text-white">
-    {{ .Content }}
-    {{ partial "components/resources.html" . }}
-    <div class="pt-8">
-      <p class="text-sm text-space-indigo dark:text-pale-slate">Por si no tienes suficiente con todo lo anterior, te dejamos <a href="https://github.com/lnishan/awesome-competitive-programming" class="text-violet-twilight hover:text-violet-twilight dark:text-golden-pollen dark:hover:text-golden-pollen underline underline-offset-4" target="_blank">este listado interminable</a> de recursos extra sobre programación competitiva.</p>
+<main>
+  <article>
+    {{ partial "components/page-title.html" . }}
+    <div class="max-w-7xl px-6 pt-6 pb-16 mx-auto prose dark:prose-invert dark:text-white">
+      {{ .Content }}
+      {{ partial "components/resources.html" . }}
+      <div class="pt-8">
+        <p class="text-sm text-space-indigo dark:text-pale-slate">Por si no tienes suficiente con todo lo anterior, te dejamos <a href="https://github.com/lnishan/awesome-competitive-programming" class="text-violet-twilight hover:text-violet-twilight dark:text-golden-pollen dark:hover:text-golden-pollen underline underline-offset-4" target="_blank">este listado interminable</a> de recursos extra sobre programación competitiva.</p>
+      </div>
     </div>
-  </div>
-</article>
+  </article>
+</main>
 {{ end }}
