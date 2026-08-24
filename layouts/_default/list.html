@@ -1,9 +1,9 @@
 {{ define "main" }}
-<main>
-  <article>
-    {{ partial "components/page-header.html" (dict "page" .) }}
-    {{ partial "components/posts-template.html" . }}
-  </article>
-  <div class="max-w-xl mx-auto my-16">{{ partial "components/pagination" . }}</div>
-</main>
+  <main>
+    <article>
+      {{ partial "components/page-header.html" (dict "page" .) }}
+      {{ partial "components/posts-template.html" . }}
+    </article>
+    <div class="max-w-xl mx-auto my-16">{{ partial "components/pagination" . }}</div>
+  </main>
 {{ end }}

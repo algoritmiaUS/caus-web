@@ -1,7 +1,7 @@
 {{- $name := .name -}}
 {{- $icon := resources.Get (printf "images/icons/%s.svg" $name) -}}
 {{- if not $icon -}}
-{{- errorf "svg.html: unknown icon %q (caller must pass a dict with a valid \"name\")" $name -}}
+  {{- errorf "svg.html: unknown icon %q (caller must pass a dict with a valid \"name\")" $name -}}
 {{- end -}}
 {{- $content := $icon.Content -}}
 {{- $id := .id | default "" -}}

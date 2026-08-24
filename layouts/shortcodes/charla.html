@@ -16,11 +16,11 @@
       <span class="text-sm md:text-base">{{ .Get "location" }}</span>
     </div>
     {{ with .Get "stream_url" }}
-    <div>
-      <a href="{{ . }}" class="text-violet-twilight dark:text-golden-pollen hover:underline"
-        >Enlace de la retransmisión telemática</a
-      >
-    </div>
+      <div>
+        <a href="{{ . }}" class="text-violet-twilight dark:text-golden-pollen hover:underline"
+          >Enlace de la retransmisión telemática</a
+        >
+      </div>
     {{ end }}
     <p class="mt-4 text-sm md:text-base text-space-indigo dark:text-pale-slate">
       <strong>Ponente:</strong> {{ .Get "speaker" | markdownify }}
@@ -30,7 +30,7 @@
       {{ .Inner | markdownify }}
     </div>
     {{ with .Get "language" }}
-    <p class="text-sm md:text-base text-space-indigo dark:text-pale-slate">Ponencia en {{ . }}</p>
+      <p class="text-sm md:text-base text-space-indigo dark:text-pale-slate">Ponencia en {{ . }}</p>
     {{ end }}
   </div>
 </div>

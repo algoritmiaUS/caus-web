@@ -1,28 +1,26 @@
-<ul
-  class="not-prose mt-12 flex flex-col divide-y divide-pale-slate/40 dark:divide-pale-slate/20"
->
+<ul class="not-prose mt-12 flex flex-col divide-y divide-pale-slate/40 dark:divide-pale-slate/20">
   {{ range .Pages.ByWeight }}
-  <li>
-    <a
-      href="{{ .RelPermalink }}"
-      class="group flex items-center justify-between gap-4 -mx-4 rounded-lg px-4 py-6 transition-colors hover:bg-pale-slate/20 dark:hover:bg-space-indigo/50"
-    >
-      <div class="min-w-0">
-        <h2
-          class="text-lg font-bold text-shadow-grey dark:text-white group-hover:text-violet-twilight dark:group-hover:text-golden-pollen"
-        >
-          {{ .Title }}
-        </h2>
-        {{ with .Params.description }}
-        <p class="mt-1 text-sm text-space-indigo dark:text-pale-slate">{{ . }}</p>
-        {{ end }}
-      </div>
-      <span
-        aria-hidden="true"
-        class="shrink-0 text-xl text-space-indigo dark:text-pale-slate group-hover:text-violet-twilight dark:group-hover:text-golden-pollen"
-        >→</span
+    <li>
+      <a
+        href="{{ .RelPermalink }}"
+        class="group flex items-center justify-between gap-4 -mx-4 rounded-lg px-4 py-6 transition-colors hover:bg-pale-slate/20 dark:hover:bg-space-indigo/50"
       >
-    </a>
-  </li>
+        <div class="min-w-0">
+          <h2
+            class="text-lg font-bold text-shadow-grey dark:text-white group-hover:text-violet-twilight dark:group-hover:text-golden-pollen"
+          >
+            {{ .Title }}
+          </h2>
+          {{ with .Params.description }}
+            <p class="mt-1 text-sm text-space-indigo dark:text-pale-slate">{{ . }}</p>
+          {{ end }}
+        </div>
+        <span
+          aria-hidden="true"
+          class="shrink-0 text-xl text-space-indigo dark:text-pale-slate group-hover:text-violet-twilight dark:group-hover:text-golden-pollen"
+          >→</span
+        >
+      </a>
+    </li>
   {{ end }}
 </ul>

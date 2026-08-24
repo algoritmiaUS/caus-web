@@ -11,6 +11,10 @@
   />
   <p class="font-semibold text-sm truncate w-full">{{ .Get "name" }}</p>
   {{ with .Get "subtitle" }}
-  <p class="text-xs text-space-indigo dark:text-pale-slate text-wrap text-center mt-1 leading-tight">{{ . }}</p>
+    <p
+      class="text-xs text-space-indigo dark:text-pale-slate text-wrap text-center mt-1 leading-tight"
+    >
+      {{ . }}
+    </p>
   {{ end }}
 </div>

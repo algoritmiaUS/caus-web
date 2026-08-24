@@ -1,43 +1,51 @@
 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-  <!-- Administradores -->
   <div class="col-span-full text-center">
     <h2 class="text-2xl font-bold mb-2">{{ i18n "administrators" }}</h2>
     <p class="text-space-indigo dark:text-pale-slate text-lg">{{ i18n "administrators_desc" }}</p>
 
     <div class="grid-auto-fit-center gap-6 mt-6">
-      {{ range hugo.Data.members.administrators }} {{ partial "components/team-member.html" (dict
-      "member" .) }} {{ end }}
+      {{ range hugo.Data.members.administrators }}
+        {{ partial "components/team-member.html" (dict
+          "member" .)
+        }}
+      {{ end }}
     </div>
   </div>
 
-  <!-- Colaboradores -->
   <div class="col-span-full mt-12 text-center">
     <h2 class="text-2xl font-bold mb-2">{{ i18n "collaborators" }}</h2>
     <p class="text-space-indigo dark:text-pale-slate text-lg">{{ i18n "collaborators_desc" }}</p>
 
     <div class="grid-auto-fit-center gap-6 mt-6">
-      {{ range hugo.Data.members.collaborators }} {{ partial "components/team-member.html" (dict
-      "member" . "showRole" false) }} {{ end }}
+      {{ range hugo.Data.members.collaborators }}
+        {{ partial "components/team-member.html" (dict
+          "member" . "showRole" false)
+        }}
+      {{ end }}
     </div>
   </div>
 
-  <!-- Antiguos admins -->
   <div class="col-span-full mt-12 text-center">
     <h2 class="text-2xl font-bold mb-2">{{ i18n "old_admins" }}</h2>
     <p class="text-space-indigo dark:text-pale-slate text-lg">{{ i18n "old_admins_desc" }}</p>
 
     <div class="grid-auto-fit-center gap-6 mt-6">
-      {{ range hugo.Data.members.oldadmins }} {{ partial "components/team-member.html" (dict
-      "member" . "compact" true "square" true "showDates" true) }} {{ end }}
+      {{ range hugo.Data.members.oldadmins }}
+        {{ partial "components/team-member.html" (dict
+          "member" . "compact" true "square" true "showDates" true)
+        }}
+      {{ end }}
     </div>
   </div>
 
-  <!-- Miembros Activos -->
   <div class="col-span-full mt-6 text-center">
     <h2 class="text-2xl font-bold mb-4">{{ i18n "members" }}</h2>
     <div class="grid-auto-fit-member gap-4 mt-6">
-      {{ range hugo.Data.members.members }} {{ partial "components/team-member.html" (dict "member"
-      . "compact" true "showRole" false "showSocials" false) }} {{ end }}
+      {{ range hugo.Data.members.members }}
+        {{ partial "components/team-member.html" (dict "member"
+          . "compact" true "showRole" false "showSocials" false)
+        }}
+      {{ end }}
     </div>
   </div>
 </div>

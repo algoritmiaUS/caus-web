@@ -1,38 +1,55 @@
-{{ if hugo.IsMultilingual }} {{ $page := . }}
-<li id="lang-switcher" class="relative flex items-center">
-  <button
-    id="lang-toggle"
-    type="button"
-    title="{{ site.Language.Label }}"
-    class="flex grow items-center justify-start lg:justify-center px-4 py-2 mt-2 text-sm font-semibold rounded-lg lg:mt-0 hover:text-white focus:text-white hover:bg-violet-twilight/85 focus:bg-violet-twilight/85 focus:outline-hidden transition-colors"
-    aria-expanded="false"
-    aria-controls="lang-panel"
-  >
-    <span class="text-base leading-none">{{ index hugo.Data.flags site.Language.Lang }}</span>
-  </button>
+{{ if hugo.IsMultilingual }}
+  {{ $page := . }}
+  <li id="lang-switcher" class="relative flex items-center">
+    <button
+      id="lang-toggle"
+      type="button"
+      title="{{ site.Language.Label }}"
+      class="flex grow items-center justify-start lg:justify-center px-4 py-2 mt-2 text-sm font-semibold rounded-lg lg:mt-0 hover:text-white focus:text-white hover:bg-violet-twilight/85 focus:bg-violet-twilight/85 focus:outline-hidden transition-colors"
+      aria-expanded="false"
+      aria-controls="lang-panel"
+    >
+      <span class="text-base leading-none">{{ index hugo.Data.flags site.Language.Lang }}</span>
+    </button>
 
-  <div
-    id="lang-panel"
-    class="hidden absolute left-0 lg:left-auto lg:right-0 top-full z-30 w-full min-w-full mt-1 overflow-hidden rounded-lg bg-space-indigo border border-pale-slate/20 shadow-lg"
-  >
-    <ul class="text-white">
-      {{ range hugo.Sites }} {{ if ne .Language.Name site.Language.Name }} {{ $targetSite := . }} {{
-      $targetURL := "" }} {{ $targetLang := $targetSite.Language.Name }} {{ if $page.IsTranslated }}
-      {{ range $page.Translations }} {{ if eq .Language.Name $targetLang }} {{ $targetURL =
-      .RelPermalink }} {{ end }} {{ end }} {{ end }} {{ if not $targetURL }} {{ $targetURL =
-      $targetSite.Home.RelPermalink }} {{ end }}
+    <div
+      id="lang-panel"
+      class="hidden absolute left-0 lg:left-auto lg:right-0 top-full z-30 w-full min-w-full mt-1 overflow-hidden rounded-lg bg-space-indigo border border-pale-slate/20 shadow-lg"
+    >
+      <ul class="text-white">
+        {{ range hugo.Sites }}
+          {{ if ne .Language.Name site.Language.Name }}
+            {{ $targetSite := . }}
+            {{ $targetURL := "" }}
+            {{ $targetLang := $targetSite.Language.Name }}
+            {{ if $page.IsTranslated }}
+              {{ range $page.Translations }}
+                {{ if eq .Language.Name $targetLang }}
+                  {{ $targetURL =
+                    .RelPermalink
+                  }}
+                {{ end }}
+              {{ end }}
+            {{ end }}
+            {{ if not $targetURL }}
+              {{ $targetURL =
+                $targetSite.Home.RelPermalink
+              }}
+            {{ end }}
 
-      <li>
-        <a
-          class="flex items-center justify-start lg:justify-center w-full px-4 py-2 text-left lg:text-center text-base hover:text-white hover:bg-violet-twilight/85 focus:bg-violet-twilight/85 focus:outline-hidden transition-colors"
-          href="{{ $targetURL }}"
-          title="{{ .Language.Label }}"
-        >
-          {{ index hugo.Data.flags .Language.Lang }}
-        </a>
-      </li>
-      {{ end }} {{ end }}
-    </ul>
-  </div>
-</li>
+
+            <li>
+              <a
+                class="flex items-center justify-start lg:justify-center w-full px-4 py-2 text-left lg:text-center text-base hover:text-white hover:bg-violet-twilight/85 focus:bg-violet-twilight/85 focus:outline-hidden transition-colors"
+                href="{{ $targetURL }}"
+                title="{{ .Language.Label }}"
+              >
+                {{ index hugo.Data.flags .Language.Lang }}
+              </a>
+            </li>
+          {{ end }}
+        {{ end }}
+      </ul>
+    </div>
+  </li>
 {{ end }}

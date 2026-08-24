@@ -15,14 +15,16 @@
     />
     <div class="flex flex-wrap justify-center md:justify-start">
       {{ range split (.Get "roles") "," }}
-      <span class="mx-1 mt-1 px-2.5 py-0.5 text-xs font-semibold rounded-full border"
-        >{{ trim . " " }}</span
-      >
+        <span class="mx-1 mt-1 px-2.5 py-0.5 text-xs font-semibold rounded-full border"
+          >{{ trim . " " }}</span
+        >
       {{ end }}
     </div>
   </div>
   <div class="flex-grow text-space-indigo dark:text-pale-slate text-base leading-relaxed space-y-2">
-    <h3 class="text-lg font-bold text-shadow-grey dark:text-white leading-tight">{{ .Get "name" }}</h3>
+    <h3 class="text-lg font-bold text-shadow-grey dark:text-white leading-tight">
+      {{ .Get "name" }}
+    </h3>
     {{ .Inner | markdownify }}
   </div>
 </div>

@@ -1,29 +1,35 @@
-{{/* Sponsors section */}}
 <section class="py-16 sm:py-24">
   <div
     class="mx-auto grid w-full max-w-7xl items-start gap-12 px-4 sm:px-6 lg:grid-cols-2 lg:gap-16 lg:px-8"
   >
     <ul class="grid-auto-fit-logo grid gap-6">
-      {{ $logos := site.Params.P3.Logos }} {{ range $logos }} {{ $logoAlt := .alt }} {{ $image := .image
-      }}
-      <li class="flex items-center justify-center rounded-2xl bg-white p-6">
-        <img
-          src="{{ $image | relURL }}"
-          alt="{{ $logoAlt }}"
-          loading="lazy"
-          class="max-h-16 w-auto object-contain"
-        />
-      </li>
+      {{ $logos := site.Params.P3.Logos }}
+      {{ range $logos }}
+        {{ $logoAlt := .alt }}
+        {{ $image := .image }}
+        <li class="flex items-center justify-center rounded-2xl bg-white p-6">
+          <img
+            src="{{ $image | relURL }}"
+            alt="{{ $logoAlt }}"
+            loading="lazy"
+            class="max-h-16 w-auto object-contain"
+          />
+        </li>
       {{ end }}
     </ul>
     <div class="mt-6 lg:mt-0">
       {{ partial "components/section-heading.html" (dict "title" (i18n "sponsors.heading")
-      "subtitle" (i18n "sponsors.description")) }} {{ range site.Params.P3.Links }}
-      <div class="mt-6">
-        <a href="{{ .url }}" class="text-base font-medium text-violet-twilight dark:text-golden-pollen">
-          {{ i18n "sponsors.cta" }}&nbsp;&rarr;
-        </a>
-      </div>
+        "subtitle" (i18n "sponsors.description"))
+      }}
+      {{ range site.Params.P3.Links }}
+        <div class="mt-6">
+          <a
+            href="{{ .url }}"
+            class="text-base font-medium text-violet-twilight dark:text-golden-pollen"
+          >
+            {{ i18n "sponsors.cta" }}&nbsp;&rarr;
+          </a>
+        </div>
       {{ end }}
     </div>
   </div>

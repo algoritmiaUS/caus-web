@@ -1,25 +1,28 @@
-{{define "main"}}
-<main>
-  <article>
-    {{ partial "components/page-title.html" . }}
-    <div class="max-w-6xl mx-auto mt-8 mb-2">
-      <div class="px-6">
-        {{ partial "components/featured-single.html" . }}
+{{ define "main" }}
+  <main>
+    <article>
+      {{ partial "components/page-title.html" . }}
+      <div class="max-w-6xl mx-auto mt-8 mb-2">
+        <div class="px-6">
+          {{ partial "components/featured-single.html" . }}
+        </div>
       </div>
-    </div>
-    {{ if eq .Section "resources" }}
-    <div class="mx-auto max-w-7xl px-6 pt-6">
-      <a href="{{ "/resources/" | relLangURL }}" class="inline-flex items-center gap-1 text-sm text-space-indigo hover:text-violet-twilight dark:text-pale-slate dark:hover:text-golden-pollen transition-colors">
-        ⬅ Volver a Recursos
-      </a>
-    </div>
-    {{ end }}
-    <div class="max-w-7xl px-6 pt-6 pb-16 mx-auto prose dark:prose-invert dark:text-white">
-      {{.Content}}
-    </div>
-    {{ if .HasShortcode "rankings" }}
-    {{ partial "components/lightbox.html" . }}
-    {{ end }}
-  </article>
-</main>
-{{end}}
+      {{ if eq .Section "resources" }}
+        <div class="mx-auto max-w-7xl px-6 pt-6">
+          <a
+            href="{{ "/resources/" | relLangURL }}"
+            class="inline-flex items-center gap-1 text-sm text-space-indigo hover:text-violet-twilight dark:text-pale-slate dark:hover:text-golden-pollen transition-colors"
+          >
+            ⬅ Volver a Recursos
+          </a>
+        </div>
+      {{ end }}
+      <div class="max-w-7xl px-6 pt-6 pb-16 mx-auto prose dark:prose-invert dark:text-white">
+        {{ .Content }}
+      </div>
+      {{ if .HasShortcode "rankings" }}
+        {{ partial "components/lightbox.html" . }}
+      {{ end }}
+    </article>
+  </main>
+{{ end }}

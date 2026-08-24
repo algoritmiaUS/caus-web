@@ -76,6 +76,17 @@ events.description:
     "Our recent events, including meetups, workshops and more, reflect what is happening in our
     community."
 
+pagination.label:
+  other: "Pagination"
+pagination.first:
+  other: "First"
+pagination.prev:
+  other: "Prev"
+pagination.next:
+  other: "Next"
+pagination.last:
+  other: "Last"
+
 ######################################
 # Team Section
 ######################################

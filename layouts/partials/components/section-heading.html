@@ -1,14 +1,16 @@
 {{ $center := .center | default false }}
 <div class="{{ if $center }}mx-auto text-center{{ end }} max-w-2xl">
   {{ with .eyebrow }}
-  <p class="text-sm font-semibold uppercase tracking-wider text-violet-twilight dark:text-golden-pollen">
-    {{ . }}
-  </p>
+    <p
+      class="text-sm font-semibold uppercase tracking-wider text-violet-twilight dark:text-golden-pollen"
+    >
+      {{ . }}
+    </p>
   {{ end }}
   <h2 class="mt-2 text-3xl font-bold tracking-tight text-shadow-grey dark:text-white sm:text-4xl">
     {{ .title }}
   </h2>
   {{ with .subtitle }}
-  <p class="mt-4 text-lg leading-7 text-space-indigo dark:text-pale-slate">{{ . }}</p>
+    <p class="mt-4 text-lg leading-7 text-space-indigo dark:text-pale-slate">{{ . }}</p>
   {{ end }}
 </div>

@@ -1,24 +1,24 @@
 {{- $ogImage := "" -}}
-{{- if .Params.featured_image -}}
-  {{- $img := .Params.featured_image -}}
-  {{- with resources.Get $img -}}
+{{- with .Params.featured_image -}}
+  {{- with resources.Get . -}}
     {{- $ogImage = .Permalink -}}
   {{- else -}}
-    {{- $ogImage = $img | absURL -}}
+    {{- $ogImage = . | absURL -}}
   {{- end -}}
 {{- end -}}
 {{- if not $ogImage -}}
   {{- $ogImage = site.Params.og_image | absURL -}}
 {{- end -}}
-<meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ site.Params.description }}{{ end }}" />
-<meta property="og:title" content="{{ .Title }} | {{ site.Title }}" />
-<meta name="twitter:title" content="{{ .Title }} | {{ site.Title }}" />
-<meta itemprop="name" content="{{ .Title }} | {{ site.Title }}" />
-<meta property="og:description"
-      content="{{ if .Description }}{{ .Description }}{{ else }}{{ site.Params.description }}{{ end }}" />
+{{- $description := .Description | default site.Params.description -}}
+{{- $pageTitle := printf "%s | %s" .Title site.Title -}}
+<meta name="description" content="{{ $description }}" />
+<meta property="og:title" content="{{ $pageTitle }}" />
+<meta name="twitter:title" content="{{ $pageTitle }}" />
+<meta itemprop="name" content="{{ $pageTitle }}" />
+<meta property="og:description" content="{{ $description }}" />
 <meta property="og:site_name" content="{{ site.Title }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
-<meta property="og:locale" content="{{ if eq .Language.Lang "en" }}en_US{{ else }}es_ES{{ end }}">
+<meta property="og:locale" content="{{ if eq .Language.Lang "en" }}en_US{{ else }}es_ES{{ end }}" />
 <meta property="og:image" content="{{ $ogImage }}" />
 <meta property="og:image:secure_url" content="{{ $ogImage }}" />
-<meta property="og:type" content="{{if .IsHome}}website{{else}}article{{end}}" />
+<meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}" />
