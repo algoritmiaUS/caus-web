@@ -5,7 +5,8 @@
   </head>
 
   <body class="bg-pale-slate/20 dark:bg-shadow-grey">
-    {{ partial "layout/header.html" . }} {{ block "main" . }}{{ end }}
+    {{ partial "layout/header.html" . }}
+    {{ block "main" . }}{{ end }}
     {{ partial "layout/footer" . }}
   </body>
 </html>

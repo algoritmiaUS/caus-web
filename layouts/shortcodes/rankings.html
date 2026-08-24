@@ -1,5 +1,4 @@
 {{ $dataFile := .Get 0 }}
-<!-- Nombre del archivo YAML -->
 {{ $data := index hugo.Data $dataFile }}
 {{ $isTeam := isset $data "teams" }}
 {{ $rows := $data.teams }}
@@ -44,16 +43,13 @@
             </ul>
           </td>
         {{ end }}
+        {{ $imageLabel := cond $isTeam "Ver imagen del equipo" "Ver imagen del participante" }}
         <td class="px-4 py-3 align-middle text-center">
           <button
             type="button"
             data-lightbox-src="{{ strings.TrimPrefix "/" .image | absURL }}"
             class="inline-flex cursor-pointer items-center justify-center rounded-md p-1.5 text-space-indigo transition-colors hover:bg-pale-slate/30 hover:text-shadow-grey focus:outline-none focus:ring-2 focus:ring-violet-twilight/40 dark:text-pale-slate dark:hover:bg-space-indigo dark:hover:text-white"
-            aria-label="{{ if $isTeam }}
-              Ver imagen del equipo
-            {{ else }}
-              Ver imagen del participante
-            {{ end }}"
+            aria-label="{{ $imageLabel }}"
           >
             {{ partial "components/svg.html" (dict "name" "camera" "class" "w-4 h-4") }}
           </button>

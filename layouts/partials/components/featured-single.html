@@ -1,11 +1,12 @@
 {{- $page := . -}}
 {{ with $page.Params.featured_image }}
   {{ with resources.Get . }}
+    {{ $small := .Resize "550x webp q80" }}
+    {{ $large := . }}
+    {{ if gt .Width 1200 }}{{ $large = .Resize "1200x webp q80" }}{{ end }}
     <img
-      src="{{ .RelPermalink }}"
-      srcset="
-        {{- with .Resize "550x webp q80" -}}{{ .RelPermalink }} 550w,{{- end -}}
-        {{ .RelPermalink }} {{ .Width }}w"
+      src="{{ $large.RelPermalink }}"
+      srcset="{{ $small.RelPermalink }} {{ $small.Width }}w, {{ $large.RelPermalink }} {{ $large.Width }}w"
       class="object-fill overflow-hidden rounded-lg shadow-lg ring-4 ring-pale-slate/40 dark:ring-shadow-grey/40"
       width="100%"
       alt="{{ $page.Title }}"

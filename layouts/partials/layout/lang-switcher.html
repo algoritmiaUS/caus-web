@@ -19,7 +19,8 @@
       <ul class="text-white">
         {{ range hugo.Sites }}
           {{ if ne .Language.Name site.Language.Name }}
-            {{ $targetSite := . }} {{ $targetURL := "" }}
+            {{ $targetSite := . }}
+            {{ $targetURL := "" }}
             {{ $targetLang := $targetSite.Language.Name }}
             {{ if $page.IsTranslated }}
               {{ range $page.Translations }}
