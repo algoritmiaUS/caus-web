@@ -78,8 +78,8 @@ events.description:
 
 notice.partial_translation:
   other:
-    "This website is not fully translated into English, and it never will be. Some content is
-    only available in Spanish."
+    "This website is not fully translated into English, and it never will be. Some content is only
+    available in Spanish."
 notice.dismiss:
   other: "Dismiss"
 

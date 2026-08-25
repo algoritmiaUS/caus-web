@@ -52,10 +52,8 @@ if (langNotice && !sessionStorage.getItem('lang-notice-shown')) {
   langNotice.classList.remove('hidden');
 }
 if (langNotice) {
-  document
-    .getElementById('lang-notice-close')
-    .addEventListener('click', function () {
-      langNotice.classList.add('hidden');
-      sessionStorage.setItem('lang-notice-shown', '1');
-    });
+  document.getElementById('lang-notice-close').addEventListener('click', function () {
+    langNotice.classList.add('hidden');
+    sessionStorage.setItem('lang-notice-shown', '1');
+  });
 }
