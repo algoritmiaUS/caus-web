@@ -16,7 +16,7 @@ Cómo anunciamos en la sesión de presentación, este curso vamos a organizar ch
 
 # Charlas de Noviembre
 
-{{< div >}}
+{{< base/div >}}
 
 {{< charla
     title="Algorítmica paralela"
@@ -62,4 +62,4 @@ Como experto en competiciones de algoritmia, Marco nos va a enseñar una técnic
 Paula Gómez Matos es cofundadora del Club de Algoritmia y antigua alumna del doble grado en Ing.Informática y Matemáticas. Tiene experiencia trabajando como Data Scientist en consultoría tecnológica y en investigación de inteligencia artificial. ¡No te lo pierdas!
 {{< /charla >}}
 
-{{< /div >}}
+{{< /base/div >}}

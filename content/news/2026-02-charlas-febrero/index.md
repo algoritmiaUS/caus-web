@@ -16,7 +16,7 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
 
 # Charlas de Febrero
 
-{{< div >}}
+{{< base/div >}}
 
 {{< charla
     title="De la universidad al mundo real: lo que no te enseñan en la carrera"
@@ -42,4 +42,4 @@ También entenderás por fin qué significan conceptos como salario bruto y neto
 La teoría de grupos y la topología se conocieron de jóvenes, se miraron a los ojos y empezaron a caminar juntas, dándole mucho cada una a la otra. En esta charla repasaremos algunos de los más bonitos encuentros que hicieron este matrimonio tan feliz.
 {{< /charla >}}
 
-{{< /div >}}
+{{< /base/div >}}

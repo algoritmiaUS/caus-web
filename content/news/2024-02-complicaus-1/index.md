@@ -21,7 +21,7 @@ La competición se mantuvo reñida desde el comienzo, con una primera hora duran
 
 # Premios Principales
 
-{{< rankings "complicaus1" >}}
+{{< achievements/rankings "complicaus1" >}}
 
 Los organizadores del Club de Algoritmia también aprovecharon para agradecer a todos los que hicieron posible este evento, especialmente a la Escuela Técnica Superior de Ingeniería Informática por el patrocinio y a Mª Lourdes Miró, Subdirectora de Estudiantes, Innovación y Responsabilidad Social, por su apoyo incondicional.
 

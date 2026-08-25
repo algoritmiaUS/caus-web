@@ -9,4 +9,4 @@ description: Miembros del Club de Algoritmia
 
 Conoce a las personas que hacen posible este proyecto, comprometidos con nuestra misión y valores.
 
-{{< team-section >}}
+{{< team/team-section >}}

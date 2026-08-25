@@ -9,9 +9,7 @@ categories: ['noticias']
 tags: ['eventos', 'complicaus', 'competiciones']
 ---
 
-<p class="mb-8 font-light text-center text-muted lg:mb-16 sm:text-xl">
-  Patrocinador principal: <a href="https://www.informatica.us.es/">Escuela Técnica Superior de Ingeniería Informática</a>
-</p>
+{{< base/lead >}}Patrocinador principal: [Escuela Técnica Superior de Ingeniería Informática](https://www.informatica.us.es/){{< /base/lead >}}
 
 ¡La primera competición interna de la temporada 2025-26 ya está aquí! 🎉
 
@@ -32,8 +30,8 @@ El **CompliCAUS** es nuestra propia competición de programación, abierta a tod
 
 🚀 **Demuestra tus habilidades y disfruta del reto en el CompliCAUS IV!**
 
-{{< div class="flex flex-col items-center" >}}
-<p>Patrocinado por:</p>
-    {{< sponsor-logo src="/images/global/logo-ETSII-Color.webp" alt="Logo de la Escuela Técnica Superior de Ingeniería Informática" href="https://www.informatica.us.es/" class="w-[25rem] max-w-[80%] object-contain" >}}
-    <p class="mx-auto">Patrocinador Platino</p>
-{{< /div >}}
+Patrocinado por:
+
+{{< sponsor-logo src="/images/global/logo-ETSII-Color.webp" alt="Logo de la Escuela Técnica Superior de Ingeniería Informática" href="https://www.informatica.us.es/" >}}
+
+Patrocinador Platino

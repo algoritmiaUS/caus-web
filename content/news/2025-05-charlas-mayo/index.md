@@ -16,7 +16,7 @@ Cómo anunciamos en la sesión de presentación, este curso estamos organizando 
 
 # Charlas de mayo 2025
 
-{{< div >}}
+{{< base/div >}}
 
 {{< charla
     title="100 años de la mecánica cuántica: la teoría más desconcertante y revolucionaria que haya existido jamás"
@@ -31,4 +31,4 @@ En abril de 1900, Lord Kelvin afirmó en la Royal Institution que solo quedaban 
 Esta charla se centrará en esa segunda “nubecilla”. Como dijo Niels Bohr: "Si no estás confundido por la física cuántica, entonces realmente no la has entendido", y Richard Feynman añadió: "Creo que puedo decir con seguridad que nadie entiende la mecánica cuántica." El objetivo será arrojar algo de luz sobre el motivo de estas célebres afirmaciones.
 {{< /charla >}}
 
-{{< /div >}}
+{{< /base/div >}}

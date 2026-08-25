@@ -10,4 +10,4 @@ description: Members of the Algorithms Club
 
 Meet the people who make this project possible, committed to our mission and values.
 
-{{< team-section >}}
+{{< team/team-section >}}

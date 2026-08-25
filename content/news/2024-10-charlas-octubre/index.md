@@ -16,7 +16,7 @@ Cómo anunciamos en la sesión de presentación, este curso vamos a organizar ch
 
 # Charlas de Octubre
 
-{{< div >}}
+{{< base/div >}}
 
 {{< charla
     title="Algoritmos Bit-wise"
@@ -27,4 +27,4 @@ Cómo anunciamos en la sesión de presentación, este curso vamos a organizar ch
 >}}
 Un veterano de las competiciones de programación, Pablo nos hablará sobre algoritmos basados en operaciones a nivel de bit, una técnica que nunca hemos tratado en el club.
 {{< /charla >}}
-{{< /div >}}
+{{< /base/div >}}

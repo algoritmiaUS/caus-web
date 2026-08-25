@@ -16,7 +16,7 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
 
 # Charlas de Mayo
 
-{{< div >}}
+{{< base/div >}}
 {{< charla
     title="Hay vida más allá de la IA y los datos: Robótica, drones, señales y algo de mates"
     date="Viernes, 22 de mayo de 2026"
@@ -30,4 +30,4 @@ Vengo de lejanas tierras de oriente a contarte cómo funciona tu coche, tu roomb
 Padezco de un extraño síndrome que me obliga a hablar de mates en cada charla. Me contendré todo lo que pueda, pero ven bajo tu propia responsabilidad.
 {{< /charla >}}
 
-{{< /div >}}
+{{< /base/div >}}

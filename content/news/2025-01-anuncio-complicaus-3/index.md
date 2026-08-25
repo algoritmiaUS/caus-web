@@ -9,9 +9,7 @@ categories: ['noticias']
 tags: ['eventos', 'complicaus', 'competiciones']
 ---
 
-<p class="mb-8 font-light text-center text-muted lg:mb-16 sm:text-xl">
-  Patrocinador principal: <a href="https://www.nextdigital.es/">NEXT DIGITAL</a>
-</p>
+{{< base/lead >}}Patrocinador principal: [NEXT DIGITAL](https://www.nextdigital.es/){{< /base/lead >}}
 
 ¡La segunda competición interna de la temporada 2024-25 ya está aquí! 🎉
 
@@ -34,10 +32,8 @@ Por petición popular, y gracias a los comentarios recibidos sobre la edición a
 
 🚀 **Demuestra tus habilidades y disfruta del reto en el CompliCAUS III!**
 
-{{< div class="flex flex-col items-center" >}}
-<p>Patrocinado por:</p>
-    <a href="https://www.nextdigital.es/">
-        {{< img src="/images/global/Logo_ND.webp" alt="Logo de Next Digital" layout="logo" >}}
-    </a>
-    <p class="mx-auto">Patrocinador Platino</p>
-{{< /div >}}
+Patrocinado por:
+
+{{< sponsor-logo src="/images/global/Logo_ND.webp" alt="Logo de Next Digital" href="https://www.nextdigital.es/" >}}
+
+Patrocinador Platino
