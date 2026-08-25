@@ -1,4 +1,5 @@
-{{ $focus := .Get "focus" | default "center" }}
+{{ $focusMap := dict "center" "object-center" "top" "object-top" }}
+{{ $focus := index $focusMap (.Get "focus" | default "center") }}
 <div class="flex flex-col items-center text-center p-4 rounded w-full max-w-[240px]">
   <img
     src="{{ .Get "image" }}"
@@ -7,7 +8,7 @@
     height="200"
     loading="lazy"
     decoding="async"
-    class="size-50 shrink-0 rounded-full object-cover object-{{ $focus }} shadow-md bg-wash mb-3"
+    class="size-50 shrink-0 rounded-full object-cover {{ $focus }} shadow-md bg-wash mb-3"
   />
   <p class="font-semibold text-sm truncate w-full">{{ .Get "name" }}</p>
   {{ with .Get "subtitle" }}
