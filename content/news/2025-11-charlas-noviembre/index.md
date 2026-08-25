@@ -16,7 +16,7 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
 
 # Charlas de Noviembre
 
-<div class="space-y-6 dark:bg-surface dark:text-fg">
+{{< div class="space-y-6" >}}
 
 {{< charla
     title="Los algoritmos de un monoplaza autónomo de Formula Student"
@@ -24,7 +24,7 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
     time="19:00"
     location="Salón de grados de la ETSII + online"
     speaker="José Manuel Landero e Ignacio Sánchez"
-    stream_url="<https://www.youtube.com/watch?v=nT0-ImFk-40>"
+    stream_url="https://www.youtube.com/watch?v=nT0-ImFk-40"
 >}}
 José Manuel Landero e Ignacio Sánchez
 forman parte de ARUS, el equipo de Formula Student de la Universidad de
@@ -40,7 +40,7 @@ LiDAR hasta el SLAM, el path planning y el control del mismo.
     time="19:00"
     location="Salón de grados de la ETSII + online"
     speaker="Roberto Lama Rodríguez"
-    stream_url="<https://youtube.com/live/DzntiBDiElw>"
+    stream_url="https://youtube.com/live/DzntiBDiElw"
 >}}
 La avalancha de datos es real: más alertas, más fuentes, más ruido… y el mismo tiempo para analizarlas. En esta charla veremos cómo la IA se convierte en el turbo del analista: acelera el trabajo, detecta patrones invisibles y transforma información caótica en inteligencia útil.
 
@@ -50,4 +50,4 @@ La avalancha de datos es real: más alertas, más fuentes, más ruido… y el mi
 Una sesión visual y práctica para entender cómo la IA no viene a sustituirnos… sino a llevar nuestro análisis al siguiente nivel.
 {{< /charla >}}
 
-</div>
+{{< /div >}}

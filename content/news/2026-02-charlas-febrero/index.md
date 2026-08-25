@@ -16,7 +16,7 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
 
 # Charlas de Febrero
 
-<div class="space-y-6 dark:bg-surface dark:text-fg">
+{{< div class="space-y-6" >}}
 
 {{< charla
     title="De la universidad al mundo real: lo que no te enseñan en la carrera"
@@ -24,7 +24,7 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
     time="19:00"
     location="Sala multiusos de la ETSII + online"
     speaker="Luis Andrés Velázquez"
-    stream_url="<https://youtube.com/live/lplg2amjlts>"
+    stream_url="https://youtube.com/live/lplg2amjlts"
 >}}
 Dar el salto de la universidad al mundo laboral en informática genera muchas dudas… y casi nadie te las responde en la carrera. En esta charla hablaremos, de forma clara y directa, de todo lo que realmente importa cuando empiezas a trabajar: cómo hacer un CV que funcione, enfrentarte a entrevistas técnicas, negociar sueldo y condiciones y evitar errores típicos, etc.
 
@@ -37,9 +37,9 @@ También entenderás por fin qué significan conceptos como salario bruto y neto
     time="19:00"
     location="Salón de Actos, Facultad de Matemáticas"
     speaker="Ramón Flores"
-    stream_url="<https://www.youtube.com/live/obpuO4YQsDQ>"
+    stream_url="https://www.youtube.com/live/obpuO4YQsDQ"
 >}}
 La teoría de grupos y la topología se conocieron de jóvenes, se miraron a los ojos y empezaron a caminar juntas, dándole mucho cada una a la otra. En esta charla repasaremos algunos de los más bonitos encuentros que hicieron este matrimonio tan feliz.
 {{< /charla >}}
 
-</div>
+{{< /div >}}
