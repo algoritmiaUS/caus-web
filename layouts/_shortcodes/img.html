@@ -1,0 +1,16 @@
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" | default "" -}}
+{{- $caption := .Get "caption" -}}
+{{- $presets := dict
+  "small" "w-[320px] h-auto rounded-lg"
+  "logo"  "w-25 max-w-[80%] mx-auto"
+-}}
+{{- $class := index $presets (.Get "layout" | default "") | default (.Get "class") | default "w-full max-w-[600px] flex-1 rounded-xl" -}}
+{{- if $caption -}}
+  <figure class="not-prose my-6 flex flex-col items-center">
+    <img src="{{ $src }}" alt="{{ $alt }}" class="{{ $class }}" loading="lazy" />
+    <figcaption class="mt-2 text-center text-xs text-muted">{{ $caption }}</figcaption>
+  </figure>
+{{- else -}}
+  <img src="{{ $src }}" alt="{{ $alt }}" class="{{ $class }}" loading="lazy" />
+{{- end -}}

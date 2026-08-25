@@ -9,7 +9,7 @@ categories: ['noticias']
 tags: ['eventos', 'complicaus', 'competiciones']
 ---
 
-{{< lead >}}Patrocinador principal: [Escuela Técnica Superior de Ingeniería Informática](https://www.informatica.us.es/){{< /lead >}}
+{{< base/lead >}}Patrocinador principal: [Escuela Técnica Superior de Ingeniería Informática](https://www.informatica.us.es/){{< /base/lead >}}
 
 ¡La primera competición interna de la temporada 2025-26 ya está aquí! 🎉
 

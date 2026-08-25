@@ -35,7 +35,7 @@ Al terminar la competición, los responsables del CAUS, Pablo Dávila, Pablo Rei
 
 La competición fue reñida desde el inicio, con cambios frecuentes en los primeros puestos durante la primera hora. Al final, estos fueron los ganadores:
 
-{{< rankings "complicaus2" >}}
+{{< achievements/rankings "complicaus2" >}}
 
 # Agradecimientos
 

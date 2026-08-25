@@ -17,11 +17,11 @@ A continuación se detalla cómo han quedado los equipos para este nuevo curso.
 
 En esta categoría se elegía a una persona para apoyar en el desarrollo de la web del club junto a Kenny. La persona seleccionada ha sido:
 
-{{< div layout="cols" >}}
+{{< base/div layout="cols" >}}
 
-{{< person name="Fernando Giráldez" image="/images/elecciones-25-26/fernando-giraldez.webp" >}}
+{{< team/person name="Fernando Giráldez" image="/images/elecciones-25-26/fernando-giraldez.webp" >}}
 
-{{< /div >}}
+{{< /base/div >}}
 
 Fernando ha estado vinculado al club desde bachillerato y comienza su primer año de carrera como Web Master. ¡Empieza fuerte!
 
@@ -31,13 +31,13 @@ Fernando ha estado vinculado al club desde bachillerato y comienza su primer añ
 
 Había dos plazas disponibles para encargarse de la imagen del club en redes sociales. Las más votadas fueron:
 
-{{< div layout="cols" >}}
+{{< base/div layout="cols" >}}
 
-{{< person name="Inés Dávila" image="/images/elecciones-25-26/ines.webp" >}}
+{{< team/person name="Inés Dávila" image="/images/elecciones-25-26/ines.webp" >}}
 
-{{< person name="Lucía Campos" image="/images/elecciones-25-26/lucia-diez.webp" >}}
+{{< team/person name="Lucía Campos" image="/images/elecciones-25-26/lucia-diez.webp" >}}
 
-{{< /div >}}
+{{< /base/div >}}
 
 Ambas aportarán frescura y creatividad al equipo de comunicación.
 
@@ -47,17 +47,17 @@ Ambas aportarán frescura y creatividad al equipo de comunicación.
 
 La categoría más reñida. Inicialmente se ofrecían 3 plazas, pero debido a un empate técnico, se han concedido 4. Los nuevos integrantes son:
 
-{{< div layout="cols" >}}
+{{< base/div layout="cols" >}}
 
-{{< person name="Inés Dávila" image="/images/elecciones-25-26/ines.webp" >}}
+{{< team/person name="Inés Dávila" image="/images/elecciones-25-26/ines.webp" >}}
 
-{{< person name="Lorenzo Tagua" image="/images/elecciones-25-26/lorenzo.webp" >}}
+{{< team/person name="Lorenzo Tagua" image="/images/elecciones-25-26/lorenzo.webp" >}}
 
-{{< person name="Fernando Giráldez" image="/images/elecciones-25-26/fernando-giraldez.webp" >}}
+{{< team/person name="Fernando Giráldez" image="/images/elecciones-25-26/fernando-giraldez.webp" >}}
 
-{{< person name="José García" image="/images/elecciones-25-26/jose.webp" >}}
+{{< team/person name="José García" image="/images/elecciones-25-26/jose.webp" >}}
 
-{{< /div >}}
+{{< /base/div >}}
 
 Un equipo con muchísimo potencial para que, tanto nuevos como veteranos, sigamos creciendo juntos en las competiciones. ¡Que el podio del regional Ada Byron del próximo año hable solo de la US! 😄
 
@@ -67,15 +67,15 @@ Un equipo con muchísimo potencial para que, tanto nuevos como veteranos, sigamo
 
 Pablo Dávila continuará apoyando de forma puntual en la organización de eventos, pero cede el protagonismo a los nuevos responsables:
 
-{{< div layout="cols" >}}
+{{< base/div layout="cols" >}}
 
-{{< person name="José García" image="/images/elecciones-25-26/jose.webp" >}}
+{{< team/person name="José García" image="/images/elecciones-25-26/jose.webp" >}}
 
-{{< person name="Lucía Campos" image="/images/elecciones-25-26/lucia-diez.webp" >}}
+{{< team/person name="Lucía Campos" image="/images/elecciones-25-26/lucia-diez.webp" >}}
 
-{{< person name="Pablo Dávila" image="/images/elecciones-25-26/pablo-davila.webp" subtitle="Support Events" >}}
+{{< team/person name="Pablo Dávila" image="/images/elecciones-25-26/pablo-davila.webp" subtitle="Support Events" >}}
 
-{{< /div >}}
+{{< /base/div >}}
 
 ¡Mucha ilusión y ganas de hacer grandes cosas este año!
 
@@ -92,25 +92,25 @@ Pablo Dávila continuará apoyando de forma puntual en la organización de event
 
 Por lo que, los nuevos administradores para este nuevo curso 2025/26 son:
 
-{{< div layout="cols" >}}
+{{< base/div layout="cols" >}}
 
-{{< person name="Pablo Reina" image="/images/elecciones-25-26/pablo-reina.webp" subtitle="Presidente y Problem Solver – Doctorado en Ingeniería Informática" >}}
+{{< team/person name="Pablo Reina" image="/images/elecciones-25-26/pablo-reina.webp" subtitle="Presidente y Problem Solver – Doctorado en Ingeniería Informática" >}}
 
-{{< person name="Kenny Flores" image="/images/elecciones-25-26/kenny.webp" subtitle="Web Master y Problem Solver – Doctorado en Organización Industrial" >}}
+{{< team/person name="Kenny Flores" image="/images/elecciones-25-26/kenny.webp" subtitle="Web Master y Problem Solver – Doctorado en Organización Industrial" >}}
 
-{{< person name="Fernando Giráldez" image="/images/elecciones-25-26/fernando-giraldez.webp" subtitle="Web Master y Problem Solver" >}}
+{{< team/person name="Fernando Giráldez" image="/images/elecciones-25-26/fernando-giraldez.webp" subtitle="Web Master y Problem Solver" >}}
 
-{{< person name="Inés Dávila" image="/images/elecciones-25-26/ines.webp" subtitle="Marketing & Problem Solver" >}}
+{{< team/person name="Inés Dávila" image="/images/elecciones-25-26/ines.webp" subtitle="Marketing & Problem Solver" >}}
 
-{{< person name="Lucía Campos" image="/images/elecciones-25-26/lucia-diez.webp" subtitle="Marketing y Event Manager – Ingeniería de Software" >}}
+{{< team/person name="Lucía Campos" image="/images/elecciones-25-26/lucia-diez.webp" subtitle="Marketing y Event Manager – Ingeniería de Software" >}}
 
-{{< person name="José García" image="/images/elecciones-25-26/jose.webp" subtitle="Problem Solver y Event Manager – Máster IA" >}}
+{{< team/person name="José García" image="/images/elecciones-25-26/jose.webp" subtitle="Problem Solver y Event Manager – Máster IA" >}}
 
-{{< person name="Lorenzo Tagua" image="/images/elecciones-25-26/lorenzo.webp" subtitle="Problem Solver" >}}
+{{< team/person name="Lorenzo Tagua" image="/images/elecciones-25-26/lorenzo.webp" subtitle="Problem Solver" >}}
 
-{{< person name="Pablo Dávila" image="/images/elecciones-25-26/pablo-davila.webp" subtitle="Support Events" >}}
+{{< team/person name="Pablo Dávila" image="/images/elecciones-25-26/pablo-davila.webp" subtitle="Support Events" >}}
 
-{{< /div >}}
+{{< /base/div >}}
 
 ## 🎉 **¡Enhorabuena a todos los nuevos administradores!**
 

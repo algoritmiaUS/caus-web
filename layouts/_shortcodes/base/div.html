@@ -1,0 +1,9 @@
+{{ $layouts := dict
+  "stack" "space-y-6"
+  "gallery" "flex flex-wrap justify-center gap-4"
+  "cols" "grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 mt-8 justify-items-center"
+}}
+{{ $class := index $layouts (.Get "layout" | default "") | default (.Get "class") | default "space-y-6" }}
+<div class="{{ $class }}">
+  {{ .Inner }}
+</div>

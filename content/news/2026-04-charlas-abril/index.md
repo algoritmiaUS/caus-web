@@ -16,7 +16,7 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
 
 # Charlas de Abril
 
-{{< div >}}
+{{< base/div >}}
 {{< charla
     title="Empaquetamientos de esferas: no cabe ni un alfiler"
     date="Martes, 14 de abril de 2026"
@@ -27,4 +27,4 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
 >}}
 En esta charla hablaremos de simetría y orden en el espacio y de cómo un problema tan natural como preguntarse por cómo llenar lo más posible el espacio con esferas es tan difícil, algunas de sus soluciones involucran a tantas áreas de las matemáticas y aún hoy en día queda mucho que explorar.
 {{< /charla >}}
-{{< /div >}}
+{{< /base/div >}}

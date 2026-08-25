@@ -24,9 +24,9 @@ Aunque hay variaciones, la mayoría de concursos comparten una estructura simila
 
 La mejor forma de entenderlo es verlo. El siguiente vídeo muestra el ambiente, la tensión y la emoción de la final nacional de la competición **Ada Byron**, un excelente ejemplo de un concurso por equipos de alto nivel en España.
 
-{{< div class="mx-auto max-w-[560px] my-6" >}}
+{{< base/div class="mx-auto max-w-[560px] my-6" >}}
 {{< youtube H7emGqxE3NI >}}
-{{< /div >}}
+{{< /base/div >}}
 
 
 ### Elementos

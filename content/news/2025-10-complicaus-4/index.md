@@ -35,7 +35,7 @@ Al finalizar la competición, nos dirigimos al Salón de Grados de la ETSII, don
 
 La competición fue reñida desde el inicio, con constantes cambios en los primeros puestos durante la primera hora. Finalmente, estos fueron los ganadores:
 
-{{< rankings "complicaus4" >}}
+{{< achievements/rankings "complicaus4" >}}
 
 # Agradecimientos
 

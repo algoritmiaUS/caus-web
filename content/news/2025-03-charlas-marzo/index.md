@@ -16,7 +16,7 @@ Cómo anunciamos en la sesión de presentación, este curso estamos organizando 
 
 # Charlas de marzo 2025
 
-{{< div >}}
+{{< base/div >}}
 
 {{< charla
     title="Son las matemáticas el lenguaje de la naturaleza?"
@@ -40,4 +40,4 @@ En esta charla, de carácter divulgativo, mostraremos no solo que las matemátic
 Desde el principio de los tiempos, los seres humanos nos hemos hecho algunas preguntas fundamentales. ¿Quiénes somos? ¿Por qué estamos aquí? ¿Hay vida después de la muerte? Al no poder responder a ninguna de estas preguntas, en esta charla consideraremos los problemas prácticos que resuelven los monoides en la categoría de los endofuntores, especialmente en relación con la computación distribuida.
 {{< /charla >}}
 
-{{< /div >}}
+{{< /base/div >}}

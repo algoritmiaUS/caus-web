@@ -149,14 +149,14 @@ Aunque no pertenecen a nuestra universidad, participaron en la sede de Sevilla y
 
 Además de los clasificados, queremos agradecer a los equipos **TLE Climbers**, **Virtem**, **Los Mikel Bull** y **git gud** por haber participado en este certamen. La verdad es que en general, el rendimiento de los equipos ha sido muy bueno.
 
-{{< div layout="gallery" >}}
+{{< base/div layout="gallery" >}}
 
 {{< img src="gitgut.webp" alt="GitGut" layout="small" >}}
 {{< img src="virtem.webp" alt="Virtem" layout="small" >}}
 {{< img src="tle_climbers.webp" alt="TLE Climbers" layout="small" >}}
 {{< img src="mikelbull.webp" alt="Mikel Bull" layout="small" >}}
 
-{{< /div >}}
+{{< /base/div >}}
 
 ## Jueces y agradecimientos
 

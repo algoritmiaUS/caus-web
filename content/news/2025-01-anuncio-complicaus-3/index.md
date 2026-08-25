@@ -9,7 +9,7 @@ categories: ['noticias']
 tags: ['eventos', 'complicaus', 'competiciones']
 ---
 
-{{< lead >}}Patrocinador principal: [NEXT DIGITAL](https://www.nextdigital.es/){{< /lead >}}
+{{< base/lead >}}Patrocinador principal: [NEXT DIGITAL](https://www.nextdigital.es/){{< /base/lead >}}
 
 ¡La segunda competición interna de la temporada 2024-25 ya está aquí! 🎉
 
