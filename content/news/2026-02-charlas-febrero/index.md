@@ -16,7 +16,7 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
 
 # Charlas de Febrero
 
-{{< div class="space-y-6" >}}
+{{< div >}}
 
 {{< charla
     title="De la universidad al mundo real: lo que no te enseñan en la carrera"

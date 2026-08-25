@@ -22,7 +22,7 @@ Con el fin de seguir impulsando la algoritmia y la programación competitiva en 
 
 A continuación, os presentamos a los miembros del club que han dado un paso al frente para liderar el CAUS el año que viene. Os invitamos a conocer sus perfiles, ideas y motivaciones de cara a las próximas votaciones ¡El futuro del club quedará en sus manos!
 
-<div class="space-y-6 mt-10">
+{{< div class="space-y-6 mt-10" >}}
 
 {{< candidate name="Lorenzo Tagua Santana" image="/images/elecciones-26-27/lorenzo.webp" roles="Problem Solver" >}}
 
@@ -153,14 +153,14 @@ Tengo muchas ganas de implicarme y ayudar a que más gente vea lo chulo que pued
 
 {{< /candidate >}}
 
-</div>
+{{< /div >}}
 
 ¡Mucha suerte a todos los candidatos! Vuestro compromiso e implicación es lo que hace grande a esta asociación ✨
 
-<div class="flex flex-row justify-center">
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLSe1As5n7InsNaXy4Ge3M0dn8sWyOob1MqpgkcRWAZlgg1cpFg/viewform?usp=publish-editor" class="mx-1 mt-6 text-2xl font-extrabold no-underline">
-      <span class="px-6 py-6 rounded-full border">
-        Vota aquí
-      </span>
-    </a>
-</div>
+{{< div class="flex flex-row justify-center" >}}
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSe1As5n7InsNaXy4Ge3M0dn8sWyOob1MqpgkcRWAZlgg1cpFg/viewform?usp=publish-editor" class="mx-1 mt-6 text-2xl font-extrabold no-underline">
+<span class="px-6 py-6 rounded-full border">
+Vota aquí
+</span>
+</a>
+{{< /div >}}

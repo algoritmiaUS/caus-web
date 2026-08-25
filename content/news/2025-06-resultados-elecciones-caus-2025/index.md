@@ -17,11 +17,11 @@ A continuación se detalla cómo han quedado los equipos para este nuevo curso.
 
 En esta categoría se elegía a una persona para apoyar en el desarrollo de la web del club junto a Kenny. La persona seleccionada ha sido:
 
-<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 mt-8 justify-items-center">
+{{< div layout="cols" >}}
 
 {{< person name="Fernando Giráldez" image="/images/elecciones-25-26/fernando-giraldez.webp" >}}
 
-</div>
+{{< /div >}}
 
 Fernando ha estado vinculado al club desde bachillerato y comienza su primer año de carrera como Web Master. ¡Empieza fuerte!
 
@@ -31,13 +31,13 @@ Fernando ha estado vinculado al club desde bachillerato y comienza su primer añ
 
 Había dos plazas disponibles para encargarse de la imagen del club en redes sociales. Las más votadas fueron:
 
-<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 mt-8 justify-items-center">
+{{< div layout="cols" >}}
 
 {{< person name="Inés Dávila" image="/images/elecciones-25-26/ines.webp" >}}
 
 {{< person name="Lucía Campos" image="/images/elecciones-25-26/lucia-diez.webp" >}}
 
-</div>
+{{< /div >}}
 
 Ambas aportarán frescura y creatividad al equipo de comunicación.
 
@@ -47,7 +47,7 @@ Ambas aportarán frescura y creatividad al equipo de comunicación.
 
 La categoría más reñida. Inicialmente se ofrecían 3 plazas, pero debido a un empate técnico, se han concedido 4. Los nuevos integrantes son:
 
-<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 mt-8 justify-items-center">
+{{< div layout="cols" >}}
 
 {{< person name="Inés Dávila" image="/images/elecciones-25-26/ines.webp" >}}
 
@@ -57,7 +57,7 @@ La categoría más reñida. Inicialmente se ofrecían 3 plazas, pero debido a un
 
 {{< person name="José García" image="/images/elecciones-25-26/jose.webp" >}}
 
-</div>
+{{< /div >}}
 
 Un equipo con muchísimo potencial para que, tanto nuevos como veteranos, sigamos creciendo juntos en las competiciones. ¡Que el podio del regional Ada Byron del próximo año hable solo de la US! 😄
 
@@ -67,7 +67,7 @@ Un equipo con muchísimo potencial para que, tanto nuevos como veteranos, sigamo
 
 Pablo Dávila continuará apoyando de forma puntual en la organización de eventos, pero cede el protagonismo a los nuevos responsables:
 
-<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 mt-8 justify-items-center">
+{{< div layout="cols" >}}
 
 {{< person name="José García" image="/images/elecciones-25-26/jose.webp" >}}
 
@@ -75,7 +75,7 @@ Pablo Dávila continuará apoyando de forma puntual en la organización de event
 
 {{< person name="Pablo Dávila" image="/images/elecciones-25-26/pablo-davila.webp" subtitle="Support Events" >}}
 
-</div>
+{{< /div >}}
 
 ¡Mucha ilusión y ganas de hacer grandes cosas este año!
 
@@ -92,7 +92,7 @@ Pablo Dávila continuará apoyando de forma puntual en la organización de event
 
 Por lo que, los nuevos administradores para este nuevo curso 2025/26 son:
 
-<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 mt-8 justify-items-center">
+{{< div layout="cols" >}}
 
 {{< person name="Pablo Reina" image="/images/elecciones-25-26/pablo-reina.webp" subtitle="Presidente y Problem Solver – Doctorado en Ingeniería Informática" >}}
 
@@ -110,7 +110,7 @@ Por lo que, los nuevos administradores para este nuevo curso 2025/26 son:
 
 {{< person name="Pablo Dávila" image="/images/elecciones-25-26/pablo-davila.webp" subtitle="Support Events" >}}
 
-</div>
+{{< /div >}}
 
 ## 🎉 **¡Enhorabuena a todos los nuevos administradores!**
 

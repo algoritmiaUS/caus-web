@@ -16,7 +16,7 @@ Cómo anunciamos en la sesión de presentación, este curso estamos organizando 
 
 # Charlas de febrero 2025
 
-{{< div class="space-y-6" >}}
+{{< div >}}
 
 {{< charla
     title="Docker desde cero"

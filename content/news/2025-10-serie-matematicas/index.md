@@ -11,7 +11,7 @@ tags: ["eventos", "charlas", "serie-matematicas"]
 
 # Charlas impartidas
 
-{{< div class="space-y-6" >}}
+{{< div >}}
 {{< charla
     title="Hablando de Ramanujan con Renato: lo que no te contaron de las matemáticas de Ramanujan"
     date="Jueves, 23 de octubre de 2025"

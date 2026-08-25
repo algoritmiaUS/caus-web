@@ -32,11 +32,8 @@ El **CompliCAUS** es nuestra propia competición de programación, abierta a tod
 
 🚀 **Demuestra tus habilidades y disfruta del reto en el CompliCAUS IV!**
 
-<div>
-  <p>Patrocinado por:</p>
-
-  <div class="flex flex-col items-center">
+{{< div class="flex flex-col items-center" >}}
+<p>Patrocinado por:</p>
     {{< sponsor-logo src="/images/global/logo-ETSII-Color.webp" alt="Logo de la Escuela Técnica Superior de Ingeniería Informática" href="https://www.informatica.us.es/" class="w-[25rem] max-w-[80%] object-contain" >}}
     <p class="mx-auto">Patrocinador Platino</p>
-  </div>
-</div>
+{{< /div >}}

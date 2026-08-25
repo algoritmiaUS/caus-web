@@ -16,7 +16,7 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
 
 # Charlas de Noviembre
 
-{{< div class="space-y-6" >}}
+{{< div >}}
 
 {{< charla
     title="Los algoritmos de un monoplaza autónomo de Formula Student"
