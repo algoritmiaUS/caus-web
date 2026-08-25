@@ -16,7 +16,7 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
 
 # Charlas de Noviembre
 
-<div class="space-y-6">
+{{< div class="space-y-6" >}}
 
 {{< charla
     title="Los algoritmos de un monoplaza autónomo de Formula Student"
@@ -50,4 +50,4 @@ La avalancha de datos es real: más alertas, más fuentes, más ruido… y el mi
 Una sesión visual y práctica para entender cómo la IA no viene a sustituirnos… sino a llevar nuestro análisis al siguiente nivel.
 {{< /charla >}}
 
-</div>
+{{< /div >}}

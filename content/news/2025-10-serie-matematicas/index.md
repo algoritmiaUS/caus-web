@@ -11,7 +11,7 @@ tags: ["eventos", "charlas", "serie-matematicas"]
 
 # Charlas impartidas
 
-<div class="space-y-6">
+{{< div class="space-y-6" >}}
 {{< charla
     title="Hablando de Ramanujan con Renato: lo que no te contaron de las matemáticas de Ramanujan"
     date="Jueves, 23 de octubre de 2025"
@@ -57,4 +57,4 @@ La teoría de grupos y la topología se conocieron de jóvenes, se miraron a los
 >}}
 En esta charla hablaremos de simetría y orden en el espacio y de cómo un problema tan natural como preguntarse por cómo llenar lo más posible el espacio con esferas es tan difícil, algunas de sus soluciones involucran a tantas áreas de las matemáticas y aún hoy en día queda mucho que explorar.
 {{< /charla >}}
-</div>
+{{< /div >}}

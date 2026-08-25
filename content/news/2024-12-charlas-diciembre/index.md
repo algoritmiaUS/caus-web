@@ -16,7 +16,7 @@ Cómo anunciamos en la sesión de presentación, este curso vamos a organizar ch
 
 # Charlas de Diciembre
 
-<div class="space-y-6">
+{{< div class="space-y-6" >}}
 
 {{< charla
     title="GIT: Lo básico y lo que nadie te enseña"
@@ -50,4 +50,4 @@ Taller en el cual trataremos las librerías más empleadas dentro del Machine Le
 Doctor en inteligencia artificial, master en programación y diseño de videojuegos, profesor de IA en la ETSII. La presentación trata sobre como construir mundos digitales sin colocar nada manualmente.
 {{< /charla >}}
 
-</div>
+{{< /div >}}

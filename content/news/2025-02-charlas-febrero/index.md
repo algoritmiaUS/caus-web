@@ -16,7 +16,7 @@ Cómo anunciamos en la sesión de presentación, este curso estamos organizando 
 
 # Charlas de febrero 2025
 
-<div class="space-y-6">
+{{< div class="space-y-6" >}}
 
 {{< charla
     title="Docker desde cero"
@@ -41,4 +41,4 @@ En esta ponencia-taller, Pablo Dávila (admin del CAUS) te enseñará cómo util
 Roberto es Ingeniero en Telecomunicaciones y Analista de ciberseguridad. En este taller exploraremos la arquitectura de un entorno de seguridad basado en Docker, donde desplegaremos y configuraremos herramientas clave como un IDS, un SIEM y un SIRP. A través de este laboratorio práctico, veremos cómo estas tecnologías trabajan juntas para la detección, análisis y respuesta ante incidentes de seguridad.
 {{< /charla >}}
 
-</div>
+{{< /div >}}

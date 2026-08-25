@@ -16,7 +16,7 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
 
 # Charlas de Marzo
 
-<div class="space-y-6">
+{{< div class="space-y-6" >}}
 
 {{< charla
     title="From ChatGPT User to AI Builder"
@@ -30,4 +30,4 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
 Step beyond using AI and start building with it! In this interactive workshop, you’ll learn the fundamentals of LLMs and discover how tools like ChatGPT actually work. Then you’ll take it a step further by creating your own custom GPT and exploring how AI can be connected to real tools and workflows. No prior AI experience is required, just curiosity and the desire to turn AI from something you use into something you build. Oh, and you might even win a fun prize!
 {{< /charla >}}
 
-</div>
+{{< /div >}}
