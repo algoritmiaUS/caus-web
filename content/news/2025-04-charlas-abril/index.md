@@ -21,7 +21,7 @@ Cómo anunciamos en la sesión de presentación, este curso estamos organizando 
     date="Jueves, 10 de abril de 2025"
     time="16:30"
     location="Escuela Técnica Superior de Ingeniería Informática (A4.35) + online"
-    stream_url="<https://meet.google.com/fcd-xhdp-wih>"
+    stream_url="https://meet.google.com/fcd-xhdp-wih"
     speaker="Lourdes Linares Barrera (Admin del CAUS, Data Scientist y Data Engineer en NEXT DIGITAL)"
 >}}
 ¿Te pica la curiosidad por saber cómo entienden las máquinas el lenguaje humano? ¿Te suenan palabros como “transformers", "transfer learning" o "RAG" y no tienes ni idea de qué van?
