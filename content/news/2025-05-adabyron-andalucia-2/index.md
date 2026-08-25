@@ -45,7 +45,7 @@ Este equipo obtuvo el **primer lugar** en la sede de Sevilla en la categoría A 
 - **Jesús Vílchez Martínez** (Grado en Ingeniería Informática – Ingeniería del Software)
 - **José Escalera García** (Grado en Ingeniería Informática – Ingeniería del Software)
 
-<img src="ganadores-A.webp" alt="Just Simply FLML" width="500"/>
+{{< img src="ganadores-A.webp" alt="Just Simply FLML" >}}
 
 ---
 
@@ -57,7 +57,7 @@ Ganadores de la **categoría B** (segundo curso), que en este equipo hubo un int
 - **Alejandro Pineda Martín** (Grado en Ingeniería Informática – Tecnologías Informáticas)
 - **Henrique Rebollo Padovani** (Grado en Ingeniería Informática – Tecnologías Informáticas)
 
-<img src="ganadores-B.webp" alt="Mikel Bul" width="500"/>
+{{< img src="ganadores-B.webp" alt="Mikel Bul" >}}
 
 ---
 
@@ -69,7 +69,7 @@ Este equipo ganó la **categoría C** (tercer curso o superior) en la sede de Se
 - **Pablo Moreno Moreu** (Doble Grado en Matemáticas e Ingeniería Informática)
 - **Carlos Fernández-Llebrez Acedo** (Doble Grado en Matemáticas e Ingeniería Informática)
 
-<img src="ganadores-C.webp" alt="Lema Técnico" width="500"/>
+{{< img src="ganadores-C.webp" alt="Lema Técnico" >}}
 
 ---
 
@@ -99,7 +99,7 @@ Este equipo obtuvo el **primer lugar** en la sede de Sevilla en la categoría A,
 - **Jesús Vílchez Martínez** (Grado en Ingeniería Informática – Ingeniería del Software)
 - **José Escalera García** (Grado en Ingeniería Informática – Ingeniería del Software)
 
-<img src="just-simply-flml.webp" alt="Just Simply FLML" width="500"/>
+{{< img src="just-simply-flml.webp" alt="Just Simply FLML" >}}
 
 **Equipo Just Simply FLML durante la competición.**
 
@@ -113,7 +113,7 @@ A pesar de ser dos integrantes los que participaron, quedaron en un cuarto lugar
 - **Pablo Moreno Moreu** (Doble Grado en Matemáticas e Ingeniería Informática)
 - **Carlos Fernández-Llebrez Acedo** (Doble Grado en Matemáticas e Ingeniería Informática)
 
-<img src="lematecnico.webp" alt="Lema Técnico" width="500"/>
+{{< img src="lematecnico.webp" alt="Lema Técnico" >}}
 
 **El equipo LemaTecnico (Los favoritos de Renato)**
 
@@ -127,7 +127,7 @@ Este equipo, habiendo quedado en un increíble quinto lugar en el ranking genera
 - **José Luis Mesa Solano** (Doble Grado en Matemáticas y Física)
 - **José Aguilera Rodríguez** (Doble Grado en Física e Ingeniería de Materiales)
 
-<img src="massive.webp" alt="Massive" width="500"/>
+{{< img src="massive.webp" alt="Massive" >}}
 
 **El equipo Massive, uno de los representantes de la US en la categoría superior.**
 
@@ -141,7 +141,7 @@ Aunque no pertenecen a nuestra universidad, participaron en la sede de Sevilla y
 - **Adrián Peinado Santiago**(Grado en Ingeniería Informática)
 - **Juan Torres Gómez**(Grado en Ingeniería Informática)
 
-<img src="boquerones.webp" alt="Boquerones" width="500"/>
+{{< img src="boquerones.webp" alt="Boquerones" >}}
 
 **Los BoquerO(n³) Los únicos en la sede de sevilla que programaron con Java**
 
@@ -151,10 +151,10 @@ Además de los clasificados, queremos agradecer a los equipos **TLE Climbers**, 
 
 {{< div layout="gallery" >}}
 
-  <img src="gitgut.webp" alt="GitGut" class="w-[320px] h-auto rounded-lg"/>
-  <img src="virtem.webp" alt="Virtem" class="w-[320px] h-auto rounded-lg"/>
-  <img src="tle_climbers.webp" alt="TLE Climbers" class="w-[320px] h-auto rounded-lg"/>
-  <img src="mikelbull.webp" alt="Mikel Bull" class="w-[320px] h-auto rounded-lg"/>
+{{< img src="gitgut.webp" alt="GitGut" layout="small" >}}
+{{< img src="virtem.webp" alt="Virtem" layout="small" >}}
+{{< img src="tle_climbers.webp" alt="TLE Climbers" layout="small" >}}
+{{< img src="mikelbull.webp" alt="Mikel Bull" layout="small" >}}
 
 {{< /div >}}
 

@@ -40,7 +40,7 @@ Este equipo no solo dominó la Categoría C, sino que se alzó con el primer pue
 - **Julio Ojeda Infantes** (Grado en Matemáticas)
 - **Mario Mora Cortés** (Grado en Matemáticas)
 
-<img src="ganadores-C.webp" alt="TLE Climbers" width="500"/>
+{{< img src="ganadores-C.webp" alt="TLE Climbers" >}}
 
 ### 🥇 just simply flml
 
@@ -50,7 +50,7 @@ Este equipo, que el año pasado competía en la Categoría A, se ha proclamado e
 - **Jesús Vílchez Martínez** (Grado en Ingeniería Informática – Ingeniería del Software)
 - **José Escalera García** (Grado en Ingeniería Informática – Ingeniería del Software)
 
-<img src="ganadores-B.webp" alt="Just Simply FLML" width="500"/>
+{{< img src="ganadores-B.webp" alt="Just Simply FLML" >}}
 
 ### 🥇 sqlito
 
@@ -60,7 +60,7 @@ La gran sorpresa de la edición. Siendo estudiantes de primer año, lograron el 
 - **Fernando Giráldez Curquejo** (Grado en Ingeniería Informática - Ingeniería de Computadores)
 - **Lucas Franco Borrero** (Grado en Matemáticas)
 
-<img src="ganadores-A.webp" alt="SQLito" width="500"/>
+{{< img src="ganadores-A.webp" alt="SQLito" >}}
 
 ### menciones especiales
 
@@ -70,7 +70,7 @@ La gran sorpresa de la edición. Siendo estudiantes de primer año, lograron el 
 - Carlos Gamito Moreno (Grado en Ingeniería Informática - Tecnologías Informáticas)
 - Jesús Núñez Pelayo (Grado en Ingeniería Informática - Tecnologías Informáticas)
 
-<img src="./premio_secundario1.webp" alt="Premio secundario 1" width="500" />
+{{< img src="./premio_secundario1.webp" alt="Premio secundario 1" >}}
 
 **HaskellRunners:** premiados por la "Última Entrega Correcta", resolviendo un problema in extremis justo antes del cierre del juez. Un homenaje perfecto a la perseverancia (y a David Solís).
 
@@ -78,7 +78,7 @@ La gran sorpresa de la edición. Siendo estudiantes de primer año, lograron el 
 - **Ángela Martínez Carrasco** (Doble Grado Ingeniería Informática y Matemáticas)
 - **Antonio María Halcón Álvarez** (Doble Grado Ingeniería Informática y Matemáticas)
 
-<img src="./premio_secundario2.webp" alt="Premio secundario 2" width="500" />
+{{< img src="./premio_secundario2.webp" alt="Premio secundario 2" >}}
 
 ## Clasificados a la final nacional
 
@@ -98,7 +98,7 @@ Detrás de cada línea de código enviada, hubo un equipo humano velando por la 
 - **Pablo Reina Jiménez**
 - **Kenny Jesús Flores Huamán**
 
-<img src="fundadores.webp" alt="fundadores" width="500"/>
+{{< img src="fundadores.webp" alt="fundadores" >}}
 
 Como fundadores del CAUS, nos llena de orgullo ver la evolución técnica y el crecimiento de la comunidad en Sevilla. Supervisar cientos de envíos en C, C++, Java y Python, mientras gestionamos incidencias en tiempo real, ha sido un reto tan exigente como gratificante.
 
@@ -118,8 +118,8 @@ Nada de esto habría sido posible sin el apoyo de los voluntarios que dedicaron 
 - José García De Tejada Delgado
 
 {{< div layout="gallery" >}}
-<img src="voluntarios.webp" alt="v1" class="w-[450px] h-auto rounded-lg"/>
-<img src="voluntarios2.webp" alt="v2" class="w-[450px] h-auto rounded-lg"/>
+{{< img src="voluntarios.webp" alt="v1" class="w-[450px] h-auto rounded-lg" >}}
+{{< img src="voluntarios2.webp" alt="v2" class="w-[450px] h-auto rounded-lg" >}}
 {{< /div >}}
 
 ## Agradecimientos especiales

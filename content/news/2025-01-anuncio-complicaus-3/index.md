@@ -37,7 +37,7 @@ Por petición popular, y gracias a los comentarios recibidos sobre la edición a
 {{< div class="flex flex-col items-center" >}}
 <p>Patrocinado por:</p>
     <a href="https://www.nextdigital.es/">
-        <img src="/images/global/Logo_ND.webp" alt="Logo de Next Digital" class="w-25 max-w-[80%] mx-auto">
+        {{< img src="/images/global/Logo_ND.webp" alt="Logo de Next Digital" layout="logo" >}}
     </a>
     <p class="mx-auto">Patrocinador Platino</p>
 {{< /div >}}

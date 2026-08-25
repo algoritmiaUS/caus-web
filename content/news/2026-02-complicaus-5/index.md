@@ -45,7 +45,7 @@ La competición fue reñida desde el inicio, con constantes cambios en los prime
 - **Javier Giménez Cabanillas** (Doble Grado en Ingeniería Informática - Tecnologías Informáticas y Matemáticas)
 - **Anselmo Jiménez Zambrano** (Doble Grado en Ingeniería Informática - Tecnologías Informáticas y Matemáticas)
 
-<img src="/images/winners-complicaus-5/first.webp" alt="Primer premio: Time Limit Subceeded" width="500"/>
+{{< img src="/images/winners-complicaus-5/first.webp" alt="Primer premio: Time Limit Subceeded" >}}
 
 ### 🥈 Segundo premio: TLE Climbers
 
@@ -53,7 +53,7 @@ La competición fue reñida desde el inicio, con constantes cambios en los prime
 - **Lorenzo Tagua** (Grado en Ingeniería de Tecnologías Industriales)
 - **Mario Mora Cortés** (Grado en Matemáticas)
 
-<img src="/images/winners-complicaus-5/second.webp" alt="Segundo premio: TLE Climbers" width="500"/>
+{{< img src="/images/winners-complicaus-5/second.webp" alt="Segundo premio: TLE Climbers" >}}
 
 ### 🥉 Tercer premio: Three pointers
 
@@ -61,7 +61,7 @@ La competición fue reñida desde el inicio, con constantes cambios en los prime
 - **Lester Adrián Arencibia Arteaga** (Grado en Ingeniería Informática - Tecnologías Informáticas)
 - **Nacho Gorostidi Colás** (Grado en Ingeniería Informática - Tecnologías Informáticas)
 
-<img src="/images/winners-complicaus-5/third.webp" alt="Tercer premio: Three pointers" width="500"/>
+{{< img src="/images/winners-complicaus-5/third.webp" alt="Tercer premio: Three pointers" >}}
 
 ### 🎖️ Premio secundario: Los problemas de Reina
 
@@ -69,7 +69,7 @@ La competición fue reñida desde el inicio, con constantes cambios en los prime
 - **Jesús Pérez Bazarot** (Grado en Ingeniería Informática - Ingeniería de Computadores)
 - **Miguel España Montero** (Doble Grado Física + Matemáticas)
 
-<img src="/images/winners-complicaus-5/secondary.webp" alt="Premio secundario: Los problemas de Reina" width="500"/>
+{{< img src="/images/winners-complicaus-5/secondary.webp" alt="Premio secundario: Los problemas de Reina" >}}
 
 # Agradecimientos
 
