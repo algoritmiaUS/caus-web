@@ -1,0 +1,31 @@
+{{/* Small notice shown once per session on non-Spanish pages (see main.js). */}}
+{{ if ne site.Language.Lang "es" }}
+  <div
+    id="lang-notice"
+    role="status"
+    class="hidden fixed bottom-4 left-4 right-4 sm:left-auto sm:right-6 sm:max-w-lg z-[1000] rounded-xl bg-ink text-paper border border-line/20 shadow-lg p-6"
+  >
+    <div class="flex items-start gap-4">
+      <p class="text-base leading-relaxed">{{ i18n "notice.partial_translation" }}</p>
+      <button
+        id="lang-notice-close"
+        type="button"
+        aria-label="{{ i18n "notice.dismiss" }}"
+        class="shrink-0 rounded-md p-1 hover:bg-accent/85 focus:bg-accent/85 focus:outline-hidden transition-colors"
+      >
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+          stroke-linecap="round"
+          class="size-5"
+          aria-hidden="true"
+        >
+          <path d="M18 6 6 18M6 6l12 12"></path>
+        </svg>
+      </button>
+    </div>
+  </div>
+{{ end }}

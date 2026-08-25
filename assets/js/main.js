@@ -50,12 +50,12 @@ document.addEventListener('keydown', function (e) {
 var langNotice = document.getElementById('lang-notice');
 if (langNotice && !sessionStorage.getItem('lang-notice-shown')) {
   langNotice.classList.remove('hidden');
-  sessionStorage.setItem('lang-notice-shown', '1');
 }
 if (langNotice) {
   document
     .getElementById('lang-notice-close')
     .addEventListener('click', function () {
       langNotice.classList.add('hidden');
+      sessionStorage.setItem('lang-notice-shown', '1');
     });
 }
