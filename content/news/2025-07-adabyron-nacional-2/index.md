@@ -21,7 +21,7 @@ Tres equipos pertenecientes al Club de Algoritmia lograron clasificarse a esta f
 - **Jesús Vílchez Martínez** (Grado en Ingeniería Informática – Ingeniería del Software)
 - **José Escalera García** (Grado en Ingeniería Informática – Ingeniería del Software)
 
-<img src="just-simply-flml.webp" alt="Just Simply FLML" width="500"/>
+{{< img src="just-simply-flml.webp" alt="Just Simply FLML" >}}
 
 ## Equipo **"Massive"**
 
@@ -29,7 +29,7 @@ Tres equipos pertenecientes al Club de Algoritmia lograron clasificarse a esta f
 - **José Luis Mesa Solano** (Doble Grado en Matemáticas y Física)
 - **José Aguilera Rodríguez** (Doble Grado en Física e Ingeniería de Materiales)
 
-<img src="massive.webp" alt="Massive" width="500"/>
+{{< img src="massive.webp" alt="Massive" >}}
 
 ## Equipo **"LemaTecnico"**
 
@@ -37,7 +37,7 @@ Tres equipos pertenecientes al Club de Algoritmia lograron clasificarse a esta f
 - **Pablo Moreno Moreu** (Doble Grado en Ingeniería Informática – Tecnologías Informáticas y Matemáticas)
 - **Arnau Neches Vilà** (Doble Grado en Ingeniería Informática – Tecnologías Informáticas y Matemáticas)
 
-<img src="lematecnico.webp" alt="Lema Técnico" width="500"/>
+{{< img src="lematecnico.webp" alt="Lema Técnico" >}}
 
 # Resultados y agradecimientos
 
