@@ -76,6 +76,13 @@ events.description:
     "Our recent events, including meetups, workshops and more, reflect what is happening in our
     community."
 
+notice.partial_translation:
+  other:
+    "This website is not fully translated into English, and it never will be. Some content is only
+    available in Spanish."
+notice.dismiss:
+  other: "Dismiss"
+
 pagination.label:
   other: "Pagination"
 pagination.first:
