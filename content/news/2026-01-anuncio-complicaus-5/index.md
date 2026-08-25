@@ -9,9 +9,7 @@ categories: ['noticias']
 tags: ['eventos', 'complicaus', 'competiciones']
 ---
 
-<p class="mb-8 font-light text-center text-muted lg:mb-16 sm:text-xl">
-  Patrocinador principal: <a href="https://www.nextdigital.es/">NEXT DIGITAL</a>
-</p>
+{{< lead >}}Patrocinador principal: [NEXT DIGITAL](https://www.nextdigital.es/){{< /lead >}}
 
 ¡La competición más esperada de febrero ya tiene fecha! 💖💻
 

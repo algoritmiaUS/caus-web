@@ -26,7 +26,7 @@ A continuación, os presentamos a los miembros del club que han dado un paso al 
 
 {{< candidate name="Lorenzo Tagua Santana" image="/images/elecciones-26-27/lorenzo.webp" roles="Problem Solver" >}}
 
-Soy Lorenzo, me conocéis de haber estado dando clases sobre todo en el segundo cuatrimestre y de haber quedado 2º en el CompliCAUS y 1º en el Ada Byron de Andalucía junto a Julio Ojeda y Mario Mora en <em>TLE Climbers</em>.
+Soy Lorenzo, me conocéis de haber estado dando clases sobre todo en el segundo cuatrimestre y de haber quedado 2º en el CompliCAUS y 1º en el Ada Byron de Andalucía junto a Julio Ojeda y Mario Mora en *TLE Climbers*.
 
 Quiero continuar el año que viene en el club como problem solver, para poder echar una mano al club con los problemas semanales y ayudar a hacer que el CAUS vuelva a la cima del Ada Byron andaluz al igual que este año.
 
@@ -74,10 +74,10 @@ Como Web Master, aporto mi experiencia desarrollando aplicaciones reales a gran 
 
 Soy Arnau de quinto del doble en mates-info. Llevo en el CAUS desde el inicio (creo que la mayoría ya me conocéis). Mi objetivo como event manager es el siguiente:
 
-- <strong class="font-semibold text-fg">5-10 charlas de empresas:</strong> Con posibilidad de intentar encontraros internships, etc.
-- <strong class="font-semibold text-fg">5-10 charlas de profesores / profesionales / gente interesante en general:</strong> Cosas que estén chulas y nos gusten a todos.
+- **5-10 charlas de empresas:** Con posibilidad de intentar encontraros internships, etc.
+- **5-10 charlas de profesores / profesionales / gente interesante en general:** Cosas que estén chulas y nos gusten a todos.
 
-Quiero intentar hacer un evento cada dos semanas y tratar de dar la máxima visibilidad al CAUS (voy a obligar a todo el mundo que conozca a venir). Además de charlas, también he pensado en organizar algún evento social (los anglosajones hacen la típica de <em>pub crawl</em>, nosotros podemos hacer ruta de cerveza y tapas por el centro jeje, así como idea).
+Quiero intentar hacer un evento cada dos semanas y tratar de dar la máxima visibilidad al CAUS (voy a obligar a todo el mundo que conozca a venir). Además de charlas, también he pensado en organizar algún evento social (los anglosajones hacen la típica de *pub crawl*, nosotros podemos hacer ruta de cerveza y tapas por el centro jeje, así como idea).
 
 Me he hecho colega del event manager del club de business analytics de la UC3M y me va a pasar todos sus contactos (han hecho eventos tochos con Microsoft, Blackrock, HappyRobot, Oliver Wyman, IBM… etc). Será más complicado que vengan a Sevilla pero algún apaño haremos, jajaja.
 
@@ -113,9 +113,9 @@ Quiero repetir este año porque sinceramente creo que el CAUS tiene muchísimo p
 
 Pero no quiero quedarme solo en mantener lo que ya funciona. Mi idea es seguir mejorando las sesiones, proponer actividades nuevas, como fomentar la preparación para internships y oportunidades, charlas sobre temas más diversos como producción musical o hacer todavía más piña entre nosotros y conseguir que más personas se enganchen a este mundillo tan nice.
 
-Ya en poco me callo, pero quería responderte a una pregunta que quizá no te has hecho, pero que considero crucial y es el: <em>“vale, pero ¿qué aportas?”</em> Buena pregunta. Lo resumiría en experiencia resolviendo problemas (no solo en algoritmia, también en la OME y la OEF), una forma cercana y práctica de enfocar las sesiones, humor (de calidad discutible, según el día) y muchísimas ganas de currar para que el club siga siendo un sitio donde aprender, mejorar y pasarlo bien. Además, conozco a bastante gente dentro y fuera de Reina Mercedes, así que si hay que mover personas (o si alguien quiere que le presente a alguien, también puedo intentar hacer magia), ideas o entusiasmo, ahí estaré.
+Ya en poco me callo, pero quería responderte a una pregunta que quizá no te has hecho, pero que considero crucial y es el: *“vale, pero ¿qué aportas?”* Buena pregunta. Lo resumiría en experiencia resolviendo problemas (no solo en algoritmia, también en la OME y la OEF), una forma cercana y práctica de enfocar las sesiones, humor (de calidad discutible, según el día) y muchísimas ganas de currar para que el club siga siendo un sitio donde aprender, mejorar y pasarlo bien. Además, conozco a bastante gente dentro y fuera de Reina Mercedes, así que si hay que mover personas (o si alguien quiere que le presente a alguien, también puedo intentar hacer magia), ideas o entusiasmo, ahí estaré.
 
-En resumen: si queréis a alguien con ganas de trabajar, ideas, actividad constante y capacidad de convertir un <em>“no entiendo este problema”</em> en un <em>“vale, por fin entiendo de qué narices iba el segment tree”</em>, ¡aquí me tenéis! :)
+En resumen: si queréis a alguien con ganas de trabajar, ideas, actividad constante y capacidad de convertir un *“no entiendo este problema”* en un *“vale, por fin entiendo de qué narices iba el segment tree”*, ¡aquí me tenéis! :)
 
 {{< /candidate >}}
 
@@ -157,10 +157,4 @@ Tengo muchas ganas de implicarme y ayudar a que más gente vea lo chulo que pued
 
 ¡Mucha suerte a todos los candidatos! Vuestro compromiso e implicación es lo que hace grande a esta asociación ✨
 
-{{< div class="flex flex-row justify-center" >}}
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSe1As5n7InsNaXy4Ge3M0dn8sWyOob1MqpgkcRWAZlgg1cpFg/viewform?usp=publish-editor" class="mx-1 mt-6 text-2xl font-extrabold no-underline">
-<span class="px-6 py-6 rounded-full border">
-Vota aquí
-</span>
-</a>
-{{< /div >}}
+{{< button href="https://docs.google.com/forms/d/e/1FAIpQLSe1As5n7InsNaXy4Ge3M0dn8sWyOob1MqpgkcRWAZlgg1cpFg/viewform?usp=publish-editor" >}}Vota aquí{{< /button >}}
