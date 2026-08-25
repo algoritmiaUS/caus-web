@@ -43,26 +43,13 @@
         </a>
       </div>
     {{ end }}
-    <div class="mt-auto flex items-center gap-3 pt-6">
-      <div
-        class="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-accent/15 text-sm font-black text-accent"
-      >
-        {{ $initials := "" }}
-        {{ range $i, $word := split (.Get "speaker") " " }}
-          {{ if and (lt $i 2) (gt (len $word) 0) }}
-            {{ $initials = printf "%s%s" $initials (substr $word 0 1) }}
-          {{ end }}
-        {{ end }}
-        {{ $initials | upper }}
-      </div>
-      <div class="min-w-0">
-        <p class="truncate text-sm font-medium text-fg">
-          {{ .Get "speaker" }}
-        </p>
-        {{ with .Get "language" }}
-          <p class="text-sm text-muted">Ponencia en {{ . }}</p>
-        {{ end }}
-      </div>
+    <div class="mt-auto pt-6">
+      <p class="truncate text-sm font-medium text-fg">
+        {{ .Get "speaker" }}
+      </p>
+      {{ with .Get "language" }}
+        <p class="text-sm text-muted">Ponencia en {{ . }}</p>
+      {{ end }}
     </div>
   </div>
 </div>
