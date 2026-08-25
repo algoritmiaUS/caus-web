@@ -28,7 +28,7 @@
 
 {{ $js := resources.Get "js/index.js" | js.Build }}
 <script src="{{ $js.RelPermalink }}" defer></script>
-{{ if .HasShortcode "rankings" }}
+{{ if .HasShortcode "achievements/rankings" }}
   {{ $lightbox := resources.Get "js/lightbox.js" | js.Build }}
   <script src="{{ $lightbox.RelPermalink }}" defer></script>
 {{ end }}
