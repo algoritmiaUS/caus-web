@@ -16,7 +16,7 @@ Cómo anunciamos en la sesión de presentación, este curso vamos a organizar ch
 
 # Charlas de Octubre
 
-{{< div class="space-y-6" >}}
+{{< div >}}
 
 {{< charla
     title="Algoritmos Bit-wise"

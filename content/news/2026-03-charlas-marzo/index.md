@@ -16,7 +16,7 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
 
 # Charlas de Marzo
 
-{{< div class="space-y-6" >}}
+{{< div >}}
 
 {{< charla
     title="From ChatGPT User to AI Builder"

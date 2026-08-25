@@ -117,10 +117,10 @@ Nada de esto habría sido posible sin el apoyo de los voluntarios que dedicaron 
 - Aitor Rodríguez Dueñas
 - José García De Tejada Delgado
 
-<div class="flex flex-wrap justify-center gap-4">
-  <img src="voluntarios.webp" alt="v1" class="w-[450px] h-auto rounded-lg"/>
-  <img src="voluntarios2.webp" alt="v2" class="w-[450px] h-auto rounded-lg"/>
-</div>
+{{< div layout="gallery" >}}
+<img src="voluntarios.webp" alt="v1" class="w-[450px] h-auto rounded-lg"/>
+<img src="voluntarios2.webp" alt="v2" class="w-[450px] h-auto rounded-lg"/>
+{{< /div >}}
 
 ## Agradecimientos especiales
 

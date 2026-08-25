@@ -16,7 +16,7 @@ Cómo anunciamos en la sesión de presentación, este curso vamos a organizar ch
 
 # Charlas de Noviembre
 
-{{< div class="space-y-6" >}}
+{{< div >}}
 
 {{< charla
     title="Algorítmica paralela"

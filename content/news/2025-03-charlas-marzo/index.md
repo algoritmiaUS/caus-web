@@ -16,7 +16,7 @@ Cómo anunciamos en la sesión de presentación, este curso estamos organizando 
 
 # Charlas de marzo 2025
 
-{{< div class="space-y-6" >}}
+{{< div >}}
 
 {{< charla
     title="Son las matemáticas el lenguaje de la naturaleza?"

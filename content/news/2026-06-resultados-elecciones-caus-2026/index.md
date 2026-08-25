@@ -22,27 +22,27 @@ A continuación se detalla cómo han quedado el resto de equipos para este nuevo
 
 Este equipo se encarga de dar soporte al desarrollo de la web del club y de ayudar con la gestión del canal de YouTube. Este año, las personas elegidas han sido:
 
-<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 mt-8 justify-items-center">
+{{< div layout="cols" >}}
 
 {{< person name="Alejandro Pineda" image="/images/elecciones-26-27/alepi.webp" subtitle="Estudiante de GII – Tecnologías Informáticas" >}}
 
 {{< person name="Fernando Giráldez" image="/images/elecciones-26-27/fernando-ml.webp" subtitle="Estudiante de GII – Ingeniería de Computadores" focus="top" >}}
 
-</div>
+{{< /div >}}
 
 ### Marketing
 
 El área de Marketing inicia este año una nueva etapa con el objetivo de reforzar la presencia del club en redes sociales y dar más visibilidad a todas las actividades. Además de Kenny, contará también con una nueva admin que apoyará en la coordinación del área.
 
-<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 mt-8 justify-items-center">
+{{< div layout="cols" >}}
 
 {{< person name="Julia Moreno" image="/images/elecciones-26-27/julia.webp" subtitle="Estudiante de bachillerato" >}}
 
-</div>
+{{< /div >}}
 
 Además, contaremos también con un grupo de colaboradores que apoyarán en eventos y en la gestión de redes sociales. Por ahora, este equipo estará formado por:
 
-<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 mt-8 justify-items-center">
+{{< div layout="cols" >}}
 
 {{< person name="Araceli Guerrero" image="/images/elecciones-26-27/araceli.webp" >}}
 
@@ -50,13 +50,13 @@ Además, contaremos también con un grupo de colaboradores que apoyarán en even
 
 {{< person name="Luis Castillo" image="/images/admins/lucho.webp" >}}
 
-</div>
+{{< /div >}}
 
 ### Problem Solvers
 
 Una de las categorías más disputadas cada año. En esta ocasión, el objetivo es dar un salto de nivel en las sesiones y preparar entrenamientos más exigentes para seguir mejorando de cara a futuras competiciones. El equipo queda formado por:
 
-<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 mt-8 justify-items-center">
+{{< div layout="cols" >}}
 
 {{< person name="Lorenzo Tagua" image="/images/elecciones-26-27/lorenzo.webp" subtitle="Estudiante de Ingeniería Industrial" >}}
 
@@ -71,19 +71,19 @@ Una de las categorías más disputadas cada año. En esta ocasión, el objetivo 
 {{< person name="Jesús Racero" image="/images/elecciones-26-27/jesus-racero.webp" subtitle="Estudiante de Ingeniería de Software" >}}
 
 {{< person name="Inés Dávila" image="/images/elecciones-26-27/ines.webp" subtitle="Estudiante de GII - Inteligencia Artificial" >}}
-</div>
+{{< /div >}}
 
 ### Events Managers
 
 Este año este rol cobra especial importancia, ya que con la salida de Pablo Dávila rumbo a Berkeley se abre una nueva etapa en la organización de eventos del club. El equipo encargado será:
 
-<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 mt-8 justify-items-center">
+{{< div layout="cols" >}}
 
 {{< person name="Arnau Neches" image="/images/elecciones-26-27/arnau.webp" subtitle="Estudiante de GII – Tecnologías Informáticas y Matemáticas" >}}
 
 {{< person name="Victor Mesa" image="/images/elecciones-26-27/vikzi.webp" subtitle="Estudiante de Matemáticas y Estadística" focus="top" >}}
 
-</div>
+{{< /div >}}
 
 ### Despedidas
 

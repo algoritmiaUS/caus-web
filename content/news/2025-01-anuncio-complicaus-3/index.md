@@ -34,13 +34,10 @@ Por petición popular, y gracias a los comentarios recibidos sobre la edición a
 
 🚀 **Demuestra tus habilidades y disfruta del reto en el CompliCAUS III!**
 
-<div>
-  <p>Patrocinado por:</p>
-
-  <div class="flex flex-col items-center">
+{{< div class="flex flex-col items-center" >}}
+<p>Patrocinado por:</p>
     <a href="https://www.nextdigital.es/">
         <img src="/images/global/Logo_ND.webp" alt="Logo de Next Digital" class="w-25 max-w-[80%] mx-auto">
     </a>
     <p class="mx-auto">Patrocinador Platino</p>
-  </div>
-</div>
+{{< /div >}}
