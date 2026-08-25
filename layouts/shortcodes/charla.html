@@ -32,23 +32,25 @@
     {{- with .Get "stream_url" -}}
       {{- $stream = strings.TrimPrefix "<" (strings.TrimSuffix ">" .) -}}
     {{- end -}}
-    {{ with $stream }}
-      <div class="pt-6">
+    <div
+      class="mt-auto flex flex-col gap-3 pt-6 sm:flex-row sm:items-center sm:justify-between sm:gap-4"
+    >
+      <div class="min-w-0">
+        <p class="truncate text-sm font-medium text-fg">
+          {{ .Get "speaker" }}
+        </p>
+        {{ with .Get "language" }}
+          <p class="text-sm text-muted">Ponencia en {{ . }}</p>
+        {{ end }}
+      </div>
+      {{ with $stream }}
         <a
           href="{{ . }}"
-          class="inline-flex items-center gap-2 rounded-md bg-accent/15 px-3.5 py-2 text-sm font-semibold text-accent no-underline transition-colors hover:bg-accent/25 hover:no-underline focus-visible:outline-hidden focus-visible:ring-2 focus-visible:ring-accent"
+          class="inline-flex shrink-0 self-start items-center gap-2 rounded-md bg-accent/15 px-3.5 py-2 text-sm font-semibold text-accent no-underline transition-colors hover:bg-accent/25 hover:no-underline focus-visible:outline-hidden focus-visible:ring-2 focus-visible:ring-accent sm:self-auto"
         >
           {{ partial "components/svg.html" (dict "name" "youtube" "class" "h-4 w-4") }}
           Ver retransmisión
         </a>
-      </div>
-    {{ end }}
-    <div class="mt-auto pt-6">
-      <p class="truncate text-sm font-medium text-fg">
-        {{ .Get "speaker" }}
-      </p>
-      {{ with .Get "language" }}
-        <p class="text-sm text-muted">Ponencia en {{ . }}</p>
       {{ end }}
     </div>
   </div>
