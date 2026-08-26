@@ -1,7 +1,4 @@
 {
-  "name": "caus-web",
-  "version": "1.0.0",
-  "description": "CAUS WEB",
   "dependencies": {
     "@tailwindcss/cli": "^4.3.3",
     "@tailwindcss/typography": "^0.5.20",
@@ -19,17 +16,5 @@
     "format": "prettier --log-level silent --write .",
     "format:check": "prettier --check .",
     "convert": "bun run scripts/convert.ts"
-  },
-  "keywords": [
-    "hugo",
-    "tailwind",
-    "tailwindcss",
-    "minimal",
-    "responsive",
-    "light mode",
-    "dark mode",
-    "hugo blog",
-    "categories",
-    "tags"
-  ]
+  }
 }
