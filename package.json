@@ -9,8 +9,10 @@
     "prettier-plugin-go-template": "^0.0.15"
   },
   "scripts": {
-    "start": "hugo server",
-    "build": "hugo --gc --minify",
+    "start": "bun run scripts/dev.ts",
+    "build": "bun run css && hugo --gc --minify",
+    "css": "tailwindcss -i assets/css/main.css -o static/css/main.css --minify",
+    "css:watch": "tailwindcss -i assets/css/main.css -o static/css/main.css --watch",
     "test": "hugo",
     "clean": "rm -rf public/ && rm -rf resources/",
     "format": "prettier --log-level silent --write .",

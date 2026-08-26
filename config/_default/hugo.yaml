@@ -101,10 +101,3 @@ module:
   hugoVersion:
     extended: true
     min: "0.165.0"
-
-# Security
-security:
-  exec:
-    allow:
-      - "^tailwindcss$"
-      - "^node$"
