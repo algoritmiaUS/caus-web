@@ -36,7 +36,7 @@
   --c-muted: #3a3153;
   --c-accent: #5f43b2;
   --c-on-accent: #fefdfd;
-  --c-wash: rgb(177 174 187 / 0.25);
+  --c-wash: rgb(177 174 187 / 25%);
 }
 
 .dark {
@@ -46,7 +46,7 @@
   --c-muted: #b1aebb;
   --c-accent: #ffc857;
   --c-on-accent: #17151d;
-  --c-wash: rgb(58 49 83 / 0.5);
+  --c-wash: rgb(58 49 83 / 50%);
 }
 
 @theme inline {
