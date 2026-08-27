@@ -9,6 +9,18 @@ Desde nuestra fundación, hemos recibido diversos premios y reconocimientos que 
 
 {{< achievements/year "2026" >}}
 
+### XII Edición de la Final Nacional del Concurso Ada Byron
+
+Los días 3 y 4 de julio de 2026 se celebró en la Facultad de Informática de la Universidad Complutense de Madrid la XII Final Nacional del Concurso Ada Byron. En ella participaron 42 equipos procedentes de 23 universidades españolas. La Universidad de Sevilla estuvo representada por cuatro equipos. Uno de ellos logró posicionarse en el **top 10** de la clasificación general:
+
+{{< achievements/adabyron-teams "adabyron-nacional" "1">}}
+
+### III Edición Regional de Andalucía del Concurso Ada Byron
+
+El 17 de abril de 2026 tuvo lugar la tercera edición regional de Andalucía del concurso Ada Byron. En esta edición, cuatro equipos del Club de Algoritmia lograron clasificarse para la final nacional del Ada Byron, celebrada posteriormente en Madrid. Estos equipos fueron:
+
+{{< achievements/adabyron-teams "adabyron3" "2" >}}
+
 ### Ganadores CompliCAUS V
 
 El 13 de febrero de 2026 se celebró la quinta edición del CompliCAUS. Aprovechando que el evento se celebra muy cerca de San Valentín, se decidió realizar una competición en equipos de 3 personas, al puro estilo de Ada Byron. Los siguientes equipos resultaron ganadores:
