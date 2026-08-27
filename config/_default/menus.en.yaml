@@ -11,6 +11,10 @@ main:
     name: Members
     url: /about/members/
     weight: 30
+  - identifier: community-partners
+    name: Sponsors
+    url: /community-partners/
+    weight: 60
 
 footer:
   - identifier: about
@@ -21,3 +25,7 @@ footer:
     name: Members
     url: /about/members/
     weight: 20
+  - identifier: community-partners
+    name: Sponsors
+    url: /community-partners/
+    weight: 30
