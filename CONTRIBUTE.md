@@ -1,88 +1,181 @@
-# Contribuye al proyecto
+# Guía de contribución
 
-Este documento recoge las reglas y pautas para contribuir a la página web del CAUS. Antes de tocar código, asegúrate de haber leído el [README](README.md), donde se explican la instalación y la ejecución del proyecto.
+Gracias por querer contribuir a la web del CAUS. Este documento recoge **cómo contribuir** y **qué convenciones seguir**. Antes de empezar, lee el [README](README.md) para instalación y ejecución local.
+
+## Índice
+
+- [Flujo de trabajo](#flujo-de-trabajo)
+- [Crear contenido](#crear-contenido)
+- [Convenciones de nombres](#convenciones-de-nombres)
+- [Etiquetas](#etiquetas)
+- [Colores y CSS](#colores-y-css)
+- [Formato y comprobaciones](#formato-y-comprobaciones)
+
+## Flujo de trabajo
+
+1. **Crea una rama** desde `main` con nombre descriptivo (`feat/charlas-marzo`, `fix/typo-about`).
+2. **Haz tus cambios** siguiendo las convenciones de este documento.
+3. **Comprueba localmente** antes de hacer push:
+   ```bash
+   bun run format      # formatea el código
+   bun convert         # si añadiste png/jpg → convierte a webp
+   bun run build       # debe compilar sin errores
+   ```
+4. **Abre una Pull Request** contra `main`. Describe qué cambia y añade capturas si es visual.
+5. El **CI** ([`ci.yaml`](.github/workflows/ci.yaml)) verificará automáticamente:
+   - Solo se permiten imágenes `.webp` y `.svg`.
+   - `prettier --check` sin errores.
+   - `hugo --gc --minify` compila correctamente.
+6. Tras revisión y CI en verde, se hace merge y el deploy a Pages es automático.
+
+> Haz commits pequeños y con mensajes claros (`feat: añade charlas marzo`, `fix: corrige ruta de imagen`).
+
+## Crear contenido
+
+### Nueva noticia (`content/news`)
+
+Las noticias son **page bundles** (carpeta con `index.md` + imágenes).
+
+```bash
+hugo new content/news/2026-03-charlas-marzo/index.md
+# crea content/news/2026-03-charlas-marzo/index.md
+```
+
+Edita el front-matter:
+
+```yaml
+---
+title: 'Charlas de Marzo 2026'
+date: 2026-03-10
+categories: eventos
+tags: ['eventos', 'charlas']
+featured_image: images/featured/charlas.webp
+---
+```
+
+- Añade el cuerpo en Markdown.
+- Coloca las imágenes del artículo **dentro del bundle** y con sufijo `-N` si hay serie.
+- Referencia la portada vía `featured_image` (ver convenciones de `assets/images` más abajo).
+
+### Datos de rankings (`data/`)
+
+```yaml
+# data/complicaus-5.yaml
+# referenciado en el contenido como:
+# {{< rankings "complicaus-5" >}}
+```
+
+Sin extensión y con guión en el shortcode.
 
 ## Convenciones de nombres
 
-### Regla general
+Principio general: **todo en minúsculas, kebab-case con `-`**. Evita `_`, mayúsculas, tildes, `ñ` y caracteres no ASCII. Hugo es case-sensitive en Linux, por lo que la referencia en front-matter/config/layouts debe coincidir exactamente con el nombre en disco.
 
-- Todo en minúsculas, kebab-case con `-`. Nada de `_`, CamelCase ni mayúsculas (`Ada-Byron` → `ada-byron`, `Logo_ND` → `logo-nd`).
-- Una sola palabra separada por un único `-`, sin espacios ni dobles guiones.
-- Numeración siempre como sufijo decimal `-N` al final (`-1`, `-2`… sin ceros a la izquierda). Si hay variante, el número va al final: `ada-byron-andalucia-admins-3` (no `ada-byron-andalucia-3-admins`), `comida-caus-1`.
-- Sin tildes, `ñ` ni caracteres no ASCII en nombres de fichero.
-- Las referencias en front-matter, `config/_default/hugo.yaml` y layouts deben coincidir exactamente con el nombre en disco (Hugo es case-sensitive en Linux).
+| Regla             | Correcto                               | Incorrecto                           |
+| ----------------- | -------------------------------------- | ------------------------------------ |
+| Separador         | `ada-byron`                            | `Ada-Byron`, `ada_byron`             |
+| Numeración        | `complicaus-5`, `participantes-1.webp` | `complicaus5`, `participantes1.webp` |
+| Variante + número | `ada-byron-andalucia-admins-3`         | `ada-byron-andalucia-3-admins`       |
+| Dobles guiones    | `logo-caus.webp`                       | `logo--caus.webp`                    |
 
-### `content/news`
+### `content/news` — directorios
 
-- Directorios (page bundles): `yyyy-mm-{slug}` todo en minúsculas. `slug` según tipo:
-  - `adabyron-andalucia-$N` / `adabyron-nacional-$N` (ej. `2024-05-adabyron-andalucia-1`)
-  - `anuncio-complicaus-$N` / `complicaus-$N`
-  - `elecciones-caus-$YY-$YY` / `resultados-elecciones-caus-$YYYY`
-  - `charlas-$mes` (`charlas-febrero`, `charlas-octubre`...) y `serie-matematicas`
-  - Casos puntuales: `creacion-web`, `advent-of-code-2024`
-- Imágenes dentro del bundle: mismo kebab-case. Si hay serie, usar sufijo `-N`: `participantes-1.webp`, `ganadores-a.webp` (no `participantes1`, `ganadores-A`, `premio_secundario1`).
+Formato: `yyyy-mm-{slug}` en minúsculas.
+
+| Tipo               | Patrón                                                         | Ejemplo                               |
+| ------------------ | -------------------------------------------------------------- | ------------------------------------- |
+| AdaByron Andalucía | `adabyron-andalucia-$N`                                        | `2024-05-adabyron-andalucia-1`        |
+| AdaByron Nacional  | `adabyron-nacional-$N`                                         | `2024-06-adabyron-nacional-2`         |
+| ComplicAUS         | `anuncio-complicaus-$N` / `complicaus-$N`                      | `2025-03-complicaus-5`                |
+| Elecciones         | `elecciones-caus-$YY-$YY` / `resultados-elecciones-caus-$YYYY` | `2024-10-elecciones-caus-24-25`       |
+| Charlas            | `charlas-$mes`, `serie-matematicas`                            | `2025-02-charlas-febrero`             |
+| Puntuales          | —                                                              | `creacion-web`, `advent-of-code-2024` |
+
+Imágenes dentro del bundle: `participantes-1.webp`, `ganadores-a.webp`.
 
 ### `data/`
 
-- `adabyron-andalucia-$N.yaml`, `adabyron-nacional-$N.yaml`, `complicaus-$N.yaml` (ej. `data/complicaus-3.yaml`).
-- En shortcodes referenciar sin extensión y con guión: `{{< rankings "complicaus-3" >}}`, `{{< achievements/adabyron-teams "adabyron-andalucia-2" >}}`.
+`adabyron-andalucia-$N.yaml`, `adabyron-nacional-$N.yaml`, `complicaus-$N.yaml`.
+
+```md
+{{< rankings "complicaus-3" >}}
+{{< achievements/adabyron-teams "adabyron-andalucia-2" >}}
+```
 
 ### `assets/images/`
 
-- `featured/`: `ada-byron-andalucia-$N.webp`, `ada-byron-nacional-$N.webp`, `ada-byron-andalucia-admins-$N.webp`, `cartel-complicaus-$N.webp`, `complicaus-foto-grupal-$N.webp`, `charlas.webp`, `bienvenida.webp`, `adventofcode2024.webp`. Se usa vía `featured_image: images/featured/<nombre>` en el front-matter.
-- `home/`: `complicaus-5.webp`, `roco.webp` (referenciado en `config/_default/hugo.yaml` `params.p1`/`p2` como `images/home/...`).
-- `icons/`: `*.svg` en kebab-case (`calendar.svg`, `github.svg`).
+| Carpeta     | Patrón                                                                                        | Referencia                                                            |
+| ----------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| `featured/` | `ada-byron-andalucia-$N.webp`, `cartel-complicaus-$N.webp`, `charlas.webp`, `bienvenida.webp` | `featured_image: images/featured/<nombre>`                            |
+| `home/`     | `complicaus-5.webp`, `roco.webp`                                                              | `config/_default/hugo.yaml` → `params.p1`/`p2` como `images/home/...` |
+| `icons/`    | `calendar.svg`, `github.svg`                                                                  | kebab-case, `.svg`                                                    |
 
 ### `static/images/`
 
-- `about/`: `charla-$N.webp`, `comida-caus-$N.webp`, `competiciones-$N.webp`, `caus-sesiones-$N.webp`, `rocodromo.webp`.
-- `global/`: `logo-caus.webp`, `author-caus.webp`, `logo-etsii-color.webp`, `logo-nd.webp`, `logo-us.webp`.
-- `members/`, `admins/`, `elecciones-$YY-$YY/`: `nombre-apellidos.webp` en kebab minúsculas sin tildes (`fernando-giraldez.webp`, `lucia-diez.webp`).
-- `winners-complicaus-$N/`: directorio con `-N` y dentro `first.webp`, `second.webp`, `third.webp` (`secondary.webp` donde exista).
+| Carpeta                                    | Patrón                                                                 | Ejemplo                           |
+| ------------------------------------------ | ---------------------------------------------------------------------- | --------------------------------- |
+| `about/`                                   | `charla-$N.webp`, `comida-caus-$N.webp`, `caus-sesiones-$N.webp`       | `charla-1.webp`                   |
+| `global/`                                  | `logo-caus.webp`, `author-caus.webp`, `logo-etsii-color.webp`          | —                                 |
+| `members/` `admins/` `elecciones-$YY-$YY/` | `nombre-apellidos.webp`                                                | `fernando-giraldez.webp`          |
+| `winners-complicaus-$N/`                   | `first.webp`, `second.webp`, `third.webp` (`secondary.webp` si aplica) | `winners-complicaus-5/first.webp` |
 
-### Imágenes en general
+### Imágenes — reglas generales
 
-- Formato final `.webp`. Convertir cualquier `png`/`jpg`/`jpeg` con `bun convert` (`scripts/convert.ts` → 1500px, `webp` q80) antes de commitear; borra el original.
-- No commitear imágenes sin pasar por `bun convert`.
+- **Formato final obligatorio:** `.webp` (y `.svg` para iconos). No se permiten `png`/`jpg`/`jpeg`/`gif` en el repositorio — el CI fallará.
+- **Conversión:** ejecuta `bun convert` (`scripts/convert.ts` → redimensiona a máx. 1500px, `webp` q80) antes de commitear y borra los originales. No commitees imágenes sin convertir.
+- Usa nombres descriptivos y numera series con sufijo `-N`.
 
 ## Etiquetas
 
-Para mantener las etiquetas (`tags`) del contenido consistentes, usa únicamente las de esta
-lista (en minúsculas). La categoría general `eventos` va siempre acompañada de una etiqueta
-más específica:
+Usa **solo** las etiquetas de esta lista (siempre en minúsculas). La categoría general `eventos` requiere además una etiqueta específica.
 
 | Etiqueta            | Uso                                                                           |
 | ------------------- | ----------------------------------------------------------------------------- |
-| `eventos`           | Cualquier actividad del club (categoría y etiqueta base)                      |
+| `eventos`           | Categoría base para cualquier actividad del club                              |
 | `charlas`           | Charlas y talleres mensuales                                                  |
-| `serie-matematicas` | Entradas de la serie de matemáticas (junto a `charlas`)                       |
-| `complicaus`        | Competiciones internas de ComplicAUS                                          |
+| `serie-matematicas` | Entradas de la serie de matemáticas (acompaña a `charlas`)                    |
+| `complicaus`        | Competiciones internas ComplicAUS                                             |
 | `adabyron`          | Concurso AdaByron (Andalucía y nacional)                                      |
 | `competiciones`     | Etiqueta común para cualquier competición (junto a `complicaus` o `adabyron`) |
 | `elecciones`        | Convocatorias y resultados de elecciones                                      |
 | `noticias`          | Anuncios generales que no son eventos                                         |
 
-Ejemplo:
+Ejemplo en front-matter:
 
 ```yaml
 categories: eventos
 tags: ['eventos', 'charlas']
+# serie-matematicas:
+# tags: ['eventos', 'charlas', 'serie-matematicas']
+# competición:
+# tags: ['eventos', 'competiciones', 'adabyron']
 ```
 
-## Cambiar los colores del sitio
+## Colores y CSS
 
-Todos los colores están centralizados en un único fichero: `assets/css/colors.css`, dentro de la regla `@theme` de Tailwind v4.
-
-- Para cambiar un color, edita la variable `--color-*` correspondiente y reconstruye el sitio. Los estilos de Tailwind (`text-primary-600`, `bg-gray-900`, ...) se resuelven automáticamente a través de esas variables, así que no hay que modificar nada más.
-- Los colores se organizan en rampas (`primary-50` … `primary-900`, `secondary`, `neutral`, ...). Para generar rampas personalizadas se puede usar <https://www.tailwindshades.com>.
-- Tailwind solo incluye en el CSS final los tonos que realmente se usan en alguna clase; el resto de variables se añaden automáticamente en cuanto se usen, aunque ya estén definidas en `colors.css`.
-- El color de la interfaz del navegador (`<meta name="theme-color">`) no puede leer variables CSS: se configura con el parámetro `theme_color` en `config/_default/hugo.yaml` y debe mantenerse sincronizado con `--color-white` de `assets/css/colors.css`.
-
-## CSS compartido
-
-El CSS global (fuera de utilidades), como el modal compartido por las shortcodes `rankings` y `team-rankings`, vive en `assets/css/main.css`. Las reglas deben usar `var(--color-*)` en lugar de colores en duro (`#hex`, `rgb(...)`), para que la paleta siga centralizada en `colors.css`.
+- **Paleta centralizada** en `assets/css/colors.css` dentro de `@theme` de Tailwind v4. Para cambiar un color, edita la variable `--color-*` y reconstruye. Las clases de Tailwind (`text-primary-600`, `bg-gray-900`, etc.) se resuelven automáticamente desde esas variables — no modifiques layouts para cambiar colores.
+- Genera rampas con https://www.tailwindshades.com si necesitas nuevos tonos (`primary-50` … `primary-900`, `secondary`, `neutral`, etc.).
+- Tailwind purga el CSS no usado: solo los tonos referenciados en alguna clase se incluyen en el bundle final.
+- **`theme_color` del navegador** (`<meta name="theme-color">`) no puede leer variables CSS. Se configura en `config/_default/hugo.yaml` > `params.theme_color` y debe mantenerse sincronizado con `--color-white` de `colors.css`.
+- **CSS global compartido** (ej. modal de `rankings` y `team-rankings`) vive en `assets/css/main.css`. Usa siempre `var(--color-*)` en lugar de valores en duro (`#hex`, `rgb(...)`) para que la paleta siga centralizada.
+- **Layouts:** solo Tailwind y valores por defecto de Hugo. Un layout = una sola responsabilidad. Evita estilos inline.
 
 ## Formato y comprobaciones
 
-- Formatear el código con Prettier: `bun run format`
-- Compilar el sitio: `bun run build` (genera el directorio `./public`)
+Ejecuta estos comandos antes de abrir PR:
+
+```bash
+bun run format        # formatea con Prettier (+ prettier-plugin-go-template)
+bun run format:check  # lo mismo que comprueba el CI
+bun run build         # genera ./public y detecta errores de Hugo
+```
+
+El CI falla si alguno de estos checks no pasa. Si el build falla localmente, revisa que las referencias a imágenes/datos coincidan exactamente con los nombres en disco.
+
+### Checklist rápido antes de hacer push
+
+- [ ] Nombres en kebab-case, sin tildes ni mayúsculas
+- [ ] Imágenes en `.webp`/`.svg` (ejecutado `bun convert` si aplica)
+- [ ] `tags`/`categories` de la lista permitida
+- [ ] `bun run format` ejecutado
+- [ ] `bun run build` compila sin errores

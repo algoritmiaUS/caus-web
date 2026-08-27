@@ -28,7 +28,7 @@ bun install
 
 1. [Descargar e instalar Hugo](https://github.com/gohugoio/hugo/releases/tag/v0.165.0)
 2. [Descargar e instalar bun](https://bun.com/get)
-3. Instalar
+3. Instalar dependencias
 
    ```Bash
    bun install
@@ -50,7 +50,15 @@ El código se generará en el directorio ./public.
 bun run build
 ```
 
+## Contribuir
+
+Lee [CONTRIBUTE.md](CONTRIBUTE.md) para convenciones de nombres, etiquetas, imágenes y flujo de PRs.
+
 ## Agradecimientos
 
 - [nusserstudios - TailBliss theme](https://github.com/nusserstudios/tailbliss)
 - [Simple Icons](https://simpleicons.org/)
+
+## Licencia
+
+Apache License 2.0 — ver [LICENSE](LICENSE).
