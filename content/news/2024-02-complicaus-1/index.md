@@ -1,7 +1,7 @@
 ---
 title: 'CompliCAUS I: Primera competición organizada por el Club de Algoritmia'
 date: 2024-02-29T11:10:00+00:00
-featured_image: images/featured/CompliCAUS-1-Foto-grupal.webp
+featured_image: images/featured/complicaus-foto-grupal-1.webp
 summary: La primera edición de CompliCAUS, competición de algoritmia organizada por el Club de Algoritmia de la Universidad de Sevilla, reunió a estudiantes de diversas disciplinas y niveles para enfrentar un desafiante reto de resolución de problemas en la plataforma HackerRank.
 description: El 23 de febrero se celebró la primera edición de CompliCAUS, una competición de algoritmia organizada por el Club de Algoritmia de la Universidad de Sevilla y patrocinada por la ETSII. El evento, realizado en HackerRank, reunió a estudiantes de distintas disciplinas y niveles para enfrentarse a retos algorítmicos. La competición fue intensa y mostró que la pasión por la programación trasciende niveles académicos. Agradecemos el apoyo de la ETSII y de Mª Lourdes Miró. Este es solo el comienzo de una prometedora tradición en la Universidad de Sevilla. ¡Nos vemos en la próxima edición!
 author: Administradores CAUS
@@ -21,7 +21,7 @@ La competición se mantuvo reñida desde el comienzo, con una primera hora duran
 
 # Premios Principales
 
-{{< achievements/rankings "complicaus1" >}}
+{{< achievements/rankings "complicaus-1" >}}
 
 Los organizadores del Club de Algoritmia también aprovecharon para agradecer a todos los que hicieron posible este evento, especialmente a la Escuela Técnica Superior de Ingeniería Informática por el patrocinio y a Mª Lourdes Miró, Subdirectora de Estudiantes, Innovación y Responsabilidad Social, por su apoyo incondicional.
 

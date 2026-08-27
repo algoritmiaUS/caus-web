@@ -1,7 +1,7 @@
 ---
 title: 'Celebrado el CompliCAUS IV'
 date: 2025-10-12T09:00:00+00:00
-featured_image: images/featured/CompliCAUS-4-Foto-grupal.webp
+featured_image: images/featured/complicaus-foto-grupal-4.webp
 summary: 'El CompliCAUS IV reunió a estudiantes de distintos niveles para una intensa competición de programación organizada por el Club de Algoritmia de la Universidad de Sevilla.'
 description: 'La cuarta edición de CompliCAUS se celebró con éxito, congregando a estudiantes de diferentes instituciones y niveles académicos en un desafío de algoritmia de tres horas.'
 author: Administradores CAUS
@@ -35,7 +35,7 @@ Al finalizar la competición, nos dirigimos al Salón de Grados de la ETSII, don
 
 La competición fue reñida desde el inicio, con constantes cambios en los primeros puestos durante la primera hora. Finalmente, estos fueron los ganadores:
 
-{{< achievements/rankings "complicaus4" >}}
+{{< achievements/rankings "complicaus-4" >}}
 
 # Agradecimientos
 

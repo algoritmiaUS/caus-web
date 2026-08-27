@@ -1,7 +1,7 @@
 ---
 title: 'Celebrado el CompliCAUS V'
 date: 2026-02-15T09:00:00+00:00
-featured_image: images/featured/CompliCAUS-5-Foto-grupal.webp
+featured_image: images/featured/complicaus-foto-grupal-5.webp
 summary: 'El CompliCAUS V reunió a estudiantes de distintos niveles para una intensa competición de programación organizada por el Club de Algoritmia de la Universidad de Sevilla.'
 description: 'La quinta edición de CompliCAUS se celebró con éxito, congregando a estudiantes de diferentes instituciones y niveles académicos en un desafío de algoritmia de tres horas.'
 author: Administradores CAUS
@@ -77,4 +77,4 @@ Agradecemos a la Escuela Técnica Superior de Ingeniería Informática por su pa
 
 También extendemos nuestro agradecimiento a [Ramsés Rodríguez Martínez](https://www.linkedin.com/in/ramsesrodriguez/) y [Isabel Rodríguez Olivar](https://www.linkedin.com/in/isabel-rodriguez-olivar-573124b/), representantes de [Next Digital](https://www.nextdigital.es/), por su patrocinio y por todas las facilidades brindadas para el buen desarrollo del concurso.
 
-![Logo de Next Digital](/images/global/Logo_ND.webp)
+![Logo de Next Digital](/images/global/Logo-nd.webp)

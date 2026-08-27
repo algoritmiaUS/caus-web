@@ -37,8 +37,8 @@ Organizamos sesiones cada viernes sobre temas relacionados con la programación 
 - [Da tu propia ponencia!](https://forms.gle/yY9WpbA6Lof41ufa7) Si eres un profesional apasionado por la tecnología y con ganas de compartir tus conocimientos, estaremos encantados de contar contigo. Si eres un estudiante, esta es una gran oportunidad para profundizar en algún tema que te interese y hacer CV 😉
 
 {{< base/div layout="gallery" >}}
-{{< img src="/images/about/charla1.webp" alt="Charla 1" >}}
-{{< img src="/images/about/charla2.webp" alt="Charla 2" >}}
+{{< img src="/images/about/charla-1.webp" alt="Charla 1" >}}
+{{< img src="/images/about/charla-2.webp" alt="Charla 2" >}}
 {{< /base/div >}}
 
 ## Competiciones de Programación
@@ -46,8 +46,8 @@ Organizamos sesiones cada viernes sobre temas relacionados con la programación 
 Participamos en eventos anuales como [Advent of Code](https://adventofcode.com/) y el [Concurso Universitario de Programación Ada Byron](http://ada-byron.es/). Además, organizamos [nuestras propias competiciones de programación](/news/2024-10-27-complicaus-2/) con suculentos premios, para mantenernos en constante práctica y aprendizaje.
 
 {{< base/div layout="gallery" >}}
-{{< img src="/images/about/competiciones1.webp" alt="Competición 1" >}}
-{{< img src="/images/about/competiciones2.webp" alt="Competición 2" >}}
+{{< img src="/images/about/competiciones-1.webp" alt="Competición 1" >}}
+{{< img src="/images/about/competiciones-2.webp" alt="Competición 2" >}}
 {{< /base/div >}}
 
 ---
@@ -59,8 +59,8 @@ Participamos en eventos anuales como [Advent of Code](https://adventofcode.com/)
 Cada cuatrimestre, organizamos una comida especial para celebrar nuestros logros y disfrutar en equipo. Esta es una excelente oportunidad para compartir una comida memorable y conocer a esas personas del grupo con las que aún no has coincidido.
 
 {{< base/div layout="gallery" >}}
-{{< img src="/images/about/comida-caus.webp" alt="Comida CAUS 1" >}}
-{{< img src="/images/about/comida-caus2.webp" alt="Comida CAUS 2" >}}
+{{< img src="/images/about/comida-caus-1.webp" alt="Comida CAUS 1" >}}
+{{< img src="/images/about/comida-caus-2.webp" alt="Comida CAUS 2" >}}
 {{< /base/div >}}
 
 ## Rocódromo
