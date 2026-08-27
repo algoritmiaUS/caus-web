@@ -1,6 +1,5 @@
 @import 'tailwindcss';
 @import './colors.css';
-@import './prose.css';
 
 @source not 'LICENSE';
 @source not '.github';
