@@ -11,7 +11,7 @@ main:
     name: Miembros
     url: /about/members/
     weight: 25
-  - identifier: achievementsw
+  - identifier: achievements
     name: Logros
     url: /achievements/
     weight: 30

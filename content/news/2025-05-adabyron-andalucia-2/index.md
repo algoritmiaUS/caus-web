@@ -1,7 +1,7 @@
 ---
 title: 'II Edición Regional de Andalucía del Concurso Ada Byron'
 date: 2025-05-17T13:00:00+00:00
-featured_image: images/featured/Ada-Byron-Andalucia-2.webp
+featured_image: images/featured/ada-byron-andalucia-2.webp
 summary: La II Edición Regional de Andalucía del concurso Ada Byron reunió a más de 130 participantes distribuidos en 46 equipos de distintas universidades andaluzas y la UNED. El certamen se celebró simultáneamente en cinco sedes y consistió en una competición de 4 horas para resolver 11 problemas de programación. Destacaron los equipos de la Universidad de Sevilla, con tres clasificados para la final nacional en Madrid. El evento contó con el apoyo del Club de Algoritmia de la Universidad de Sevilla y la colaboración de las distintas sedes universitarias.
 description: La II Edición Regional de Andalucía del Concurso Ada Byron se celebró con gran éxito el 25 de abril, reuniendo a 46 equipos y más de 130 estudiantes de universidades andaluzas y la UNED. Durante 4 horas de intensa competición, los participantes resolvieron 11 problemas de alta dificultad. La sede de Sevilla destacó con tres equipos clasificados para la final nacional en Madrid. La organización y supervisión del evento fueron posibles gracias al compromiso del Club de Algoritmia de la Universidad de Sevilla y al trabajo coordinado entre las universidades andaluzas. Esta edición consolida el concurso como una cita clave para la promoción de la programación competitiva en la región.
 
@@ -45,7 +45,7 @@ Este equipo obtuvo el **primer lugar** en la sede de Sevilla en la categoría A 
 - **Jesús Vílchez Martínez** (Grado en Ingeniería Informática – Ingeniería del Software)
 - **José Escalera García** (Grado en Ingeniería Informática – Ingeniería del Software)
 
-{{< img src="ganadores-A.webp" alt="Just Simply FLML" >}}
+{{< img src="ganadores-a.webp" alt="Just Simply FLML" >}}
 
 ---
 
@@ -57,7 +57,7 @@ Ganadores de la **categoría B** (segundo curso), que en este equipo hubo un int
 - **Alejandro Pineda Martín** (Grado en Ingeniería Informática – Tecnologías Informáticas)
 - **Henrique Rebollo Padovani** (Grado en Ingeniería Informática – Tecnologías Informáticas)
 
-{{< img src="ganadores-B.webp" alt="Mikel Bul" >}}
+{{< img src="ganadores-b.webp" alt="Mikel Bul" >}}
 
 ---
 
@@ -69,7 +69,7 @@ Este equipo ganó la **categoría C** (tercer curso o superior) en la sede de Se
 - **Pablo Moreno Moreu** (Doble Grado en Matemáticas e Ingeniería Informática)
 - **Carlos Fernández-Llebrez Acedo** (Doble Grado en Matemáticas e Ingeniería Informática)
 
-{{< img src="ganadores-C.webp" alt="Lema Técnico" >}}
+{{< img src="ganadores-c.webp" alt="Lema Técnico" >}}
 
 ---
 
@@ -153,7 +153,7 @@ Además de los clasificados, queremos agradecer a los equipos **TLE Climbers**, 
 
 {{< img src="gitgut.webp" alt="GitGut" layout="small" >}}
 {{< img src="virtem.webp" alt="Virtem" layout="small" >}}
-{{< img src="tle_climbers.webp" alt="TLE Climbers" layout="small" >}}
+{{< img src="tle-climbers.webp" alt="TLE Climbers" layout="small" >}}
 {{< img src="mikelbull.webp" alt="Mikel Bull" layout="small" >}}
 
 {{< /base/div >}}

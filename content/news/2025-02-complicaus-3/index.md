@@ -1,7 +1,7 @@
 ---
 title: 'Celebrado el CompliCAUS III'
 date: 2025-02-09T09:00:00+00:00
-featured_image: images/featured/CompliCAUS-3-Foto-grupal.webp
+featured_image: images/featured/complicaus-foto-grupal-3.webp
 summary: 'El CompliCAUS III reunió a estudiantes de distintos niveles para una intensa competición de programación organizada por el Club de Algoritmia de la Universidad de Sevilla.'
 description: 'La tercera edición de CompliCAUS se celebró con éxito, congregando a estudiantes de diferentes instituciones y niveles académicos en un desafío de algoritmia de tres horas.'
 author: Administradores CAUS
@@ -23,9 +23,9 @@ Las diapositivas explicativas de los problemas del CompliCAUS III están disponi
 
 En esta edición participaron 22 estudiantes de instituciones como la Universidad de Sevilla (diversos grados de Ingeniería Informática, Matemáticas, Física, entre otros), la Universidad Politécnica de Cataluña y alumnos de bachillerato (Colegio Santa Ana, Colegio Sagrado Corazón - Fundación Spínola).
 
-![alt text](participantes1.webp)
+![alt text](participantes-1.webp)
 
-![alt text](participantes2.webp)
+![alt text](participantes-2.webp)
 
 # Resolución de problemas
 
@@ -39,7 +39,7 @@ Al finalizar la competición, nos dirigimos al Salón de Grados de la ETSII, don
 
 La competición fue reñida desde el inicio, con constantes cambios en los primeros puestos durante la primera hora. Finalmente, estos fueron los ganadores:
 
-{{< achievements/rankings "complicaus3" >}}
+{{< achievements/rankings "complicaus-3" >}}
 
 # Agradecimientos
 
@@ -47,4 +47,4 @@ Agradecemos a la Escuela Técnica Superior de Ingeniería Informática por su pa
 
 También extendemos nuestro agradecimiento a [Ramsés Rodríguez Martínez](https://www.linkedin.com/in/ramsesrodriguez/) y [Isabel Rodríguez Olivar](https://www.linkedin.com/in/isabel-rodriguez-olivar-573124b/), representantes de [Next Digital](https://www.nextdigital.es/), por su patrocinio y por todas las facilidades brindadas para el buen desarrollo del concurso.
 
-![Logo de Next Digital](/images/global/Logo_ND.webp)
+![Logo de Next Digital](/images/global/logo-nd.webp)

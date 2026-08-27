@@ -38,17 +38,17 @@ We organise sessions every Friday on topics related to competitive programming. 
 - [Give your own talk\!](https://forms.gle/yY9WpbA6Lof41ufa7) If you are a professional passionate about technology and eager to share your knowledge, we would be delighted to have you. If you are a student, this is a great opportunity to delve deeper into a topic that interests you and boost your CV 😉
 
 {{< base/div layout="gallery" >}}
-{{< img src="/images/about/charla1.webp" alt="Charla 1" >}}
-{{< img src="/images/about/charla2.webp" alt="Charla 2" >}}
+{{< img src="/images/about/charla-1.webp" alt="Charla 1" >}}
+{{< img src="/images/about/charla-2.webp" alt="Charla 2" >}}
 {{< /base/div >}}
 
 ## Programming Competitions
 
-We participate in annual events such as [Advent of Code](https://adventofcode.com/) and the [Ada Byron University Programming Contest](http://ada-byron.es/). Additionally, we organise [our own programming competitions](/news/2024-10-27-complicaus-2/) (Spanish only), with enticing prizes, to keep ourselves constantly practising and learning.
+We participate in annual events such as [Advent of Code](https://adventofcode.com/) and the [Ada Byron University Programming Contest](http://ada-byron.es/). Additionally, we organise [our own programming competitions](/news/2024-10-complicaus-2/) (Spanish only), with enticing prizes, to keep ourselves constantly practising and learning.
 
 {{< base/div layout="gallery" >}}
-{{< img src="/images/about/competiciones1.webp" alt="Competición 1" >}}
-{{< img src="/images/about/competiciones2.webp" alt="Competición 2" >}}
+{{< img src="/images/about/competiciones-1.webp" alt="Competición 1" >}}
+{{< img src="/images/about/competiciones-2.webp" alt="Competición 2" >}}
 {{< /base/div >}}
 
 ---
@@ -60,8 +60,8 @@ We participate in annual events such as [Advent of Code](https://adventofcode.co
 Each term, we organise a special meal to celebrate our achievements and enjoy time as a team. This is an excellent opportunity to share a memorable meal and get to know the people in the group you haven't met yet.
 
 {{< base/div layout="gallery" >}}
-{{< img src="/images/about/comida-caus.webp" alt="Comida CAUS 1" >}}
-{{< img src="/images/about/comida-caus2.webp" alt="Comida CAUS 2" >}}
+{{< img src="/images/about/comida-caus-1.webp" alt="Comida CAUS 1" >}}
+{{< img src="/images/about/comida-caus-2.webp" alt="Comida CAUS 2" >}}
 {{< /base/div >}}
 
 ## Climbing Wall

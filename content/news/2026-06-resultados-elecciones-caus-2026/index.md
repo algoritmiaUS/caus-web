@@ -1,7 +1,7 @@
 ---
 title: 'Resultados oficiales de las elecciones CAUS (Curso 2026-27)'
 date: 2026-06-06T00:00:00+02:00
-featured_image: images/featured/CompliCAUS-5-Foto-grupal.webp
+featured_image: images/featured/complicaus-foto-grupal-5.webp
 summary: Resultados oficiales de las elecciones para los equipos del Club de Algoritmia de la Universidad de Sevilla (CAUS) para el curso 2026-2027.
 description: El Club de Algoritmia de la Universidad de Sevilla anuncia los resultados de sus elecciones internas, donde los miembros han elegido a los nuevos responsables de cada área para el próximo curso académico.
 author: Administradores CAUS
