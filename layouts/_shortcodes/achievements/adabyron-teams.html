@@ -1,11 +1,13 @@
 {{ $dataFile := .Get 0 }}
-{{ $cols := .Get 1 | default 3 }}
+{{ $cols := .Get 1 | default "3" }}
 
 {{/* Both literal classes are present here so Tailwind compiles them. */}}
-{{ $gridCols :="sm:grid-cols-2 lg:grid-cols-3" }}
-{{ if eq $cols "2" }}
-  {{ $gridCols = "sm:grid-cols-2 lg:grid-cols-2" }}
-{{ end }}
+{{ $gridColsMap := dict
+  "1" "max-w-2xl mx-auto"
+  "2" "sm:grid-cols-2 lg:grid-cols-2"
+  "3" "sm:grid-cols-2 lg:grid-cols-3"
+}}
+{{ $gridCols := index $gridColsMap $cols | default (index $gridColsMap "3") }}
 {{ $data := index hugo.Data $dataFile }}
 
 
