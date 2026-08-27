@@ -13,7 +13,7 @@ description: Patrocinadores
 
 Desde el CAUS, queremos expresar nuestro más sincero agradecimiento por su apoyo decisivo en esta edición. Gracias a su compromiso con el talento joven, Next Digital hace posible el CompliCAUS V patrocinando íntegramente los premios del primer y segundo lugar.
 
-{{< sponsor-logo src="/images/global/Logo-nd.webp" alt="Logo de Next Digital" >}}
+{{< sponsor-logo src="/images/global/logo-nd.webp" alt="Logo de Next Digital" >}}
 
 ## Escuela Técnica Superior de Ingeniería Informática (CompliCAUS IV y V)
 
@@ -29,7 +29,7 @@ Actualmente, la ETSII no solo es nuestra sede principal para concursos, charlas 
 [Next Digital](https://www.nextdigital.es/) es una empresa española especializada en desarrollo de software, ingeniería de datos e innovación tecnológica. Next Digital lidera la transformación digital de empresas mediante soluciones en Big Data, Business Intelligence, Machine Learning, plataformas en la nube, interfaces conversacionales... Su equipo se enfoca en acompañar a otras organizaciones en su proceso de transformación digital, poniendo énfasis en la innovación y el diseño.
 Desde el CAUS queremos agradecer su enorme apoyo haciendo posible el [CompliCAUS III](/news/2025-01-anuncio-complicaus-3) como patrocinador Platino.
 
-{{< sponsor-logo src="/images/global/Logo-nd.webp" alt="Logo de Next Digital" >}}
+{{< sponsor-logo src="/images/global/logo-nd.webp" alt="Logo de Next Digital" >}}
 {{< /base/details >}}
 
 {{< base/details summary="Escuela Técnica Superior de Ingeniería Informática (CompliCAUS II)" >}}

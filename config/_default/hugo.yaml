@@ -46,7 +46,7 @@ params:
   p3:
     logos:
       - identifier: a
-        image: "images/global/Logo-nd.webp"
+        image: "images/global/logo-nd.webp"
         alt: "Logo de Next Digital"
       - identifier: b
         image: "images/global/logo-etsii-color.webp"

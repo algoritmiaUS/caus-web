@@ -23,7 +23,7 @@ Las diapositivas explicativas de los problemas del CompliCAUS IV están disponib
 
 En esta edición participaron 40 estudiantes de instituciones como la Universidad de Sevilla (diversos grados de Ingeniería Informática, Matemáticas, Física, entre otros), la Universidad Politécnica de Cataluña y alumnos de bachillerato.
 
-![Foto grupal de los participantes del CompliCAUS IV](participantes1.webp)
+![Foto grupal de los participantes del CompliCAUS IV](participantes-1.webp)
 
 # Resolución de problemas
 

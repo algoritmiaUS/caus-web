@@ -32,7 +32,7 @@ El Club de Algoritmia de la Universidad de Sevilla estuvo representado en la fin
 - **Irene Gutiérrez Enguix** (Doble Grado en Matemáticas y Estadística)
 - **Javier Giménez Cabanillas** (Doble Grado en Ingeniería Informática – Tecnologías Informáticas y Matemáticas)
 
-{{< img src="teorema_de_pigatoras.webp" alt="Equipo Teorema de Pigátoras" >}}
+{{< img src="teorema-de-pigatoras.webp" alt="Equipo Teorema de Pigátoras" >}}
 
 ## Equipo **"Just Simply FLML"**
 
@@ -40,7 +40,7 @@ El Club de Algoritmia de la Universidad de Sevilla estuvo representado en la fin
 - **Jesús Vílchez Martínez** (Grado en Ingeniería Informática – Ingeniería del Software)
 - **José Escalera García** (Grado en Ingeniería Informática – Ingeniería del Software)
 
-{{< img src="just_simply_flml.webp" alt="Equipo Just Simply FLML" >}}
+{{< img src="just-simply-flml.webp" alt="Equipo Just Simply FLML" >}}
 
 ## Equipo **"TLE Climbers"**
 
@@ -48,7 +48,7 @@ El Club de Algoritmia de la Universidad de Sevilla estuvo representado en la fin
 - **Lorenzo Tagua Santana** (Grado en Ingeniería de Tecnologías Industriales)
 - **Mario Mora Cortés** (Grado en Matemáticas)
 
-{{< img src="tle_climbers.webp" alt="Equipo TLE Climbers" >}}
+{{< img src="tle-climbers.webp" alt="Equipo TLE Climbers" >}}
 
 # Resultados y agradecimientos
 

@@ -45,7 +45,7 @@ Este equipo obtuvo el **primer lugar** en la sede de Sevilla en la categoría A 
 - **Jesús Vílchez Martínez** (Grado en Ingeniería Informática – Ingeniería del Software)
 - **José Escalera García** (Grado en Ingeniería Informática – Ingeniería del Software)
 
-{{< img src="ganadores-A.webp" alt="Just Simply FLML" >}}
+{{< img src="ganadores-a.webp" alt="Just Simply FLML" >}}
 
 ---
 
@@ -57,7 +57,7 @@ Ganadores de la **categoría B** (segundo curso), que en este equipo hubo un int
 - **Alejandro Pineda Martín** (Grado en Ingeniería Informática – Tecnologías Informáticas)
 - **Henrique Rebollo Padovani** (Grado en Ingeniería Informática – Tecnologías Informáticas)
 
-{{< img src="ganadores-B.webp" alt="Mikel Bul" >}}
+{{< img src="ganadores-b.webp" alt="Mikel Bul" >}}
 
 ---
 
@@ -69,7 +69,7 @@ Este equipo ganó la **categoría C** (tercer curso o superior) en la sede de Se
 - **Pablo Moreno Moreu** (Doble Grado en Matemáticas e Ingeniería Informática)
 - **Carlos Fernández-Llebrez Acedo** (Doble Grado en Matemáticas e Ingeniería Informática)
 
-{{< img src="ganadores-C.webp" alt="Lema Técnico" >}}
+{{< img src="ganadores-c.webp" alt="Lema Técnico" >}}
 
 ---
 
@@ -153,7 +153,7 @@ Además de los clasificados, queremos agradecer a los equipos **TLE Climbers**, 
 
 {{< img src="gitgut.webp" alt="GitGut" layout="small" >}}
 {{< img src="virtem.webp" alt="Virtem" layout="small" >}}
-{{< img src="tle_climbers.webp" alt="TLE Climbers" layout="small" >}}
+{{< img src="tle-climbers.webp" alt="TLE Climbers" layout="small" >}}
 {{< img src="mikelbull.webp" alt="Mikel Bull" layout="small" >}}
 
 {{< /base/div >}}
