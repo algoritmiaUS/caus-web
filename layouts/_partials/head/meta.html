@@ -9,7 +9,7 @@
 {{- if not $ogImage -}}
   {{- $ogImage = site.Params.og_image | absURL -}}
 {{- end -}}
-{{- $description := .Description | default site.Params.description -}}
+{{- $description := .Description | default site.Params.description | default site.Language.Params.description -}}
 {{- $pageTitle := printf "%s | %s" .Title site.Title -}}
 <meta name="description" content="{{ $description }}" />
 <meta property="og:title" content="{{ $pageTitle }}" />
