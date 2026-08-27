@@ -14,7 +14,11 @@
   }
 </script>
 
-<link rel="stylesheet" href="/css/main.css" />
+{{ $styles := resources.Get "css/main.css" | css.TailwindCSS }}
+{{ if hugo.IsProduction }}
+  {{ $styles = $styles | minify | fingerprint }}
+{{ end }}
+<link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}" />
 
 <meta name="theme-color" content="{{ site.Params.theme_color | default "#ffffff" }}" />
 
