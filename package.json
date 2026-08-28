@@ -14,6 +14,7 @@
     "clean": "rm -rf public/ && rm -rf resources/",
     "format": "prettier --log-level silent --write .",
     "format:check": "prettier --check .",
-    "convert": "bun run scripts/convert.ts"
+    "convert": "bun run scripts/convert.ts",
+    "check:naming": "bun run scripts/check-naming.ts"
   }
 }

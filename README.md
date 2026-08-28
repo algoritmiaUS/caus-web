@@ -52,7 +52,7 @@ bun run build
 
 ## Contribuir
 
-Lee [CONTRIBUTE.md](CONTRIBUTE.md) para convenciones de nombres, etiquetas, imágenes y flujo de PRs.
+Lee [CONTRIBUTE.md](CONTRIBUTE.md) para convenciones de nombres, etiquetas, imágenes y flujo de PRs. El CI ejecuta `check:naming`, `format:check` y `build`.
 
 ## Agradecimientos
 
