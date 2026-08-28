@@ -1,5 +1,9 @@
 <meta charset="UTF-8" />
-<title itemprop="name">{{ .Title }}</title>
+{{- $title := site.Title -}}
+{{- if not .IsHome -}}
+  {{- $title = printf "%s | %s" .Title site.Title -}}
+{{- end -}}
+<title itemprop="name">{{ $title }}</title>
 <link rel="canonical" href="{{ .Permalink }}" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
