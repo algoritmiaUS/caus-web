@@ -2,10 +2,10 @@
   {{ range sort .Paginator.Pages "Title" }}
     {{ $key := lower .Title }}
     {{ $display := .LinkTitle }}
-    {{ with index site.Data.taxonomies.tags $key }}
+    {{ with index hugo.Data.taxonomies.tags $key }}
       {{ $display = . }}
     {{ else }}
-      {{ with index site.Data.taxonomies.categories $key }}{{ $display = . }}{{ end }}
+      {{ with index hugo.Data.taxonomies.categories $key }}{{ $display = . }}{{ end }}
     {{ end }}
     <a
       href="{{ .Permalink }}"

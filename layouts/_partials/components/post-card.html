@@ -25,7 +25,7 @@
           {{ range . }}
             {{ $key := lower .LinkTitle }}
             {{ $display := .LinkTitle }}
-            {{ with index site.Data.taxonomies.tags $key }}{{ $display = . }}{{ end }}
+            {{ with index hugo.Data.taxonomies.tags $key }}{{ $display = . }}{{ end }}
             <a
               href="{{ .Permalink }}"
               class="inline-flex items-center rounded-md bg-wash px-2.5 py-0.5 text-sm font-medium text-fg transition-colors hover:bg-accent/20 focus-visible:outline-hidden focus-visible:ring-2 focus-visible:ring-accent"
