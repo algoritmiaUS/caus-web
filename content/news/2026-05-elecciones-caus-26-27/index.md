@@ -26,9 +26,9 @@ A continuación, os presentamos a los miembros del club que han dado un paso al 
 
 {{< team/candidate name="Lorenzo Tagua Santana" image="/images/elecciones-26-27/lorenzo.webp" roles="Problem Solver" >}}
 
-Soy Lorenzo, me conocéis de haber estado dando clases sobre todo en el segundo cuatrimestre y de haber quedado 2º en el CompliCAUS y 1º en el Ada Byron de Andalucía junto a Julio Ojeda y Mario Mora en _TLE Climbers_.
+Soy Lorenzo, me conocéis de haber estado dando clases sobre todo en el segundo cuatrimestre y de haber quedado 2º en el CompliCAUS y 1º en el AdaByron de Andalucía junto a Julio Ojeda y Mario Mora en _TLE Climbers_.
 
-Quiero continuar el año que viene en el club como problem solver, para poder echar una mano al club con los problemas semanales y ayudar a hacer que el CAUS vuelva a la cima del Ada Byron andaluz al igual que este año.
+Quiero continuar el año que viene en el club como problem solver, para poder echar una mano al club con los problemas semanales y ayudar a hacer que el CAUS vuelva a la cima del AdaByron andaluz al igual que este año.
 
 {{< /team/candidate >}}
 
@@ -64,7 +64,7 @@ Creo que soy el mejor candidato al tener experiencia con la enseñanza y el trat
 
 He mantenido la web del CAUS este último año, he actuado como problem solver y he ayudado a optimizar algunos procesos críticos del club. Este año vengo con muchísimas ganas de seguir aportando. 💻
 
-Como Problem Solver, este último año me ha servido para ganar mucha experiencia compitiendo en el Ada Byron y organizando competiciones OIA. Quiero compartir todo lo que he aprendido en estos torneos y hackathons para que juntos sigamos reventando los rankings.
+Como Problem Solver, este último año me ha servido para ganar mucha experiencia compitiendo en el AdaByron y organizando competiciones OIA. Quiero compartir todo lo que he aprendido en estos torneos y hackathons para que juntos sigamos reventando los rankings.
 
 Como Web Master, aporto mi experiencia desarrollando aplicaciones reales a gran escala (como CTO en HomiMatch o creando PalistApp) para mantener y seguir modernizando la infraestructura del club. ¡Tengo muchas ganas de que sigamos construyendo cosas increíbles este año!
 
@@ -97,7 +97,7 @@ Como veo que la gente se está vendiendo cara, pues yo también: ¡tengo casa en
 
 {{< team/candidate name="Julia Moreno Mejías" image="/images/elecciones-26-27/julia.webp" roles="Marketing" >}}
 
-Hola chicos, soy Julia, me habréis visto estos últimos meses por el CAUS ya que me he encargado de daros globos y comida en el Ada Byron o también de tomaros fotos o vigilaros en el CompliCAUS V. La verdad es que soy una chica súper divertida (aunque Kenny y Fernando digan que no), muy alegre, y me encantaría formar parte del equipo de Marketing. ¡Muchas gracias! :D
+Hola chicos, soy Julia, me habréis visto estos últimos meses por el CAUS ya que me he encargado de daros globos y comida en el AdaByron o también de tomaros fotos o vigilaros en el CompliCAUS V. La verdad es que soy una chica súper divertida (aunque Kenny y Fernando digan que no), muy alegre, y me encantaría formar parte del equipo de Marketing. ¡Muchas gracias! :D
 
 {{< /team/candidate >}}
 
@@ -121,7 +121,7 @@ En resumen: si queréis a alguien con ganas de trabajar, ideas, actividad consta
 
 {{< team/candidate name="Inés Dávila Herrero" image="/images/elecciones-26-27/ines.webp" roles="Marketing, Problem Solver" >}}
 
-¡¡Hola!! Soy Inés Dávila. Llevo siendo miembro del CAUS desde primero de bachillerato y este año he formado parte del grupo de admins. En este tiempo he conseguido premios en competiciones como la OIA, OIFem y Ada Byron.
+¡¡Hola!! Soy Inés Dávila. Llevo siendo miembro del CAUS desde primero de bachillerato y este año he formado parte del grupo de admins. En este tiempo he conseguido premios en competiciones como la OIA, OIFem y AdaByron.
 
 Soy la loca que se pasó horas en la cocina para hacer más de 300 galletas para los CompliCAUS, ¡y que lo seguirá haciendo si salgo elegida de admin! Confío en vosotros. ¡Muchísimas gracias! 😊
 
@@ -129,7 +129,7 @@ Soy la loca que se pasó horas en la cocina para hacer más de 300 galletas para
 
 {{< team/candidate name="Julio Ojeda Infantes" image="/images/elecciones-26-27/julio-ojeda.webp" roles="Problem Solver, Events Manager" >}}
 
-La verdad es que después de lo que el club ha demostrado este año tanto en el Ada Byron como con la cantidad y calidad de charlas que organiza, el listón está muy alto.
+La verdad es que después de lo que el club ha demostrado este año tanto en el AdaByron como con la cantidad y calidad de charlas que organiza, el listón está muy alto.
 
 Por mi parte me gustaría poner mi granito de arena en este equipo y ayudar con la organización de las sesiones, proponiendo problemas de todos los niveles para que todos podamos crecer tanto de cara a futuras competiciones como a nivel profesional.
 

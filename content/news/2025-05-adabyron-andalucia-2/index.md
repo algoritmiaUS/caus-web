@@ -1,20 +1,20 @@
 ---
-title: 'II Edición Regional de Andalucía del Concurso Ada Byron'
+title: 'II Edición Regional de Andalucía del Concurso AdaByron'
 date: 2025-05-17T13:00:00+00:00
 featured_image: images/featured/ada-byron-andalucia-2.webp
-summary: La II Edición Regional de Andalucía del concurso Ada Byron reunió a más de 130 participantes distribuidos en 46 equipos de distintas universidades andaluzas y la UNED. El certamen se celebró simultáneamente en cinco sedes y consistió en una competición de 4 horas para resolver 11 problemas de programación. Destacaron los equipos de la Universidad de Sevilla, con tres clasificados para la final nacional en Madrid. El evento contó con el apoyo del Club de Algoritmia de la Universidad de Sevilla y la colaboración de las distintas sedes universitarias.
-description: La II Edición Regional de Andalucía del Concurso Ada Byron se celebró con gran éxito el 25 de abril, reuniendo a 46 equipos y más de 130 estudiantes de universidades andaluzas y la UNED. Durante 4 horas de intensa competición, los participantes resolvieron 11 problemas de alta dificultad. La sede de Sevilla destacó con tres equipos clasificados para la final nacional en Madrid. La organización y supervisión del evento fueron posibles gracias al compromiso del Club de Algoritmia de la Universidad de Sevilla y al trabajo coordinado entre las universidades andaluzas. Esta edición consolida el concurso como una cita clave para la promoción de la programación competitiva en la región.
+summary: La II Edición Regional de Andalucía del concurso AdaByron reunió a más de 130 participantes distribuidos en 46 equipos de distintas universidades andaluzas y la UNED. El certamen se celebró simultáneamente en cinco sedes y consistió en una competición de 4 horas para resolver 11 problemas de programación. Destacaron los equipos de la Universidad de Sevilla, con tres clasificados para la final nacional en Madrid. El evento contó con el apoyo del Club de Algoritmia de la Universidad de Sevilla y la colaboración de las distintas sedes universitarias.
+description: La II Edición Regional de Andalucía del Concurso AdaByron se celebró con gran éxito el 25 de abril, reuniendo a 46 equipos y más de 130 estudiantes de universidades andaluzas y la UNED. Durante 4 horas de intensa competición, los participantes resolvieron 11 problemas de alta dificultad. La sede de Sevilla destacó con tres equipos clasificados para la final nacional en Madrid. La organización y supervisión del evento fueron posibles gracias al compromiso del Club de Algoritmia de la Universidad de Sevilla y al trabajo coordinado entre las universidades andaluzas. Esta edición consolida el concurso como una cita clave para la promoción de la programación competitiva en la región.
 
 author: Administradores CAUS
 categories: eventos
 tags: ['eventos', 'adabyron', 'competiciones']
 ---
 
-El viernes 25 de abril se celebró en la ETSII la segunda edición de la **Regional de Andalucía** del concurso **Ada Byron**, un certamen de programación cuyo objetivo es fomentar la participación de estudiantes en el prestigioso concurso internacional **ICPC**.
+El viernes 25 de abril se celebró en la ETSII la segunda edición de la **Regional de Andalucía** del concurso **AdaByron**, un certamen de programación cuyo objetivo es fomentar la participación de estudiantes en el prestigioso concurso internacional **ICPC**.
 
 ## Sedes y Universidades Participantes
 
-Ada Byron Andalucía tuvo lugar simultáneamente en varias sedes de las universidades andaluzas:
+AdaByron Andalucía tuvo lugar simultáneamente en varias sedes de las universidades andaluzas:
 
 - Escuela Superior de Ingeniería de la Universidad de Almería
 - Escuela Superior de Ingeniería de la Universidad de Cádiz
@@ -75,7 +75,7 @@ Este equipo ganó la **categoría C** (tercer curso o superior) en la sede de Se
 
 ## Clasificados a la final nacional
 
-Siete equipos de la fase regional de Andalucía han logrado clasificarse para la **final nacional del Concurso Ada Byron**, que se celebrará a principios de julio en la Facultad de Informática de la Universidad Complutense de Madrid:
+Siete equipos de la fase regional de Andalucía han logrado clasificarse para la **final nacional del Concurso AdaByron**, que se celebrará a principios de julio en la Facultad de Informática de la Universidad Complutense de Madrid:
 
 - **Just Simply FLML** (US) – Categoría AB
 - **Turing Incomplete** (UMA) – Categoría AB

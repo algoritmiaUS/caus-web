@@ -1,15 +1,15 @@
 ---
-title: 'X Edición de la Final Nacional del Concurso Ada Byron'
+title: 'X Edición de la Final Nacional del Concurso AdaByron'
 date: 2024-07-10T11:10:00+00:00
 featured_image: images/featured/ada-byron-nacional-1.webp
-summary: La décima edición del Concurso Ada Byron reunió a los mejores programadores de cada región de España en un emocionante evento que culminó en la Facultad de Informática de la Universidad Complutense de Madrid. Entre los equipos clasificados, dos equipos pertenecientes al Club de Algoritmia de la Universidad de Sevilla (CAUS) se enfrentaron a 12 complejos problemas durante 4 intensas horas de competición.
-description: La X Edición Nacional del Concurso Ada Byron reunió a equipos de todas las regiones de España, quienes demostraron su destreza en programación durante la gran final en la Universidad Complutense de Madrid. Dos equipos del Club de Algoritmia de Sevilla lograron clasificarse y participar en esta prestigiosa competición, enfrentándose a retos de alta dificultad. La jornada fue posible gracias al apoyo de instituciones académicas y patrocinadores clave, quienes fomentan la participación en competencias de programación a nivel nacional.
+summary: La décima edición del Concurso AdaByron reunió a los mejores programadores de cada región de España en un emocionante evento que culminó en la Facultad de Informática de la Universidad Complutense de Madrid. Entre los equipos clasificados, dos equipos pertenecientes al Club de Algoritmia de la Universidad de Sevilla (CAUS) se enfrentaron a 12 complejos problemas durante 4 intensas horas de competición.
+description: La X Edición Nacional del Concurso AdaByron reunió a equipos de todas las regiones de España, quienes demostraron su destreza en programación durante la gran final en la Universidad Complutense de Madrid. Dos equipos del Club de Algoritmia de Sevilla lograron clasificarse y participar en esta prestigiosa competición, enfrentándose a retos de alta dificultad. La jornada fue posible gracias al apoyo de instituciones académicas y patrocinadores clave, quienes fomentan la participación en competencias de programación a nivel nacional.
 author: Administradores CAUS
 categories: eventos
 tags: ['eventos', 'adabyron', 'competiciones']
 ---
 
-Los pasados días 5 y 6 de julio de 2024 se celebró la décima edición del concurso de programación Ada Byron en la Facultad de Informática de la Universidad Complutense de Madrid, en la que compitieron los mejores clasificados de cada región.
+Los pasados días 5 y 6 de julio de 2024 se celebró la décima edición del concurso de programación AdaByron en la Facultad de Informática de la Universidad Complutense de Madrid, en la que compitieron los mejores clasificados de cada región.
 
 ## Sedes participantes
 
@@ -42,6 +42,6 @@ Todos ellos estudiantes del doble Grado en Ingeniería Informática – Tecnolog
 
 Durante las 4 horas de competición los equipos se enfrentaron a la resolución de 12 desafiantes problemas. A pesar de la alta exigencia, el equipo Pan de Pita (Categoría C) fue el ganador absoluto del concurso. ¡Enhorabuena a los ganadores!
 
-Finalmente, desde el **CAUS** queremos expresar nuestro agradecimiento a la **Escuela Técnica Superior de Ingeniería Informática de Sevilla** por patrocinarnos el viaje a todo el equipo para ir a Madrid, a los organizadores del Ada Byron por hacer posible la organización de la final nacional, y también queremos agradecer a IMDEA Software, NEXT DIGITAL, Denodo y Bending Spoons por patrocinar el concurso.
+Finalmente, desde el **CAUS** queremos expresar nuestro agradecimiento a la **Escuela Técnica Superior de Ingeniería Informática de Sevilla** por patrocinarnos el viaje a todo el equipo para ir a Madrid, a los organizadores del AdaByron por hacer posible la organización de la final nacional, y también queremos agradecer a IMDEA Software, NEXT DIGITAL, Denodo y Bending Spoons por patrocinar el concurso.
 
 ![Participantes](participantes.webp)

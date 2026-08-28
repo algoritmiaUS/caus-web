@@ -1,17 +1,17 @@
 ---
-title: 'III Edición Regional de Andalucía del Concurso Ada Byron'
+title: 'III Edición Regional de Andalucía del Concurso AdaByron'
 date: 2026-04-17T13:00:00+00:00
 featured_image: images/featured/ada-byron-andalucia-3.webp
 
-summary: La III Edición Regional de Andalucía del concurso Ada Byron reunió a más de 200 participantes distribuidos en 69 equipos de distintas universidades andaluzas y la UNED. El certamen se celebró simultáneamente en seis sedes y consistió en una competición de 4 horas para resolver 13 problemas de programación. Destacaron los equipos de la Universidad de Sevilla, con tres clasificados para la final nacional en Madrid. El evento contó con el apoyo del Club de Algoritmia de la Universidad de Sevilla y la colaboración de las distintas sedes universitarias.
-description: La III Edición Regional de Andalucía del Concurso Ada Byron se celebró con gran éxito el 17 de abril, reuniendo a 69 equipos y más de 200 estudiantes de universidades andaluzas y la UNED. Durante 4 horas de intensa competición, los participantes resolvieron 13 problemas de alta dificultad. La sede de Sevilla destacó con tres equipos clasificados para la final nacional en Madrid. La organización y supervisión del evento fueron posibles gracias al compromiso del Club de Algoritmia de la Universidad de Sevilla y al trabajo coordinado entre las universidades andaluzas. Esta edición consolida el concurso como una cita clave para la promoción de la programación competitiva en la región.
+summary: La III Edición Regional de Andalucía del concurso AdaByron reunió a más de 200 participantes distribuidos en 69 equipos de distintas universidades andaluzas y la UNED. El certamen se celebró simultáneamente en seis sedes y consistió en una competición de 4 horas para resolver 13 problemas de programación. Destacaron los equipos de la Universidad de Sevilla, con tres clasificados para la final nacional en Madrid. El evento contó con el apoyo del Club de Algoritmia de la Universidad de Sevilla y la colaboración de las distintas sedes universitarias.
+description: La III Edición Regional de Andalucía del Concurso AdaByron se celebró con gran éxito el 17 de abril, reuniendo a 69 equipos y más de 200 estudiantes de universidades andaluzas y la UNED. Durante 4 horas de intensa competición, los participantes resolvieron 13 problemas de alta dificultad. La sede de Sevilla destacó con tres equipos clasificados para la final nacional en Madrid. La organización y supervisión del evento fueron posibles gracias al compromiso del Club de Algoritmia de la Universidad de Sevilla y al trabajo coordinado entre las universidades andaluzas. Esta edición consolida el concurso como una cita clave para la promoción de la programación competitiva en la región.
 
 author: Administradores CAUS
 categories: eventos
 tags: ['eventos', 'adabyron', 'competiciones']
 ---
 
-El pasado viernes 17 de abril, en la Escuela Técnica Superior de Ingeniería Informática (ETSII) se celebró la III Edición Regional de Andalucía del Concurso Ada Byron. Este certamen no solo premia la destreza lógica, sino que sirve como plataforma de preparación para el prestigioso concurso internacional ICPC.
+El pasado viernes 17 de abril, en la Escuela Técnica Superior de Ingeniería Informática (ETSII) se celebró la III Edición Regional de Andalucía del Concurso AdaByron. Este certamen no solo premia la destreza lógica, sino que sirve como plataforma de preparación para el prestigioso concurso internacional ICPC.
 
 ## Sedes y universidades participantes
 
@@ -82,7 +82,7 @@ La gran sorpresa de la edición. Siendo estudiantes de primer año, lograron el 
 
 ## Clasificados a la final nacional
 
-Tras los resultados provisionales, y a falta de confirmación oficial, los siguientes equipos han asegurado su plaza para la Final Nacional del concurso Ada Byron, que se celebrará en julio en la Universidad Complutense de Madrid:
+Tras los resultados provisionales, y a falta de confirmación oficial, los siguientes equipos han asegurado su plaza para la Final Nacional del concurso AdaByron, que se celebrará en julio en la Universidad Complutense de Madrid:
 
 - **SQLito** (US) – Categoría A
 - **Just Simply FLML** (US) – Categoría B
@@ -126,6 +126,6 @@ Nada de esto habría sido posible sin el apoyo de los voluntarios que dedicaron 
 
 - A Elena Cerezuela Escudero, por una coordinación logística impecable en la sede de Sevilla.
 - Al profesorado de las universidades andaluzas que colaboró en la creación de problemas y la supervisión local.
-- A Marco Antonio, Pedro Pablo y Alberto Verdejo (UCM), cuyo apoyo es el pilar que permite que Ada Byron siga creciendo cada año.
+- A Marco Antonio, Pedro Pablo y Alberto Verdejo (UCM), cuyo apoyo es el pilar que permite que AdaByron siga creciendo cada año.
 
 ¡Gracias a todos por vuestro talento y pasión! Nos vemos en la final nacional.

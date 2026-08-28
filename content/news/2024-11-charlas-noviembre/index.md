@@ -37,7 +37,7 @@ Miguel Ángel Martínez del Amor es profesor en la ETSII de la Universidad de Se
     stream_url="https://meet.google.com/ttw-nriv-ftd"
     speaker="Marco Antonio Gómez Martín (Universidad Complutense de Madrid)"
 >}}
-Marco Antonio Gómez Martín es profesor en la Universidad Complutense de Madrid y es el director de la competición nacional universitaria de algoritmia Ada Byron. También es co-creador del juez online ¡Acepta el reto!
+Marco Antonio Gómez Martín es profesor en la Universidad Complutense de Madrid y es el director de la competición nacional universitaria de algoritmia AdaByron. También es co-creador del juez online ¡Acepta el reto!
 Como experto en competiciones de algoritmia, Marco nos va a enseñar una técnica de resolución de problemas que nunca hemos tratado en el club y que suele ser necesaria en competiciones. ¡No te lo pierdas!
 {{< /charla >}}
 

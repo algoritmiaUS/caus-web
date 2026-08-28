@@ -13,7 +13,7 @@ tags: ['eventos', 'complicaus', 'competiciones']
 
 ¡La competición más esperada de febrero ya tiene fecha! 💖💻
 
-El **CompliCAUS V** llega con grandes novedades. Esta edición se disputará en **equipos de tres personas**, al más puro estilo de la competición Ada Byron. Se celebrará el próximo **13 de febrero** en la ETSII.
+El **CompliCAUS V** llega con grandes novedades. Esta edición se disputará en **equipos de tres personas**, al más puro estilo de la competición AdaByron. Se celebrará el próximo **13 de febrero** en la ETSII.
 
 En esta ocasión, buscamos la experiencia más profesional posible, por lo que utilizaremos el sistema **DOMjudge** en un entorno restringido (sin internet), similar a las grandes competiciones internacionales.
 
