@@ -13,7 +13,7 @@
 
 {{ $wrapperClass := "flex flex-col items-center p-3 w-full" }}
 {{ if $compact }}
-  {{ $wrapperClass = printf "%s max-w-xs mx-auto hover:bg-wash transition-colors" $wrapperClass }}
+  {{ $wrapperClass = printf "%s max-w-xs mx-auto" $wrapperClass }}
 {{ end }}
 
 {{ $imageClass := "mt-0 mb-0 rounded-full object-cover" }}
