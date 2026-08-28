@@ -33,9 +33,9 @@ Había dos plazas disponibles para encargarse de la imagen del club en redes soc
 
 {{< base/div layout="cols" >}}
 
-{{< team/person name="Inés Dávila" image="/images/elecciones-25-26/ines.webp" >}}
+{{< team/person name="Inés Dávila" image="/images/elecciones-25-26/ines-davila.webp" >}}
 
-{{< team/person name="Lucía Campos" image="/images/elecciones-25-26/lucia-diez.webp" >}}
+{{< team/person name="Lucía Campos" image="/images/elecciones-25-26/lucia-campos.webp" >}}
 
 {{< /base/div >}}
 
@@ -49,13 +49,13 @@ La categoría más reñida. Inicialmente se ofrecían 3 plazas, pero debido a un
 
 {{< base/div layout="cols" >}}
 
-{{< team/person name="Inés Dávila" image="/images/elecciones-25-26/ines.webp" >}}
+{{< team/person name="Inés Dávila" image="/images/elecciones-25-26/ines-davila.webp" >}}
 
-{{< team/person name="Lorenzo Tagua" image="/images/elecciones-25-26/lorenzo.webp" >}}
+{{< team/person name="Lorenzo Tagua" image="/images/elecciones-25-26/lorenzo-tagua.webp" >}}
 
 {{< team/person name="Fernando Giráldez" image="/images/elecciones-25-26/fernando-giraldez.webp" >}}
 
-{{< team/person name="José García" image="/images/elecciones-25-26/jose.webp" >}}
+{{< team/person name="José García" image="/images/elecciones-25-26/jose-garcia.webp" >}}
 
 {{< /base/div >}}
 
@@ -69,9 +69,9 @@ Pablo Dávila continuará apoyando de forma puntual en la organización de event
 
 {{< base/div layout="cols" >}}
 
-{{< team/person name="José García" image="/images/elecciones-25-26/jose.webp" >}}
+{{< team/person name="José García" image="/images/elecciones-25-26/jose-garcia.webp" >}}
 
-{{< team/person name="Lucía Campos" image="/images/elecciones-25-26/lucia-diez.webp" >}}
+{{< team/person name="Lucía Campos" image="/images/elecciones-25-26/lucia-campos.webp" >}}
 
 {{< team/person name="Pablo Dávila" image="/images/elecciones-25-26/pablo-davila.webp" subtitle="Support Events" >}}
 
@@ -96,17 +96,17 @@ Por lo que, los nuevos administradores para este nuevo curso 2025/26 son:
 
 {{< team/person name="Pablo Reina" image="/images/elecciones-25-26/pablo-reina.webp" subtitle="Presidente y Problem Solver – Doctorado en Ingeniería Informática" >}}
 
-{{< team/person name="Kenny Flores" image="/images/elecciones-25-26/kenny.webp" subtitle="Web Master y Problem Solver – Doctorado en Organización Industrial" >}}
+{{< team/person name="Kenny Flores" image="/images/elecciones-25-26/kenny-flores.webp" subtitle="Web Master y Problem Solver – Doctorado en Organización Industrial" >}}
 
 {{< team/person name="Fernando Giráldez" image="/images/elecciones-25-26/fernando-giraldez.webp" subtitle="Web Master y Problem Solver" >}}
 
-{{< team/person name="Inés Dávila" image="/images/elecciones-25-26/ines.webp" subtitle="Marketing & Problem Solver" >}}
+{{< team/person name="Inés Dávila" image="/images/elecciones-25-26/ines-davila.webp" subtitle="Marketing & Problem Solver" >}}
 
-{{< team/person name="Lucía Campos" image="/images/elecciones-25-26/lucia-diez.webp" subtitle="Marketing y Event Manager – Ingeniería de Software" >}}
+{{< team/person name="Lucía Campos" image="/images/elecciones-25-26/lucia-campos.webp" subtitle="Marketing y Event Manager – Ingeniería de Software" >}}
 
-{{< team/person name="José García" image="/images/elecciones-25-26/jose.webp" subtitle="Problem Solver y Event Manager – Máster IA" >}}
+{{< team/person name="José García" image="/images/elecciones-25-26/jose-garcia.webp" subtitle="Problem Solver y Event Manager – Máster IA" >}}
 
-{{< team/person name="Lorenzo Tagua" image="/images/elecciones-25-26/lorenzo.webp" subtitle="Problem Solver" >}}
+{{< team/person name="Lorenzo Tagua" image="/images/elecciones-25-26/lorenzo-tagua.webp" subtitle="Problem Solver" >}}
 
 {{< team/person name="Pablo Dávila" image="/images/elecciones-25-26/pablo-davila.webp" subtitle="Support Events" >}}
 
