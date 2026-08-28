@@ -14,19 +14,16 @@
   }
 </script>
 
-{{ $styles := resources.Get "css/main.css" | css.TailwindCSS }}
-{{ if hugo.IsProduction }}
-  {{ $styles = $styles | minify | fingerprint }}
-{{ end }}
-<link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}" />
+{{ $styles := resources.Get "css/main.css" | css.TailwindCSS | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $styles.RelPermalink }}" />
 
 {{ $needsProse := or .IsPage (eq .Section "resources") (eq .Section "achievements") (eq .Section "about") (eq .Section "news") (eq .Kind "section") }}
-{{/* or tighter: {{ $needsProse := gt (len .Content) 0 }} — every prose wrapper is {{ with .Content }} / {{ .Content }} */}}
+{{/* or tighter: $needsProse := gt (len .Content) 0 — every prose wrapper is with .Content / .Content */}}
 {{ if $needsProse }}
-  {{ $prose := resources.Get "css/prose.css" | css.TailwindCSS }}
-  {{ if hugo.IsProduction }}{{ $prose = $prose | minify | fingerprint }}{{ end }}
-  <link rel="stylesheet" href="{{ $prose.RelPermalink }}" integrity="{{ $prose.Data.Integrity }}" />
+  {{ $prose := resources.Get "css/prose.css" | css.TailwindCSS | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $prose.RelPermalink }}" />
 {{ end }}
+
 
 <meta name="theme-color" content="{{ site.Params.theme_color | default "#ffffff" }}" />
 
@@ -34,9 +31,9 @@
 
 {{ partial "head/meta.html" . }}
 
-{{ $js := resources.Get "js/index.js" | js.Build }}
+{{ $js := resources.Get "js/index.js" | js.Build | minify | fingerprint }}
 <script src="{{ $js.RelPermalink }}" defer></script>
 {{ if .HasShortcode "achievements/rankings" }}
-  {{ $lightbox := resources.Get "js/lightbox.js" | js.Build }}
+  {{ $lightbox := resources.Get "js/lightbox.js" | js.Build | minify | fingerprint }}
   <script src="{{ $lightbox.RelPermalink }}" defer></script>
 {{ end }}
