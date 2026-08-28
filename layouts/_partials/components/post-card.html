@@ -20,7 +20,11 @@
     </div>
     {{ with .GetTerms "tags" }}
       <div class="flex flex-wrap gap-x-2 gap-y-2 pt-6 font-medium text-accent">
-        <span class="pr-2 font-black">{{ i18n "post.tags" }}</span>
+        <a
+          href="{{ "/tags/" | relLangURL }}"
+          class="pr-2 font-black hover:underline focus-visible:outline-hidden focus-visible:ring-2 focus-visible:ring-accent"
+          >{{ i18n "post.tags" }}</a
+        >
         <span class="flex flex-wrap gap-2">
           {{ range . }}
             {{ $key := lower .LinkTitle }}
