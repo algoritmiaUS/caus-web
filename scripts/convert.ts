@@ -1,3 +1,5 @@
+export {};
+
 const glob = new Bun.Glob('**/*.{png,jpg,jpeg,PNG,JPG,JPEG}');
 
 for await (const path of glob.scan('.')) {
