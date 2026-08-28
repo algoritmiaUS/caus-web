@@ -10,6 +10,15 @@ post.tags:
 post.read_time:
   other: "min de lectura"
 
+news.heading:
+  other: "Noticias"
+news.events:
+  other: "Eventos"
+news.latest:
+  other: "Noticias"
+news.calendar_title:
+  other: "Calendario de eventos del Club de Algoritmia de la Universidad de Sevilla"
+
 error.404_title:
   other: "Ooooops, falta algo."
 error.404_message:
