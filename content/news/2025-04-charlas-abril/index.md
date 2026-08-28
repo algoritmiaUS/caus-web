@@ -24,7 +24,7 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
     stream_url="https://meet.google.com/fcd-xhdp-wih"
     speaker="Lourdes Linares Barrera (Admin del CAUS, Data Scientist y Data Engineer en NEXT DIGITAL)"
 >}}
-¿Te pica la curiosidad por saber cómo entienden las máquinas el lenguaje humano? ¿Te suenan palabros como “transformers", "transfer learning" o "RAG" y no tienes ni idea de qué van?
+¿Te pica la curiosidad por saber cómo entienden las máquinas el lenguaje humano? ¿Te suenan palabros como "transformers", "transfer learning" o "RAG" y no tienes ni idea de qué van?
 ¡Pues esta charla es para ti!
 Nos daremos un paseo desde los inicios del Procesamiento del Lenguaje Natural (NLP) hasta los modelos de lenguaje más potentes de hoy (sí, esos que escriben, traducen e incluso programan).
 - **🔍 Una visión clara desde cero:** si estás perdido, aquí te ubicamos sin dramas.

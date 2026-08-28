@@ -9,7 +9,7 @@ categories: ['noticias']
 tags: ['noticias']
 ---
 
-Ya ha comenzado el [Advent of Code](https://adventofcode.com/) de este año. Este reto consiste en resolver dos problemas de algoritmia diarios durante cada día del adviento (1-25 diciembre). Los problemas van de más fáciles a más difíciles y, aunque salen dos al día, puedes resolverlos a tu ritmo.
+Ya ha comenzado el [Advent of Code](https://adventofcode.com/) de este año. Este reto consiste en resolver dos problemas de algoritmia cada día del Adviento (1-25 de diciembre). Los problemas van de más fáciles a más difíciles y, aunque salen dos al día, puedes resolverlos a tu ritmo.
 
 👉 Puedes subir tus soluciones a [este repositorio en GitHub](https://github.com/algoritmiaUS/advent-of-code)!
 

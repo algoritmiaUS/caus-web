@@ -18,11 +18,11 @@ Ada Byron Andalucía tuvo lugar simultáneamente en varias sedes de las universi
 
 - Escuela Superior de Ingeniería de la Universidad de Almería
 - Escuela Superior de Ingeniería de la Universidad de Cádiz
-- Escuela Técnica Superior Ingenierías Informática y de Telecomunicación de la Universidad de Granada
+- Escuela Técnica Superior de Ingenierías Informática y de Telecomunicación de la Universidad de Granada
 - Escuela Técnica Superior de Ingeniería Informática de la Universidad de Málaga
 - Escuela Técnica Superior de Ingeniería Informática de la Universidad de Sevilla
 
-En total más de 130 participantes repartidos en _46 equipos_ participaron en esta edición. La distribución de los equipos fue la siguiente:
+En total, más de 130 participantes repartidos en _46 equipos_ tomaron parte en esta edición. La distribución de los equipos fue la siguiente:
 
 - Universidad de Almería: 1 equipo
 - Universidad de Cádiz: 3 equipos
@@ -51,7 +51,7 @@ Este equipo obtuvo el **primer lugar** en la sede de Sevilla en la categoría A 
 
 ### 🥇 Los Mikel Bull – Categoría B
 
-Ganadores de la **categoría B** (segundo curso), que en este equipo hubo un integrante en el que se pasó estudiando un solo tipo de problema (Tries) y entró. ¡Gran actuación!
+Ganadores de la **categoría B** (segundo curso), que en este equipo hubo un integrante que se pasó estudiando un solo tipo de problema (Tries) y entró. ¡Gran actuación!
 
 - **Jesús Pérez Bazarot** (Grado en Ingeniería Informática – Ingeniería de Computadores)
 - **Alejandro Pineda Martín** (Grado en Ingeniería Informática – Tecnologías Informáticas)
@@ -61,7 +61,7 @@ Ganadores de la **categoría B** (segundo curso), que en este equipo hubo un int
 
 ---
 
-### 🥇 lemaTecnico – Categoría C
+### 🥇 LemaTecnico – Categoría C
 
 Este equipo ganó la **categoría C** (tercer curso o superior) en la sede de Sevilla, compitiendo con solamente 2 personas debido a que uno de los integrantes tenía que asistir a un evento muy importante. ¡Excelente trabajo!
 
@@ -81,7 +81,7 @@ Siete equipos de la fase regional de Andalucía han logrado clasificarse para la
 - **Turing Incomplete** (UMA) – Categoría AB
 - **ChatJPG** (UMA) – Categoría AB
 - **TrieNPHards** (UGR) – Categoría C
-- **lemaTecnico** (US) – Categoría C
+- **LemaTecnico** (US) – Categoría C
 - **Massive** (US) – Categoría C
 - **Los BoquerO(n³)** (UNED) - Categoría C entre las universidades a distancia
 
@@ -107,7 +107,7 @@ Este equipo obtuvo el **primer lugar** en la sede de Sevilla en la categoría A,
 
 ### 🥇 LemaTecnico – Categoría C
 
-A pesar de ser dos integrantes los que participaron, quedaron en un cuarto lugar en el ranking global, por lo que este equipo también representará a la US en su categoría más avanzada ¡Excelente trabajo!
+A pesar de ser dos integrantes los que participaron, quedaron en cuarto lugar en el ranking global, por lo que este equipo también representará a la US en su categoría más avanzada ¡Excelente trabajo!
 
 - **Arnau Neches Vilà** (Doble Grado en Matemáticas e Ingeniería Informática)
 - **Pablo Moreno Moreu** (Doble Grado en Matemáticas e Ingeniería Informática)
@@ -121,7 +121,7 @@ A pesar de ser dos integrantes los que participaron, quedaron en un cuarto lugar
 
 ### 🥇 Massive – Categoría C
 
-Este equipo, habiendo quedado en un increíble quinto lugar en el ranking general, y teniendo aún más mérito llevando tan poco tiempo en el mundillo de la programación competitiva. Además en el que uno de sus integrantes, ha participado en la máxima categoría ¡Siendo de primero de carrera! Así que muchas felicidades
+Este equipo quedó en un increíble quinto lugar en el ranking general, con el mérito añadido de llevar muy poco tiempo en el mundillo de la programación competitiva. Además, uno de sus integrantes participó en la máxima categoría ¡aun siendo de primero de carrera!
 
 - **Jairo Serrano Picón** (Doble Grado en Matemáticas y Estadística)
 - **José Luis Mesa Solano** (Doble Grado en Matemáticas y Física)
@@ -143,7 +143,7 @@ Aunque no pertenecen a nuestra universidad, participaron en la sede de Sevilla y
 
 {{< img src="boquerones.webp" alt="Boquerones" >}}
 
-**Los BoquerO(n³) Los únicos en la sede de Sevilla que programaron con Java**
+**Los BoquerO(n³): los únicos en la sede de Sevilla que programaron con Java**
 
 ### Otros equipos pertenecientes al CAUS
 
@@ -166,7 +166,7 @@ Durante la competición, la resolución de dudas y la verificación de resultado
 - **Pablo Reina Jiménez**
 - **Kenny Jesús Flores Huamán**
 
-  Para aquellos que quieran revisar los problemas, aprender nuevas estrategias o practicar para próximas ediciones, hemos publicado los enunciados, soluciones y explicación de las soluciones en nuestro [repositorio de GitHub](https://github.com/algoritmiaUS/ada-byron/tree/master/2025/regional-andaluza).
+  Para aquellos que quieran revisar los problemas, aprender nuevas estrategias o practicar para próximas ediciones, hemos publicado los enunciados, soluciones y explicaciones de las soluciones en nuestro [repositorio de GitHub](https://github.com/algoritmiaUS/ada-byron/tree/master/2025/regional-andaluza).
 
 Desde la organización, también vivimos nuestro propio reto: además de supervisar cientos de envíos en C, C++, Java y Python, fue necesario resolver algunas incidencias en tiempo real, lo cual supuso un esfuerzo importante y enriquecedor.
 
@@ -174,7 +174,7 @@ Como fundadores del Club de Algoritmia de la Universidad de Sevilla, no podemos 
 
 Queremos hacer una mención especial de agradecimiento a:
 
-- Nuestro voluntario Fernando Giráldez Curquejo, por todo el apoyo que nos dió.
+- Nuestro voluntario Fernando Giráldez Curquejo, por todo el apoyo que nos dio.
 - M.ª Lourdes Miró Amarante y Juan Antonio Álvarez, por su impecable labor organizativa en Sevilla, coordinando las sedes y preparando toda la infraestructura técnica.
 - Todo el profesorado de las universidades andaluzas que colaboró aportando problemas o actuando como coordinadores locales.
 - Y, como siempre, a Marco Antonio y Alberto Verdejo de la Universidad Complutense de Madrid, cuyo apoyo continuo hace posible que esta iniciativa siga creciendo.

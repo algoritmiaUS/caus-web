@@ -16,7 +16,7 @@ Los pasados **3 y 4 de julio de 2026** se celebró la **XII Final Nacional del C
 
 # Equipos del CAUS
 
-El Club de Algoritmia de la Universidad de Sevilla estuvo representado en la final nacional por **cuatro equipos**, clasificados tras el excelente desempeño obtenido en la fase regional de Andalucía. Además, los administradores del club asistimos como entrenadores y participamos en una competición paralela para _coaches_, resolviendo el mismo conjunto de problemas que los participantes junto a los entrenadores del resto de universidades.
+El Club de Algoritmia de la Universidad de Sevilla estuvo representado en la final nacional por **cuatro equipos**, clasificados tras el excelente desempeño obtenido en la fase regional de Andalucía. Además, los administradores del club asistieron como entrenadores y participaron en una competición paralela para _coaches_, resolviendo el mismo conjunto de problemas que los participantes junto a los entrenadores del resto de universidades.
 
 ## Equipo **"SQLito"**
 

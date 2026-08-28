@@ -30,7 +30,7 @@ Por petición popular, y gracias a los comentarios recibidos sobre la edición a
 📍 **ETSII, Universidad de Sevilla**  
 📅 **7 de febrero de 2025**
 
-🚀 **Demuestra tus habilidades y disfruta del reto en el CompliCAUS III!**
+🚀 **¡Demuestra tus habilidades y disfruta del reto en el CompliCAUS III!**
 
 Patrocinado por:
 

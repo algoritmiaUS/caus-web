@@ -9,11 +9,11 @@ categories: eventos
 tags: ['eventos', 'adabyron', 'competiciones']
 ---
 
-Los pasados días 4 y 5 de julio de 2025 se celebró la undécima edición del concurso de programación Ada Byron en la Facultad de Informática de la Universidad Complutense de Madrid en las que compitieron los mejores clasificados de cada región.
+Los pasados días 4 y 5 de julio de 2025 se celebró la undécima edición del concurso de programación Ada Byron en la Facultad de Informática de la Universidad Complutense de Madrid en la que compitieron los mejores clasificados de cada región.
 
 # Equipos del CAUS
 
-Tres equipos pertenecientes al Club de Algoritmia lograron clasificarse a esta final nacional. Además de ellos, los administradores que asistimos como entrenadores de estos equipos, también participamos en una competición paralela en la que resolvíamos los mismos problemas, pero competíamos con los demás entrenadores!
+Tres equipos pertenecientes al Club de Algoritmia lograron clasificarse a esta final nacional. Además de ellos, los administradores que asistimos como entrenadores de estos equipos, también participamos en una competición paralela en la que resolvíamos los mismos problemas, pero competíamos ¡con los demás entrenadores!
 
 ## Equipo **"Just Simply FLML"**
 
@@ -33,7 +33,7 @@ Tres equipos pertenecientes al Club de Algoritmia lograron clasificarse a esta f
 
 ## Equipo **"LemaTecnico"**
 
-- **Carlos Fernández - Llebrez Acedo** (Doble Grado en Ingeniería Informática – Tecnologías Informáticas y Matemáticas)
+- **Carlos Fernández-Llebrez Acedo** (Doble Grado en Ingeniería Informática – Tecnologías Informáticas y Matemáticas)
 - **Pablo Moreno Moreu** (Doble Grado en Ingeniería Informática – Tecnologías Informáticas y Matemáticas)
 - **Arnau Neches Vilà** (Doble Grado en Ingeniería Informática – Tecnologías Informáticas y Matemáticas)
 
@@ -43,4 +43,4 @@ Tres equipos pertenecientes al Club de Algoritmia lograron clasificarse a esta f
 
 Durante las 5 horas de competición, los equipos se enfrentaron a la resolución de 12 desafiantes problemas. A pesar de la alta exigencia, el equipo UPC1 (Categoría C) fue el ganador absoluto resolviendo todos los problemas por primera vez en la historia del concurso ¡Enhorabuena a los ganadores!
 
-Finalmente, desde el **CAUS** queremos expresar nuestro agradecimiento a la **Escuela Técnica Superior de Ingeniería Informática de Sevilla** por patrocinar el viaje a Madrid de nuestros equipos, a los organizadores de Ada Byron por hacer posible la organización de la final nacional y también los patrocinadores del concurso: IMDEA Software, NEXT DIGITAL, Amazon, Edicom y Walcu.
+Finalmente, desde el **CAUS** queremos expresar nuestro agradecimiento a la **Escuela Técnica Superior de Ingeniería Informática de Sevilla** por patrocinar el viaje a Madrid de nuestros equipos, a los organizadores de Ada Byron por hacer posible la organización de la final nacional y también a los patrocinadores del concurso: IMDEA Software, NEXT DIGITAL, Amazon, Edicom y Walcu.

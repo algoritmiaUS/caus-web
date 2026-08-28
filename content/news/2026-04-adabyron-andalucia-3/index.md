@@ -32,7 +32,7 @@ Además de los estudiantes de las sedes, participaron concursantes de la Univers
 
 Durante 4 horas de máxima concentración, los equipos se enfrentaron a un panel de 13 problemas de diversa complejidad. En la sede de Sevilla, los resultados fueron excepcionales.
 
-### 🥇 tle climbers (campeones regionales)
+### 🥇 TLE Climbers (campeones regionales)
 
 Este equipo no solo dominó la Categoría C, sino que se alzó con el primer puesto de la clasificación general de Andalucía ¡Enhorabuena!
 
@@ -62,7 +62,7 @@ La gran sorpresa de la edición. Siendo estudiantes de primer año, lograron el 
 
 {{< img src="ganadores-a.webp" alt="SQLito" >}}
 
-### menciones especiales
+### Menciones especiales
 
 **TLEtubbies:** ganadores del premio al "Primer Envío Correcto" del concurso. Un reconocimiento a su agilidad inicial.
 
@@ -92,7 +92,7 @@ En función de la valoración por parte de la organización nacional es posible 
 
 ## Jueces y supervisión técnica
 
-Detrás de cada línea de código enviada, hubo un equipo humano velando por la transparencia y el correcto funcionamiento del certamen. La resolución de dudas y la supervisión del juez automático recayó en los fundadores del Club de Algoritmia, cuya dedicación fue impecable:
+Detrás de cada línea de código enviada, hubo un equipo humano velando por la transparencia y el correcto funcionamiento del certamen. La resolución de dudas y la supervisión del juez automático recayeron en los fundadores del Club de Algoritmia, cuya dedicación fue impecable:
 
 - **Pablo Dávila Herrero**
 - **Pablo Reina Jiménez**
@@ -104,7 +104,7 @@ Como fundadores del CAUS, nos llena de orgullo ver la evolución técnica y el c
 
 ## Soluciones y recursos
 
-Para aquellos que quieran revisar los problemas, aprender nuevas estrategias o practicar para próximas ediciones, hemos publicado los enunciados, soluciones y explicación de las soluciones en nuestro [repositorio de GitHub](https://github.com/algoritmiaUS/ada-byron/tree/master/2026/regional-andaluza).
+Para aquellos que quieran revisar los problemas, aprender nuevas estrategias o practicar para próximas ediciones, hemos publicado los enunciados, soluciones y explicaciones de las soluciones en nuestro [repositorio de GitHub](https://github.com/algoritmiaUS/ada-byron/tree/master/2026/regional-andaluza).
 
 ## Equipo de voluntarios
 
@@ -126,6 +126,6 @@ Nada de esto habría sido posible sin el apoyo de los voluntarios que dedicaron 
 
 - A Elena Cerezuela Escudero, por una coordinación logística impecable en la sede de Sevilla.
 - Al profesorado de las universidades andaluzas que colaboró en la creación de problemas y la supervisión local.
-- A Marco Antonio, Pedro Pablo y a Alberto Verdejo (UCM), cuyo apoyo es el pilar que permite que Ada Byron siga creciendo cada año.
+- A Marco Antonio, Pedro Pablo y Alberto Verdejo (UCM), cuyo apoyo es el pilar que permite que Ada Byron siga creciendo cada año.
 
 ¡Gracias a todos por vuestro talento y pasión! Nos vemos en la final nacional.

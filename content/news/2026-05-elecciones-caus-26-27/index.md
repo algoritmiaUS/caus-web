@@ -87,7 +87,7 @@ Me he hecho colega del event manager del club de business analytics de la UC3M y
 
 {{< team/candidate name="Pablo Moreno Moreu" image="/images/elecciones-26-27/pablo.webp" roles="Web Master, Problem Solver, Events Manager" >}}
 
-¡Votadme mucho y así definitivamente no pondré un problema con el Simplex dual! 😜 Y para los que no me conozcan, pues soy Pablo (Moreno), parte del lema técnico, miembro del club desde el día 1 :D, un loco de las mates (y en general).
+¡Votadme mucho y así definitivamente no pondré un problema con el Simplex dual! 😜 Y para los que no me conozcan, pues soy Pablo (Moreno), parte del equipo técnico, miembro del club desde el día 1 :D, un loco de las mates (y en general).
 
 Ya va tocando aportar al club, así que me presento como problem solver para torturaros con problemas y hacer sesiones guapas. ¡En una de ellas vamos hasta a entender el repo de Miguel Toro!
 
@@ -103,7 +103,7 @@ Hola chicos, soy Julia, me habréis visto estos últimos meses por el CAUS ya qu
 
 {{< team/candidate name="Victor Manuel Mesa Solano" image="/images/elecciones-26-27/vikzi.webp" roles="Problem Solver, Events Manager" >}}
 
-Buenas!!!! Soy Víctor (con probabilidad cercana a 1 me habrás visto orbitando por Reina Mercedes, ya sea por la ETSII o divagando sobre Teoría Algebraica de Números con una intensidad masivamente innecesaria).
+¡Buenas! Soy Víctor (con probabilidad cercana a 1 me habrás visto orbitando por Reina Mercedes, ya sea por la ETSII o divagando sobre Teoría Algebraica de Números con una intensidad masivamente innecesaria).
 
 Para quienes no me conozcáis, ya fui admin el año pasado como Problem Solver y, si algo puedo prometer en esta candidatura, es implicación. Soy de esas personas a las que les gusta compilar ideas, no excusas, y creo que ese lema resume bastante bien cómo entiendo el club y cómo me gusta hacer las cosas.
 
@@ -155,6 +155,6 @@ Tengo muchas ganas de implicarme y ayudar a que más gente vea lo chulo que pued
 
 {{< /base/div >}}
 
-¡Mucha suerte a todos los candidatos! Vuestro compromiso e implicación es lo que hace grande a esta asociación ✨
+¡Mucha suerte a todos los candidatos! Vuestro compromiso e implicación son lo que hacen grande a esta asociación ✨
 
 {{< base/button href="https://docs.google.com/forms/d/e/1FAIpQLSe1As5n7InsNaXy4Ge3M0dn8sWyOob1MqpgkcRWAZlgg1cpFg/viewform?usp=publish-editor" >}}Vota aquí{{< /base/button >}}

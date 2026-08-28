@@ -28,7 +28,7 @@ El **CompliCAUS** es nuestra propia competición de programación, abierta a tod
 📍 **ETSII, Universidad de Sevilla**  
 📅 **10 de octubre de 2025**
 
-🚀 **Demuestra tus habilidades y disfruta del reto en el CompliCAUS IV!**
+🚀 **¡Demuestra tus habilidades y disfruta del reto en el CompliCAUS IV!**
 
 Patrocinado por:
 

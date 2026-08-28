@@ -33,7 +33,7 @@ Charla introductoria en la que se explicará cómo los sistemas complejos pueden
     location="Salón de Actos de la Facultad de Matemáticas"
     speaker="Renato Álvarez-Nodarse (Catedrático de la Facultad de Matemáticas de la US)"
 >}}
-Pudiera ser que Srinivasa Ramanujan sea uno de los matemáticos más conocidos por los no matemáticos. De él se han escrito novelas y se han hecho películas siendo la más conocida "The Man Who Knew Infinity". Pero ¿qué hizo a Ramanujan tan especial? En esta **charla informal** hablaremos de algunas de las matemáticas que hizo el genio indio y en particular del casi desconocido mundo para el no iniciado de las q-series.
+Pudiera ser que Srinivasa Ramanujan sea uno de los matemáticos más conocidos por los no matemáticos. De él se han escrito novelas y se han hecho películas, siendo la más conocida "The Man Who Knew Infinity". Pero ¿qué hizo a Ramanujan tan especial? En esta **charla informal** hablaremos de algunas de las matemáticas que hizo el genio indio y en particular del casi desconocido mundo para el no iniciado de las q-series.
 {{< /charla >}}
 
 {{< /base/div >}}

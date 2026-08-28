@@ -22,7 +22,7 @@ Como anunciamos en la sesión de presentación, este curso vamos a organizar cha
     title="Algoritmos Bit-wise"
     date="Jueves, 31 de octubre de 2024"
     time="15:30"
-    location="Sala multiusos de la ETSII (Donde la entrega de premios del CompliCAUS II)"
+    location="Sala multiusos de la ETSII (donde fue la entrega de premios del CompliCAUS II)"
     speaker="Pablo Trinidad (Head of architecture en HOMA games y profesor de la ETSII)"
 >}}
 Un veterano de las competiciones de programación, Pablo nos hablará sobre algoritmos basados en operaciones a nivel de bit, una técnica que nunca hemos tratado en el club.

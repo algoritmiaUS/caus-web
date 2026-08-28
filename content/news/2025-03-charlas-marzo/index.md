@@ -26,7 +26,7 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
     stream_url="https://meet.google.com/kqj-awer-hdw"
     speaker="Renato Álvarez-Nodarse (Catedrático de la Facultad de Matemáticas de la US)"
 >}}
-En esta charla, de carácter divulgativo, mostraremos no solo que las matemáticas son imprescindibles para describir el mundo que nos rodea, sino que también el mundo que nos es una fuente inagotable de problemas matemáticos. Entre los ejemplos que mostraremos tambien se incluyen algunos que han sido resultado de las propias investigaciones del conferenciante.
+En esta charla, de carácter divulgativo, mostraremos no solo que las matemáticas son imprescindibles para describir el mundo que nos rodea, sino que también el mundo que nos rodea es una fuente inagotable de problemas matemáticos. Entre los ejemplos que mostraremos también se incluyen algunos que han sido resultado de las propias investigaciones del conferenciante.
 {{< /charla >}}
 
 {{< charla

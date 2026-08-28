@@ -17,7 +17,7 @@ Ada Byron Andalucía tuvo lugar simultáneamente en varias sedes de las universi
 
 - Escuela Superior de Ingeniería de la Universidad de Almería
 - Escuela Superior de Ingeniería de la Universidad de Cádiz
-- Escuela Técnica Superior Ingenierías Informática y de Telecomunicación de la Universidad de Granada
+- Escuela Técnica Superior de Ingenierías Informática y de Telecomunicación de la Universidad de Granada
 - Escuela Técnica Superior de Ingeniería Informática de la Universidad de Málaga
 - Escuela Técnica Superior de Ingeniería Informática de la Universidad de Sevilla
 
@@ -32,7 +32,7 @@ En total, **33 equipos** de las universidades andaluzas participaron en esta edi
 
 ## Competición y resultados
 
-Durante las 4 horas de competición, los equipos se enfrentaron a la resolución de 11 desafiantes problemas, en una competición sumamente reñida. A pesar de la alta exigencia, los equipos **BoquerO(n³)** (Categoría C), **LosdelDobleBueno** (Categoría B) y **TuringIncomplete** (Categoría A) se alzaron como ganadores en sus respectivas categorías ¡Enhorabuena a ellos y a todos los participantes por su esfuerzo y dedicación!
+Durante las 4 horas de competición, los equipos se enfrentaron a la resolución de 11 desafiantes problemas, en una competición sumamente reñida. A pesar de la alta exigencia, los equipos **BoquerO(n³)** (Categoría C), **LosdelDobleBueno** (Categoría B) y **TuringIncomplete** (Categoría A) se alzaron como ganadores en sus respectivas categorías. ¡Enhorabuena a ellos y a todos los participantes por su esfuerzo y dedicación!
 
 Además de los ganadores, dos equipos pertenecientes al **Club de Algoritmia** lograron clasificarse para la gran final del **Ada Byron**, que se celebrará en Madrid. Estos equipos fueron:
 
@@ -56,7 +56,7 @@ Todos ellos estudiantes del doble Grado en Ingeniería Informática – Tecnolog
 
 ### Otros equipos pertenecientes al CAUS
 
-Queremos agradecer también a los equipos **Los Rebujitos 33**, **The Gaussians**, **Por la cara** y **Virtem** por participar en este certamen. No nos cabe duda de que se divirtieron aprendieron mucho.
+Queremos agradecer también a los equipos **Los Rebujitos 33**, **The Gaussians**, **Por la cara** y **Virtem** por participar en este certamen. No nos cabe duda de que se divirtieron y aprendieron mucho.
 
 ## Jueces y agradecimientos
 

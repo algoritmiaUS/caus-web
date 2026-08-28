@@ -37,7 +37,7 @@ En esta ponencia-taller, Pablo Dávila (admin del CAUS) nos enseñará cómo uti
     location="Aulas B1.35 y B1.36"
     speaker="Pablo Reina Jiménez (Junior Data Scientist @ NEXT DIGITAL) y Kenny Jesús Flores Huamán (PhD Candidate @ US)"
 >}}
-Taller en el cual trataremos las librerías más empleadas dentro del Machine Learning como Pandas y Sklearn. Finalizaremos como desplegar modelos haciendo uso de la librería Gradio.
+Taller en el cual trataremos las librerías más empleadas dentro del Machine Learning como Pandas y Sklearn. Finalizaremos viendo cómo desplegar modelos haciendo uso de la librería Gradio.
 {{< /charla >}}
 
 {{< charla
@@ -47,7 +47,7 @@ Taller en el cual trataremos las librerías más empleadas dentro del Machine Le
     location="Sala multiusos de la ETSII"
     speaker="Miguel Bermudo (Profesor de IA en la ETSII)"
 >}}
-Doctor en inteligencia artificial, master en programación y diseño de videojuegos, profesor de IA en la ETSII. La presentación trata sobre como construir mundos digitales sin colocar nada manualmente.
+Doctor en inteligencia artificial, master en programación y diseño de videojuegos, profesor de IA en la ETSII. La presentación trata sobre cómo construir mundos digitales sin colocar nada manualmente.
 {{< /charla >}}
 
 {{< /base/div >}}

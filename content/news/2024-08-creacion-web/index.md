@@ -23,7 +23,7 @@ En el Club de Algoritmia, nuestro objetivo es aprender y perfeccionar habilidade
 
 - **Competiciones de programación:** Participamos en eventos anuales como Advent of Code y el Concurso Universitario de Programación Ada Byron, además de organizar desafíos de programación en la universidad cada seis meses.
 
-- **eventos sociales:** Cada trimestre, organizamos una comida especial en un lugar exótico para celebrar nuestros logros. También disfrutamos de salidas al rocódromo después de las sesiones para escalar y fortalecer el espíritu de grupo.
+- **Eventos sociales:** Cada trimestre, organizamos una comida especial en un lugar exótico para celebrar nuestros logros. También disfrutamos de salidas al rocódromo después de las sesiones para escalar y fortalecer el espíritu de grupo.
 
 ### Únete a Nosotros
 

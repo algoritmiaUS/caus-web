@@ -67,7 +67,7 @@ La competición fue reñida desde el inicio, con constantes cambios en los prime
 
 - **Alejandro Pineda Martín** (Grado en Ingeniería Informática - Tecnologías Informáticas)
 - **Jesús Pérez Bazarot** (Grado en Ingeniería Informática - Ingeniería de Computadores)
-- **Miguel España Montero** (Doble Grado Física + Matemáticas)
+- **Miguel España Montero** (Doble Grado en Física y Matemáticas)
 
 {{< img src="/images/winners-complicaus-5/secondary.webp" alt="Premio secundario: Los problemas de Reina" >}}
 

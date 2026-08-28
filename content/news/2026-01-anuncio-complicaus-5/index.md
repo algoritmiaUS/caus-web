@@ -27,7 +27,7 @@ En esta ocasión, buscamos la experiencia más profesional posible, por lo que u
 
 ## Lo esencial
 
-- 📍 **Ubicación:** Módulo A4.\*, Escuela Técnica Superior de Ingeniería Informática, Universidad de Sevilla
+- 📍 **Ubicación:** Módulo A4, Escuela Técnica Superior de Ingeniería Informática, Universidad de Sevilla
 - 📅 **Fecha:** 13 de febrero de 2026
 - 🕒 **Horario:** 15:30 - 20:00 (3 horas de programación)
 - 💰 **Coste:** 1€ por persona
