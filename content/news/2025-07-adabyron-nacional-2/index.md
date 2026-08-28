@@ -31,13 +31,13 @@ Tres equipos pertenecientes al Club de Algoritmia lograron clasificarse a esta f
 
 {{< img src="massive.webp" alt="Massive" >}}
 
-## Equipo **"LemaTecnico"**
+## Equipo **"lemaTecnico"**
 
 - **Carlos Fernández-Llebrez Acedo** (Doble Grado en Ingeniería Informática – Tecnologías Informáticas y Matemáticas)
 - **Pablo Moreno Moreu** (Doble Grado en Ingeniería Informática – Tecnologías Informáticas y Matemáticas)
 - **Arnau Neches Vilà** (Doble Grado en Ingeniería Informática – Tecnologías Informáticas y Matemáticas)
 
-{{< img src="lematecnico.webp" alt="Lema Técnico" >}}
+{{< img src="lematecnico.webp" alt="lemaTecnico" >}}
 
 # Resultados y agradecimientos
 

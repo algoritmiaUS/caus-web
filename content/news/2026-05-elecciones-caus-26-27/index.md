@@ -87,7 +87,7 @@ Me he hecho colega del event manager del club de business analytics de la UC3M y
 
 {{< team/candidate name="Pablo Moreno Moreu" image="/images/elecciones-26-27/pablo.webp" roles="Web Master, Problem Solver, Events Manager" >}}
 
-¡Votadme mucho y así definitivamente no pondré un problema con el Simplex dual! 😜 Y para los que no me conozcan, pues soy Pablo (Moreno), parte del equipo técnico, miembro del club desde el día 1 :D, un loco de las mates (y en general).
+¡Votadme mucho y así definitivamente no pondré un problema con el Simplex dual! 😜 Y para los que no me conozcan, pues soy Pablo (Moreno), parte del lemaTecnico, miembro del club desde el día 1 :D, un loco de las mates (y en general).
 
 Ya va tocando aportar al club, así que me presento como problem solver para torturaros con problemas y hacer sesiones guapas. ¡En una de ellas vamos hasta a entender el repo de Miguel Toro!
 

@@ -61,7 +61,7 @@ Ganadores de la **categoría B** (segundo curso), que en este equipo hubo un int
 
 ---
 
-### 🥇 LemaTecnico – Categoría C
+### 🥇 lemaTecnico – Categoría C
 
 Este equipo ganó la **categoría C** (tercer curso o superior) en la sede de Sevilla, compitiendo con solamente 2 personas debido a que uno de los integrantes tenía que asistir a un evento muy importante. ¡Excelente trabajo!
 
@@ -69,7 +69,7 @@ Este equipo ganó la **categoría C** (tercer curso o superior) en la sede de Se
 - **Pablo Moreno Moreu** (Doble Grado en Matemáticas e Ingeniería Informática)
 - **Carlos Fernández-Llebrez Acedo** (Doble Grado en Matemáticas e Ingeniería Informática)
 
-{{< img src="ganadores-c.webp" alt="Lema Técnico" >}}
+{{< img src="ganadores-c.webp" alt="lemaTecnico" >}}
 
 ---
 
@@ -81,7 +81,7 @@ Siete equipos de la fase regional de Andalucía han logrado clasificarse para la
 - **Turing Incomplete** (UMA) – Categoría AB
 - **ChatJPG** (UMA) – Categoría AB
 - **TrieNPHards** (UGR) – Categoría C
-- **LemaTecnico** (US) – Categoría C
+- **lemaTecnico** (US) – Categoría C
 - **Massive** (US) – Categoría C
 - **Los BoquerO(n³)** (UNED) - Categoría C entre las universidades a distancia
 
@@ -105,7 +105,7 @@ Este equipo obtuvo el **primer lugar** en la sede de Sevilla en la categoría A,
 
 ---
 
-### 🥇 LemaTecnico – Categoría C
+### 🥇 lemaTecnico – Categoría C
 
 A pesar de ser dos integrantes los que participaron, quedaron en cuarto lugar en el ranking global, por lo que este equipo también representará a la US en su categoría más avanzada ¡Excelente trabajo!
 
@@ -113,9 +113,9 @@ A pesar de ser dos integrantes los que participaron, quedaron en cuarto lugar en
 - **Pablo Moreno Moreu** (Doble Grado en Matemáticas e Ingeniería Informática)
 - **Carlos Fernández-Llebrez Acedo** (Doble Grado en Matemáticas e Ingeniería Informática)
 
-{{< img src="lematecnico.webp" alt="Lema Técnico" >}}
+{{< img src="lematecnico.webp" alt="lemaTecnico" >}}
 
-**El equipo LemaTecnico (Los favoritos de Renato)**
+**El equipo lemaTecnico (Los favoritos de Renato)**
 
 ---
 

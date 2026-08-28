@@ -30,7 +30,7 @@ Dos equipos pertenecientes al Club de Algoritmia lograron clasificarse a esta fi
 - **Pablo Puerto Muñoz** (Grado en Matemáticas)
 - **Álvaro Luque Buzón** (Grado en Ingeniería Informática – Ingeniería del Software)
 
-### Equipo **"LemaTecnico"**
+### Equipo **"lemaTecnico"**
 
 - **Carlos Fernández-Llebrez Acedo**
 - **Pablo Moreno Moreu**
