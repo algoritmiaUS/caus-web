@@ -17,13 +17,14 @@ Gracias por querer contribuir a la web del CAUS. Este documento recoge **cómo c
 2. **Haz tus cambios** siguiendo las convenciones de este documento.
 3. **Comprueba localmente** antes de hacer push:
    ```bash
-   bun run format      # formatea el código
-   bun convert         # si añadiste png/jpg → convierte a webp
-   bun run build       # debe compilar sin errores
+   bun run check:naming  # kebab-case, imágenes y carpetas news (scripts/check-naming.ts)
+   bun run format        # formatea el código
+   bun convert           # si añadiste png/jpg → convierte a webp
+   bun run build         # debe compilar sin errores
    ```
 4. **Abre una Pull Request** contra `main`. Describe qué cambia y añade capturas si es visual.
 5. El **CI** ([`ci.yaml`](.github/workflows/ci.yaml)) verificará automáticamente:
-   - Solo se permiten imágenes `.webp` y `.svg`.
+   - `bun run check:naming` — nombres en kebab-case, ASCII, sufijo `-N` y solo `.webp`/`.svg`.
    - `prettier --check` sin errores.
    - `hugo --gc --minify` compila correctamente.
 6. Tras revisión y CI en verde, se hace merge y el deploy a Pages es automático.
@@ -165,6 +166,7 @@ tags: ['eventos', 'charlas']
 Ejecuta estos comandos antes de abrir PR:
 
 ```bash
+bun run check:naming  # valida nombres e imágenes (ver detalle abajo)
 bun run format        # formatea con Prettier (+ prettier-plugin-go-template)
 bun run format:check  # lo mismo que comprueba el CI
 bun run build         # genera ./public y detecta errores de Hugo
@@ -172,9 +174,22 @@ bun run build         # genera ./public y detecta errores de Hugo
 
 El CI falla si alguno de estos checks no pasa. Si el build falla localmente, revisa que las referencias a imágenes/datos coincidan exactamente con los nombres en disco.
 
+### `check:naming` (`scripts/check-naming.ts`)
+
+Valida todo el repositorio (`git ls-files`) sin excepciones:
+
+- **ASCII** — sin `ñ`, tildes ni caracteres no ASCII.
+- **Minúsculas** — sin mayúsculas.
+- **kebab-case** — directorios y ficheros en `content/`, `data/`, `assets/`, `static/` y `config/` deben coincidir con `^[a-z0-9]+(-[a-z0-9]+)*(\.[a-z0-9]+)*$` (se permiten `_index.md`, `_default`, etc. de Hugo).
+- **Sufijo numérico** — usa `-N` antes de la extensión (`imagen-2.webp`), no `imagen2.webp`. Sin excepciones — por ejemplo `advent-of-code-2024.webp`, no `adventofcode2024.webp`.
+- **Formato de imágenes** — solo `.webp` y `.svg` permitidos (en `assets/images/`, `static/images/` y `content/news/`). Cualquier `png`/`jpg`/`jpeg`/`gif` falla; conviértelas con `bun convert`.
+- **Carpetas `content/news/`** — deben ser `yyyy-mm-slug` (`2024-12-advent-of-code-2024`).
+
+Configuración centralizada en `CONFIG` al inicio de `scripts/check-naming.ts`. Para añadir una regla estricta usa `customRules`; no añadas excepciones por fichero — renombra el fichero a kebab-case.
+
 ### Checklist rápido antes de hacer push
 
-- [ ] Nombres en kebab-case, sin tildes ni mayúsculas
+- [ ] `bun run check:naming` sin errores (kebab-case, sin tildes ni mayúsculas, `-N` con guion)
 - [ ] Imágenes en `.webp`/`.svg` (ejecutado `bun convert` si aplica)
 - [ ] `tags`/`categories` de la lista permitida
 - [ ] `bun run format` ejecutado
