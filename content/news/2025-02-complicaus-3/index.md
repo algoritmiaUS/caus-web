@@ -23,9 +23,9 @@ Las diapositivas explicativas de los problemas del CompliCAUS III están disponi
 
 En esta edición participaron 22 estudiantes de instituciones como la Universidad de Sevilla (diversos grados de Ingeniería Informática, Matemáticas, Física, entre otros), la Universidad Politécnica de Cataluña y alumnos de bachillerato (Colegio Santa Ana, Colegio Sagrado Corazón - Fundación Spínola).
 
-![alt text](participantes-1.webp)
+![Foto grupal de los participantes del CompliCAUS III](participantes-1.webp)
 
-![alt text](participantes-2.webp)
+![Foto grupal de los participantes del CompliCAUS III](participantes-2.webp)
 
 # Resolución de problemas
 

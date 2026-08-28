@@ -19,7 +19,7 @@ Como anunciamos en la sesión de presentación, este curso vamos a organizar cha
 {{< base/div >}}
 
 {{< charla
-    title="GIT: Lo básico y lo que nadie te enseña"
+    title="Git: Lo básico y lo que nadie te enseña"
     date="Martes, 3 de diciembre de 2024"
     time="17:00-18:00"
     location="Sala multiusos de la ETSII"
@@ -47,7 +47,7 @@ Taller en el cual trataremos las librerías más empleadas dentro del Machine Le
     location="Sala multiusos de la ETSII"
     speaker="Miguel Bermudo (Profesor de IA en la ETSII)"
 >}}
-Doctor en inteligencia artificial, master en programación y diseño de videojuegos, profesor de IA en la ETSII. La presentación trata sobre cómo construir mundos digitales sin colocar nada manualmente.
+Doctor en inteligencia artificial, máster en programación y diseño de videojuegos, profesor de IA en la ETSII. La presentación trata sobre cómo construir mundos digitales sin colocar nada manualmente.
 {{< /charla >}}
 
 {{< /base/div >}}

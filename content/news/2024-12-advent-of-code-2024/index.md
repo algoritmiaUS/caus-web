@@ -15,4 +15,4 @@ Ya ha comenzado el [Advent of Code](https://adventofcode.com/) de este año. Est
 
 👉 Leaderboard del CAUS: `2502719-7da75a09`
 
-Para unirte a la leaderboard solo tienes que entrar [aquí](https://adventofcode.com/2024/leaderboard/private), introducir el código anterior y hacer click en "Join". Esta leaderboard sirve para tener las puntuaciones de todo el club en el mismo sitio y que podamos picarnos un poco entre todos ¿Quién llegará más lejos en los problemas?
+Para unirte a la leaderboard solo tienes que entrar [aquí](https://adventofcode.com/2024/leaderboard/private), introducir el código anterior y hacer clic en "Join". Esta leaderboard sirve para tener las puntuaciones de todo el club en el mismo sitio y que podamos picarnos un poco entre todos. ¿Quién llegará más lejos en los problemas?

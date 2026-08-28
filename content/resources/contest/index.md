@@ -83,7 +83,7 @@ Existen grandes competiciones anuales que son hitos en el calendario de todo pro
 ### Abiertas a todo el mundo
 
 - **[Advent of Code](https://adventofcode.com)**: Un evento anual donde se liberan dos retos de programación cada día desde el 1 hasta el 25 de diciembre. La dificultad aumenta progresivamente.
-  > Tenemos nuestra propia leaderboard de *Advent of Code*! Para unirte solo tienes que entrar [aquí](https://adventofcode.com/2023/leaderboard/private), introducir el código `2502719-7da75a09` y hacer click en "Join". Esta leaderboard sirve para tener las puntuaciones de todo el club en el mismo sitio y que podamos picarnos un poco entre todos
+  > Tenemos nuestra propia leaderboard de *Advent of Code*! Para unirte solo tienes que entrar [aquí](https://adventofcode.com/2023/leaderboard/private), introducir el código `2502719-7da75a09` y hacer clic en "Join". Esta leaderboard sirve para tener las puntuaciones de todo el club en el mismo sitio y que podamos picarnos un poco entre todos
 - **[Meta Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup)**: Una de las competiciones individuales más famosas, organizada por Meta. Consta de varias rondas online hasta llegar a una final presencial.
 
 DEP competiciones de Google en 2023: Kickstart, CodeJam y HashCode

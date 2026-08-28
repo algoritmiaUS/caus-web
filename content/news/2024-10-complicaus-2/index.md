@@ -21,9 +21,9 @@ Las diapositivas explicativas de los problemas del CompliCAUS II están disponib
 
 En esta edición participaron 27 estudiantes de instituciones como la Universidad de Sevilla (diversos grados de Ingeniería Informática, Matemáticas, Física, entre otros), la Universidad Politécnica de Cataluña, así como alumnos de bachillerato (Colegio Santa Ana, Colegio Esclavas Sevilla - Fundación Spínola) y de Formación Profesional (Grado Superior en Desarrollo de Aplicaciones Multiplataforma - IES El Majuelo).
 
-![alt text](participantes-1.webp)
+![Foto grupal de los participantes del CompliCAUS II](participantes-1.webp)
 
-![alt text](participantes-2.webp)
+![Foto grupal de los participantes del CompliCAUS II](participantes-2.webp)
 
 # Resolución de problemas
 

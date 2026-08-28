@@ -27,7 +27,7 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
     stream_url="https://www.youtube.com/watch?v=nT0-ImFk-40"
 >}}
 José Manuel Landero e Ignacio Sánchez
-forman parte de ARUS, el equipo de Fórmula Student de la Universidad de
+Forman parte de ARUS, el equipo de Fórmula Student de la Universidad de
 Sevilla, que cuenta con un monoplaza autónomo de competición. En esta
 charla, nos contarán los entresijos de los distintos algoritmos que
 hacen funcionar un coche autónomo: desde la percepción basada en

@@ -23,7 +23,7 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
     date="Martes, 24 de marzo de 2026"
     time="20:00"
     location="Sala multiusos de la ETSII + online"
-    speaker="Jelena Duric (Campus Ambassador @Jetbrains)"
+    speaker="Jelena Duric (Campus Ambassador @JetBrains)"
     language="inglés"
     stream_url="https://www.youtube.com/live/xG6bDoLRmDw"
 >}}

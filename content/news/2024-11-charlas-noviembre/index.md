@@ -59,7 +59,7 @@ Como experto en competiciones de algoritmia, Marco nos va a enseñar una técnic
     stream_url="https://www.youtube.com/watch?v=tjhSWDpK2xM"
     speaker="Paula Gómez Matos (Junior Data Scientist @ NEXT DIGITAL)"
 >}}
-Paula Gómez Matos es cofundadora del Club de Algoritmia y antigua alumna del doble grado en Ing.Informática y Matemáticas. Tiene experiencia trabajando como Data Scientist en consultoría tecnológica y en investigación de inteligencia artificial. ¡No te lo pierdas!
+Paula Gómez Matos es cofundadora del Club de Algoritmia y antigua alumna del doble grado en Ing. Informática y Matemáticas. Tiene experiencia trabajando como Data Scientist en consultoría tecnológica y en investigación de inteligencia artificial. ¡No te lo pierdas!
 {{< /charla >}}
 
 {{< /base/div >}}
