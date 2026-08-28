@@ -10,7 +10,7 @@ categories: eventos
 tags: ['eventos', 'adabyron', 'competiciones']
 ---
 
-El viernes 25 de abril se celebró en la ETSII la segunda edición dela **Regional de Andalucía** del concurso **Ada Byron**, un certamen de programación cuyo objetivo es fomentar la participación de estudiantes en el prestigioso concurso internacional **ICPC**.
+El viernes 25 de abril se celebró en la ETSII la segunda edición de la **Regional de Andalucía** del concurso **Ada Byron**, un certamen de programación cuyo objetivo es fomentar la participación de estudiantes en el prestigioso concurso internacional **ICPC**.
 
 ## Sedes y Universidades Participantes
 
@@ -24,7 +24,7 @@ Ada Byron Andalucía tuvo lugar simultáneamente en varias sedes de las universi
 
 En total más de 130 participantes repartidos en _46 equipos_ participaron en esta edición. La distribución de los equipos fue la siguiente:
 
-- Universidad de Almería: 1 equipos
+- Universidad de Almería: 1 equipo
 - Universidad de Cádiz: 3 equipos
 - Universidad de Granada: 11 equipos
 - Universidad de Málaga: 19 equipos
@@ -57,13 +57,13 @@ Ganadores de la **categoría B** (segundo curso), que en este equipo hubo un int
 - **Alejandro Pineda Martín** (Grado en Ingeniería Informática – Tecnologías Informáticas)
 - **Henrique Rebollo Padovani** (Grado en Ingeniería Informática – Tecnologías Informáticas)
 
-{{< img src="ganadores-b.webp" alt="Mikel Bul" >}}
+{{< img src="ganadores-b.webp" alt="Mikel Bull" >}}
 
 ---
 
 ### 🥇 lemaTecnico – Categoría C
 
-Este equipo ganó la **categoría C** (tercer curso o superior) en la sede de Sevilla, compitiendo con solamente 2 personas debido a que uno de los integrantes tenía que asistir a un evento muy importante.¡Excelente trabajo!
+Este equipo ganó la **categoría C** (tercer curso o superior) en la sede de Sevilla, compitiendo con solamente 2 personas debido a que uno de los integrantes tenía que asistir a un evento muy importante. ¡Excelente trabajo!
 
 - **Arnau Neches Vilà** (Doble Grado en Matemáticas e Ingeniería Informática)
 - **Pablo Moreno Moreu** (Doble Grado en Matemáticas e Ingeniería Informática)
@@ -133,17 +133,17 @@ Este equipo, habiendo quedado en un increíble quinto lugar en el ranking genera
 
 ---
 
-### 🥇 Los BoquerO(n³)\*\* (UNED) – Categoría C
+### 🥇 Los BoquerO(n³) (UNED) – Categoría C
 
 Aunque no pertenecen a nuestra universidad, participaron en la sede de Sevilla y dejaron huella por su cercanía, compañerismo y nivel competitivo. Han quedado primeros del ranking general durante dos años consecutivos, lo cual es digno de admiración. ¡Enhorabuena!
 
-- **Ignacio de Gorostidi Colás**(Grado en Ingeniería Informática)
-- **Adrián Peinado Santiago**(Grado en Ingeniería Informática)
-- **Juan Torres Gómez**(Grado en Ingeniería Informática)
+- **Ignacio de Gorostidi Colás** (Grado en Ingeniería Informática)
+- **Adrián Peinado Santiago** (Grado en Ingeniería Informática)
+- **Juan Torres Gómez** (Grado en Ingeniería Informática)
 
 {{< img src="boquerones.webp" alt="Boquerones" >}}
 
-**Los BoquerO(n³) Los únicos en la sede de sevilla que programaron con Java**
+**Los BoquerO(n³) Los únicos en la sede de Sevilla que programaron con Java**
 
 ### Otros equipos pertenecientes al CAUS
 
@@ -175,7 +175,7 @@ Como fundadores del Club de Algoritmia de la Universidad de Sevilla, no podemos 
 Queremos hacer una mención especial de agradecimiento a:
 
 - Nuestro voluntario Fernando Giráldez Curquejo, por todo el apoyo que nos dió.
-- Mª Lourdes Miró Amarante y Juan Antonio Álvarez, por su impecable labor organizativa en Sevilla, coordinando las sedes y preparando toda la infraestructura técnica.
+- M.ª Lourdes Miró Amarante y Juan Antonio Álvarez, por su impecable labor organizativa en Sevilla, coordinando las sedes y preparando toda la infraestructura técnica.
 - Todo el profesorado de las universidades andaluzas que colaboró aportando problemas o actuando como coordinadores locales.
 - Y, como siempre, a Marco Antonio y Alberto Verdejo de la Universidad Complutense de Madrid, cuyo apoyo continuo hace posible que esta iniciativa siga creciendo.
 

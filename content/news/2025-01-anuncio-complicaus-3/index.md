@@ -34,6 +34,6 @@ Por petición popular, y gracias a los comentarios recibidos sobre la edición a
 
 Patrocinado por:
 
-{{< sponsor-logo src="/images/global/logo-nd.webp" alt="Logo de Next Digital" href="https://www.nextdigital.es/" >}}
+{{< sponsor-logo src="/images/global/logo-nd.webp" alt="Logo de NEXT DIGITAL" href="https://www.nextdigital.es/" >}}
 
 Patrocinador Platino

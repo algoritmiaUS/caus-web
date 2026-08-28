@@ -39,4 +39,4 @@ La competición fue reñida desde el inicio, con constantes cambios en los prime
 
 # Agradecimientos
 
-Agradecemos a la Escuela Técnica Superior de Ingeniería Informática por su patrocinio y apoyo, así como a María Lourdes Miró, Subdirectora de Estudiantes, Innovación y Responsabilidad Social, cuya colaboración ha sido clave para hacer posible este evento.
+Agradecemos a la Escuela Técnica Superior de Ingeniería Informática por su patrocinio y apoyo, así como a M.ª Lourdes Miró Amarante, Subdirectora de Estudiantes, Innovación y Responsabilidad Social, cuya colaboración ha sido clave para hacer posible este evento.

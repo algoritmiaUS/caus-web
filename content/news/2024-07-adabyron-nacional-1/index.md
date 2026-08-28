@@ -13,7 +13,7 @@ Los pasados días 5 y 6 de julio de 2024 se celebró la décima edición del con
 
 ## Sedes participantes
 
-El comité director del concurso tras analizar los datos la distribución de los equipos por región fue la siguiente:
+El comité director del concurso, tras analizar los datos, la distribución de los equipos por región fue la siguiente:
 
 - Regional de Andalucía: 8 equipos
 - Regional de Galicia: 6 equipos
@@ -40,10 +40,8 @@ Todos ellos estudiantes del doble Grado en Ingeniería Informática – Tecnolog
 
 ## Resultados y Agradecimientos
 
-Durante las 4 horas de competición los equipos se enfrentaron a la resolución de 12 desafiantes problemas. A pesar de la alta exigencia, el equipo Pan de Pita (Categoría C) fue el ganador absoluto del concurso. !Enhorabuena a los ganadores!
+Durante las 4 horas de competición los equipos se enfrentaron a la resolución de 12 desafiantes problemas. A pesar de la alta exigencia, el equipo Pan de Pita (Categoría C) fue el ganador absoluto del concurso. ¡Enhorabuena a los ganadores!
 
 Finalmente, desde el **CAUS** queremos expresar nuestro agradecimiento a la **Escuela Técnica Superior de Ingeniería Informática de Sevilla** por patrocinarnos el viaje a todo el equipo para ir a Madrid, a los organizadores del Ada Byron por hacer posible la organización de la final nacional, y también queremos agradecer a IMDEA Software, NEXT DIGITAL, Denodo y Bending Spoons por patrocinar el concurso.
-
-Finalmente, desde el **CAUS**, queremos expresar nuestro agradecimiento a la **Escuela Técnica Superior de Ingeniería Informática de Sevilla** por cedernos la sede para los equipos de esta ciudad, así como a los organizadores de **Ada Byron Madrid** y **Galicia** por hacer posible esta primera edición andaluza.
 
 ![Participantes](participantes.webp)

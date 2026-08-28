@@ -9,7 +9,7 @@ categories: eventos
 tags: ["eventos", "charlas"]
 ---
 
-Cómo anunciamos en la sesión de presentación, este curso estamos organizando charlas y talleres relacionados con la informática por parte de profesionales externos, profesores e incluso alumnos (tú mismo!).
+Como anunciamos en la sesión de presentación, este curso estamos organizando charlas y talleres relacionados con la informática por parte de profesionales externos, profesores e incluso alumnos (tú mismo!).
 
 - [En este formulario podéis indicar el horario y la temática que mejor os viene para estas actividades](https://forms.gle/aMjuhZWht8kFMocd9)
 - [En este otro podéis apuntaros para dar vuestra propia charla](https://forms.gle/yY9WpbA6Lof41ufa7)
@@ -27,7 +27,7 @@ Cómo anunciamos en la sesión de presentación, este curso estamos organizando 
     speaker="Pablo Dávila Herrero (Data Scientist @ Plain Concepts)"
 >}}
 Docker es una herramienta fundamental para desarrolladores y científicos de datos, al permitir la creación, distribución y ejecución de aplicaciones en entornos aislados y reproducibles. Esto facilita la gestión de dependencias y el despliegue de proyectos.
-En esta ponencia-taller, Pablo Dávila (admin del CAUS) te enseñará cómo utilizar Docker para desarrollar y desplegar tú codigo.
+En esta ponencia-taller, Pablo Dávila (admin del CAUS) te enseñará cómo utilizar Docker para desarrollar y desplegar tu código.
 {{< /charla >}}
 
 {{< charla

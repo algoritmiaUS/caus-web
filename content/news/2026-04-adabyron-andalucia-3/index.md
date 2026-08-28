@@ -28,7 +28,7 @@ La competición se desarrolló de forma simultánea en seis sedes clave de la ge
 
 Además de los estudiantes de las sedes, participaron concursantes de la Universidad Nacional de Educación a Distancia (UNED) y la Universidad Europea en Andalucía (UEA). En total, el evento contó con 204 participantes integrados en 69 equipos. La distribución por centros refleja el creciente interés por la algoritmia en nuestra comunidad.
 
-## Equipos premiados en la sede de sevilla
+## Equipos premiados en la sede de Sevilla
 
 Durante 4 horas de máxima concentración, los equipos se enfrentaron a un panel de 13 problemas de diversa complejidad. En la sede de Sevilla, los resultados fueron excepcionales.
 
@@ -126,6 +126,6 @@ Nada de esto habría sido posible sin el apoyo de los voluntarios que dedicaron 
 
 - A Elena Cerezuela Escudero, por una coordinación logística impecable en la sede de Sevilla.
 - Al profesorado de las universidades andaluzas que colaboró en la creación de problemas y la supervisión local.
-- A Marco Antonio, Pedro Pablo y a Alberto Verdejo (UCM), cuyo apoyo es el pilar que permite que AdaByron siga creciendo cada año.
+- A Marco Antonio, Pedro Pablo y a Alberto Verdejo (UCM), cuyo apoyo es el pilar que permite que Ada Byron siga creciendo cada año.
 
 ¡Gracias a todos por vuestro talento y pasión! Nos vemos en la final nacional.

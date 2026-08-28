@@ -32,7 +32,7 @@ En total, **33 equipos** de las universidades andaluzas participaron en esta edi
 
 ## Competición y resultados
 
-Durante las 4 horas de competición, los equipos se enfrentaron a la resolución de 11 desafiantes problemas, en una competición sumamente reñida. A pesar de la alta exigencia, los equipos **BoquerO(n³)** (modalidad C), **LosdelDobleBueno** (modalidad B) y **TuringIncomplete** (modalidad A) se alzaron como ganadores en sus respectivas categorías ¡Enhorabuena a ellos y a todos los participantes por su esfuerzo y dedicación!
+Durante las 4 horas de competición, los equipos se enfrentaron a la resolución de 11 desafiantes problemas, en una competición sumamente reñida. A pesar de la alta exigencia, los equipos **BoquerO(n³)** (Categoría C), **LosdelDobleBueno** (Categoría B) y **TuringIncomplete** (Categoría A) se alzaron como ganadores en sus respectivas categorías ¡Enhorabuena a ellos y a todos los participantes por su esfuerzo y dedicación!
 
 Además de los ganadores, dos equipos pertenecientes al **Club de Algoritmia** lograron clasificarse para la gran final del **Ada Byron**, que se celebrará en Madrid. Estos equipos fueron:
 
