@@ -2,10 +2,8 @@
   <main>
     <article>
       {{ partial "components/page-header.html" (dict "page" .) }}
-      <div class="max-w-6xl mx-auto mt-8 mb-2">
-        <div class="px-6">
-          {{ partial "components/featured-single.html" . }}
-        </div>
+      <div class="mx-auto mt-8 mb-2 max-w-6xl px-6">
+        {{ partial "components/featured-single.html" . }}
       </div>
       {{ if eq .Section "resources" }}
         <div class="mx-auto max-w-7xl px-6 pt-6">

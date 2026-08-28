@@ -1,9 +1,15 @@
 {{ $m := .member }}
 {{ $compact := .compact | default false }}
 {{ $square := .square | default false }}
-{{ $role := .showRole | default true }}
+{{ $role := true }}
+{{ if isset . "showRole" }}
+  {{ $role = .showRole }}
+{{ end }}
 {{ $dates := .showDates | default false }}
-{{ $socials := .showSocials | default true }}
+{{ $socials := true }}
+{{ if isset . "showSocials" }}
+  {{ $socials = .showSocials }}
+{{ end }}
 
 {{ $wrapperClass := "flex flex-col items-center p-3 w-full" }}
 {{ if $compact }}
@@ -23,12 +29,12 @@
 <div class="{{ $wrapperClass }}">
   <img src="{{ $m.image }}" alt="{{ $m.name }}" class="{{ $imageClass }}" />
   <h3 class="text-base font-bold mt-3 truncate">{{ $m.name }}</h3>
-  {{ if $role }}
+  {{ if and $role $m.role }}
     <p class="text-muted text-sm truncate">
       {{ $m.role }}{{ if $dates }}<br />{{ $m.dates }}{{ end }}
     </p>
   {{ end }}
-  {{ if $socials }}
+  {{ if and $socials (or $m.website $m.linkedin $m.github) }}
     {{ $links := slice
       (dict "value" $m.website "url" $m.website "icon" "globe" "label" "Website")
       (dict "value" $m.linkedin "url" (printf "https://www.linkedin.com/in/%s" $m.linkedin) "icon" "linkedin" "label" "Linkedin")
