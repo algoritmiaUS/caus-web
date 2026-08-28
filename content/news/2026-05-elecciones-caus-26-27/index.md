@@ -103,7 +103,7 @@ Hola chicos, soy Julia, me habréis visto estos últimos meses por el CAUS ya qu
 
 {{< team/candidate name="Victor Manuel Mesa Solano" image="/images/elecciones-26-27/vikzi.webp" roles="Problem Solver, Events Manager" >}}
 
-¡Buenas! Soy Víctor (con probabilidad cercana a 1 me habrás visto orbitando por Reina Mercedes, ya sea por la ETSII o divagando sobre Teoría Algebraica de Números con una intensidad masivamente innecesaria).
+Buenas!!!! Soy Víctor (con probabilidad cercana a 1 me habrás visto orbitando por Reina Mercedes, ya sea por la ETSII o divagando sobre Teoría Algebraica de Números con una intensidad masivamente innecesaria).
 
 Para quienes no me conozcáis, ya fui admin el año pasado como Problem Solver y, si algo puedo prometer en esta candidatura, es implicación. Soy de esas personas a las que les gusta compilar ideas, no excusas, y creo que ese lema resume bastante bien cómo entiendo el club y cómo me gusta hacer las cosas.
 
