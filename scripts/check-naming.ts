@@ -31,7 +31,7 @@ const CONFIG = {
   allowedImageExtensions: new Set(['.webp', '.svg']),
   forbiddenImageExtensions: /\.(?:jpe?g|png|gif|bmp|tiff|ico)$/i,
 
-  numericSuffixExceptions: new Set([]),
+  numericSuffixExceptions: new Set<string>(),
 
   newsFolderPattern: /^\d{4}-\d{2}-[a-z0-9]+(?:-[a-z0-9]+)*$/,
 
