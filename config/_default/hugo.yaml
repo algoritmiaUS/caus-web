@@ -15,6 +15,7 @@ languages:
   en:
     label: English
     weight: 2
+    taxonomies: {}
     params:
       description:
         "Algorithm Club of the University of Seville: talks, programming contests and an open

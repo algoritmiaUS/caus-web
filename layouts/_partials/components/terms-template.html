@@ -1,0 +1,21 @@
+<div class="mx-auto mt-12 mb-4 grid max-w-7xl gap-4 px-4 md:grid-cols-3">
+  {{ range sort .Paginator.Pages "Title" }}
+    {{ $key := lower .Title }}
+    {{ $display := .LinkTitle }}
+    {{ with index hugo.Data.taxonomies.tags $key }}
+      {{ $display = . }}
+    {{ else }}
+      {{ with index hugo.Data.taxonomies.categories $key }}{{ $display = . }}{{ end }}
+    {{ end }}
+    <a
+      href="{{ .Permalink }}"
+      class="group flex items-center justify-between gap-4 rounded-lg bg-surface p-6 shadow-sm transition hover:-translate-y-1 hover:shadow-lg focus-visible:outline-hidden focus-visible:ring-2 focus-visible:ring-accent"
+    >
+      <span class="text-xl font-black text-fg group-hover:text-accent">{{ $display }}</span>
+      <span
+        class="inline-flex h-7 min-w-7 shrink-0 items-center justify-center rounded-full bg-wash px-3 text-sm font-medium leading-none text-muted"
+        >{{ len .Pages }}</span
+      >
+    </a>
+  {{ end }}
+</div>
