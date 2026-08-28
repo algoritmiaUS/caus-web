@@ -1,8 +1,7 @@
 {
   "dependencies": {
-    "@tailwindcss/cli": "^4.3.3",
-    "@tailwindcss/typography": "^0.5.20",
-    "tailwindcss": "^4.3.3"
+    "tailwindcss": "^4.3.3",
+    "@tailwindcss/cli": "^4.3.3"
   },
   "devDependencies": {
     "prettier": "^3.9.6",

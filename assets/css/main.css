@@ -7,8 +7,6 @@
 @source 'layouts/**/*.html';
 @source 'content/**/*.md';
 
-@plugin '@tailwindcss/typography';
-
 @custom-variant dark (&:is(.dark *));
 
 @layer base {
