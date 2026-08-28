@@ -2,13 +2,13 @@
   <main>
     <article>
       {{ partial "components/page-header.html" (dict "page" . "title" "Noticias") }}
-      <section class="my-8">
+      <section class="mx-auto my-8 max-w-7xl px-4">
         <h2 class="text-center text-3xl font-semibold text-muted">Eventos</h2>
 
         <iframe
           src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FMadrid&bgcolor=%23ffffff&title=Club%20de%20Algoritmia%20de%20la%20Universidad%20de%20Sevilla&showPrint=0&showTabs=0&showCalendars=0&showTz=0&src=1e6b119ef8095dedf6f70db1c6c8f12543f2394c8d0928e426033819bc59e502%40group.calendar.google.com&color=%238E24AA"
           title="Calendario de eventos del Club de Algoritmia de la Universidad de Sevilla"
-          class="mx-auto mt-4 block aspect-[3/2] w-full max-w-[900px] rounded-lg dark:invert"
+          class="mt-4 block aspect-[3/2] w-full rounded-lg dark:invert"
           loading="lazy"
         ></iframe>
       </section>

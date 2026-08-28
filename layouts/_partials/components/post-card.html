@@ -20,8 +20,8 @@
     </div>
     <div class="flex flex-wrap gap-x-2 gap-y-2 pt-6 font-medium text-accent">
       <span class="pr-2 font-black">{{ i18n "post.tags" }}</span>
-      <span>
-        {{ range $elem_index, $elem_val := (.GetTerms "tags") }}
+      <span class="flex flex-wrap gap-2">
+        {{ range .GetTerms "tags" }}
           <a
             href="{{ .Permalink }}"
             class="inline-flex items-center rounded-md bg-wash px-2.5 py-0.5 text-sm font-medium text-fg capitalize transition-colors hover:bg-accent/20 focus-visible:outline-hidden focus-visible:ring-2 focus-visible:ring-accent"
@@ -53,7 +53,7 @@
           >
           <span aria-hidden="true">&middot;</span>
           <span
-            >{{ math.Round (div (countwords .Content) 220.0) }} {{ i18n "post.read_time" }}</span
+            >{{ math.Round (div .WordCount 220.0) }} {{ i18n "post.read_time" }}</span
           >
         </div>
       </div>
