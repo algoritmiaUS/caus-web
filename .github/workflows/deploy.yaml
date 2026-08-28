@@ -51,9 +51,6 @@ jobs:
         run: bun install --frozen-lockfile --production
 
       - name: Build
-        env:
-          HUGO_ENVIRONMENT: production
-          HUGO_ENV: production
         run: bun run build -- --baseURL "${{ steps.pages.outputs.base_url }}/"
 
       - name: Upload artifact

@@ -51,7 +51,4 @@ jobs:
         run: bun run format:check
 
       - name: Build
-        env:
-          HUGO_ENVIRONMENT: production
-          HUGO_ENV: production
         run: bun run build

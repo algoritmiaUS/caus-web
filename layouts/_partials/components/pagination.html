@@ -1,6 +1,6 @@
 {{ $pag := $.Paginator }}
 {{ if gt $pag.TotalPages 1 }}
-  {{ $.Scratch.Set "dot_rendered" false }}
+  {{ $dotRendered := false }}
   {{ $link := "inline-flex items-center px-4 pt-4 text-lg text-accent" }}
 
 
@@ -27,10 +27,10 @@
             >{{ .PageNumber }}</a
           >
         {{ else if and (ge .PageNumber (sub $pag.PageNumber 2)) (le .PageNumber (add $pag.PageNumber 2)) }}
-          {{ $.Scratch.Set "dot_rendered" false }}
+          {{ $dotRendered = false }}
           <a href="{{ .URL }}" class="{{ $link }} font-medium">{{ .PageNumber }}</a>
-        {{ else if eq ($.Scratch.Get "dot_rendered") false }}
-          {{ $.Scratch.Set "dot_rendered" true }}
+        {{ else if not $dotRendered }}
+          {{ $dotRendered = true }}
           <span class="{{ $link }} font-medium" aria-hidden="true">&hellip;</span>
         {{ end }}
       {{ end }}

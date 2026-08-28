@@ -1,0 +1,16 @@
+{{- $name := .name -}}
+{{- $icon := resources.Get (printf "images/icons/%s.svg" $name) -}}
+{{- if not $icon -}}
+  {{- errorf "svg-content.html: unknown icon %q (caller must pass a dict with a valid \"name\")" $name -}}
+{{- end -}}
+{{- $content := $icon.Content -}}
+{{- $id := .id | default "" -}}
+{{- $class := .class | default "w-6 h-6" -}}
+
+{{- $newSvg := printf `<svg class="%s"` $class -}}
+{{- if $id -}}
+  {{- $newSvg = printf `<svg id="%s" class="%s"` $id $class -}}
+{{- end -}}
+{{- $content = replace $content "<svg" $newSvg 1 -}}
+
+{{- return ($content | safeHTML) -}}
