@@ -1,5 +1,6 @@
-<div class="flex flex-row justify-center">
-  <a href="{{ .Get "href" }}" class="mx-1 mt-6 text-2xl font-extrabold no-underline">
-    <span class="px-6 py-6 rounded-full border">{{ .Inner }}</span>
-  </a>
-</div>
+<a
+  href="{{ .Get "href" }}"
+  class="mx-auto mt-6 flex w-fit rounded-full border px-6 py-6 text-2xl font-extrabold no-underline"
+>
+  {{ .Inner }}
+</a>
