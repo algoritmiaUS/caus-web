@@ -4,7 +4,7 @@
     {{ partial "head/head.html" . }}
   </head>
 
-  <body class="bg-canvas">
+  <body class="bg-canvas flex min-h-screen flex-col">
     {{ partial "layout/header.html" . }}
     {{ block "main" . }}{{ end }}
     {{ partial "layout/footer" . }}
