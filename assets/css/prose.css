@@ -2,13 +2,7 @@
  * prose.css
  * CSS-only replacement for the base `.prose` styles from
  * @tailwindcss/typography.
- *
- * IMPORTANT:
- * - Keep the existing `.prose` --tw-prose-* color variables in main.css.
- * - Keep `not-prose` classes in templates exactly as they are.
- * - This intentionally implements only the base `prose` modifier because
- *   this project does not use prose-sm / prose-lg / prose-xl / prose-2xl.
- */
+*/
 
 @layer components {
   .prose {
