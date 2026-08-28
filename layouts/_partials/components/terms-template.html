@@ -2,13 +2,20 @@
   {{ range sort .Paginator.Pages "Title" }}
     {{ $key := lower .Title }}
     {{ $display := .LinkTitle }}
-    {{ with index site.Data.taxonomies.tags $key }}{{ $display = . }}{{ else }}{{ with index site.Data.taxonomies.categories $key }}{{ $display = . }}{{ end }}{{ end }}
+    {{ with index site.Data.taxonomies.tags $key }}
+      {{ $display = . }}
+    {{ else }}
+      {{ with index site.Data.taxonomies.categories $key }}{{ $display = . }}{{ end }}
+    {{ end }}
     <a
       href="{{ .Permalink }}"
       class="group flex items-center justify-between gap-4 rounded-lg bg-surface p-6 shadow-sm transition hover:-translate-y-1 hover:shadow-lg focus-visible:outline-hidden focus-visible:ring-2 focus-visible:ring-accent"
     >
       <span class="text-xl font-black text-fg group-hover:text-accent">{{ $display }}</span>
-      <span class="inline-flex h-7 min-w-7 shrink-0 items-center justify-center rounded-full bg-wash px-3 text-sm font-medium leading-none text-muted">{{ len .Pages }}</span>
+      <span
+        class="inline-flex h-7 min-w-7 shrink-0 items-center justify-center rounded-full bg-wash px-3 text-sm font-medium leading-none text-muted"
+        >{{ len .Pages }}</span
+      >
     </a>
   {{ end }}
 </div>
