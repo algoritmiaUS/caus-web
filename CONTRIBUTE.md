@@ -76,7 +76,7 @@ Principio general: **todo en minúsculas, kebab-case con `-`**. Evita `_`, mayú
 | ----------------- | -------------------------------------- | ------------------------------------ |
 | Separador         | `ada-byron`                            | `Ada-Byron`, `ada_byron`             |
 | Numeración        | `complicaus-5`, `participantes-1.webp` | `complicaus5`, `participantes1.webp` |
-| Variante + número | `ada-byron-andalucia-admins-3`         | `ada-byron-andalucia-3-admins`       |
+| Variante + número | `adabyron-andalucia-admins-3`          | `adabyron-andalucia-3-admins`        |
 | Dobles guiones    | `logo-caus.webp`                       | `logo--caus.webp`                    |
 
 ### `content/news` — directorios
@@ -105,11 +105,11 @@ Imágenes dentro del bundle: `participantes-1.webp`, `ganadores-a.webp`.
 
 ### `assets/images/`
 
-| Carpeta     | Patrón                                                                                        | Referencia                                                            |
-| ----------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| `featured/` | `ada-byron-andalucia-$N.webp`, `cartel-complicaus-$N.webp`, `charlas.webp`, `bienvenida.webp` | `featured_image: images/featured/<nombre>`                            |
-| `home/`     | `complicaus-5.webp`, `roco.webp`                                                              | `config/_default/hugo.yaml` → `params.p1`/`p2` como `images/home/...` |
-| `icons/`    | `calendar.svg`, `github.svg`                                                                  | kebab-case, `.svg`                                                    |
+| Carpeta     | Patrón                                                                                       | Referencia                                                            |
+| ----------- | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| `featured/` | `adabyron-andalucia-$N.webp`, `cartel-complicaus-$N.webp`, `charlas.webp`, `bienvenida.webp` | `featured_image: images/featured/<nombre>`                            |
+| `home/`     | `complicaus-5.webp`, `roco.webp`                                                             | `config/_default/hugo.yaml` → `params.p1`/`p2` como `images/home/...` |
+| `icons/`    | `calendar.svg`, `github.svg`                                                                 | kebab-case, `.svg`                                                    |
 
 ### `static/images/`
 
