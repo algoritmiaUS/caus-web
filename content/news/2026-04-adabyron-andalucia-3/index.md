@@ -42,7 +42,7 @@ Este equipo no solo dominó la Categoría C, sino que se alzó con el primer pue
 
 {{< img src="ganadores-c.webp" alt="TLE Climbers" >}}
 
-### 🥇 just simply flml
+### 🥇 Just Simply FLML
 
 Este equipo, que el año pasado competía en la Categoría A, se ha proclamado este año campeón de la Categoría B.
 
@@ -52,7 +52,7 @@ Este equipo, que el año pasado competía en la Categoría A, se ha proclamado e
 
 {{< img src="ganadores-b.webp" alt="Just Simply FLML" >}}
 
-### 🥇 sqlito
+### 🥇 SQLito
 
 La gran sorpresa de la edición. Siendo estudiantes de primer año, lograron el cuarto lugar regional y el liderazgo de la Categoría A. Un debut brillante que puso en jaque a los equipos más veteranos.
 

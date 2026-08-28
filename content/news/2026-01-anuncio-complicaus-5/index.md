@@ -32,7 +32,7 @@ En esta ocasión, buscamos la experiencia más profesional posible, por lo que u
 - 🕒 **Horario:** 15:30 - 20:00 (3 horas de programación)
 - 💰 **Coste:** 1€ por persona
 
-✨ **Inscripción y detalles**: Recuerda que para optar a premios debes ser estudiante (Uni, FP o Bachillerato), aunque la participación online está abierta a todo el mundo. ¡Asegura tu plaza rellenando el [formulario de solicitud](https://forms.gle/tfPk1dFhQm7wcbox7)!
+✨ **Inscripción y detalles**: Recuerda que para optar a premios debes ser estudiante (universidad, FP o bachillerato), aunque la participación online está abierta a todo el mundo. ¡Asegura tu plaza rellenando el [formulario de solicitud](https://forms.gle/tfPk1dFhQm7wcbox7)!
 
 🚀 **¡Forma tu equipo, prepara tu dossier y demuestra tu nivel en el CompliCAUS V!**
 

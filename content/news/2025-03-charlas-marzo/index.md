@@ -19,7 +19,7 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
 {{< base/div >}}
 
 {{< charla
-    title="Son las matemáticas el lenguaje de la naturaleza?"
+    title="¿Son las matemáticas el lenguaje de la naturaleza?"
     date="Jueves, 6 de marzo de 2025"
     time="17:30-19:00"
     location="Sala multiusos de la ETSII + online"

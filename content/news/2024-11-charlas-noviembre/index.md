@@ -48,7 +48,7 @@ Como experto en competiciones de algoritmia, Marco nos va a enseñar una técnic
     location="Sala multiusos de la ETSII"
     speaker="Agustín Borrego (SWE Manager & Data Engineer @ MixRank)"
 >}}
-¿Te has preguntado cómo manejar grandes volúmenes de datos de manera eficiente? En esta charla, Agustín Borrego compartirá estrategias y técnicas para insertar hasta 10^9 filas en una tabla sin comprometer el rendimiento. Aprenderás sobre optimización de consultas, uso de transacciones, y las mejores prácticas para trabajar con bases de datos. Ya sea que estés desarrollando una aplicación web o gestionando grandes conjuntos de datos, esta sesión te proporcionará las herramientas necesarias para enfrentar el desafío. ¡No te la pierdas!
+¿Te has preguntado cómo manejar grandes volúmenes de datos de manera eficiente? En esta charla, Agustín Borrego compartirá estrategias y técnicas para insertar hasta 10^9 filas en una tabla sin comprometer el rendimiento. Aprenderás sobre optimización de consultas, uso de transacciones y las mejores prácticas para trabajar con bases de datos. Ya sea que estés desarrollando una aplicación web o gestionando grandes conjuntos de datos, esta sesión te proporcionará las herramientas necesarias para enfrentar el desafío. ¡No te la pierdas!
 {{< /charla >}}
 
 {{< charla
