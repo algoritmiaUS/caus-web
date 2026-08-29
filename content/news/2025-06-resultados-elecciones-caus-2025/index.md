@@ -59,7 +59,7 @@ La categoría más reñida. Inicialmente se ofrecían 3 plazas, pero debido a un
 
 {{< /base/div >}}
 
-Un equipo con muchísimo potencial para que, tanto nuevos como veteranos, sigamos creciendo juntos en las competiciones. ¡Que el podio del regional Ada Byron del próximo año hable solo de la US! 😄
+Un equipo con muchísimo potencial para que, tanto nuevos como veteranos, sigamos creciendo juntos en las competiciones. ¡Que el podio del regional AdaByron del próximo año hable solo de la US! 😄
 
 ![Problem Solver team](/images/elecciones-25-26/problem-solver.webp)
 

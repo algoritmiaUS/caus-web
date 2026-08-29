@@ -9,7 +9,7 @@ categories: eventos
 tags: ["eventos", "charlas"]
 ---
 
-Cómo anunciamos en la sesión de presentación, este curso vamos a organizar charlas y talleres relacionados con la informática por parte de profesionales externos, profesores e incluso alumnos (tú mismo!).
+Como anunciamos en la sesión de presentación, este curso vamos a organizar charlas y talleres relacionados con la informática por parte de profesionales externos, profesores e incluso alumnos (tú mismo!).
 
 - [En este formulario podéis indicar el horario y la temática que mejor os viene para estas actividades](https://forms.gle/UFRSKaJdg7NxaRg69)
 - [En este otro podéis apuntaros para dar vuestra propia charla](https://forms.gle/LpYS4ih8dFgfuX7N7)
@@ -33,7 +33,7 @@ Charla introductoria en la que se explicará cómo los sistemas complejos pueden
     location="Salón de Actos de la Facultad de Matemáticas"
     speaker="Renato Álvarez-Nodarse (Catedrático de la Facultad de Matemáticas de la US)"
 >}}
-Pudiera ser que Srinivasa Ramanujan sea uno de los matemáticos más conocidos por los no matemáticos. De él se han escrito novelas y se han hecho películas siendo la más conocida "The Man Who Knew Infinity". Pero ¿qué hizo a Ramanujan tan especial? En esta **charla informal** hablaremos de algunas de las matemáticas que hizo el genio indio y en particular del casi desconocido mundo para el no iniciado de las q-series.
+Pudiera ser que Srinivasa Ramanujan sea uno de los matemáticos más conocidos por los no matemáticos. De él se han escrito novelas y se han hecho películas, siendo la más conocida "The Man Who Knew Infinity". Pero ¿qué hizo a Ramanujan tan especial? En esta **charla informal** hablaremos de algunas de las matemáticas que hizo el genio indio y en particular del casi desconocido mundo para el no iniciado de las q-series.
 {{< /charla >}}
 
 {{< /base/div >}}

@@ -9,7 +9,7 @@ categories: eventos
 tags: ["eventos", "charlas"]
 ---
 
-Cómo anunciamos en la sesión de presentación, este curso vamos a organizar charlas y talleres relacionados con la informática por parte de profesionales externos, profesores e incluso alumnos (tú mismo!).
+Como anunciamos en la sesión de presentación, este curso vamos a organizar charlas y talleres relacionados con la informática por parte de profesionales externos, profesores e incluso alumnos (tú mismo!).
 
 - [En este formulario podéis indicar el horario y la temática que mejor os viene para estas actividades](https://forms.gle/aMjuhZWht8kFMocd9)
 - [En este otro podéis apuntaros para dar vuestra propia charla](https://forms.gle/yY9WpbA6Lof41ufa7)
@@ -37,7 +37,7 @@ Miguel Ángel Martínez del Amor es profesor en la ETSII de la Universidad de Se
     stream_url="https://meet.google.com/ttw-nriv-ftd"
     speaker="Marco Antonio Gómez Martín (Universidad Complutense de Madrid)"
 >}}
-Marco Antonio Gómez Martín es profesor en la Universidad Complutense de Madrid y es el director de la competición nacional universitaria de algoritmia Ada Byron. También es co-creador del juez online ¡Acepta el reto!
+Marco Antonio Gómez Martín es profesor en la Universidad Complutense de Madrid y es el director de la competición nacional universitaria de algoritmia AdaByron. También es co-creador del juez online ¡Acepta el reto!
 Como experto en competiciones de algoritmia, Marco nos va a enseñar una técnica de resolución de problemas que nunca hemos tratado en el club y que suele ser necesaria en competiciones. ¡No te lo pierdas!
 {{< /charla >}}
 
@@ -48,7 +48,7 @@ Como experto en competiciones de algoritmia, Marco nos va a enseñar una técnic
     location="Sala multiusos de la ETSII"
     speaker="Agustín Borrego (SWE Manager & Data Engineer @ MixRank)"
 >}}
-¿Te has preguntado cómo manejar grandes volúmenes de datos de manera eficiente? En esta charla, Agustín Borrego compartirá estrategias y técnicas para insertar hasta 10^9 filas en una tabla sin comprometer el rendimiento. Aprenderás sobre optimización de consultas, uso de transacciones, y las mejores prácticas para trabajar con bases de datos. Ya sea que estés desarrollando una aplicación web o gestionando grandes conjuntos de datos, esta sesión te proporcionará las herramientas necesarias para enfrentar el desafío. ¡No te la pierdas!
+¿Te has preguntado cómo manejar grandes volúmenes de datos de manera eficiente? En esta charla, Agustín Borrego compartirá estrategias y técnicas para insertar hasta 10^9 filas en una tabla sin comprometer el rendimiento. Aprenderás sobre optimización de consultas, uso de transacciones y las mejores prácticas para trabajar con bases de datos. Ya sea que estés desarrollando una aplicación web o gestionando grandes conjuntos de datos, esta sesión te proporcionará las herramientas necesarias para enfrentar el desafío. ¡No te la pierdas!
 {{< /charla >}}
 
 {{< charla
@@ -59,7 +59,7 @@ Como experto en competiciones de algoritmia, Marco nos va a enseñar una técnic
     stream_url="https://www.youtube.com/watch?v=tjhSWDpK2xM"
     speaker="Paula Gómez Matos (Junior Data Scientist @ NEXT DIGITAL)"
 >}}
-Paula Gómez Matos es cofundadora del Club de Algoritmia y antigua alumna del doble grado en Ing.Informática y Matemáticas. Tiene experiencia trabajando como Data Scientist en consultoría tecnológica y en investigación de inteligencia artificial. ¡No te lo pierdas!
+Paula Gómez Matos es cofundadora del Club de Algoritmia y antigua alumna del doble grado en Ing. Informática y Matemáticas. Tiene experiencia trabajando como Data Scientist en consultoría tecnológica y en investigación de inteligencia artificial. ¡No te lo pierdas!
 {{< /charla >}}
 
 {{< /base/div >}}

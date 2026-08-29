@@ -30,10 +30,10 @@ Por petición popular, y gracias a los comentarios recibidos sobre la edición a
 📍 **ETSII, Universidad de Sevilla**  
 📅 **7 de febrero de 2025**
 
-🚀 **Demuestra tus habilidades y disfruta del reto en el CompliCAUS III!**
+🚀 **¡Demuestra tus habilidades y disfruta del reto en el CompliCAUS III!**
 
 Patrocinado por:
 
-{{< sponsor-logo src="/images/global/logo-nd.webp" alt="Logo de Next Digital" href="https://www.nextdigital.es/" >}}
+{{< sponsor-logo src="/images/global/logo-nd.webp" alt="Logo de NEXT DIGITAL" href="https://www.nextdigital.es/" >}}
 
 Patrocinador Platino

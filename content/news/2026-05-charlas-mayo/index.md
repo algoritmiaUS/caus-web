@@ -3,7 +3,7 @@ title: 'Charlas y talleres - Mayo 2026'
 date: 2026-05-18T12:20:00+00:00
 featured_image: images/featured/charlas.webp
 summary: Charlas y talleres organizados por el CAUS en mayo de 2026. Se trata de ponencias sobre informática tanto de profesionales como de estudiantes.
-description: El Club de Algoritmia de la Universidad de Sevilla organiza una serie de charlas y talleres prácticos en temas de informática, dirigidos por expertos de la industria, profesores y estudiantes de la propia universidad. Estas actividades ofrecen una excelente oportunidad para profundizar en diversos temas y habilidades en programación y algoritmia, además de promover el intercambio de conocimientos entre la comunidad académica ¡Anímate a participar y contribuir con tus propias ideas!
+description: El Club de Algoritmia de la Universidad de Sevilla organiza una serie de charlas y talleres prácticos en temas de informática, dirigidos por expertos de la industria, profesores y estudiantes de la propia universidad. Estas actividades ofrecen una excelente oportunidad para profundizar en diversos temas y habilidades en programación y algoritmia, además de promover el intercambio de conocimientos entre la comunidad académica. ¡Anímate a participar y contribuir con tus propias ideas!
 author: Administradores CAUS
 categories: eventos
 tags: ["eventos", "charlas"]
@@ -27,7 +27,7 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
 >}}
 Vengo de lejanas tierras de oriente a contarte cómo funciona tu coche, tu roomba y los robots de Marte.
 
-Padezco de un extraño síndrome que me obliga a hablar de mates en cada charla. Me contendré todo lo que pueda, pero ven bajo tu propia responsabilidad.
+Padezco un extraño síndrome que me obliga a hablar de mates en cada charla. Me contendré todo lo que pueda, pero ven bajo tu propia responsabilidad.
 {{< /charla >}}
 
 {{< /base/div >}}

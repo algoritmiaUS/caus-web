@@ -55,6 +55,6 @@ La teoría de grupos y la topología se conocieron de jóvenes, se miraron a los
     speaker="Alberto Castaño"
     stream_url="https://www.youtube.com/live/vy7b05gvRU4"
 >}}
-En esta charla hablaremos de simetría y orden en el espacio y de cómo un problema tan natural como preguntarse por cómo llenar lo más posible el espacio con esferas es tan difícil, algunas de sus soluciones involucran a tantas áreas de las matemáticas y aún hoy en día queda mucho que explorar.
+En esta charla hablaremos de simetría y orden en el espacio y de cómo un problema tan natural como preguntarse por cómo llenar lo más posible el espacio con esferas es tan difícil; algunas de sus soluciones involucran a tantas áreas de las matemáticas y aún hoy en día queda mucho que explorar.
 {{< /charla >}}
 {{< /base/div >}}
