@@ -22,7 +22,7 @@ Aunque hay variaciones, la mayoría de concursos comparten una estructura simila
 
 ### La comunidad
 
-La mejor forma de entenderlo es verlo. El siguiente vídeo muestra el ambiente, la tensión y la emoción de la final nacional de la competición **Ada Byron**, un excelente ejemplo de un concurso por equipos de alto nivel en España.
+La mejor forma de entenderlo es verlo. El siguiente vídeo muestra el ambiente, la tensión y la emoción de la final nacional de la competición **AdaByron**, un excelente ejemplo de un concurso por equipos de alto nivel en España.
 
 {{< base/div class="mx-auto max-w-[560px] my-6" >}}
 {{< youtube H7emGqxE3NI >}}
@@ -49,7 +49,7 @@ Cuando participas, interactúas con estos tres elementos clave:
 
 - **Material permitido**: generalmente puedes usar tu propio teclado y ratón, y consultar material de referencia personal que hayas traído (tu "codebook" o dossier impreso). Lo que está _prohibido_ es cualquier tipo de comunicación con el exterior o el uso de internet (excepto para acceder al juez).
 
-- **Individual vs. Equipo**: los concursos de plataformas como Codeforces o AtCoder suelen ser _individuales_. Las grandes competiciones universitarias como el **ICPC** o **Ada Byron** son en _equipos de tres personas con un único ordenador_ lo que añade una capa extra de estrategia y comunicación.
+- **Individual vs. Equipo**: los concursos de plataformas como Codeforces o AtCoder suelen ser _individuales_. Las grandes competiciones universitarias como el **ICPC** o **AdaByron** son en _equipos de tres personas con un único ordenador_ lo que añade una capa extra de estrategia y comunicación.
 
 
 ## Competiciones anuales
@@ -61,7 +61,7 @@ Existen grandes competiciones anuales que son hitos en el calendario de todo pro
 
 - **[ICPC (International Collegiate Programming Contest)](https://icpc.global)**: La competición de programación universitaria más prestigiosa del mundo. Se compite en equipos de 3, a través de fases regionales que dan acceso a la final mundial.
 - **[SWERC (Southwestern Europe Regional Contest)](https://swerc.eu)**: Está abierta únicamente a equipos de estudiantes del suroeste de Europa y da acceso a la final de la ICPC.
-- **[Ada Byron](https://ada-byron.es/)**: Competición por equipos de 3 para estudiantes de grado. Hay una primera ronda de fases regionales y una fase final nacional. Está organizada por la Universidad Complutense de Madrid.
+- **[AdaByron](https://ada-byron.es/)**: Competición por equipos de 3 para estudiantes de grado. Hay una primera ronda de fases regionales y una fase final nacional. Está organizada por la Universidad Complutense de Madrid.
   - Aquí tienes nuestra [recopilación de enunciados de ediciones anteriores de AdaByron](https://drive.google.com/drive/folders/1xleZ_-1_LyoHV7SDbyXg_fQ2m_BMrO82?usp=sharing)
   - [Echa un vistazo a nuestro dossier](https://github.com/algoritmiaUS/dossier-template/tree/master/output)!
 - **[Las 12 Uvas](https://las12uvas.es)**: Resolver 12 problemas de dificultad creciente durante el día 31 de diciembre.
@@ -83,7 +83,7 @@ Existen grandes competiciones anuales que son hitos en el calendario de todo pro
 ### Abiertas a todo el mundo
 
 - **[Advent of Code](https://adventofcode.com)**: Un evento anual donde se liberan dos retos de programación cada día desde el 1 hasta el 25 de diciembre. La dificultad aumenta progresivamente.
-  > Tenemos nuestra propia leaderboard de *Advent of Code*! Para unirte solo tienes que entrar [aquí](https://adventofcode.com/2023/leaderboard/private), introducir el código `2502719-7da75a09` y hacer click en "Join". Esta leaderboard sirve para tener las puntuaciones de todo el club en el mismo sitio y que podamos picarnos un poco entre todos
+  > Tenemos nuestra propia leaderboard de *Advent of Code*! Para unirte solo tienes que entrar [aquí](https://adventofcode.com/2023/leaderboard/private), introducir el código `2502719-7da75a09` y hacer clic en "Join". Esta leaderboard sirve para tener las puntuaciones de todo el club en el mismo sitio y que podamos picarnos un poco entre todos
 - **[Meta Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup)**: Una de las competiciones individuales más famosas, organizada por Meta. Consta de varias rondas online hasta llegar a una final presencial.
 
 DEP competiciones de Google en 2023: Kickstart, CodeJam y HashCode

@@ -13,7 +13,7 @@ El pasado viernes 10 de octubre tuvo lugar la cuarta edición de CompliCAUS, una
 
 # Desarrollo de la competición
 
-La competición se llevó a cabo en el juez en línea [Virtual Judge](https://vjudge.net), una plataforma que permite seleccionar problemas de múltiples jueces estándar y simular envíos automáticos. Gracias a esta herramienta, los participantes pudieron evaluar sus soluciones en tiempo real, experimentando un entorno similar al de competiciones avanzadas como Ada Byron, pero con una experiencia más completa en el manejo de entrada y salida de datos, algo que suele diferenciarla de plataformas como HackerRank.
+La competición se llevó a cabo en el juez en línea [Virtual Judge](https://vjudge.net), una plataforma que permite seleccionar problemas de múltiples jueces estándar y simular envíos automáticos. Gracias a esta herramienta, los participantes pudieron evaluar sus soluciones en tiempo real, experimentando un entorno similar al de competiciones avanzadas como AdaByron, pero con una experiencia más completa en el manejo de entrada y salida de datos, algo que suele diferenciarla de plataformas como HackerRank.
 
 El evento estuvo diseñado para ser inclusivo y desafiante para todos los niveles de experiencia. Los problemas propuestos abarcaban distintos grados de dificultad, por lo que la estrategia de identificar y resolver primero los más accesibles resultó clave para obtener buenos resultados.
 
@@ -39,4 +39,4 @@ La competición fue reñida desde el inicio, con constantes cambios en los prime
 
 # Agradecimientos
 
-Agradecemos a la Escuela Técnica Superior de Ingeniería Informática por su patrocinio y apoyo, así como a María Lourdes Miró, Subdirectora de Estudiantes, Innovación y Responsabilidad Social, cuya colaboración ha sido clave para hacer posible este evento.
+Agradecemos a la Escuela Técnica Superior de Ingeniería Informática por su patrocinio y apoyo, así como a M.ª Lourdes Miró Amarante, Subdirectora de Estudiantes, Innovación y Responsabilidad Social, cuya colaboración ha sido clave para hacer posible este evento.

@@ -60,7 +60,7 @@ Una de las categorías más disputadas cada año. En esta ocasión, el objetivo 
 
 {{< team/person name="Lorenzo Tagua" image="/images/elecciones-26-27/lorenzo.webp" subtitle="Estudiante de Ingeniería Industrial" >}}
 
-{{< team/person name="Julio Ojeda" image="/images/elecciones-26-27/julio-ojeda.webp" subtitle="Estudiante de matemáticas" >}}
+{{< team/person name="Julio Ojeda" image="/images/elecciones-26-27/julio-ojeda.webp" subtitle="Estudiante de Matemáticas" >}}
 
 {{< team/person name="Anselmo Jiménez" image="/images/elecciones-26-27/anselmo.webp" subtitle="Estudiante de GII – Tecnologías Informáticas y Matemáticas" >}}
 
@@ -89,6 +89,6 @@ Este año este rol cobra especial importancia, ya que con la salida de Pablo Dá
 
 Queremos dedicar unas palabras de agradecimiento a quienes dejan sus puestos este año:
 
-- **Jose Garcia De Tejada Delgado**
+- **José García de Tejada Delgado**
 
 💙 Desde el club queremos agradecerle su trabajo y su apoyo durante estos años. Ha sido una pieza importante en el crecimiento del CAUS, especialmente por ser el primer administrador no fundador en unirse al equipo.

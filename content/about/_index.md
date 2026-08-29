@@ -43,7 +43,7 @@ Organizamos sesiones cada viernes sobre temas relacionados con la programación 
 
 ## Competiciones de Programación
 
-Participamos en eventos anuales como [Advent of Code](https://adventofcode.com/) y el [Concurso Universitario de Programación Ada Byron](http://ada-byron.es/). Además, organizamos [nuestras propias competiciones de programación](/news/2024-10-complicaus-2/) con suculentos premios, para mantenernos en constante práctica y aprendizaje.
+Participamos en eventos anuales como [Advent of Code](https://adventofcode.com/) y el [Concurso Universitario de Programación AdaByron](http://ada-byron.es/). Además, organizamos [nuestras propias competiciones de programación](/news/2024-10-complicaus-2/) con suculentos premios, para mantenernos en constante práctica y aprendizaje.
 
 {{< base/div layout="gallery" >}}
 {{< img src="/images/about/competiciones-1.webp" alt="Competición 1" >}}

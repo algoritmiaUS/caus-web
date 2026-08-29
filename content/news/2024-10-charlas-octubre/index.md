@@ -9,7 +9,7 @@ categories: eventos
 tags: ["eventos", "charlas"]
 ---
 
-Cómo anunciamos en la sesión de presentación, este curso vamos a organizar charlas y talleres relacionados con la informática por parte de profesionales externos, profesores e incluso alumnos (tú mismo!).
+Como anunciamos en la sesión de presentación, este curso vamos a organizar charlas y talleres relacionados con la informática por parte de profesionales externos, profesores e incluso alumnos (tú mismo!).
 
 - [En este formulario podéis indicar el horario y la temática que mejor os viene para estas actividades](https://forms.gle/aMjuhZWht8kFMocd9)
 - [En este otro podéis apuntaros para dar vuestra propia charla](https://forms.gle/yY9WpbA6Lof41ufa7)
@@ -22,7 +22,7 @@ Cómo anunciamos en la sesión de presentación, este curso vamos a organizar ch
     title="Algoritmos Bit-wise"
     date="Jueves, 31 de octubre de 2024"
     time="15:30"
-    location="Sala multiusos de la ETSII (Donde la entrega de premios del CompliCAUS II)"
+    location="Sala multiusos de la ETSII (donde fue la entrega de premios del CompliCAUS II)"
     speaker="Pablo Trinidad (Head of architecture en HOMA games y profesor de la ETSII)"
 >}}
 Un veterano de las competiciones de programación, Pablo nos hablará sobre algoritmos basados en operaciones a nivel de bit, una técnica que nunca hemos tratado en el club.

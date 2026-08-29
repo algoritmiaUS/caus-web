@@ -13,7 +13,7 @@ tags: ['eventos', 'complicaus', 'competiciones']
 
 ¡La competición más esperada de febrero ya tiene fecha! 💖💻
 
-El **CompliCAUS V** llega con grandes novedades. Esta edición se disputará en **equipos de tres personas**, al más puro estilo de la competición Ada Byron. Se celebrará el próximo **13 de febrero** en la ETSII.
+El **CompliCAUS V** llega con grandes novedades. Esta edición se disputará en **equipos de tres personas**, al más puro estilo de la competición AdaByron. Se celebrará el próximo **13 de febrero** en la ETSII.
 
 En esta ocasión, buscamos la experiencia más profesional posible, por lo que utilizaremos el sistema **DOMjudge** en un entorno restringido (sin internet), similar a las grandes competiciones internacionales.
 
@@ -27,18 +27,18 @@ En esta ocasión, buscamos la experiencia más profesional posible, por lo que u
 
 ## Lo esencial
 
-- 📍 **Ubicación:** Módulo A4.\*, Escuela Técnica Superior de Ingeniería Informática, Universidad de Sevilla
+- 📍 **Ubicación:** Módulo A4, Escuela Técnica Superior de Ingeniería Informática, Universidad de Sevilla
 - 📅 **Fecha:** 13 de febrero de 2026
 - 🕒 **Horario:** 15:30 - 20:00 (3 horas de programación)
 - 💰 **Coste:** 1€ por persona
 
-✨ **Inscripción y detalles**: Recuerda que para optar a premios debes ser estudiante (Uni, FP o Bachillerato), aunque la participación online está abierta a todo el mundo. ¡Asegura tu plaza rellenando el [formulario de solicitud](https://forms.gle/tfPk1dFhQm7wcbox7)!
+✨ **Inscripción y detalles**: Recuerda que para optar a premios debes ser estudiante (universidad, FP o bachillerato), aunque la participación online está abierta a todo el mundo. ¡Asegura tu plaza rellenando el [formulario de solicitud](https://forms.gle/tfPk1dFhQm7wcbox7)!
 
 🚀 **¡Forma tu equipo, prepara tu dossier y demuestra tu nivel en el CompliCAUS V!**
 
 Con el apoyo de:
 
 {{< base/div class="flex flex-col items-center gap-4" >}}
-{{< sponsor-logo src="/images/global/logo-nd.webp" alt="Logo de Next Digital" href="https://www.nextdigital.es/" class="w-[25rem] max-w-[80%] object-contain" >}}
+{{< sponsor-logo src="/images/global/logo-nd.webp" alt="Logo de NEXT DIGITAL" href="https://www.nextdigital.es/" class="w-[25rem] max-w-[80%] object-contain" >}}
 {{< sponsor-logo src="/images/global/logo-etsii-color.webp" alt="Logo de la Escuela Técnica Superior de Ingeniería Informática" href="https://www.informatica.us.es/" class="w-[25rem] max-w-[80%] object-contain" >}}
 {{< /base/div >}}

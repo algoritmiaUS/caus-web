@@ -9,7 +9,7 @@ categories: eventos
 tags: ['eventos', 'complicaus', 'competiciones']
 ---
 
-El pasado viernes 13 de febrero tuvo lugar la quinta edición de CompliCAUS, una competición de programación organizada por el Club de Algoritmia de la Universidad de Sevilla. Con el respaldo de la Escuela Técnica Superior de Ingeniería Informática (ETSII) y la empresa NEXT Digital, el evento atrajo a estudiantes de diversas facultades, niveles académicos y centros educativos, incluyendo bachillerato y formación profesional, quienes se enfrentaron a un exigente reto de algoritmia de tres horas.
+El pasado viernes 13 de febrero tuvo lugar la quinta edición de CompliCAUS, una competición de programación organizada por el Club de Algoritmia de la Universidad de Sevilla. Con el respaldo de la Escuela Técnica Superior de Ingeniería Informática (ETSII) y la empresa NEXT DIGITAL, el evento atrajo a estudiantes de diversas facultades, niveles académicos y centros educativos, incluyendo bachillerato y formación profesional, quienes se enfrentaron a un exigente reto de algoritmia de tres horas.
 
 # Desarrollo de la competición
 
@@ -67,14 +67,14 @@ La competición fue reñida desde el inicio, con constantes cambios en los prime
 
 - **Alejandro Pineda Martín** (Grado en Ingeniería Informática - Tecnologías Informáticas)
 - **Jesús Pérez Bazarot** (Grado en Ingeniería Informática - Ingeniería de Computadores)
-- **Miguel España Montero** (Doble Grado Física + Matemáticas)
+- **Miguel España Montero** (Doble Grado en Física y Matemáticas)
 
 {{< img src="/images/winners-complicaus-5/secondary.webp" alt="Premio secundario: Los problemas de Reina" >}}
 
 # Agradecimientos
 
-Agradecemos a la Escuela Técnica Superior de Ingeniería Informática por su patrocinio y apoyo, así como a María Lourdes Miró, Subdirectora de Estudiantes, Innovación y Responsabilidad Social, cuya colaboración ha sido clave para hacer posible este evento.
+Agradecemos a la Escuela Técnica Superior de Ingeniería Informática por su patrocinio y apoyo, así como a M.ª Lourdes Miró Amarante, Subdirectora de Estudiantes, Innovación y Responsabilidad Social, cuya colaboración ha sido clave para hacer posible este evento.
 
-También extendemos nuestro agradecimiento a [Ramsés Rodríguez Martínez](https://www.linkedin.com/in/ramsesrodriguez/) y [Isabel Rodríguez Olivar](https://www.linkedin.com/in/isabel-rodriguez-olivar-573124b/), representantes de [Next Digital](https://www.nextdigital.es/), por su patrocinio y por todas las facilidades brindadas para el buen desarrollo del concurso.
+También extendemos nuestro agradecimiento a [Ramsés Rodríguez Martínez](https://www.linkedin.com/in/ramsesrodriguez/) y [Isabel Rodríguez Olivar](https://www.linkedin.com/in/isabel-rodriguez-olivar-573124b/), representantes de [NEXT DIGITAL](https://www.nextdigital.es/), por su patrocinio y por todas las facilidades brindadas para el buen desarrollo del concurso.
 
-![Logo de Next Digital](/images/global/logo-nd.webp)
+![Logo de NEXT DIGITAL](/images/global/logo-nd.webp)

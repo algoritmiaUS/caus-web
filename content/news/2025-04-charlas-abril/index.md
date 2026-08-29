@@ -3,13 +3,13 @@ title: "Charlas y talleres - Abril 2025"
 date: 2025-04-06T14:00:00+00:00
 featured_image: images/featured/charlas.webp
 summary: Charlas y talleres organizados por el CAUS en abril de 2025. Se trata de ponencias sobre informática tanto de profesionales como de estudiantes.
-description: El Club de Algoritmia de la Universidad de Sevilla organiza una serie de charlas y talleres prácticos en temas de informática, dirigidos por expertos de la industria, profesores y estudiantes de la propia universidad. Estas actividades ofrecen una excelente oportunidad para profundizar en diversos temas y habilidades en programación y algoritmia, además de promover el intercambio de conocimientos entre la comunidad académica ¡Anímate a participar y contribuir con tus propias ideas!
+description: El Club de Algoritmia de la Universidad de Sevilla organiza una serie de charlas y talleres prácticos en temas de informática, dirigidos por expertos de la industria, profesores y estudiantes de la propia universidad. Estas actividades ofrecen una excelente oportunidad para profundizar en diversos temas y habilidades en programación y algoritmia, además de promover el intercambio de conocimientos entre la comunidad académica. ¡Anímate a participar y contribuir con tus propias ideas!
 author: Administradores CAUS
 categories: eventos
 tags: ["eventos", "charlas"]
 ---
 
-Cómo anunciamos en la sesión de presentación, este curso estamos organizando charlas y talleres relacionados con la informática por parte de profesionales externos, profesores e incluso alumnos (tú mismo!).
+Como anunciamos en la sesión de presentación, este curso estamos organizando charlas y talleres relacionados con la informática por parte de profesionales externos, profesores e incluso alumnos (tú mismo!).
 
 - [En este formulario podéis indicar el horario y la temática que mejor os viene para estas actividades](https://forms.gle/aMjuhZWht8kFMocd9)
 - [En este otro podéis apuntaros para dar vuestra propia charla](https://forms.gle/yY9WpbA6Lof41ufa7)
@@ -24,7 +24,7 @@ Cómo anunciamos en la sesión de presentación, este curso estamos organizando 
     stream_url="https://meet.google.com/fcd-xhdp-wih"
     speaker="Lourdes Linares Barrera (Admin del CAUS, Data Scientist y Data Engineer en NEXT DIGITAL)"
 >}}
-¿Te pica la curiosidad por saber cómo entienden las máquinas el lenguaje humano? ¿Te suenan palabros como “transformers", "transfer learning" o "RAG" y no tienes ni idea de qué van?
+¿Te pica la curiosidad por saber cómo entienden las máquinas el lenguaje humano? ¿Te suenan palabros como "transformers", "transfer learning" o "RAG" y no tienes ni idea de qué van?
 ¡Pues esta charla es para ti!
 Nos daremos un paseo desde los inicios del Procesamiento del Lenguaje Natural (NLP) hasta los modelos de lenguaje más potentes de hoy (sí, esos que escriben, traducen e incluso programan).
 - **🔍 Una visión clara desde cero:** si estás perdido, aquí te ubicamos sin dramas.

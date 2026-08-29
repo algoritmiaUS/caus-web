@@ -44,7 +44,7 @@ We organise sessions every Friday on topics related to competitive programming. 
 
 ## Programming Competitions
 
-We participate in annual events such as [Advent of Code](https://adventofcode.com/) and the [Ada Byron University Programming Contest](http://ada-byron.es/). Additionally, we organise [our own programming competitions](/news/2024-10-complicaus-2/) (Spanish only), with enticing prizes, to keep ourselves constantly practising and learning.
+We participate in annual events such as [Advent of Code](https://adventofcode.com/) and the [AdaByron University Programming Contest](http://ada-byron.es/). Additionally, we organise [our own programming competitions](/news/2024-10-complicaus-2/) (Spanish only), with enticing prizes, to keep ourselves constantly practising and learning.
 
 {{< base/div layout="gallery" >}}
 {{< img src="/images/about/competiciones-1.webp" alt="Competición 1" >}}
