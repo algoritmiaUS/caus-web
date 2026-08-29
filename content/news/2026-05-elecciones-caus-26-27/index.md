@@ -24,7 +24,7 @@ A continuación, os presentamos a los miembros del club que han dado un paso al 
 
 {{< base/div class="space-y-6 mt-10" >}}
 
-{{< team/candidate name="Lorenzo Tagua Santana" image="/images/elecciones-26-27/lorenzo.webp" roles="Problem Solver" >}}
+{{< team/candidate name="Lorenzo Tagua Santana" image="/images/elecciones-26-27/lorenzo-tagua.webp" roles="Problem Solver" >}}
 
 Soy Lorenzo, me conocéis de haber estado dando clases sobre todo en el segundo cuatrimestre y de haber quedado 2º en el CompliCAUS y 1º en el AdaByron de Andalucía junto a Julio Ojeda y Mario Mora en _TLE Climbers_.
 
@@ -32,7 +32,7 @@ Quiero continuar el año que viene en el club como problem solver, para poder ec
 
 {{< /team/candidate >}}
 
-{{< team/candidate name="Alejandro Pineda Martín" image="/images/elecciones-26-27/alepi.webp" roles="Web Master, Marketing" >}}
+{{< team/candidate name="Alejandro Pineda Martín" image="/images/elecciones-26-27/alejandro-pineda.webp" roles="Web Master, Marketing" >}}
 
 Creo que puedo ser una buena incorporación porque me implico de verdad en lo que hago y no me limito a cumplir por cumplir.
 
@@ -42,7 +42,7 @@ Además, al ser alguien que ya forma parte del entorno del club, entiendo cómo 
 
 {{< /team/candidate >}}
 
-{{< team/candidate name="Anselmo Jiménez Zambrano" image="/images/elecciones-26-27/anselmo.webp" roles="Problem Solver" >}}
+{{< team/candidate name="Anselmo Jiménez Zambrano" image="/images/elecciones-26-27/anselmo-jimenez.webp" roles="Problem Solver" >}}
 
 ¡Hola! Soy Anselmo, estudiante de Informática y Matemáticas. Me presento a Problem Solver con el objetivo de que todos podamos ganar seguridad a la hora de enfrentarnos a los problemas.
 
@@ -60,7 +60,7 @@ Creo que soy el mejor candidato al tener experiencia con la enseñanza y el trat
 
 {{< /team/candidate >}}
 
-{{< team/candidate name="Fernando Giráldez Curquejo" image="/images/elecciones-26-27/fernando-ml.webp" roles="Web Master, Problem Solver" >}}
+{{< team/candidate name="Fernando Giráldez Curquejo" image="/images/elecciones-26-27/fernando-giraldez.webp" roles="Web Master, Problem Solver" >}}
 
 He mantenido la web del CAUS este último año, he actuado como problem solver y he ayudado a optimizar algunos procesos críticos del club. Este año vengo con muchísimas ganas de seguir aportando. 💻
 
@@ -70,7 +70,7 @@ Como Web Master, aporto mi experiencia desarrollando aplicaciones reales a gran 
 
 {{< /team/candidate >}}
 
-{{< team/candidate name="Arnau Neches Vilà" image="/images/elecciones-26-27/arnau.webp" roles="Events Manager" >}}
+{{< team/candidate name="Arnau Neches Vilà" image="/images/elecciones-26-27/arnau-neches.webp" roles="Events Manager" >}}
 
 Soy Arnau de quinto del doble en mates-info. Llevo en el CAUS desde el inicio (creo que la mayoría ya me conocéis). Mi objetivo como event manager es el siguiente:
 
@@ -85,7 +85,7 @@ Me he hecho colega del event manager del club de business analytics de la UC3M y
 
 {{< /team/candidate >}}
 
-{{< team/candidate name="Pablo Moreno Moreu" image="/images/elecciones-26-27/pablo.webp" roles="Web Master, Problem Solver, Events Manager" >}}
+{{< team/candidate name="Pablo Moreno Moreu" image="/images/elecciones-26-27/pablo-moreno.webp" roles="Web Master, Problem Solver, Events Manager" >}}
 
 ¡Votadme mucho y así definitivamente no pondré un problema con el Simplex dual! 😜 Y para los que no me conozcan, pues soy Pablo (Moreno), parte del lemaTecnico, miembro del club desde el día 1 :D, un loco de las mates (y en general).
 
@@ -95,13 +95,13 @@ Como veo que la gente se está vendiendo cara, pues yo también: ¡tengo casa en
 
 {{< /team/candidate >}}
 
-{{< team/candidate name="Julia Moreno Mejías" image="/images/elecciones-26-27/julia.webp" roles="Marketing" >}}
+{{< team/candidate name="Julia Moreno Mejías" image="/images/elecciones-26-27/julia-moreno.webp" roles="Marketing" >}}
 
 Hola chicos, soy Julia, me habréis visto estos últimos meses por el CAUS ya que me he encargado de daros globos y comida en el AdaByron o también de tomaros fotos o vigilaros en el CompliCAUS V. La verdad es que soy una chica súper divertida (aunque Kenny y Fernando digan que no), muy alegre, y me encantaría formar parte del equipo de Marketing. ¡Muchas gracias! :D
 
 {{< /team/candidate >}}
 
-{{< team/candidate name="Victor Manuel Mesa Solano" image="/images/elecciones-26-27/vikzi.webp" roles="Problem Solver, Events Manager" >}}
+{{< team/candidate name="Victor Manuel Mesa Solano" image="/images/elecciones-26-27/victor-mesa.webp" roles="Problem Solver, Events Manager" >}}
 
 Buenas!!!! Soy Víctor (con probabilidad cercana a 1 me habrás visto orbitando por Reina Mercedes, ya sea por la ETSII o divagando sobre Teoría Algebraica de Números con una intensidad masivamente innecesaria).
 
@@ -119,7 +119,7 @@ En resumen: si queréis a alguien con ganas de trabajar, ideas, actividad consta
 
 {{< /team/candidate >}}
 
-{{< team/candidate name="Inés Dávila Herrero" image="/images/elecciones-26-27/ines.webp" roles="Marketing, Problem Solver" >}}
+{{< team/candidate name="Inés Dávila Herrero" image="/images/elecciones-26-27/ines-davila.webp" roles="Marketing, Problem Solver" >}}
 
 ¡¡Hola!! Soy Inés Dávila. Llevo siendo miembro del CAUS desde primero de bachillerato y este año he formado parte del grupo de admins. En este tiempo he conseguido premios en competiciones como la OIA, OIFem y AdaByron.
 
@@ -135,7 +135,7 @@ Por mi parte me gustaría poner mi granito de arena en este equipo y ayudar con 
 
 {{< /team/candidate >}}
 
-{{< team/candidate name="Miguel Antequera Gaspar" image="/images/elecciones-26-27/antequera.webp" roles="Marketing, Problem Solver" >}}
+{{< team/candidate name="Miguel Antequera Gaspar" image="/images/elecciones-26-27/miguel-antequera.webp" roles="Marketing, Problem Solver" >}}
 
 Creo que podría ser un buen candidato porque me implicaría al máximo en todas las tareas que conlleve mi cargo. Me gustaría generar en otros la ilusión y las ganas que en mí me han generado los anteriores administradores durante el curso pasado.
 
@@ -143,7 +143,7 @@ Creo que sería una persona adecuada por mis ganas de aprender y de que otros ap
 
 {{< /team/candidate >}}
 
-{{< team/candidate name="Araceli Guerrero Morato" image="/images/elecciones-26-27/araceli.webp" roles="Marketing" >}}
+{{< team/candidate name="Araceli Guerrero Morato" image="/images/elecciones-26-27/araceli-guerrero.webp" roles="Marketing" >}}
 
 Me presento a marketing porque creo que puedo ayudar a que el CAUS tenga más visibilidad y llegue a más gente. Aunque no he ido como miembro habitual, sí he estado en las últimas competiciones haciendo fotos y vídeos, así que algunos igual me ubicáis de estar por allí con la cámara y los globitos. 📸🎈
 

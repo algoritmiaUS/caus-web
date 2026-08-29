@@ -24,9 +24,9 @@ Este equipo se encarga de dar soporte al desarrollo de la web del club y de ayud
 
 {{< base/div layout="cols" >}}
 
-{{< team/person name="Alejandro Pineda" image="/images/elecciones-26-27/alepi.webp" subtitle="Estudiante de GII – Tecnologías Informáticas" >}}
+{{< team/person name="Alejandro Pineda" image="/images/elecciones-26-27/alejandro-pineda.webp" subtitle="Estudiante de GII – Tecnologías Informáticas" >}}
 
-{{< team/person name="Fernando Giráldez" image="/images/elecciones-26-27/fernando-ml.webp" subtitle="Estudiante de GII – Ingeniería de Computadores" focus="top" >}}
+{{< team/person name="Fernando Giráldez" image="/images/elecciones-26-27/fernando-giraldez.webp" subtitle="Estudiante de GII – Ingeniería de Computadores" focus="top" >}}
 
 {{< /base/div >}}
 
@@ -36,7 +36,7 @@ El área de Marketing inicia este año una nueva etapa con el objetivo de reforz
 
 {{< base/div layout="cols" >}}
 
-{{< team/person name="Julia Moreno" image="/images/elecciones-26-27/julia.webp" subtitle="Estudiante de bachillerato" >}}
+{{< team/person name="Julia Moreno" image="/images/elecciones-26-27/julia-moreno.webp" subtitle="Estudiante de bachillerato" >}}
 
 {{< /base/div >}}
 
@@ -44,11 +44,11 @@ Además, contaremos también con un grupo de colaboradores que apoyarán en even
 
 {{< base/div layout="cols" >}}
 
-{{< team/person name="Araceli Guerrero" image="/images/elecciones-26-27/araceli.webp" >}}
+{{< team/person name="Araceli Guerrero" image="/images/elecciones-26-27/araceli-guerrero.webp" >}}
 
-{{< team/person name="Lucía Campos" image="/images/elecciones-26-27/lucia-diez.webp" >}}
+{{< team/person name="Lucía Campos" image="/images/elecciones-26-27/lucia-campos.webp" >}}
 
-{{< team/person name="Luis Castillo" image="/images/admins/lucho.webp" >}}
+{{< team/person name="Luis Castillo" image="/images/admins/luis-castillo.webp" >}}
 
 {{< /base/div >}}
 
@@ -58,19 +58,19 @@ Una de las categorías más disputadas cada año. En esta ocasión, el objetivo 
 
 {{< base/div layout="cols" >}}
 
-{{< team/person name="Lorenzo Tagua" image="/images/elecciones-26-27/lorenzo.webp" subtitle="Estudiante de Ingeniería Industrial" >}}
+{{< team/person name="Lorenzo Tagua" image="/images/elecciones-26-27/lorenzo-tagua.webp" subtitle="Estudiante de Ingeniería Industrial" >}}
 
 {{< team/person name="Julio Ojeda" image="/images/elecciones-26-27/julio-ojeda.webp" subtitle="Estudiante de Matemáticas" >}}
 
-{{< team/person name="Anselmo Jiménez" image="/images/elecciones-26-27/anselmo.webp" subtitle="Estudiante de GII – Tecnologías Informáticas y Matemáticas" >}}
+{{< team/person name="Anselmo Jiménez" image="/images/elecciones-26-27/anselmo-jimenez.webp" subtitle="Estudiante de GII – Tecnologías Informáticas y Matemáticas" >}}
 
-{{< team/person name="Pablo Moreno" image="/images/elecciones-26-27/pablo.webp" subtitle="Estudiante de GII – Tecnologías Informáticas y Matemáticas" >}}
+{{< team/person name="Pablo Moreno" image="/images/elecciones-26-27/pablo-moreno.webp" subtitle="Estudiante de GII – Tecnologías Informáticas y Matemáticas" >}}
 
-{{< team/person name="Miguel Antequera" image="/images/elecciones-26-27/antequera.webp" subtitle="Estudiante de Matemáticas y Física" >}}
+{{< team/person name="Miguel Antequera" image="/images/elecciones-26-27/miguel-antequera.webp" subtitle="Estudiante de Matemáticas y Física" >}}
 
 {{< team/person name="Jesús Racero" image="/images/elecciones-26-27/jesus-racero.webp" subtitle="Estudiante de Ingeniería de Software" >}}
 
-{{< team/person name="Inés Dávila" image="/images/elecciones-26-27/ines.webp" subtitle="Estudiante de GII - Inteligencia Artificial" >}}
+{{< team/person name="Inés Dávila" image="/images/elecciones-26-27/ines-davila.webp" subtitle="Estudiante de GII - Inteligencia Artificial" >}}
 {{< /base/div >}}
 
 ### Events Managers
@@ -79,9 +79,9 @@ Este año este rol cobra especial importancia, ya que con la salida de Pablo Dá
 
 {{< base/div layout="cols" >}}
 
-{{< team/person name="Arnau Neches" image="/images/elecciones-26-27/arnau.webp" subtitle="Estudiante de GII – Tecnologías Informáticas y Matemáticas" >}}
+{{< team/person name="Arnau Neches" image="/images/elecciones-26-27/arnau-neches.webp" subtitle="Estudiante de GII – Tecnologías Informáticas y Matemáticas" >}}
 
-{{< team/person name="Victor Mesa" image="/images/elecciones-26-27/vikzi.webp" subtitle="Estudiante de Matemáticas y Estadística" focus="top" >}}
+{{< team/person name="Victor Mesa" image="/images/elecciones-26-27/victor-mesa.webp" subtitle="Estudiante de Matemáticas y Estadística" focus="top" >}}
 
 {{< /base/div >}}
 

@@ -13,7 +13,7 @@
 
 {{ $wrapperClass := "flex flex-col items-center p-3 w-full" }}
 {{ if $compact }}
-  {{ $wrapperClass = printf "%s max-w-xs mx-auto hover:bg-wash transition-colors" $wrapperClass }}
+  {{ $wrapperClass = printf "%s max-w-xs mx-auto" $wrapperClass }}
 {{ end }}
 
 {{ $imageClass := "mt-0 mb-0 rounded-full object-cover" }}
@@ -43,7 +43,12 @@
     <div class="flex space-x-6 mt-2">
       {{ range $l := $links }}
         {{ with $l.value }}
-          <a href="{{ $l.url }}" class="text-muted hover:text-fg">
+          <a
+            href="{{ $l.url }}"
+            class="text-muted hover:text-fg"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <span class="sr-only">{{ $l.label }}</span>
             {{ partial "components/svg.html" (dict "name" $l.icon) }}
           </a>

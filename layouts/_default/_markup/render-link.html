@@ -1,0 +1,6 @@
+{{- $isRemote := or (strings.HasPrefix .Destination "https://") (strings.HasPrefix .Destination "http://") -}}
+<a href="{{ .Destination }}"
+{{- with .Title }} title="{{ . }}"{{- end -}}
+{{- if $isRemote }} target="_blank" rel="noopener noreferrer"{{- end -}}>
+{{- .Text -}}
+</a>
