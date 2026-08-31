@@ -86,7 +86,7 @@ collaborators:
   - name: "Luis Eduardo Castillo Huamán"
     image: "/images/admins/luis-castillo.webp"
 
-oldadmins:
+old_admins:
   - name: "Víctor Mesa Solano"
     role: "Problem Solver"
     image: "/images/admins/victor-mesa.webp"

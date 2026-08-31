@@ -65,17 +65,17 @@ challenge.description:
     técnico y la diversión es clave para el crecimiento personal y profesional. ¡Únete a nosotros y
     disfruta de un ambiente donde el código y la comunidad van de la mano!"
 
-sponsors.heading:
+community_partners.heading:
   other: "Nuestros patrocinadores"
 
-sponsors.description:
+community_partners.description:
   other:
     "El CAUS cuenta con el apoyo de patrocinadores dedicados, quienes hacen posible que sigamos
     promoviendo el aprendizaje y el desarrollo en algoritmia. Gracias a su colaboración, trabajamos
     juntos para construir una comunidad más conectada y ofrecer oportunidades valiosas para el
     crecimiento y la innovación."
 
-sponsors.cta:
+community_partners.cta:
   other: "Conozca a nuestros patrocinadores"
 
 events.heading:
