@@ -10,7 +10,19 @@ main:
   - identifier: members
     name: Members
     url: /about/members/
+    weight: 25
+  - identifier: achievements
+    name: Achievements
+    url: /achievements/
     weight: 30
+  - identifier: news
+    name: News
+    url: /news/
+    weight: 40
+  - identifier: resources
+    name: Resources
+    url: /resources/
+    weight: 50
   - identifier: community-partners
     name: Sponsors
     url: /community-partners/
@@ -24,8 +36,16 @@ footer:
   - identifier: members
     name: Members
     url: /about/members/
+    weight: 15
+  - identifier: news
+    name: News
+    url: /news/
     weight: 20
+  - identifier: resources
+    name: Resources
+    url: /resources/
+    weight: 30
   - identifier: community-partners
     name: Sponsors
     url: /community-partners/
-    weight: 30
+    weight: 40

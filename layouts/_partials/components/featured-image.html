@@ -1,0 +1,28 @@
+{{- $page := .page -}}
+{{- $variant := .variant | default "card" -}}
+{{- with $page.Params.featured_image -}}
+  {{- with resources.Get . -}}
+    {{- if eq $variant "card" -}}
+      {{- $img := (.Resize "550x webp q80").RelPermalink -}}
+      <img
+        src="{{ $img }}"
+        class="aspect-[3/2] w-full object-cover"
+        width="550"
+        height="367"
+        loading="lazy"
+        decoding="async"
+        alt="{{ $page.Title }}"
+      />
+    {{- else -}}
+      {{- $small := .Resize "550x webp q80" -}}
+      {{- $large := . -}}
+      <img
+        src="{{ $large.RelPermalink }}"
+        srcset="{{ $small.RelPermalink }} {{ $small.Width }}w, {{ $large.RelPermalink }} {{ $large.Width }}w"
+        class="object-fill overflow-hidden rounded-lg shadow-lg ring-4 ring-line/40"
+        width="{{ $large.Width }}"
+        alt="{{ $page.Title }}"
+      />
+    {{- end -}}
+  {{- end -}}
+{{- end -}}

@@ -1,14 +1,1 @@
-{{- $page := . -}}
-{{ with $page.Params.featured_image }}
-  {{ with resources.Get . }}
-    {{ $small := .Resize "550x webp q80" }}
-    {{ $large := . }}
-    <img
-      src="{{ $large.RelPermalink }}"
-      srcset="{{ $small.RelPermalink }} {{ $small.Width }}w, {{ $large.RelPermalink }} {{ $large.Width }}w"
-      class="object-fill overflow-hidden rounded-lg shadow-lg ring-4 ring-line/40"
-      width="{{ $large.Width }}"
-      alt="{{ $page.Title }}"
-    />
-  {{ end }}
-{{ end }}
+{{ partial "components/featured-image.html" (dict "page" . "variant" "single") }}

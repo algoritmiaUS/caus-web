@@ -31,6 +31,7 @@ pagination:
 
 # Site parameters
 params:
+  theme_color: "#fefdfd"
   social_media:
     github: "https://github.com/algoritmiaUS"
     linkedin: "https://linkedin.com/company/club-de-algoritmia-universidad-de-sevilla"

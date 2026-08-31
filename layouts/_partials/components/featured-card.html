@@ -1,17 +1,1 @@
-{{- $page := . -}}
-{{ with $page.Params.featured_image }}
-  {{ with resources.Get . }}
-    {{ $postimage
-      := (.Resize "550x webp q80").RelPermalink
-    }}
-    <img
-      src="{{ $postimage }}"
-      class="aspect-[3/2] w-full object-cover"
-      width="550"
-      height="367"
-      loading="lazy"
-      decoding="async"
-      alt="{{ $page.Title }}"
-    />
-  {{ end }}
-{{ end }}
+{{ partial "components/featured-image.html" (dict "page" . "variant" "card") }}

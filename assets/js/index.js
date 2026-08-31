@@ -1,2 +1,2 @@
-import './darkmode.js';
+import './dark-mode.js';
 import './main.js';
