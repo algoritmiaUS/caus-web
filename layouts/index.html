@@ -1,8 +1,8 @@
 {{ define "main" }}
   <main>
     {{ partial "home/hero.html" . }}
-    {{ partial "home/split-feature.html" (dict "key" "mission" "image" "images/home/complicaus-5.webp" "class" "py-16 sm:py-24" "imageFirst" true) }}
-    {{ partial "home/split-feature.html" (dict "key" "challenge" "image" "images/home/rocodromo.webp" "class" "bg-canvas py-16 sm:py-24") }}
+    {{ partial "home/split-feature.html" (dict "key" "mission" "image" "images/home/complicaus-5.webp" "class" "section-padding" "imageFirst" true) }}
+    {{ partial "home/split-feature.html" (dict "key" "challenge" "image" "images/home/rocodromo.webp" "class" "bg-canvas section-padding") }}
     {{ partial "home/community-partners.html" . }}
     {{ if eq .Language.Name "es" }}{{ partial "home/events.html" . }}{{ end }}
   </main>

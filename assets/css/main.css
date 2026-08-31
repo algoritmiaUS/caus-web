@@ -33,13 +33,37 @@
   .container-page {
     @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8;
   }
-  /* Narrow centered prose wrapper (single article/resources) */
   .container-prose {
     @apply mx-auto w-full max-w-3xl px-4 sm:px-6 lg:px-8;
   }
-  /* Shared vertical rhythm for sections */
   .section-padding {
     @apply py-16 sm:py-24;
+  }
+
+  /* Card base + interactive lift */
+  .card {
+    @apply rounded-lg border border-line/25 bg-surface shadow-sm;
+  }
+  .card-hover {
+    @apply transition hover:-translate-y-1 hover:shadow-lg;
+  }
+  .card-interactive {
+    @apply rounded-lg border border-line/25 bg-surface shadow-sm transition hover:-translate-y-1 hover:shadow-lg;
+  }
+
+  /* Tag / pill */
+  .tag {
+    @apply inline-flex items-center rounded-md bg-wash px-2.5 py-0.5 text-sm font-medium text-fg transition-colors hover:bg-accent/20 focus-visible:outline-hidden focus-visible:ring-2 focus-visible:ring-accent;
+  }
+
+  /* Primary CTA */
+  .btn-primary {
+    @apply inline-flex items-center justify-center rounded-lg bg-accent px-5 py-2.5 text-center text-sm font-bold text-on-accent shadow transition-colors hover:bg-accent/85 focus-visible:outline-hidden focus-visible:ring-4 focus-visible:ring-accent/40;
+  }
+
+  /* Focus ring helper (apply as class) */
+  .focus-ring {
+    @apply focus-visible:outline-hidden focus-visible:ring-2 focus-visible:ring-accent;
   }
 }
 

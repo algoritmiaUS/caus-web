@@ -1,6 +1,4 @@
-<div
-  class="group flex h-full flex-col overflow-hidden rounded-lg bg-surface shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-lg"
->
+<div class="card-interactive group flex h-full flex-col overflow-hidden">
   {{ if .Params.featured_image }}
     <a href="{{ .RelPermalink }}">
       {{ partial "components/featured-card.html" . }}
@@ -27,11 +25,7 @@
           {{ $key := lower .LinkTitle }}
           {{ $display := .LinkTitle }}
           {{ with index hugo.Data.taxonomies.tags $key }}{{ $display = . }}{{ end }}
-          <a
-            href="{{ .RelPermalink }}"
-            class="inline-flex items-center rounded-md bg-wash px-2.5 py-0.5 text-sm font-medium text-fg transition-colors hover:bg-accent/20 focus-visible:outline-hidden focus-visible:ring-2 focus-visible:ring-accent"
-            >{{ $display }}</a
-          >
+          <a href="{{ .RelPermalink }}" class="tag">{{ $display }}</a>
         {{- end -}}
       </div>
     {{ end }}

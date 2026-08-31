@@ -13,9 +13,7 @@
 
 <div class="not-prose grid gap-4 {{ $gridCols }}">
   {{ range $data.teams }}
-    <div
-      class="flex flex-col rounded-xl border border-line/40 bg-surface p-6 text-center shadow-sm"
-    >
+    <div class="card flex flex-col !rounded-xl p-6 text-center">
       <h4 class="text-base font-bold text-fg">{{ .name }}</h4>
       {{ if .category }}
         <p class="mt-0.5 text-sm font-medium text-accent">
@@ -23,7 +21,7 @@
         </p>
       {{ end }}
       <p class="mt-2 text-sm text-muted">{{ .placement }}</p>
-      <ul class="mt-4 list-none space-y-1 border-t border-line/40 pt-4 text-sm text-muted">
+      <ul class="mt-4 list-none space-y-1 border-t border-line/30 pt-4 text-sm text-muted">
         {{ range .members }}
           <li>{{ . }}</li>
         {{ end }}
