@@ -2,13 +2,13 @@
 {{ $compact := .compact | default false }}
 {{ $square := .square | default false }}
 {{ $role := true }}
-{{ if isset . "show_role" }}
-  {{ $role = .show_role }}
+{{ if isset . "show-role" }}
+  {{ $role = index . "show-role" }}
 {{ end }}
-{{ $dates := .show_dates | default false }}
+{{ $dates := index . "show-dates" | default false }}
 {{ $socials := true }}
-{{ if isset . "show_socials" }}
-  {{ $socials = .show_socials }}
+{{ if isset . "show-socials" }}
+  {{ $socials = index . "show-socials" }}
 {{ end }}
 
 {{ $wrapperClass := "flex flex-col items-center p-3 w-full" }}

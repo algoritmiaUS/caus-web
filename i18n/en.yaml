@@ -1,20 +1,20 @@
 footer.rights:
   other: "All rights reserved."
 
-header.theme_toggle:
+header.theme-toggle:
   other: "Toggle theme"
 
 post.tags:
   other: "Tags:"
 
-post.read_time:
+post.read-time:
   other: "min read"
 
-error.404_title:
+error.404-title:
   other: "Ooooops, something’s missing."
-error.404_message:
+error.404-message:
   other: "Sorry, we can’t seem to find that page. You’ll find plenty to explore on the homepage."
-error.404_button:
+error.404-button:
   other: "Back to Homepage"
 
 hero.moto:
@@ -30,7 +30,7 @@ hero.whatsapp:
 mission.heading:
   other: "Our Mission"
 
-mission.image_alt:
+mission.image-alt:
   other: "Participants of ComplicauS 5, the CAUS programming contest"
 
 mission.description:
@@ -44,7 +44,7 @@ mission.description:
 challenge.heading:
   other: "Challenges, Community, and Fun at CAUS"
 
-challenge.image_alt:
+challenge.image-alt:
   other: "Climbing outing of the Algorithm Club"
 
 challenge.description:
@@ -55,13 +55,13 @@ challenge.description:
     enjoyment is key to both personal and professional growth. Join us and enjoy an environment
     where code and community go hand in hand!"
 
-community_partners.heading:
+community-partners.heading:
   other: "Our Sponsors"
 
-community_partners.cta:
+community-partners.cta:
   other: "Meet our sponsors"
 
-community_partners.description:
+community-partners.description:
   other:
     "CAUS is supported by dedicated partners and sponsors who make it possible for us to continue
     promoting learning and development in algorithms. Thanks to their collaboration, we work
@@ -76,7 +76,7 @@ events.description:
     "Our recent events, including meetups, workshops and more, reflect what is happening in our
     community."
 
-notice.partial_translation:
+notice.partial-translation:
   other:
     "This website is not fully translated into English, and it will never be. Some content is only
     available in Spanish."
@@ -100,17 +100,17 @@ pagination.last:
 
 administrators:
   other: "Administrators"
-administrators_desc:
+administrators-desc:
   other: "The team behind all our events!"
 collaborators:
   other: "Collaborators"
-collaborators_desc:
+collaborators-desc:
   other: "Our support when we need it most!"
-old_admins:
+old-admins:
   other: "Former administrators"
-old_admins_desc:
+old-admins-desc:
   other: "We’ll always love you! ❤️"
 members:
   other: "Some members"
-members_desc:
+members-desc:
   other: "Part of our wider community"

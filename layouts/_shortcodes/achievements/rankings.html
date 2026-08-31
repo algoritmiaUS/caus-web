@@ -42,6 +42,7 @@
           <button
             type="button"
             data-lightbox-src="{{ strings.TrimPrefix "/" .image | absURL }}"
+            data-lightbox-alt="{{ .name }}"
             class="inline-flex cursor-pointer items-center justify-center rounded-md p-1.5 text-muted transition-colors hover:bg-wash hover:text-fg focus:outline-none focus:ring-2 focus:ring-accent/40"
             aria-label="{{ $imageLabel }}"
           >

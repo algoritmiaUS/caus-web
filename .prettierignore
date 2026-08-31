@@ -4,8 +4,8 @@ resources
 bun.lock
 
 # Content folders to skip
-**/*charlas*
-**/*serie-matematicas*
+**/*talks*
+**/*math-series*
 
 # Hugo render hooks (prettier strips go-template assignments)
 layouts/**/_markup/

@@ -29,9 +29,9 @@
 {{ end }}
 
 
-<meta name="theme-color" content="#ffffff" />
+<meta name="theme-color" content="{{ site.Params.theme_color | default "#fefdfd" }}" />
 
-<link rel="icon" type="image/svg+xml" href="/images/icons/caus.svg" />
+<link rel="icon" type="image/svg+xml" href="images/icons/caus.svg" />
 
 {{ partial "head/meta.html" . }}
 

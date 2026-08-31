@@ -8,12 +8,12 @@
       {{ with index hugo.Data.taxonomies.categories $key }}{{ $display = . }}{{ end }}
     {{ end }}
     <a
-      href="{{ .Permalink }}"
-      class="group flex items-center justify-between gap-4 rounded-lg bg-surface p-6 shadow-sm transition hover:-translate-y-1 hover:shadow-lg focus-visible:outline-hidden focus-visible:ring-2 focus-visible:ring-accent"
+      href="{{ .RelPermalink }}"
+      class="group flex items-center justify-between gap-4 rounded-lg border border-line/20 bg-surface p-6 shadow-sm transition hover:-translate-y-1 hover:shadow-lg focus-visible:outline-hidden focus-visible:ring-2 focus-visible:ring-accent"
     >
       <span class="text-xl font-black text-fg group-hover:text-accent">{{ $display }}</span>
       <span
-        class="inline-flex h-7 min-w-7 shrink-0 items-center justify-center rounded-full bg-wash px-3 text-sm font-medium leading-none text-muted"
+        class="inline-flex h-7 min-w-7 shrink-0 items-center justify-center rounded-full px-3 text-sm font-medium leading-none text-muted"
         >{{ len .Pages }}</span
       >
     </a>
