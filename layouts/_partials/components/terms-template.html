@@ -8,7 +8,7 @@
       {{ with index hugo.Data.taxonomies.categories $key }}{{ $display = . }}{{ end }}
     {{ end }}
     <a
-      href="{{ .Permalink }}"
+      href="{{ .RelPermalink }}"
       class="group flex items-center justify-between gap-4 rounded-lg bg-surface p-6 shadow-sm transition hover:-translate-y-1 hover:shadow-lg focus-visible:outline-hidden focus-visible:ring-2 focus-visible:ring-accent"
     >
       <span class="text-xl font-black text-fg group-hover:text-accent">{{ $display }}</span>

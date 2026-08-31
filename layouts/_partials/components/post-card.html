@@ -2,14 +2,14 @@
   class="group flex h-full flex-col overflow-hidden rounded-lg bg-surface shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-lg"
 >
   {{ if .Params.featured_image }}
-    <a href="{{ .Permalink }}">
+    <a href="{{ .RelPermalink }}">
       {{ partial "components/featured-card.html" . }}
     </a>
   {{ end }}
   <div class="flex h-full flex-col p-6">
     <div class="flex-1">
       <a
-        href="{{ .Permalink }}"
+        href="{{ .RelPermalink }}"
         class="mt-2 block text-2xl font-black tracking-tight leading-snug text-fg transition-colors group-hover:text-accent group-hover:underline focus-visible:outline-hidden focus-visible:ring-2 focus-visible:ring-accent"
       >
         {{ .Title }}
@@ -31,7 +31,7 @@
             {{ $display := .LinkTitle }}
             {{ with index hugo.Data.taxonomies.tags $key }}{{ $display = . }}{{ end }}
             <a
-              href="{{ .Permalink }}"
+              href="{{ .RelPermalink }}"
               class="inline-flex items-center rounded-md bg-wash px-2.5 py-0.5 text-sm font-medium text-fg transition-colors hover:bg-accent/20 focus-visible:outline-hidden focus-visible:ring-2 focus-visible:ring-accent"
               >{{ $display }}</a
             >
