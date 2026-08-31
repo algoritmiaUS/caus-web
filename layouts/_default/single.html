@@ -6,7 +6,7 @@
         {{ partial "components/featured-single.html" . }}
       </div>
       {{ if eq .Section "resources" }}
-        <div class="mx-auto max-w-7xl px-6 pt-6">
+        <div class="container-page pt-6">
           <a
             href="{{ "/resources/" | relLangURL }}"
             class="inline-flex items-center gap-1 text-sm text-muted hover:text-accent transition-colors"
@@ -15,7 +15,7 @@
           </a>
         </div>
       {{ end }}
-      <div class="max-w-7xl px-6 pt-6 pb-16 mx-auto prose">
+      <div class="container-page prose pt-6 pb-16">
         {{ .Content }}
       </div>
       {{ if .HasShortcode "achievements/rankings" }}

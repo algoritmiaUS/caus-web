@@ -1,4 +1,4 @@
-{{- $src := .Get "src" -}}
+{{- $src := strings.TrimPrefix "/" (.Get "src") | relURL -}}
 {{- $alt := .Get "alt" -}}
 {{- $href := .Get "href" -}}
 {{- $imgClass := .Get "class" | default "max-h-20 w-auto object-contain" -}}

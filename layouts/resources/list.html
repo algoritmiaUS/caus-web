@@ -2,7 +2,7 @@
 <main>
   <article>
     {{ partial "components/page-header.html" (dict "page" .) }}
-    <div class="max-w-7xl px-6 pt-6 pb-16 mx-auto prose">
+    <div class="container-page prose pt-6 pb-16">
       {{ .Content }}
       {{ partial "components/resources.html" . }}
       <p class="pt-8 text-sm text-muted">Por si no tienes suficiente con todo lo anterior, te dejamos <a href="https://github.com/lnishan/awesome-competitive-programming" class="text-accent hover:text-accent underline underline-offset-4" target="_blank" rel="noopener">este listado interminable</a> de recursos extra sobre programación competitiva.</p>

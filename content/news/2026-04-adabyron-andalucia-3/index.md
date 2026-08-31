@@ -118,8 +118,8 @@ Nada de esto habría sido posible sin el apoyo de los voluntarios que dedicaron 
 - José García De Tejada Delgado
 
 {{< base/div layout="gallery" >}}
-{{< img src="voluntarios.webp" alt="v1" class="w-[450px] h-auto rounded-lg" >}}
-{{< img src="voluntarios-2.webp" alt="v2" class="w-[450px] h-auto rounded-lg" >}}
+{{< img src="voluntarios.webp" alt="v1" class="w-112 h-auto rounded-lg" >}}
+{{< img src="voluntarios-2.webp" alt="v2" class="w-112 h-auto rounded-lg" >}}
 {{< /base/div >}}
 
 ## Agradecimientos especiales

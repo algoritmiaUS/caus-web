@@ -20,6 +20,7 @@
  *   - wash       tinted sections, hovers    slate@25% ↔ indigo@50%
  *
  * Fixed roles, identical in both themes:
+ *   Exception: news/calendar.html uses dark:invert for Google Calendar embed.
  *   - line   hairlines, dividers, borders (#b1aebb)
  *   - ink    always-dark chrome: header, footer, dropdowns (#17151d)
  *   - paper  text on ink (#fefdfd)
@@ -28,6 +29,15 @@
  * fg/muted(light) 8.3 · on-accent/accent ≥ 7. Two rules follow:
  *   - violet (accent in light) is never text on a dark surface (2.5) — gold is.
  *   - pale slate (muted in dark) is never text on white (2.2) — indigo is.
+ *
+ * Opacity scale (convention):
+ *   /15 subtle fill (talk stream) · /20 subtle border · /25 card border · /30 divider ·
+ *   /40 ring · /60 overlay (lightbox ink/60) · /80 muted ink text · /85 hover fill
+ *
+ * Radius scale:
+ *   md (6px) small controls (tags, icon buttons) · lg (8px) cards, buttons ·
+ *   xl (12px) tables, modals, toasts · 2xl (16px) hero/media, sponsor logos ·
+ *   full pills, avatars
  */
 :root {
   --c-canvas: #efedee;

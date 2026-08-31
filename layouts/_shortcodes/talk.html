@@ -1,6 +1,4 @@
-<div
-  class="flex h-full flex-col overflow-hidden rounded-lg border border-line/25 bg-surface shadow-sm"
->
+<div class="card flex h-full flex-col overflow-hidden">
   <div class="flex h-full flex-col p-6">
     <div class="flex-1">
       <h2 class="mt-0 mb-0 text-2xl font-black tracking-tight leading-snug text-fg">
@@ -46,7 +44,7 @@
       {{ with $stream }}
         <a
           href="{{ . }}"
-          class="inline-flex shrink-0 self-start items-center gap-2 rounded-md bg-accent/15 px-3.5 py-2 text-sm font-semibold text-accent no-underline transition-colors hover:bg-accent/25 hover:no-underline focus-visible:outline-hidden focus-visible:ring-2 focus-visible:ring-accent sm:self-auto"
+          class="inline-flex shrink-0 self-start items-center gap-2 rounded-md bg-accent/15 px-3.5 py-2 text-sm font-semibold text-accent no-underline transition-colors hover:bg-accent/25 hover:no-underline focus-ring sm:self-auto"
         >
           {{ partial "components/svg.html" (dict "name" "youtube" "class" "h-4 w-4") }}
           Ver retransmisión

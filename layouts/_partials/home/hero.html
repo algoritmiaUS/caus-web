@@ -1,5 +1,5 @@
 <section class="bg-wash">
-  <div class="container-page grid items-center gap-12 py-16 sm:py-20 lg:grid-cols-12">
+  <div class="container-page section-padding grid items-center gap-12 lg:grid-cols-12">
     <div class="text-center lg:col-span-6 lg:text-left">
       <h1 class="mt-3 text-4xl font-extrabold tracking-tight text-fg md:text-5xl xl:text-6xl">
         CAUS
@@ -15,7 +15,7 @@
       >
         <a
           href="{{ site.Params.social_media.whatsapp }}"
-          class="inline-flex w-full items-center justify-center rounded-lg bg-accent px-5 py-2.5 text-center text-sm font-bold text-on-accent shadow transition-colors hover:bg-accent/85 focus:ring-4 focus:ring-accent/40 focus:outline-hidden sm:w-auto"
+          class="btn-primary w-full sm:w-auto"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -25,7 +25,7 @@
     </div>
     <div class="flex justify-center lg:col-span-6">
       <img
-        src="/images/global/logo-caus.webp"
+        src="{{ "images/global/logo-caus.webp" | relURL }}"
         class="w-full h-auto max-w-xl mx-auto rounded-lg"
         alt="CAUS logo"
         width="576"

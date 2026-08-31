@@ -1,8 +1,6 @@
 @import 'tailwindcss';
 @import './colors.css';
-
-@source not 'LICENSE';
-@source not '.github';
+@import './prose.css';
 
 @source 'layouts/**/*.html';
 @source 'content/**/*.md';
@@ -32,41 +30,57 @@
   .container-page {
     @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8;
   }
-  .grid-auto-fit-center {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(17rem, 1fr));
-    justify-content: center;
-    max-width: 75rem;
-    margin-inline: auto;
+  .container-prose {
+    @apply mx-auto w-full max-w-3xl px-4 sm:px-6 lg:px-8;
   }
-  .grid-auto-fit-member {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(12.5rem, 1fr));
+  .section-padding {
+    @apply py-16 sm:py-24;
   }
-  .grid-auto-fit-logo {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr));
+
+  /* Card base + interactive lift */
+  .card {
+    @apply rounded-lg border border-line/25 bg-surface shadow-sm;
+  }
+  .card-hover {
+    @apply transition hover:-translate-y-1 hover:shadow-lg;
+  }
+  .card-interactive {
+    @apply rounded-lg border border-line/25 bg-surface shadow-sm transition hover:-translate-y-1 hover:shadow-lg;
+  }
+
+  /* Tag / pill */
+  .tag {
+    @apply inline-flex items-center rounded-md bg-wash px-2.5 py-0.5 text-sm font-medium text-fg transition-colors hover:bg-accent/20 focus-visible:outline-hidden focus-visible:ring-2 focus-visible:ring-accent;
+  }
+
+  /* Primary CTA */
+  .btn-primary {
+    @apply inline-flex items-center justify-center rounded-lg bg-accent px-5 py-2.5 text-center text-sm font-bold text-on-accent shadow transition-colors hover:bg-accent/85 focus-visible:outline-hidden focus-visible:ring-4 focus-visible:ring-accent/40;
+  }
+
+  /* Focus ring helpers */
+  .focus-ring {
+    @apply focus-visible:outline-hidden focus-visible:ring-2 focus-visible:ring-accent;
+  }
+  .focus-ring-4 {
+    @apply focus-visible:outline-hidden focus-visible:ring-4 focus-visible:ring-accent/40;
   }
 }
 
-@layer utilities {
-  .prose {
-    /* Roles flip with .dark, so prose needs no `prose-invert` variant. */
-    --tw-prose-body: var(--color-fg);
-    --tw-prose-headings: var(--color-fg);
-    --tw-prose-lead: var(--color-muted);
-    --tw-prose-links: var(--color-accent);
-    --tw-prose-bold: var(--color-fg);
-    --tw-prose-counters: var(--color-muted);
-    --tw-prose-bullets: var(--color-line);
-    --tw-prose-hr: var(--color-line);
-    --tw-prose-quotes: var(--color-fg);
-    --tw-prose-quote-borders: var(--color-line);
-    --tw-prose-captions: var(--color-muted);
-    --tw-prose-code: var(--color-accent);
-    --tw-prose-pre-code: var(--color-line);
-    --tw-prose-pre-bg: var(--color-fg);
-    --tw-prose-th-borders: var(--color-line);
-    --tw-prose-td-borders: var(--color-line);
-  }
+@utility grid-auto-fit-center {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(17rem, 1fr));
+  justify-content: center;
+  max-width: 75rem;
+  margin-inline: auto;
+}
+
+@utility grid-auto-fit-member {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(12.5rem, 1fr));
+}
+
+@utility grid-auto-fit-logo {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr));
 }

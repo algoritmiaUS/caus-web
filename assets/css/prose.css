@@ -2,9 +2,31 @@
  * prose.css
  * CSS-only replacement for the base `.prose` styles from
  * @tailwindcss/typography.
-*/
+ * Variables flip with `.dark` (see colors.css) so no `prose-invert` needed.
+ */
 
 @layer components {
+  .prose {
+    /* Theme roles — co-located with prose rules so the bundle is self-contained. */
+    --tw-prose-body: var(--color-fg);
+    --tw-prose-headings: var(--color-fg);
+    --tw-prose-lead: var(--color-muted);
+    --tw-prose-links: var(--color-accent);
+    --tw-prose-bold: var(--color-fg);
+    --tw-prose-counters: var(--color-muted);
+    --tw-prose-bullets: var(--color-line);
+    --tw-prose-hr: var(--color-line);
+    --tw-prose-quotes: var(--color-fg);
+    --tw-prose-quote-borders: var(--color-line);
+    --tw-prose-captions: var(--color-muted);
+    --tw-prose-code: var(--color-accent);
+    /* pre: light text on dark bg — line on fg = 7:1 */
+    --tw-prose-pre-code: var(--color-line);
+    --tw-prose-pre-bg: var(--color-fg);
+    --tw-prose-th-borders: var(--color-line);
+    --tw-prose-td-borders: var(--color-line);
+  }
+
   .prose {
     color: var(--tw-prose-body);
     max-width: 65ch;
@@ -277,9 +299,6 @@
 
   .prose :where(tbody td):not(:where([class~='not-prose'], [class~='not-prose'] *)) {
     vertical-align: baseline;
-  }
-
-  .prose :where(tbody td):not(:where([class~='not-prose'], [class~='not-prose'] *)) {
     padding-top: 0.5714286em;
     padding-inline-end: 0.5714286em;
     padding-bottom: 0.5714286em;
