@@ -1,15 +1,18 @@
 <header
   class="top-0 z-50 flex w-full flex-col max-w-full px-4 py-4 mx-auto text-paper bg-ink sticky lg:items-center lg:justify-between lg:flex-row lg:px-8"
 >
+  {{- $logoMeta := partial "components/image-meta.html" (dict "src" "images/global/logo-caus.webp" "page" .) -}}
   <div class="flex flex-row items-center justify-between">
     <a
       href="{{ "/" | relLangURL }}"
       class="flex text-paper transition duration-1000 ease-in-out group"
     >
       <img
-        src="{{ "images/global/logo-caus.webp" | relURL }}"
+        src="{{ $logoMeta.src | relURL }}"
         class="transition-opacity h-9 w-9 group-hover:opacity-50 group-focus:opacity-70"
         alt="{{ site.Title }} Logo"
+        {{ with $logoMeta.width }}width="{{ . }}"{{ end }}
+        {{ with $logoMeta.height }}height="{{ . }}"{{ end }}
       />
       <span
         class="mt-1 ml-3 text-xl font-black tracking-tight text-paper uppercase transition-colors group-hover:text-paper/60"

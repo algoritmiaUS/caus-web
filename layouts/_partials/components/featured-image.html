@@ -3,12 +3,12 @@
 {{- with $page.Params.featured_image -}}
   {{- with resources.Get . -}}
     {{- if eq $variant "card" -}}
-      {{- $img := (.Resize "550x webp q80").RelPermalink -}}
+      {{- $img := .Resize "550x webp q80" -}}
       <img
-        src="{{ $img }}"
+        src="{{ $img.RelPermalink }}"
         class="aspect-[3/2] w-full object-cover"
-        width="550"
-        height="367"
+        width="{{ $img.Width }}"
+        height="{{ $img.Height }}"
         loading="lazy"
         decoding="async"
         alt="{{ $page.Title }}"
@@ -21,6 +21,7 @@
         srcset="{{ $small.RelPermalink }} {{ $small.Width }}w, {{ $large.RelPermalink }} {{ $large.Width }}w"
         class="object-fill overflow-hidden rounded-lg shadow-lg ring-4 ring-line/40"
         width="{{ $large.Width }}"
+        height="{{ $large.Height }}"
         alt="{{ $page.Title }}"
       />
     {{- end -}}

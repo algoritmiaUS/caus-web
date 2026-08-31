@@ -5,11 +5,14 @@
       {{ range $logos }}
         {{ $logoAlt := .alt }}
         {{ $image := .image }}
+        {{ $meta := partial "components/image-meta.html" (dict "src" $image "page" $.Page) }}
         <li class="flex items-center justify-center rounded-2xl bg-paper p-6">
           <img
-            src="{{ $image | relURL }}"
+            src="{{ $meta.src | relURL }}"
             alt="{{ $logoAlt }}"
             loading="lazy"
+            {{ with $meta.width }}width="{{ . }}"{{ end }}
+            {{ with $meta.height }}height="{{ . }}"{{ end }}
             class="max-h-16 w-auto object-contain"
           />
         </li>

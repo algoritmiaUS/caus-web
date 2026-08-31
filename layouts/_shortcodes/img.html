@@ -1,15 +1,30 @@
-{{- $src := .Get "src" -}}
+{{- $src := .Get "src" | strings.TrimPrefix "./" -}}
 {{- $alt := .Get "alt" | default "" -}}
 {{- $caption := .Get "caption" -}}
 {{- $presets := dict
   "small" "w-80 h-auto rounded-lg"
 -}}
 {{- $class := index $presets (.Get "layout" | default "") | default (.Get "class") | default "w-full max-w-xl flex-1 rounded-xl" -}}
+{{- $meta := partial "components/image-meta.html" (dict "src" $src "page" .Page) -}}
 {{- if $caption -}}
   <figure class="not-prose my-6 flex flex-col items-center">
-    <img src="{{ $src }}" alt="{{ $alt }}" class="{{ $class }}" loading="lazy" />
+    <img
+      src="{{ $meta.src }}"
+      alt="{{ $alt }}"
+      class="{{ $class }}"
+      {{ with $meta.width }}width="{{ . }}"{{ end }}
+      {{ with $meta.height }}height="{{ . }}"{{ end }}
+      loading="lazy"
+    />
     <figcaption class="mt-2 text-center text-xs text-muted">{{ $caption }}</figcaption>
   </figure>
 {{- else -}}
-  <img src="{{ $src }}" alt="{{ $alt }}" class="{{ $class }}" loading="lazy" />
+  <img
+    src="{{ $meta.src }}"
+    alt="{{ $alt }}"
+    class="{{ $class }}"
+    {{ with $meta.width }}width="{{ . }}"{{ end }}
+    {{ with $meta.height }}height="{{ . }}"{{ end }}
+    loading="lazy"
+  />
 {{- end -}}

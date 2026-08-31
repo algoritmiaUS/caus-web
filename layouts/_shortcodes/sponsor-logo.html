@@ -1,13 +1,27 @@
-{{- $src := strings.TrimPrefix "/" (.Get "src") | relURL -}}
+{{- $raw := .Get "src" -}}
 {{- $alt := .Get "alt" -}}
 {{- $href := .Get "href" -}}
 {{- $imgClass := .Get "class" | default "max-h-20 w-auto object-contain" -}}
+{{- $meta := partial "components/image-meta.html" (dict "src" $raw "page" .Page) -}}
 <div class="not-prose my-6 flex justify-center rounded-2xl bg-paper p-6 max-w-md mx-auto">
   {{- with $href -}}
     <a href="{{ . }}" class="flex justify-center"
-      ><img src="{{ $src }}" alt="{{ $alt }}" class="{{ $imgClass }}" loading="lazy"
+      ><img
+        src="{{ $meta.src | relURL }}"
+        alt="{{ $alt }}"
+        class="{{ $imgClass }}"
+        {{ with $meta.width }}width="{{ . }}"{{ end }}
+        {{ with $meta.height }}height="{{ . }}"{{ end }}
+        loading="lazy"
     /></a>
   {{- else -}}
-    <img src="{{ $src }}" alt="{{ $alt }}" class="{{ $imgClass }}" loading="lazy" />
+    <img
+      src="{{ $meta.src | relURL }}"
+      alt="{{ $alt }}"
+      class="{{ $imgClass }}"
+      {{ with $meta.width }}width="{{ . }}"{{ end }}
+      {{ with $meta.height }}height="{{ . }}"{{ end }}
+      loading="lazy"
+    />
   {{- end -}}
 </div>

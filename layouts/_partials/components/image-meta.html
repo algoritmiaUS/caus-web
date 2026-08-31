@@ -1,0 +1,28 @@
+{{- /* image-meta.html — resolves an image reference to its real src + natural dimensions.
+  Takes a dict { src, page }. `page` should be the page whose bundle resources are checked
+  (it may be empty or a non-page value — then only site-root static files are resolved).
+  Returns a dict { src, width, height }; width/height are empty when unknown.
+  Callers should guard with `with $meta.width` / `with $meta.height` to only emit known attrs.
+  */
+-}}
+{{- $src := .src -}}
+{{- $page := .page -}}
+{{- $width := "" -}}
+{{- $height := "" -}}
+{{- with $page.Resources -}}
+  {{- $res := .GetMatch $src -}}
+  {{- if $res -}}
+    {{- $src = $res.RelPermalink -}}
+    {{- $width = $res.Width -}}
+    {{- $height = $res.Height -}}
+  {{- end -}}
+{{- end -}}
+{{- if not $width -}}
+  {{- $file := printf "static/%s" (strings.TrimPrefix "/" $src) -}}
+  {{- if os.FileExists $file -}}
+    {{- $cfg := imageConfig $file -}}
+    {{- $width = $cfg.Width -}}
+    {{- $height = $cfg.Height -}}
+  {{- end -}}
+{{- end -}}
+{{- return (dict "src" $src "width" $width "height" $height) -}}
