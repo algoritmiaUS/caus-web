@@ -1,9 +1,9 @@
 {{ define "main" }}
   <main>
     {{ partial "home/hero.html" . }}
-    {{ partial "home/split-feature.html" (dict "key" "mission" "image" site.Params.P1.Image "class" "py-16 sm:py-24" "imageFirst" true) }}
-    {{ partial "home/split-feature.html" (dict "key" "challenge" "image" site.Params.P2.Image "class" "bg-canvas py-16 sm:py-24") }}
-    {{ partial "home/sponsors.html" . }}
+    {{ partial "home/split-feature.html" (dict "key" "mission" "image" site.Params.home.mission.image "class" "py-16 sm:py-24" "imageFirst" true) }}
+    {{ partial "home/split-feature.html" (dict "key" "challenge" "image" site.Params.home.challenge.image "class" "bg-canvas py-16 sm:py-24") }}
+    {{ partial "home/community-partners.html" . }}
     {{ if eq .Language.Name "es" }}{{ partial "home/events.html" . }}{{ end }}
   </main>
 {{ end }}
