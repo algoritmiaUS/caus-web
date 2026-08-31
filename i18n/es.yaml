@@ -1,13 +1,13 @@
 footer.rights:
   other: "Reservados todos los derechos."
 
-header.theme_toggle:
+header.theme-toggle:
   other: "Cambiar tema"
 
 post.tags:
   other: "Etiquetas:"
 
-post.read_time:
+post.read-time:
   other: "min de lectura"
 
 news.heading:
@@ -16,14 +16,14 @@ news.events:
   other: "Eventos"
 news.latest:
   other: "Noticias"
-news.calendar_title:
+news.calendar-title:
   other: "Calendario de eventos del Club de Algoritmia de la Universidad de Sevilla"
 
-error.404_title:
+error.404-title:
   other: "Ooooops, falta algo."
-error.404_message:
+error.404-message:
   other: "Lo sentimos, no podemos encontrar esa página."
-error.404_button:
+error.404-button:
   other: "Volver a la página principal"
 
 hero.moto:
@@ -39,7 +39,7 @@ hero.whatsapp:
 mission.heading:
   other: "Nuestra misión"
 
-mission.image_alt:
+mission.image-alt:
   other: "Participantes del ComplicauS 5, el concurso de programación del CAUS"
 
 mission.description:
@@ -54,7 +54,7 @@ mission.description:
 challenge.heading:
   other: "Desafíos, comunidad y diversión en el CAUS"
 
-challenge.image_alt:
+challenge.image-alt:
   other: "Salida al rocódromo del Club de Algoritmia"
 
 challenge.description:
@@ -65,17 +65,17 @@ challenge.description:
     técnico y la diversión es clave para el crecimiento personal y profesional. ¡Únete a nosotros y
     disfruta de un ambiente donde el código y la comunidad van de la mano!"
 
-community_partners.heading:
+community-partners.heading:
   other: "Nuestros patrocinadores"
 
-community_partners.description:
+community-partners.description:
   other:
     "El CAUS cuenta con el apoyo de patrocinadores dedicados, quienes hacen posible que sigamos
     promoviendo el aprendizaje y el desarrollo en algoritmia. Gracias a su colaboración, trabajamos
     juntos para construir una comunidad más conectada y ofrecer oportunidades valiosas para el
     crecimiento y la innovación."
 
-community_partners.cta:
+community-partners.cta:
   other: "Conozca a nuestros patrocinadores"
 
 events.heading:
@@ -103,17 +103,17 @@ pagination.last:
 
 administrators:
   other: "Administradores"
-administrators_desc:
+administrators-desc:
   other: "El equipo detrás de todos los eventos!"
 collaborators:
   other: "Colaboradores"
-collaborators_desc:
+collaborators-desc:
   other: "Nuestro apoyo cuando más lo necesitamos!"
-old_admins:
+old-admins:
   other: "Antiguos administradores"
-old_admins_desc:
+old-admins-desc:
   other: "¡Os querremos siempre! ❤️"
 members:
   other: "Algunos miembros"
-members_desc:
+members-desc:
   other: "Parte de nuestra gran comunidad"

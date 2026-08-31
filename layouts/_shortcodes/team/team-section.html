@@ -1,14 +1,14 @@
 {{ $groups := slice
   (dict "key" "administrators" "members" hugo.Data.members.administrators "wrap" "col-span-full text-center" "gap" "mb-2" "grid" "grid-auto-fit-center gap-6" "opts" dict)
-  (dict "key" "collaborators" "members" hugo.Data.members.collaborators "wrap" "col-span-full mt-12 text-center" "gap" "mb-2" "grid" "grid-auto-fit-center gap-6" "opts" (dict "show_role" false))
-  (dict "key" "old_admins" "members" hugo.Data.members.old_admins "wrap" "col-span-full mt-12 text-center" "gap" "mb-2" "grid" "grid-auto-fit-center gap-6" "opts" (dict "compact" true "square" true "show_dates" true))
-  (dict "key" "members" "members" hugo.Data.members.members "wrap" "col-span-full mt-6 text-center" "gap" "mb-4" "grid" "grid-auto-fit-member gap-4" "opts" (dict "compact" true "show_role" false "show_socials" false))
+  (dict "key" "collaborators" "members" hugo.Data.members.collaborators "wrap" "col-span-full mt-12 text-center" "gap" "mb-2" "grid" "grid-auto-fit-center gap-6" "opts" (dict "show-role" false))
+  (dict "key" "old-admins" "members" (index hugo.Data.members "old-admins") "wrap" "col-span-full mt-12 text-center" "gap" "mb-2" "grid" "grid-auto-fit-center gap-6" "opts" (dict "compact" true "square" true "show-dates" true))
+  (dict "key" "members" "members" hugo.Data.members.members "wrap" "col-span-full mt-6 text-center" "gap" "mb-4" "grid" "grid-auto-fit-member gap-4" "opts" (dict "compact" true "show-role" false "show-socials" false))
 }}
 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
   {{ range $g := $groups }}
     <div class="{{ $g.wrap }}">
       <h2 class="text-2xl font-bold {{ $g.gap }}">{{ i18n $g.key }}</h2>
-      {{ with i18n (printf "%s_desc" $g.key) }}
+      {{ with i18n (printf "%s-desc" $g.key) }}
         <p class="text-muted text-lg">{{ . }}</p>
       {{ end }}
       <div class="{{ $g.grid }} mt-6">
