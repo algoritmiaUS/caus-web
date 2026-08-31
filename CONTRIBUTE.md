@@ -21,7 +21,7 @@ Gracias por querer contribuir a la web del CAUS. Este documento recoge **cómo c
    bun check:naming  # kebab-case, imágenes y carpetas news (scripts/check-naming.ts)
    bun format        # formatea el código
    bun convert       # si añadiste png/jpg → convierte a webp
-   bun run build         # debe compilar sin errores
+   bun run build     # debe compilar sin errores
    ```
 
 4. **Abre una Pull Request** contra `main`. Describe qué cambia y añade capturas si es visual.

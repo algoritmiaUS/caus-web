@@ -27,7 +27,14 @@
 
 
 <div class="{{ $wrapperClass }}">
-  <img src="{{ $m.image }}" alt="{{ $m.name }}" class="{{ $imageClass }}" />
+  {{- $meta := partial "components/image-meta.html" (dict "src" $m.image) -}}
+  <img
+    src="{{ $meta.src }}"
+    alt="{{ $m.name }}"
+    class="{{ $imageClass }}"
+    {{ with $meta.width }}width="{{ . }}"{{ end }}
+    {{ with $meta.height }}height="{{ . }}"{{ end }}
+  />
   <h3 class="text-base font-bold mt-3 truncate">{{ $m.name }}</h3>
   {{ if and $role $m.role }}
     <p class="text-muted text-sm truncate">

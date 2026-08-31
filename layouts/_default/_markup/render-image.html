@@ -1,0 +1,10 @@
+{{- /* render-image.html — adds explicit width/height to markdown images (![alt](src)). */ -}}
+{{- $meta := partial "components/image-meta.html" (dict "src" .Destination "page" .Page) -}}
+<img
+  src="{{ $meta.src }}"
+  alt="{{ .PlainText }}"
+  loading="lazy"
+  decoding="async"
+  {{ with $meta.width }}width="{{ . }}"{{ end }}
+  {{ with $meta.height }}height="{{ . }}"{{ end }}
+/>
