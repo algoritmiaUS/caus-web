@@ -55,13 +55,13 @@ challenge.description:
     enjoyment is key to both personal and professional growth. Join us and enjoy an environment
     where code and community go hand in hand!"
 
-sponsors.heading:
+community_partners.heading:
   other: "Our Sponsors"
 
-sponsors.cta:
+community_partners.cta:
   other: "Meet our sponsors"
 
-sponsors.description:
+community_partners.description:
   other:
     "CAUS is supported by dedicated partners and sponsors who make it possible for us to continue
     promoting learning and development in algorithms. Thanks to their collaboration, we work

@@ -5,8 +5,8 @@ featured_image: images/featured/charlas.webp
 summary: Este año, el Club de Algoritmia de la Universidad de Sevilla ofrecerá charlas y talleres sobre informática, dirigidos tanto por profesionales como por estudiantes.
 description: Durante el curso 2025-26, el Club de Algoritmia de la Universidad de Sevilla organizará una serie de charlas y talleres prácticos en temas de informática, dirigidos por expertos de la industria, profesores y estudiantes de la propia universidad. Estas actividades ofrecen una excelente oportunidad para profundizar en diversos temas y habilidades en programación y algoritmia, además de promover el intercambio de conocimientos entre la comunidad académica. ¡Anímate a participar y contribuir con tus propias ideas!
 author: Administradores CAUS
-categories: eventos
-tags: ["eventos", "charlas"]
+categories: events
+tags: ['events', 'talks']
 ---
 
 Como anunciamos en la sesión de presentación, este curso vamos a organizar charlas y talleres relacionados con la informática por parte de profesionales externos, profesores e incluso alumnos (tú mismo!).
@@ -16,7 +16,7 @@ Como anunciamos en la sesión de presentación, este curso vamos a organizar cha
 
 {{< base/div >}}
 
-{{< charla
+{{< talk
     title="Geometría hiperbólica"
     date="Jueves, 9 de octubre de 2025"
     time="19:00"
@@ -24,9 +24,9 @@ Como anunciamos en la sesión de presentación, este curso vamos a organizar cha
     speaker="Pedro Almagro (Profesor de la ETSII)"
 >}}
 Charla introductoria en la que se explicará cómo los sistemas complejos pueden representarse y analizarse mediante geometría hiperbólica. Se introducirán los conceptos de sistemas complejos, redes complejas, así como sus características fundamentales, mostrando cómo su estructura oculta puede entenderse en espacios hiperbólicos de baja dimensión. La sesión debatirá aplicaciones en eficiencia algorítmica, modelado de datos y visualización de grandes grafos.
-{{< /charla >}}
+{{< /talk >}}
 
-{{< charla
+{{< talk
     title="Hablando de Ramanujan con Renato: Lo que no te contaron de las matemáticas de Ramanujan"
     date="Jueves, 23 de octubre de 2025"
     time="19:00"
@@ -34,6 +34,6 @@ Charla introductoria en la que se explicará cómo los sistemas complejos pueden
     speaker="Renato Álvarez-Nodarse (Catedrático de la Facultad de Matemáticas de la US)"
 >}}
 Pudiera ser que Srinivasa Ramanujan sea uno de los matemáticos más conocidos por los no matemáticos. De él se han escrito novelas y se han hecho películas, siendo la más conocida "The Man Who Knew Infinity". Pero ¿qué hizo a Ramanujan tan especial? En esta **charla informal** hablaremos de algunas de las matemáticas que hizo el genio indio y en particular del casi desconocido mundo para el no iniciado de las q-series.
-{{< /charla >}}
+{{< /talk >}}
 
 {{< /base/div >}}

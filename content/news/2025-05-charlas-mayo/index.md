@@ -5,8 +5,8 @@ featured_image: images/featured/charlas.webp
 summary: Charlas y talleres organizados por el CAUS en mayo de 2025. Se trata de ponencias sobre informática tanto de profesionales como de estudiantes.
 description: El Club de Algoritmia de la Universidad de Sevilla organiza una serie de charlas y talleres prácticos en temas de informática, dirigidos por expertos de la industria, profesores y estudiantes de la propia universidad. Estas actividades ofrecen una excelente oportunidad para profundizar en diversos temas y habilidades en programación y algoritmia, además de promover el intercambio de conocimientos entre la comunidad académica. ¡Anímate a participar y contribuir con tus propias ideas!
 author: Administradores CAUS
-categories: eventos
-tags: ["eventos", "charlas"]
+categories: events
+tags: ['events', 'talks']
 ---
 
 Como anunciamos en la sesión de presentación, este curso estamos organizando charlas y talleres relacionados con la informática por parte de profesionales externos, profesores e incluso alumnos (tú mismo!).
@@ -18,7 +18,7 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
 
 {{< base/div >}}
 
-{{< charla
+{{< talk
     title="100 años de la mecánica cuántica: la teoría más desconcertante y revolucionaria que haya existido jamás"
     date="Jueves, 22 de mayo de 2025"
     time="17:30-19:00"
@@ -29,6 +29,6 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
 En abril de 1900, Lord Kelvin afirmó en la Royal Institution que solo quedaban dos pequeñas “nubecillas” por resolver en la física: la constancia de la velocidad de la luz y la equipartición de la energía. La primera llevó a la Teoría de la Relatividad; la segunda, al nacimiento de la teoría cuántica.
 
 Esta charla se centrará en esa segunda “nubecilla”. Como dijo Niels Bohr: "Si no estás confundido por la física cuántica, entonces realmente no la has entendido", y Richard Feynman añadió: "Creo que puedo decir con seguridad que nadie entiende la mecánica cuántica." El objetivo será arrojar algo de luz sobre el motivo de estas célebres afirmaciones.
-{{< /charla >}}
+{{< /talk >}}
 
 {{< /base/div >}}

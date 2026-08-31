@@ -14,18 +14,16 @@
       </ul>
     </nav>
     <div class="flex justify-center mt-8 space-x-6">
-      {{ range $name, $social := site.Params.social_media }}
-        {{ if $social.enabled }}
-          <a
-            href="{{ $social.url }}"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="text-paper/80 hover:text-paper"
-          >
-            <span class="sr-only">{{ $name }}</span>
-            {{ partial "components/svg.html" (dict "name" $name) }}
-          </a>
-        {{ end }}
+      {{ range $name, $url := site.Params.social_media }}
+        <a
+          href="{{ $url }}"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="text-paper/80 hover:text-paper"
+        >
+          <span class="sr-only">{{ $name }}</span>
+          {{ partial "components/svg.html" (dict "name" $name) }}
+        </a>
       {{ end }}
     </div>
     <p class="mt-8 text-base text-center text-paper/80">

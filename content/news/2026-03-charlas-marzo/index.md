@@ -5,8 +5,8 @@ featured_image: images/featured/charlas.webp
 summary: Charlas y talleres organizados por el CAUS en marzo de 2026. Se trata de ponencias sobre informática tanto de profesionales como de estudiantes.
 description: El Club de Algoritmia de la Universidad de Sevilla organiza una serie de charlas y talleres prácticos en temas de informática, dirigidos por expertos de la industria, profesores y estudiantes de la propia universidad. Estas actividades ofrecen una excelente oportunidad para profundizar en diversos temas y habilidades en programación y algoritmia, además de promover el intercambio de conocimientos entre la comunidad académica. ¡Anímate a participar y contribuir con tus propias ideas!
 author: Administradores CAUS
-categories: eventos
-tags: ["eventos", "charlas"]
+categories: events
+tags: ['events', 'talks']
 ---
 
 Como anunciamos en la sesión de presentación, este curso estamos organizando charlas y talleres relacionados con la informática por parte de profesionales externos, profesores e incluso alumnos (¡tú mismo!).
@@ -18,7 +18,7 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
 
 {{< base/div >}}
 
-{{< charla
+{{< talk
     title="From ChatGPT User to AI Builder"
     date="Martes, 24 de marzo de 2026"
     time="20:00"
@@ -28,6 +28,6 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
     stream_url="https://www.youtube.com/live/xG6bDoLRmDw"
 >}}
 Step beyond using AI and start building with it! In this interactive workshop, you’ll learn the fundamentals of LLMs and discover how tools like ChatGPT actually work. Then you’ll take it a step further by creating your own custom GPT and exploring how AI can be connected to real tools and workflows. No prior AI experience is required, just curiosity and the desire to turn AI from something you use into something you build. Oh, and you might even win a fun prize!
-{{< /charla >}}
+{{< /talk >}}
 
 {{< /base/div >}}

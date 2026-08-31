@@ -31,54 +31,13 @@ pagination:
 
 # Site parameters
 params:
-  title_short: CAUS
-  author: Club Algoritmia de la Universidad de Sevilla
-  og_image: /images/global/logo-caus.webp
-  theme_color: "#ffffff"
-
-  disable_theme_toggle: false
-
-  p1:
-    image: "images/home/complicaus-5.webp"
-
-  p2:
-    image: "images/home/roco.webp"
-
-  p3:
-    logos:
-      - identifier: a
-        image: "images/global/logo-nd.webp"
-        alt: "Logo de Next Digital"
-      - identifier: b
-        image: "images/global/logo-etsii-color.webp"
-        alt:
-          "Logo de la Escuela Técnica Superior de Ingeniería Informática de la Universidad de
-          Sevilla"
-
   social_media:
-    github:
-      enabled: true
-      url: "https://github.com/algoritmiaUS"
-
-    linkedin:
-      enabled: true
-      url: "https://linkedin.com/company/club-de-algoritmia-universidad-de-sevilla"
-
-    whatsapp:
-      enabled: true
-      url: "https://chat.whatsapp.com/DFm3DnLHbGn4vWimWN1Wmc"
-
-    instagram:
-      enabled: true
-      url: "https://instagram.com/clubalgoritmiaus"
-
-    twitter:
-      enabled: true
-      url: "https://x.com/algoritmiaus"
-
-    youtube:
-      enabled: true
-      url: "https://www.youtube.com/@ClubAlgoritmiaUS"
+    github: "https://github.com/algoritmiaUS"
+    linkedin: "https://linkedin.com/company/club-de-algoritmia-universidad-de-sevilla"
+    whatsapp: "https://chat.whatsapp.com/DFm3DnLHbGn4vWimWN1Wmc"
+    instagram: "https://instagram.com/clubalgoritmiaus"
+    twitter: "https://x.com/algoritmiaus"
+    youtube: "https://www.youtube.com/@ClubAlgoritmiaUS"
 
 # Content
 taxonomies:

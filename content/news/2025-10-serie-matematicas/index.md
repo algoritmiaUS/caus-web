@@ -5,14 +5,14 @@ featured_image: images/featured/charlas.webp
 summary: Una serie de charlas sobre las matemáticas, presentada por el catedrático Renato Álvarez-Nodarse.
 description: Durante el curso 2025-2026, el catedrático Renato Álvarez-Nodarse ofrecerá una serie de charlas apasionantes sobre matemáticas. La primera estará dedicada a explorar las contribuciones del genio indio Srinivasa Ramanujan.
 author: Administradores CAUS
-categories: eventos
-tags: ["eventos", "charlas", "serie-matematicas"]
+categories: events
+tags: ['events', 'talks', 'math-series']
 ---
 
 # Charlas impartidas
 
 {{< base/div >}}
-{{< charla
+{{< talk
     title="Hablando de Ramanujan con Renato: lo que no te contaron de las matemáticas de Ramanujan"
     date="Jueves, 23 de octubre de 2025"
     time="19:00"
@@ -23,9 +23,9 @@ tags: ["eventos", "charlas", "serie-matematicas"]
 Pudiera ser que Srinivasa Ramanujan sea uno de los matemáticos más conocidos por los no matemáticos.  
 De él se han escrito novelas y se han hecho películas, siendo la más conocida *The Man Who Knew Infinity*.  
 Pero ¿qué hizo a Ramanujan tan especial? En esta **charla informal** hablaremos de algunas de las matemáticas que hizo el genio indio y, en particular, del casi desconocido mundo, para el no iniciado, de las *q-series*.
-{{< /charla >}}
+{{< /talk >}}
 
-{{< charla
+{{< talk
     title="Tornados, olas del mar y gotas: ¡mates a la carga!"
     date="Jueves, 27 de noviembre de 2025"
     time="19:00"
@@ -34,9 +34,9 @@ Pero ¿qué hizo a Ramanujan tan especial? En esta **charla informal** hablaremo
     stream_url="https://www.youtube.com/live/cL0Gf9TBK-g"
 >}}
 En esta charla, realizando algunos experimentos, se pretende ilustrar el papel que juegan las matemáticas en la comprensión de cómo evolucionan los fluidos. Esto va desde el movimiento de los tornados, pasando por la ruptura de olas hasta la evolución de gotas. Se presentarán problemas clásicos, aplicaciones a nuestro día a día y habrá mucho dinero en juego... ¡Un millón de dólares!
-{{< /charla >}}
+{{< /talk >}}
 
-{{< charla
+{{< talk
     title="Grupos y Topología, un matrimonio feliz"
     date="Jueves, 26 de febrero de 2026"
     time="19:00"
@@ -45,9 +45,9 @@ En esta charla, realizando algunos experimentos, se pretende ilustrar el papel q
     stream_url="https://www.youtube.com/live/obpuO4YQsDQ"
 >}}
 La teoría de grupos y la topología se conocieron de jóvenes, se miraron a los ojos y empezaron a caminar juntas, dándole mucho cada una a la otra. En esta charla repasaremos algunos de los más bonitos encuentros que hicieron este matrimonio tan feliz.
-{{< /charla >}}
+{{< /talk >}}
 
-{{< charla
+{{< talk
     title="Empaquetamientos de esferas: no cabe ni un alfiler"
     date="Martes, 14 de abril de 2026"
     time="18:00"
@@ -56,5 +56,5 @@ La teoría de grupos y la topología se conocieron de jóvenes, se miraron a los
     stream_url="https://www.youtube.com/live/vy7b05gvRU4"
 >}}
 En esta charla hablaremos de simetría y orden en el espacio y de cómo un problema tan natural como preguntarse por cómo llenar lo más posible el espacio con esferas es tan difícil; algunas de sus soluciones involucran a tantas áreas de las matemáticas y aún hoy en día queda mucho que explorar.
-{{< /charla >}}
+{{< /talk >}}
 {{< /base/div >}}

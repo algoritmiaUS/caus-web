@@ -6,7 +6,7 @@ var lightboxImage = null;
 if (lightbox && lightboxPanel) {
   lightboxImage = document.createElement('img');
   lightboxImage.id = 'lightbox-image';
-  lightboxImage.alt = 'Imagen';
+  lightboxImage.alt = '';
   lightboxImage.className = 'mx-auto block h-auto max-h-[calc(90vh-2.5rem)] max-w-full rounded-md';
   lightboxPanel.insertBefore(lightboxImage, lightboxPanel.firstChild);
 }

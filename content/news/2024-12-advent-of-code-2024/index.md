@@ -5,8 +5,8 @@ featured_image: images/featured/advent-of-code-2024.webp
 summary: 'Únete al desafío del Advent of Code 2024 con el Club de Algoritmia de la Universidad de Sevilla. Resuelve problemas algorítmicos diarios, comparte tus soluciones y compite en nuestra leaderboard privada.'
 description: 'El Club de Algoritmia de la Universidad de Sevilla te invita a participar en el Advent of Code 2024, un emocionante reto de programación que se desarrolla durante el mes de diciembre. Descubre cómo unirte, comparte tus soluciones en nuestra comunidad de GitHub, y compite amistosamente en nuestra leaderboard privada. Es el momento perfecto para aprender, mejorar tus habilidades y divertirte resolviendo problemas algorítmicos.'
 author: Administradores CAUS
-categories: ['noticias']
-tags: ['noticias']
+categories: news
+tags: ['news']
 ---
 
 Ya ha comenzado el [Advent of Code](https://adventofcode.com/) de este año. Este reto consiste en resolver dos problemas de algoritmia cada día del Adviento (1-25 de diciembre). Los problemas van de más fáciles a más difíciles y, aunque salen dos al día, puedes resolverlos a tu ritmo.

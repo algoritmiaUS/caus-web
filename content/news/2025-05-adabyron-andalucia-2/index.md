@@ -6,8 +6,8 @@ summary: La II Edición Regional de Andalucía del concurso AdaByron reunió a m
 description: La II Edición Regional de Andalucía del Concurso AdaByron se celebró con gran éxito el 25 de abril, reuniendo a 46 equipos y más de 130 estudiantes de universidades andaluzas y la UNED. Durante 4 horas de intensa competición, los participantes resolvieron 11 problemas de alta dificultad. La sede de Sevilla destacó con tres equipos clasificados para la final nacional en Madrid. La organización y supervisión del evento fueron posibles gracias al compromiso del Club de Algoritmia de la Universidad de Sevilla y al trabajo coordinado entre las universidades andaluzas. Esta edición consolida el concurso como una cita clave para la promoción de la programación competitiva en la región.
 
 author: Administradores CAUS
-categories: eventos
-tags: ['eventos', 'adabyron', 'competiciones']
+categories: events
+tags: ['events', 'adabyron', 'competitions']
 ---
 
 El viernes 25 de abril se celebró en la ETSII la segunda edición de la **Regional de Andalucía** del concurso **AdaByron**, un certamen de programación cuyo objetivo es fomentar la participación de estudiantes en el prestigioso concurso internacional **ICPC**.

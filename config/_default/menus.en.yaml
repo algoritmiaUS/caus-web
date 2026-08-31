@@ -1,5 +1,5 @@
 main:
-  - identifier: init
+  - identifier: home
     name: Home
     url: /
     weight: 10

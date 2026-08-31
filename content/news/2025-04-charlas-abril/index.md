@@ -5,8 +5,8 @@ featured_image: images/featured/charlas.webp
 summary: Charlas y talleres organizados por el CAUS en abril de 2025. Se trata de ponencias sobre informática tanto de profesionales como de estudiantes.
 description: El Club de Algoritmia de la Universidad de Sevilla organiza una serie de charlas y talleres prácticos en temas de informática, dirigidos por expertos de la industria, profesores y estudiantes de la propia universidad. Estas actividades ofrecen una excelente oportunidad para profundizar en diversos temas y habilidades en programación y algoritmia, además de promover el intercambio de conocimientos entre la comunidad académica. ¡Anímate a participar y contribuir con tus propias ideas!
 author: Administradores CAUS
-categories: eventos
-tags: ["eventos", "charlas"]
+categories: events
+tags: ['events', 'talks']
 ---
 
 Como anunciamos en la sesión de presentación, este curso estamos organizando charlas y talleres relacionados con la informática por parte de profesionales externos, profesores e incluso alumnos (tú mismo!).
@@ -16,7 +16,7 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
 
 # Charlas de abril 2025
 
-{{< charla
+{{< talk
     title="Del “¿qué es NLP?” 🤔 al “¡ya entiendo los LLMs!” 🚀 – Introducción práctica para newbies"
     date="Jueves, 10 de abril de 2025"
     time="16:30"
@@ -31,4 +31,4 @@ Nos daremos un paseo desde los inicios del Procesamiento del Lenguaje Natural (N
 - **💻 Casos prácticos:** menos palabreo, más código. Fuera humo y ¡manos a la obra!
 - **🚀 Inspírate y sigue tu camino:** saldrás con una base inicial y un montón de ideas para seguir explorando por tu cuenta.
 
-{{< /charla >}}
+{{< /talk >}}
