@@ -1,4 +1,4 @@
-<div class="mx-auto mt-12 mb-4 grid max-w-7xl gap-4 px-4 md:grid-cols-3">
+<div class="container-page mt-12 mb-4 grid gap-4 md:grid-cols-3">
   {{ range sort .Paginator.Pages "Title" }}
     {{ $key := lower .Title }}
     {{ $display := .LinkTitle }}

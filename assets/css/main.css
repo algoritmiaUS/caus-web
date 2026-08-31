@@ -33,6 +33,14 @@
   .container-page {
     @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8;
   }
+  /* Narrow centered prose wrapper (single article/resources) */
+  .container-prose {
+    @apply mx-auto w-full max-w-3xl px-4 sm:px-6 lg:px-8;
+  }
+  /* Shared vertical rhythm for sections */
+  .section-padding {
+    @apply py-16 sm:py-24;
+  }
 }
 
 @utility grid-auto-fit-center {

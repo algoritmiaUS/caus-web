@@ -28,6 +28,10 @@
  * fg/muted(light) 8.3 · on-accent/accent ≥ 7. Two rules follow:
  *   - violet (accent in light) is never text on a dark surface (2.5) — gold is.
  *   - pale slate (muted in dark) is never text on white (2.2) — indigo is.
+ *
+ * Opacity scale (convention):
+ *   /20 subtle border (cards) · /25 card border · /30 divider · /40 ring ·
+ *   /60 overlay (lightbox ink/60) · /80 muted ink text · /85 hover fill
  */
 :root {
   --c-canvas: #efedee;

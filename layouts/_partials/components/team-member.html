@@ -18,7 +18,7 @@
 
 {{ $imageClass := "mt-0 mb-0 rounded-full object-cover" }}
 {{ if $square }}
-  {{ $imageClass = printf "%s aspect-square w-full max-w-[300px] mx-auto" $imageClass }}
+  {{ $imageClass = printf "%s aspect-square w-full max-w-72 mx-auto" $imageClass }}
 {{ else if $compact }}
   {{ $imageClass = printf "%s mx-auto" $imageClass }}
 {{ else }}

@@ -3,11 +3,11 @@
     <article>
       {{ partial "components/page-header.html" (dict "page" . "title" (i18n "news.heading")) }}
       {{ partial "news/calendar.html" . }}
-      <h2 class="mx-auto mt-16 max-w-7xl px-4 text-center text-3xl font-semibold text-muted">
+      <h2 class="container-page mt-16 text-center text-3xl font-semibold text-muted">
         {{ i18n "news.latest" }}
       </h2>
       {{ with .Content }}
-        <div class="max-w-2xl px-6 mx-auto mt-6 prose">
+        <div class="container-prose mt-6 prose">
           {{- . -}}
         </div>
       {{ end }}
