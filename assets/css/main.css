@@ -2,9 +2,6 @@
 @import './colors.css';
 @import './prose.css';
 
-@source not 'LICENSE';
-@source not '.github';
-
 @source 'layouts/**/*.html';
 @source 'content/**/*.md';
 
@@ -61,9 +58,12 @@
     @apply inline-flex items-center justify-center rounded-lg bg-accent px-5 py-2.5 text-center text-sm font-bold text-on-accent shadow transition-colors hover:bg-accent/85 focus-visible:outline-hidden focus-visible:ring-4 focus-visible:ring-accent/40;
   }
 
-  /* Focus ring helper (apply as class) */
+  /* Focus ring helpers */
   .focus-ring {
     @apply focus-visible:outline-hidden focus-visible:ring-2 focus-visible:ring-accent;
+  }
+  .focus-ring-4 {
+    @apply focus-visible:outline-hidden focus-visible:ring-4 focus-visible:ring-accent/40;
   }
 }
 
