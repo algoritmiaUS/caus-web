@@ -1,8 +1,8 @@
 ---
-title: 'Charlas y talleres - Mayo 2026'
-date: 2026-05-18T12:20:00+00:00
-featured_image: images/featured/charlas.webp
-summary: Charlas y talleres organizados por el CAUS en mayo de 2026. Se trata de ponencias sobre informática tanto de profesionales como de estudiantes.
+title: 'Charlas y talleres - Abril 2026'
+date: 2026-04-01T12:20:00+00:00
+featured_image: images/featured/talks.webp
+summary: Charlas y talleres organizados por el CAUS en abril de 2026. Se trata de ponencias sobre informática tanto de profesionales como de estudiantes.
 description: El Club de Algoritmia de la Universidad de Sevilla organiza una serie de charlas y talleres prácticos en temas de informática, dirigidos por expertos de la industria, profesores y estudiantes de la propia universidad. Estas actividades ofrecen una excelente oportunidad para profundizar en diversos temas y habilidades en programación y algoritmia, además de promover el intercambio de conocimientos entre la comunidad académica. ¡Anímate a participar y contribuir con tus propias ideas!
 author: Administradores CAUS
 categories: events
@@ -14,20 +14,17 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
 - [En este formulario podéis indicar el horario y la temática que mejor os viene para estas actividades](https://forms.gle/UFRSKaJdg7NxaRg69)
 - [En este otro podéis apuntaros para dar vuestra propia charla](https://forms.gle/LpYS4ih8dFgfuX7N7)
 
-# Charlas de Mayo
+# Charlas de Abril
 
 {{< base/div >}}
 {{< talk
-    title="Hay vida más allá de la IA y los datos: Robótica, drones, señales y algo de mates"
-    date="Viernes, 22 de mayo de 2026"
-    time="16:00"
-    location="Sala multiusos de la ETSII"
-    speaker="Miguel Pineda Martín - Matemático en Raphe mPhibr"
-    stream_url="https://www.youtube.com/live/j1E9kvFkEjU"
+    title="Empaquetamientos de esferas: no cabe ni un alfiler"
+    date="Martes, 14 de abril de 2026"
+    time="18:00"
+    location="Salón de Actos, Facultad de Matemáticas"
+    speaker="Alberto Castaño"
+    stream_url="https://www.youtube.com/live/vy7b05gvRU4"
 >}}
-Vengo de lejanas tierras de oriente a contarte cómo funciona tu coche, tu roomba y los robots de Marte.
-
-Padezco un extraño síndrome que me obliga a hablar de mates en cada charla. Me contendré todo lo que pueda, pero ven bajo tu propia responsabilidad.
+En esta charla hablaremos de simetría y orden en el espacio y de cómo un problema tan natural como preguntarse por cómo llenar lo más posible el espacio con esferas es tan difícil; algunas de sus soluciones involucran a tantas áreas de las matemáticas y aún hoy en día queda mucho que explorar.
 {{< /talk >}}
-
 {{< /base/div >}}
