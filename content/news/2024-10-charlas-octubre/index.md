@@ -18,7 +18,7 @@ Como anunciamos en la sesión de presentación, este curso vamos a organizar cha
 
 {{< base/div >}}
 
-{{< charla
+{{< talk
     title="Algoritmos Bit-wise"
     date="Jueves, 31 de octubre de 2024"
     time="15:30"
@@ -26,5 +26,5 @@ Como anunciamos en la sesión de presentación, este curso vamos a organizar cha
     speaker="Pablo Trinidad (Head of architecture en HOMA games y profesor de la ETSII)"
 >}}
 Un veterano de las competiciones de programación, Pablo nos hablará sobre algoritmos basados en operaciones a nivel de bit, una técnica que nunca hemos tratado en el club.
-{{< /charla >}}
+{{< /talk >}}
 {{< /base/div >}}

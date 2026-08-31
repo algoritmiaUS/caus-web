@@ -18,7 +18,7 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
 
 {{< base/div >}}
 
-{{< charla
+{{< talk
     title="Docker desde cero"
     date="Lunes, 17 de febrero de 2025"
     time="16:30-17:30"
@@ -28,9 +28,9 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
 >}}
 Docker es una herramienta fundamental para desarrolladores y científicos de datos, al permitir la creación, distribución y ejecución de aplicaciones en entornos aislados y reproducibles. Esto facilita la gestión de dependencias y el despliegue de proyectos.
 En esta ponencia-taller, Pablo Dávila (admin del CAUS) te enseñará cómo utilizar Docker para desarrollar y desplegar tu código.
-{{< /charla >}}
+{{< /talk >}}
 
-{{< charla
+{{< talk
     title="SOC: Tu laboratorio de ciberseguridad en Docker"
     date="Lunes, 24 de febrero de 2025"
     time="16:30-17:30"
@@ -39,6 +39,6 @@ En esta ponencia-taller, Pablo Dávila (admin del CAUS) te enseñará cómo util
     speaker="Roberto Lama Rodríguez (Security Delivery Analyst @ Accenture)"
 >}}
 Roberto es Ingeniero en Telecomunicaciones y Analista de ciberseguridad. En este taller exploraremos la arquitectura de un entorno de seguridad basado en Docker, donde desplegaremos y configuraremos herramientas clave como un IDS, un SIEM y un SIRP. A través de este laboratorio práctico, veremos cómo estas tecnologías trabajan juntas para la detección, análisis y respuesta ante incidentes de seguridad.
-{{< /charla >}}
+{{< /talk >}}
 
 {{< /base/div >}}

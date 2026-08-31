@@ -18,7 +18,7 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
 
 {{< base/div >}}
 
-{{< charla
+{{< talk
     title="Los algoritmos de un monoplaza autónomo de Fórmula Student"
     date="Jueves, 13 de noviembre de 2025"
     time="19:00"
@@ -32,9 +32,9 @@ Sevilla, que cuenta con un monoplaza autónomo de competición. En esta
 charla, nos contarán los entresijos de los distintos algoritmos que
 hacen funcionar un coche autónomo: desde la percepción basada en
 LiDAR hasta el SLAM, el path planning y el control del mismo.
-{{< /charla >}}
+{{< /talk >}}
 
-{{< charla
+{{< talk
     title="Ciberinteligencia Aumentada: Cómo la IA multiplica tu capacidad de análisis"
     date="Jueves, 20 de noviembre de 2025"
     time="19:00"
@@ -48,6 +48,6 @@ La avalancha de datos es real: más alertas, más fuentes, más ruido… y el mi
 🛠️ Segunda parte: PoCs en directo con ejemplos de IA aplicada a ciberinteligencia.
 
 Una sesión visual y práctica para entender cómo la IA no viene a sustituirnos… sino a llevar nuestro análisis al siguiente nivel.
-{{< /charla >}}
+{{< /talk >}}
 
 {{< /base/div >}}

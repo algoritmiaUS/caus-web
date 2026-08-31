@@ -16,7 +16,7 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
 
 # Charlas de abril 2025
 
-{{< charla
+{{< talk
     title="Del “¿qué es NLP?” 🤔 al “¡ya entiendo los LLMs!” 🚀 – Introducción práctica para newbies"
     date="Jueves, 10 de abril de 2025"
     time="16:30"
@@ -31,4 +31,4 @@ Nos daremos un paseo desde los inicios del Procesamiento del Lenguaje Natural (N
 - **💻 Casos prácticos:** menos palabreo, más código. Fuera humo y ¡manos a la obra!
 - **🚀 Inspírate y sigue tu camino:** saldrás con una base inicial y un montón de ideas para seguir explorando por tu cuenta.
 
-{{< /charla >}}
+{{< /talk >}}
