@@ -23,7 +23,9 @@
 
 <meta name="theme-color" content="{{ site.Params.theme_color | default "#fefdfd" }}" />
 
-<link rel="icon" type="image/svg+xml" href="images/icons/caus.svg" />
+{{ with resources.Get "images/icons/caus.svg" }}
+  <link rel="icon" type="image/svg+xml" href="{{ .RelPermalink }}" />
+{{ end }}
 
 {{ partial "head/meta.html" . }}
 
