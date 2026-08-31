@@ -5,17 +5,13 @@
 <section id="{{ $key }}" class="{{ .class }}">
   <div class="container-page grid items-start gap-12 lg:grid-cols-2 lg:gap-16">
     {{ if not .imageFirst }}{{ $heading }}{{ end }}
-    {{ with resources.Get .image }}
-      <img
-        src="{{ .RelPermalink }}"
-        width="{{ .Width }}"
-        height="{{ .Height }}"
-        class="h-auto w-full rounded-2xl shadow-xl"
-        alt="{{ i18n (printf "%s.image_alt" $key) }}"
-        loading="lazy"
-        decoding="async"
-      />
-    {{ end }}
+    <img
+      src="{{ .image | relURL }}"
+      class="h-auto w-full rounded-2xl shadow-xl"
+      alt="{{ i18n (printf "%s.image_alt" $key) }}"
+      loading="lazy"
+      decoding="async"
+    />
     {{ if .imageFirst }}{{ $heading }}{{ end }}
   </div>
 </section>
