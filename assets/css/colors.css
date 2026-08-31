@@ -33,6 +33,11 @@
  * Opacity scale (convention):
  *   /15 subtle fill (talk stream) · /20 subtle border · /25 card border · /30 divider ·
  *   /40 ring · /60 overlay (lightbox ink/60) · /80 muted ink text · /85 hover fill
+ *
+ * Radius scale:
+ *   md (6px) small controls (tags, icon buttons) · lg (8px) cards, buttons ·
+ *   xl (12px) tables, modals, toasts · 2xl (16px) hero/media, sponsor logos ·
+ *   full pills, avatars
  */
 :root {
   --c-canvas: #efedee;
