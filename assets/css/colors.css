@@ -1,6 +1,6 @@
 /*
  * colors.css — Site color palette (single source of truth).
- * How to change colors and related rules: see CONTRIBUTE.pdf.
+ * How to change colors and related rules: see CONTRIBUTE.md.
  *
  * Semantic roles: templates never reference raw hues, so re-theming the site
  * means editing only the hex values below. Values under `.dark` are picked up
