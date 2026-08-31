@@ -5,8 +5,8 @@ featured_image: images/featured/adabyron-andalucia-1.webp
 summary: La primera edición regional del concurso AdaByron en Andalucía reunió a 33 equipos de diversas universidades andaluzas en un evento de programación para impulsar la participación en el ICPC. El certamen se desarrolló simultáneamente en varias sedes universitarias, con una competición intensa que duró 4 horas. Dos equipos del CAUS se clasificaron para la final en Madrid.
 description: La I Edición Regional de Andalucía del concurso AdaByron se celebró con la participación de 33 equipos de universidades andaluzas en un emocionante certamen de programación. Durante 4 horas, los estudiantes enfrentaron 11 problemas complejos, destacando los equipos BoquerO(n³), LosdelDobleBueno y TuringIncomplete en sus respectivas categorías. Además, dos equipos del Club de Algoritmia se clasificaron para la gran final en Madrid. La competición fue posible gracias a la colaboración de las sedes universitarias y la dedicación de los jueces del CAUS.
 author: Administradores CAUS
-categories: eventos
-tags: ['eventos', 'adabyron', 'competiciones']
+categories: events
+tags: ['events', 'adabyron', 'competitions']
 ---
 
 El pasado **viernes 12 de abril** se celebró la primera edición de la **Regional de Andalucía** del concurso **AdaByron**, un certamen de programación cuyo objetivo es fomentar la participación de estudiantes en el prestigioso concurso internacional **ICPC**. Aunque provincias andaluzas ya habían participado previamente en regionales multisede o en regionales específicos, esta es la primera vez que se celebra una edición propia en la comunidad autónoma.

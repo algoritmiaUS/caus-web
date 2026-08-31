@@ -5,8 +5,8 @@ featured_image: images/featured/complicaus-foto-grupal-4.webp
 summary: 'El CompliCAUS IV reunió a estudiantes de distintos niveles para una intensa competición de programación organizada por el Club de Algoritmia de la Universidad de Sevilla.'
 description: 'La cuarta edición de CompliCAUS se celebró con éxito, congregando a estudiantes de diferentes instituciones y niveles académicos en un desafío de algoritmia de tres horas.'
 author: Administradores CAUS
-categories: eventos
-tags: ['eventos', 'complicaus', 'competiciones']
+categories: events
+tags: ['events', 'complicaus', 'competitions']
 ---
 
 El pasado viernes 10 de octubre tuvo lugar la cuarta edición de CompliCAUS, una competición de programación organizada por el Club de Algoritmia de la Universidad de Sevilla. Con el respaldo de la Escuela Técnica Superior de Ingeniería Informática (ETSII), el evento atrajo a estudiantes de diversas facultades, niveles académicos y centros educativos, incluyendo bachillerato y formación profesional, quienes se enfrentaron a un exigente reto de algoritmia de tres horas.

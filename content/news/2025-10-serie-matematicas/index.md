@@ -5,8 +5,8 @@ featured_image: images/featured/charlas.webp
 summary: Una serie de charlas sobre las matemáticas, presentada por el catedrático Renato Álvarez-Nodarse.
 description: Durante el curso 2025-2026, el catedrático Renato Álvarez-Nodarse ofrecerá una serie de charlas apasionantes sobre matemáticas. La primera estará dedicada a explorar las contribuciones del genio indio Srinivasa Ramanujan.
 author: Administradores CAUS
-categories: eventos
-tags: ["eventos", "charlas", "serie-matematicas"]
+categories: events
+tags: ['events', 'talks', 'math-series']
 ---
 
 # Charlas impartidas
