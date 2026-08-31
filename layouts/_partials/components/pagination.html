@@ -1,7 +1,7 @@
 {{ $pag := $.Paginator }}
 {{ if gt $pag.TotalPages 1 }}
   {{ $dotRendered := false }}
-  {{ $link := "inline-flex items-center px-4 pt-4 text-lg text-accent" }}
+  {{ $link := "inline-flex items-center px-4 pt-4 text-lg text-accent rounded focus-visible:outline-hidden focus-visible:ring-2 focus-visible:ring-accent" }}
 
 
   <nav

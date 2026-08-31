@@ -1,5 +1,6 @@
 @import 'tailwindcss';
 @import './colors.css';
+@import './prose.css';
 
 @source not 'LICENSE';
 @source not '.github';
@@ -32,41 +33,22 @@
   .container-page {
     @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8;
   }
-  .grid-auto-fit-center {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(17rem, 1fr));
-    justify-content: center;
-    max-width: 75rem;
-    margin-inline: auto;
-  }
-  .grid-auto-fit-member {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(12.5rem, 1fr));
-  }
-  .grid-auto-fit-logo {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr));
-  }
 }
 
-@layer utilities {
-  .prose {
-    /* Roles flip with .dark, so prose needs no `prose-invert` variant. */
-    --tw-prose-body: var(--color-fg);
-    --tw-prose-headings: var(--color-fg);
-    --tw-prose-lead: var(--color-muted);
-    --tw-prose-links: var(--color-accent);
-    --tw-prose-bold: var(--color-fg);
-    --tw-prose-counters: var(--color-muted);
-    --tw-prose-bullets: var(--color-line);
-    --tw-prose-hr: var(--color-line);
-    --tw-prose-quotes: var(--color-fg);
-    --tw-prose-quote-borders: var(--color-line);
-    --tw-prose-captions: var(--color-muted);
-    --tw-prose-code: var(--color-accent);
-    --tw-prose-pre-code: var(--color-line);
-    --tw-prose-pre-bg: var(--color-fg);
-    --tw-prose-th-borders: var(--color-line);
-    --tw-prose-td-borders: var(--color-line);
-  }
+@utility grid-auto-fit-center {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(17rem, 1fr));
+  justify-content: center;
+  max-width: 75rem;
+  margin-inline: auto;
+}
+
+@utility grid-auto-fit-member {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(12.5rem, 1fr));
+}
+
+@utility grid-auto-fit-logo {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr));
 }

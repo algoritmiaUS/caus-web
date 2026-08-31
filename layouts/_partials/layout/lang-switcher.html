@@ -5,7 +5,7 @@
       id="lang-toggle"
       type="button"
       title="{{ site.Language.Label }}"
-      class="flex grow items-center justify-start lg:justify-center px-4 py-2 mt-2 text-sm font-semibold rounded-lg lg:mt-0 hover:text-paper focus:text-paper hover:bg-accent/85 focus:bg-accent/85 focus:outline-hidden transition-colors"
+      class="flex grow items-center justify-start lg:justify-center px-4 py-2 mt-2 text-sm font-semibold rounded-lg lg:mt-0 hover:text-paper focus-visible:text-paper hover:bg-accent/85 focus-visible:bg-accent/85 focus-visible:outline-hidden focus-visible:ring-2 focus-visible:ring-accent transition-colors"
       aria-expanded="false"
       aria-controls="lang-panel"
     >
@@ -40,7 +40,7 @@
 
             <li>
               <a
-                class="flex items-center justify-start lg:justify-center w-full px-4 py-2 text-left lg:text-center text-base hover:text-paper hover:bg-accent/85 focus:bg-accent/85 focus:outline-hidden transition-colors"
+                class="flex items-center justify-start lg:justify-center w-full px-4 py-2 text-left lg:text-center text-base hover:text-paper hover:bg-accent/85 focus-visible:bg-accent/85 focus-visible:outline-hidden focus-visible:ring-2 focus-visible:ring-accent transition-colors"
                 href="{{ $targetURL }}"
                 title="{{ .Language.Label }}"
               >

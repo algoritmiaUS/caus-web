@@ -21,14 +21,6 @@
 {{ $styles := resources.Get "css/main.css" | css.TailwindCSS | minify | fingerprint }}
 <link rel="stylesheet" href="{{ $styles.RelPermalink }}" />
 
-{{ $needsProse := or .IsPage (eq .Section "resources") (eq .Section "achievements") (eq .Section "about") (eq .Section "news") (eq .Kind "section") }}
-{{/* or tighter: $needsProse := gt (len .Content) 0 — every prose wrapper is with .Content / .Content */}}
-{{ if $needsProse }}
-  {{ $prose := resources.Get "css/prose.css" | css.TailwindCSS | minify | fingerprint }}
-  <link rel="stylesheet" href="{{ $prose.RelPermalink }}" />
-{{ end }}
-
-
 <meta name="theme-color" content="{{ site.Params.theme_color | default "#fefdfd" }}" />
 
 <link rel="icon" type="image/svg+xml" href="images/icons/caus.svg" />
