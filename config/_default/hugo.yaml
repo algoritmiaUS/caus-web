@@ -32,10 +32,12 @@ pagination:
 # Site parameters
 params:
   theme_color: "#fefdfd"
+  whatsapp_gate:
+    action: "https://whatsapp-gate.clubalgoritmiaus.workers.dev/join"
+    turnstile_sitekey: "0x4AAAAAAEmPmfmz_mh0oaVs"
   social_media:
     github: "https://github.com/algoritmiaUS"
     linkedin: "https://linkedin.com/company/club-de-algoritmia-universidad-de-sevilla"
-    whatsapp: "https://chat.whatsapp.com/DFm3DnLHbGn4vWimWN1Wmc"
     instagram: "https://instagram.com/clubalgoritmiaus"
     twitter: "https://x.com/algoritmiaus"
     youtube: "https://www.youtube.com/@ClubAlgoritmiaUS"

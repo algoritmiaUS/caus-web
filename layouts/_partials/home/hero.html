@@ -10,18 +10,20 @@
       <p class="mx-auto mt-6 max-w-xl text-lg text-fg lg:mx-0">
         {{ i18n "hero.description" }}
       </p>
-      <div
-        class="mt-8 flex flex-col items-center gap-3 sm:flex-row sm:justify-center lg:justify-start"
+      <form
+        action="{{ site.Params.whatsapp_gate.action }}"
+        method="POST"
+        class="mt-8 flex flex-col items-center gap-4 sm:flex-row sm:justify-center lg:justify-start"
       >
-        <a
-          href="{{ site.Params.social_media.whatsapp }}"
-          class="btn-primary w-full sm:w-auto"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <div
+          class="cf-turnstile"
+          data-sitekey="{{ site.Params.whatsapp_gate.turnstile_sitekey }}"
+          data-theme="auto"
+        ></div>
+        <button type="submit" class="btn-primary w-full sm:w-auto">
           {{ i18n "hero.whatsapp" }}
-        </a>
-      </div>
+        </button>
+      </form>
     </div>
     <div class="flex justify-center lg:col-span-6">
       <img

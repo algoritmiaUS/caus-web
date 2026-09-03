@@ -31,6 +31,9 @@
 
 {{ $js := resources.Get "js/index.js" | js.Build | minify | fingerprint }}
 <script src="{{ $js.RelPermalink }}" defer></script>
+{{ if .IsHome }}
+  <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+{{ end }}
 {{ if .HasShortcode "achievements/rankings" }}
   {{ $lightbox := resources.Get "js/lightbox.js" | js.Build | minify | fingerprint }}
   <script src="{{ $lightbox.RelPermalink }}" defer></script>
