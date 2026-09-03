@@ -15,6 +15,19 @@ if (form) {
     if (statusEl && button.dataset.failed) statusEl.textContent = button.dataset.failed;
   }
 
+  function resetToVerifying() {
+    button.disabled = true;
+    if (button.dataset.verifying) button.textContent = button.dataset.verifying;
+    if (statusEl) statusEl.textContent = '';
+    if (typeof window.turnstile !== 'undefined' && window.turnstile.reset) {
+      try {
+        window.turnstile.reset();
+      } catch (e) {
+        /* widget not ready yet, callback will enable */
+      }
+    }
+  }
+
   window.onWhatsappTurnstileOk = function () {
     setOk();
   };
@@ -30,4 +43,13 @@ if (form) {
       setFail();
     }
   }, 8000);
+
+  form.addEventListener('submit', function () {
+    button.disabled = true;
+    window.setTimeout(resetToVerifying, 2000);
+  });
+
+  window.addEventListener('pageshow', function (e) {
+    if (e.persisted) resetToVerifying();
+  });
 }
