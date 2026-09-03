@@ -11,6 +11,7 @@
         {{ i18n "hero.description" }}
       </p>
       <form
+        id="whatsapp-gate"
         action="{{ site.Params.whatsapp_gate.action }}"
         method="POST"
         class="mt-8 flex flex-col items-center gap-4 sm:flex-row sm:justify-center lg:justify-start"
@@ -19,10 +20,23 @@
           class="cf-turnstile"
           data-sitekey="{{ site.Params.whatsapp_gate.turnstile_sitekey }}"
           data-theme="auto"
+          data-size="invisible"
+          data-callback="onWhatsappTurnstileOk"
+          data-error-callback="onWhatsappTurnstileFail"
+          data-expired-callback="onWhatsappTurnstileExpired"
         ></div>
-        <button type="submit" class="btn-primary w-full sm:w-auto">
-          {{ i18n "hero.whatsapp" }}
+        <button
+          id="whatsapp-submit"
+          type="submit"
+          disabled
+          class="btn-primary w-full disabled:cursor-not-allowed disabled:opacity-60 sm:w-auto"
+          data-label="{{ i18n "hero.whatsapp" }}"
+          data-verifying="{{ i18n "hero.whatsapp_verifying" }}"
+          data-failed="{{ i18n "hero.whatsapp_failed" }}"
+        >
+          {{ i18n "hero.whatsapp_verifying" }}
         </button>
+        <p id="whatsapp-status" role="status" aria-live="polite" class="sr-only"></p>
       </form>
     </div>
     <div class="flex justify-center lg:col-span-6">

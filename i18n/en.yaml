@@ -26,6 +26,10 @@ hero.description:
 
 hero.whatsapp:
   other: "Join WhatsApp!"
+hero.whatsapp_verifying:
+  other: "Verifying you are human…"
+hero.whatsapp_failed:
+  other: "Verification failed, please reload."
 
 mission.heading:
   other: "Our Mission"
