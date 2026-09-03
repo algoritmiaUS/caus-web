@@ -32,6 +32,8 @@
 {{ $js := resources.Get "js/index.js" | js.Build | minify | fingerprint }}
 <script src="{{ $js.RelPermalink }}" defer></script>
 {{ if .IsHome }}
+  {{ $gate := resources.Get "js/whatsapp-gate.js" | js.Build | minify | fingerprint }}
+  <script src="{{ $gate.RelPermalink }}" defer></script>
   <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
 {{ end }}
 {{ if .HasShortcode "achievements/rankings" }}
