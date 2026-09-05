@@ -1,6 +1,6 @@
 ---
 title: 'Elecciones a admins del CAUS (Curso 2026-27)'
-date: 2026-05-18
+date: 2026-05-18T00:00:00+02:00
 featured_image: images/featured/adabyron-andalucia-admins-3.webp
 
 summary: Conoce a los candidatos que se presentan a las elecciones a admins del Club de Algoritmia de la Universidad de Sevilla (CAUS) para el próximo curso académico 2026-27. Descubre sus perfiles, motivaciones y propuestas para llevar al club al siguiente nivel.
