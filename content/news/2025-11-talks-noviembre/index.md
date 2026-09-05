@@ -6,7 +6,7 @@ summary: Charlas y talleres organizados por el CAUS en noviembre de 2025. Se tra
 description: El Club de Algoritmia de la Universidad de Sevilla organiza una serie de charlas y talleres prácticos en temas de informática, dirigidos por expertos de la industria, profesores y estudiantes de la propia universidad. Estas actividades ofrecen una excelente oportunidad para profundizar en diversos temas y habilidades en programación y algoritmia, además de promover el intercambio de conocimientos entre la comunidad académica. ¡Anímate a participar y contribuir con tus propias ideas!
 author: Administradores CAUS
 categories: events
-tags: ['events', 'talks']
+tags: ['events', 'talks', 'math-series']
 ---
 
 Como anunciamos en la sesión de presentación, este curso estamos organizando charlas y talleres relacionados con la informática por parte de profesionales externos, profesores e incluso alumnos (¡tú mismo!).
@@ -17,7 +17,6 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
 # Charlas de Noviembre
 
 {{< base/div >}}
-
 {{< talk
     title="Los algoritmos de un monoplaza autónomo de Fórmula Student"
     date="Jueves, 13 de noviembre de 2025"
@@ -50,4 +49,14 @@ La avalancha de datos es real: más alertas, más fuentes, más ruido… y el mi
 Una sesión visual y práctica para entender cómo la IA no viene a sustituirnos… sino a llevar nuestro análisis al siguiente nivel.
 {{< /talk >}}
 
+{{< talk
+    title="Tornados, olas del mar y gotas: ¡mates a la carga!"
+    date="Jueves, 27 de noviembre de 2025"
+    time="19:00"
+    location="Salón de Actos, Facultad de Matemáticas"
+    speaker="Francisco Gancedo"
+    stream_url="https://www.youtube.com/live/cL0Gf9TBK-g"
+>}}
+En esta charla, realizando algunos experimentos, se pretende ilustrar el papel que juegan las matemáticas en la comprensión de cómo evolucionan los fluidos. Esto va desde el movimiento de los tornados, pasando por la ruptura de olas hasta la evolución de gotas. Se presentarán problemas clásicos, aplicaciones a nuestro día a día y habrá mucho dinero en juego... ¡Un millón de dólares!
+{{< /talk >}}
 {{< /base/div >}}
