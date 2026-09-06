@@ -3,14 +3,10 @@ main:
     name: Inicio
     url: /
     weight: 10
-  - identifier: about
-    name: Sobre nosotros
-    url: /about/
+  - identifier: conocenos
+    name: Conócenos
+    url: /conocenos/
     weight: 20
-  - identifier: members
-    name: Miembros
-    url: /about/members/
-    weight: 25
   - identifier: achievements
     name: Logros
     url: /achievements/
@@ -29,14 +25,10 @@ main:
     weight: 60
 
 footer:
-  - identifier: about
-    name: Sobre nosotros
-    url: /about/
+  - identifier: conocenos
+    name: Conócenos
+    url: /conocenos/
     weight: 10
-  - identifier: members
-    name: Miembros
-    url: /about/members/
-    weight: 15
   - identifier: news
     name: Noticias
     url: /news/
