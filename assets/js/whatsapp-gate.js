@@ -38,6 +38,19 @@ if (form) {
     setFail();
   };
 
+  // Load the Turnstile API on demand: only pages rendering the form fetch it,
+  // so no template condition needs to know where the form is used.
+  if (
+    typeof window.turnstile === 'undefined' &&
+    !document.querySelector('script[src="https://challenges.cloudflare.com/turnstile/v0/api.js"]')
+  ) {
+    var api = document.createElement('script');
+    api.src = 'https://challenges.cloudflare.com/turnstile/v0/api.js';
+    api.async = true;
+    api.defer = true;
+    document.head.appendChild(api);
+  }
+
   window.setTimeout(function () {
     if (button.disabled && typeof window.turnstile === 'undefined') {
       setFail();
