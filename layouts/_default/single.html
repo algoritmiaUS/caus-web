@@ -5,14 +5,15 @@
       <div class="mx-auto mt-8 mb-2 max-w-6xl px-6">
         {{ partial "components/featured-single.html" . }}
       </div>
-      {{ if or (eq .Section "resources") (eq .Section "conocenos") }}
+      {{ $parent := .Parent }}
+      {{ if and $parent $parent.IsSection (not $parent.IsHome) $parent.File }}
         <div class="container-page pt-6">
           <a
-            href="{{ (printf "/%s/" .Section) | relLangURL }}"
+            href="{{ $parent.RelPermalink }}"
             class="inline-flex items-center gap-1 text-sm text-muted hover:text-accent transition-colors"
           >
             ⬅
-            {{ i18n (printf "back.%s" .Section) }}
+            {{ $parent.Title }}
           </a>
         </div>
       {{ end }}

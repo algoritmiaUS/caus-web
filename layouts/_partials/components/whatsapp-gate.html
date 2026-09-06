@@ -1,3 +1,5 @@
+{{ $gate := resources.Get "js/whatsapp-gate.js" | js.Build | minify | fingerprint }}
+<script src="{{ $gate.RelPermalink }}" defer></script>
 <form
   id="whatsapp-gate"
   action="{{ site.Params.whatsapp_gate.action }}"
