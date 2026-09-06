@@ -5,13 +5,14 @@
       <div class="mx-auto mt-8 mb-2 max-w-6xl px-6">
         {{ partial "components/featured-single.html" . }}
       </div>
-      {{ if eq .Section "resources" }}
+      {{ if or (eq .Section "resources") (eq .Section "conocenos") }}
         <div class="container-page pt-6">
           <a
-            href="{{ "/resources/" | relLangURL }}"
+            href="{{ (printf "/%s/" .Section) | relLangURL }}"
             class="inline-flex items-center gap-1 text-sm text-muted hover:text-accent transition-colors"
           >
-            ⬅ Volver a Recursos
+            ⬅
+            {{ i18n (printf "back.%s" .Section) }}
           </a>
         </div>
       {{ end }}
