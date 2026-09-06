@@ -1,10 +1,10 @@
 ---
-title: 'About Us'
+title: 'Who We Are'
 date: 2024-08-22T11:18:36+08:00
 toc: true
 language: en
-description: About Us
-layout: single
+description: What the Algorithms Club is, academic and social activities
+weight: 10
 ---
 
 Welcome to the **Algorithms Club** (**Club de Algoritmia**), a group founded by students of the **University of Seville** with the aim of learning and perfecting programming skills through collaboration and participation in competitions.
@@ -72,4 +72,4 @@ What better way to train those programmer fingers than a good climbing session? 
 {{< img src="/images/about/rocodromo.webp" alt="Climbing wall" >}}
 {{< /base/div >}}
 
-Want to know who we are? [Meet our team →](/about/members/)
+Want to know who we are? [Meet our team →](/en/conocenos/equipo/)

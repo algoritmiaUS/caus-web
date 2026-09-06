@@ -1,9 +1,10 @@
 ---
-title: 'Members'
+title: 'Team'
 date: 2026-08-21T00:00:00+00:00
 toc: false
 language: en
-description: Members of the Algorithms Club
+description: Administrators, collaborators and members of the Algorithms Club
+weight: 20
 ---
 
 # Our Team

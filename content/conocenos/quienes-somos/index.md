@@ -1,9 +1,9 @@
 ---
-title: 'Sobre nosotros'
+title: 'Quiénes somos'
 date: 2024-08-22T11:18:36+08:00
 toc: true
-description: About Us
-layout: single
+description: Qué es el Club de Algoritmia, actividades académicas y sociales
+weight: 10
 ---
 
 Bienvenidos al **Club de Algoritmia**, un grupo fundado por estudiantes de la Universidad de Sevilla con el objetivo de aprender y perfeccionar habilidades en programación a través de la colaboración y la participación en competiciones.
@@ -71,4 +71,4 @@ Cada cuatrimestre, organizamos una comida especial para celebrar nuestros logros
 {{< img src="/images/about/rocodromo.webp" alt="Rocódromo" >}}
 {{< /base/div >}}
 
-¿Quieres saber quiénes somos? [Conoce a nuestro equipo →](/about/members/)
+¿Quieres saber quiénes somos? [Conoce a nuestro equipo →](/conocenos/equipo/)

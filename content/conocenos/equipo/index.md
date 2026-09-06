@@ -1,8 +1,9 @@
 ---
-title: 'Miembros'
+title: 'Equipo'
 date: 2026-08-21T00:00:00+00:00
 toc: false
-description: Miembros del Club de Algoritmia
+description: Administradores, colaboradores y miembros del Club de Algoritmia
+weight: 20
 ---
 
 # Nuestro equipo
