@@ -1,5 +1,5 @@
 ---
-title: "A mí me apasionan las matemáticas, ¿y a ti?"
+title: "A mí me apasionan las matemáticas, ¿y a ti? (Curso 2026-27)"
 date: 2026-09-06T00:00:00+00:00
 featured_image: images/featured/talks.webp
 summary: Una serie de charlas sobre las matemáticas, presentada por el catedrático Renato Álvarez-Nodarse.
@@ -9,4 +9,7 @@ categories: events
 tags: ['events', 'talks', 'math-series']
 ---
 
-Este año seguiremos con la serie de matemáticas.
+# Charlas impartidas
+
+{{< base/div >}}
+{{< /base/div >}}
