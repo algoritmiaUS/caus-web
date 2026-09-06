@@ -10,6 +10,11 @@ post.tags:
 post.read-time:
   other: "min read"
 
+back.resources:
+  other: "Back to Resources"
+back.conocenos:
+  other: "Back to About Us"
+
 error.404-title:
   other: "Ooooops, something’s missing."
 error.404-message:

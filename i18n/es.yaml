@@ -10,6 +10,11 @@ post.tags:
 post.read-time:
   other: "min de lectura"
 
+back.resources:
+  other: "Volver a Recursos"
+back.conocenos:
+  other: "Volver a Conócenos"
+
 news.heading:
   other: "Noticias"
 news.events:
