@@ -1,0 +1,28 @@
+<ul class="not-prose mt-12 flex flex-col divide-y divide-line/30">
+  {{ range $name, $url := site.Params.social_media }}
+    <li>
+      <a
+        href="{{ $url }}"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="group flex items-center justify-between gap-4 -mx-4 rounded-lg px-4 py-6 transition-colors hover:bg-wash"
+      >
+        <span class="flex min-w-0 items-center gap-4">
+          <span class="shrink-0 text-muted group-hover:text-accent">
+            <span class="sr-only">{{ $name }}</span>
+            {{ partial "components/svg.html" (dict "name" $name) }}
+          </span>
+          <span class="min-w-0">
+            <span class="block text-lg font-bold text-fg capitalize group-hover:text-accent">
+              {{ $name }}
+            </span>
+            <span class="mt-1 block truncate text-sm text-muted">{{ $url }}</span>
+          </span>
+        </span>
+        <span aria-hidden="true" class="shrink-0 text-xl text-muted group-hover:text-accent"
+          >→</span
+        >
+      </a>
+    </li>
+  {{ end }}
+</ul>

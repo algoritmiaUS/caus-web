@@ -1,0 +1,22 @@
+<ul class="not-prose mt-12 flex flex-col divide-y divide-line/30">
+  {{ range .Pages.ByWeight }}
+    <li>
+      <a
+        href="{{ .RelPermalink }}"
+        class="group flex items-center justify-between gap-4 -mx-4 rounded-lg px-4 py-6 transition-colors hover:bg-wash"
+      >
+        <div class="min-w-0">
+          <h2 class="text-lg font-bold text-fg group-hover:text-accent">
+            {{ .Title }}
+          </h2>
+          {{ with .Params.description }}
+            <p class="mt-1 text-sm text-muted">{{ . }}</p>
+          {{ end }}
+        </div>
+        <span aria-hidden="true" class="shrink-0 text-xl text-muted group-hover:text-accent"
+          >→</span
+        >
+      </a>
+    </li>
+  {{ end }}
+</ul>

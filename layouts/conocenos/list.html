@@ -1,0 +1,11 @@
+{{ define "main" }}
+  <main>
+    <article>
+      {{ partial "components/page-header.html" (dict "page" .) }}
+      <div class="container-page prose pt-6 pb-16">
+        {{ .Content }}
+        {{ partial "components/section-list.html" . }}
+      </div>
+    </article>
+  </main>
+{{ end }}
