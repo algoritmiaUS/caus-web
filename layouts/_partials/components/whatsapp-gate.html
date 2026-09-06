@@ -1,0 +1,29 @@
+<form
+  id="whatsapp-gate"
+  action="{{ site.Params.whatsapp_gate.action }}"
+  method="POST"
+  target="_blank"
+  class="not-prose mt-8 flex flex-col items-center gap-4 sm:flex-row {{ .form_class | default "sm:justify-start" }}"
+>
+  <button
+    id="whatsapp-submit"
+    type="submit"
+    disabled
+    class="btn-primary w-full disabled:cursor-not-allowed disabled:opacity-60 sm:w-auto"
+    data-label="{{ i18n "hero.whatsapp" }}"
+    data-verifying="{{ i18n "hero.whatsapp_verifying" }}"
+    data-failed="{{ i18n "hero.whatsapp_failed" }}"
+  >
+    {{ i18n "hero.whatsapp_verifying" }}
+  </button>
+  <p id="whatsapp-status" role="status" aria-live="polite" class="sr-only"></p>
+  <div
+    class="cf-turnstile"
+    data-sitekey="{{ site.Params.whatsapp_gate.turnstile_sitekey }}"
+    data-theme="auto"
+    data-size="invisible"
+    data-callback="onWhatsappTurnstileOk"
+    data-error-callback="onWhatsappTurnstileFail"
+    data-expired-callback="onWhatsappTurnstileExpired"
+  ></div>
+</form>
