@@ -3,28 +3,20 @@ main:
     name: Home
     url: /
     weight: 10
-  - identifier: about
-    name: About us
-    url: /about/
+  - identifier: conocenos
+    name: About Us
+    url: /conocenos/
     weight: 20
-  - identifier: members
-    name: Members
-    url: /about/members/
-    weight: 30
   - identifier: community-partners
     name: Sponsors
     url: /community-partners/
     weight: 60
 
 footer:
-  - identifier: about
+  - identifier: conocenos
     name: About Us
-    url: /about/
+    url: /conocenos/
     weight: 10
-  - identifier: members
-    name: Members
-    url: /about/members/
-    weight: 20
   - identifier: community-partners
     name: Sponsors
     url: /community-partners/
