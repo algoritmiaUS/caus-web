@@ -21,10 +21,14 @@ defaults:
     shell: bash
 
 jobs:
-  build:
-    name: Build site
+  deploy:
+    name: Build and deploy
     runs-on: ubuntu-latest
     timeout-minutes: 15
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Checkout
@@ -60,17 +64,6 @@ jobs:
         with:
           path: ./public
 
-  deploy:
-    name: Deploy to GitHub Pages
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    needs: build
-
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-
-    steps:
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v5
