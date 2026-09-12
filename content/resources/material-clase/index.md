@@ -2,7 +2,7 @@
 title: Material de clase
 date: 2026-09-12
 description: Diapositivas y material de nuestras clases
-weight: 90
+weight: 15
 ---
 
 {{< base/lead >}}Aquí encontrarás las diapositivas y el material que usamos en nuestras clases.{{< /base/lead >}}
