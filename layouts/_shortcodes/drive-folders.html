@@ -1,0 +1,19 @@
+{{ $data := index hugo.Data (.Get 0) }}
+<ul class="not-prose grid gap-4 sm:grid-cols-2">
+  {{ range $data.folders }}
+    <li>
+      <a
+        href="https://drive.google.com/drive/folders/{{ .id }}"
+        target="_blank"
+        rel="noopener"
+        class="group flex items-center gap-4 rounded-2xl border border-line/25 bg-surface p-6 transition-colors hover:bg-wash"
+      >
+        {{ partial "components/svg.html" (dict "name" "folder" "class" "h-8 w-8 shrink-0 text-accent") }}
+        <span class="min-w-0">
+          <span class="block text-lg font-bold text-fg group-hover:text-accent">{{ .title }}</span>
+          <span class="mt-1 block text-sm text-muted">Abrir carpeta →</span>
+        </span>
+      </a>
+    </li>
+  {{ end }}
+</ul>
