@@ -1,6 +1,6 @@
 {{ $data := index hugo.Data (.Get 0) }}
 <ul class="not-prose grid gap-4 sm:grid-cols-2">
-  {{ range $data.folders }}
+  {{ range sort $data.folders "title" "desc" }}
     <li>
       <a
         href="https://drive.google.com/drive/folders/{{ .id }}"

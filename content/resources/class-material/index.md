@@ -9,6 +9,6 @@ weight: 15
 
 Elige tu curso para abrir su carpeta en Google Drive:
 
-{{< drive-folders "material-clase" >}}
+{{< drive-folders "class-material" >}}
 
 {{< base/button href="https://drive.google.com/drive/folders/1uCZkV2LYut2omt07VdXgtjm6L0qgjgZR" >}}Abrir en Google Drive{{< /base/button >}}
