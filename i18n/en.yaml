@@ -45,6 +45,17 @@ mission.description:
     professional, and competitive challenges, while freely sharing knowledge so that everyone,
     regardless of their level, can learn and contribute."
 
+how.heading:
+  other: "How do we do it?"
+
+# prettier-ignore
+how.body-1:
+  other: "On one hand, we run a [mathematics talk series](/tags/math-series/): informal sessions to learn and enjoy maths."
+
+# prettier-ignore
+how.body-2:
+  other: "On the other, we hold [general and computing talks](/tags/talks/), [weekly training sessions](/en/conocenos/quienes-somos/) for problem-solving and contests like [CompliCAUS](/tags/complicaus/) or [AdaByron](/tags/adabyron/). Everything is open and for all levels."
+
 challenge.heading:
   other: "Challenges, Community, and Fun at CAUS"
 
