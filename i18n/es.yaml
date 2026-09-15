@@ -55,6 +55,17 @@ mission.description:
     mientras compartimos libremente el conocimiento para que todos, sin importar su nivel, puedan
     aprender y contribuir"
 
+how.heading:
+  other: "¿Cómo lo hacemos?"
+
+# prettier-ignore
+how.body-1:
+  other: "Por un lado, organizamos una [serie de charlas de matemáticas](/tags/math-series/): sesiones divulgativas y formativas sobre mates."
+
+# prettier-ignore
+how.body-2:
+  other: "Por otro, tenemos [charlas generales y de informática](/tags/talks/), [entrenamientos semanales](/conocenos/quienes-somos/) de resolución de problemas y competiciones como [CompliCAUS](/tags/complicaus/) o [AdaByron](/tags/adabyron/). Todo es abierto y para todos los niveles."
+
 challenge.heading:
   other: "Desafíos, comunidad y diversión en el CAUS"
 

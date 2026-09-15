@@ -1,0 +1,14 @@
+<section class="container-page" aria-labelledby="how-heading">
+  <h2 id="how-heading" class="text-3xl font-bold tracking-tight text-fg">
+    {{ i18n "how.heading" }}
+  </h2>
+  {{ $fix := `</a>\s+([:;,.!?])` }}
+  {{ $to := `</a>$1` }}
+  <div class="mt-4 text-lg leading-7 text-muted [&_a]:text-accent [&_a]:underline">
+    {{ i18n "how.body-1" | markdownify | replaceRE $fix $to | safeHTML }}
+  </div>
+  <br />
+  <div class="text-lg leading-7 text-muted [&_a]:text-accent [&_a]:underline">
+    {{ i18n "how.body-2" | markdownify | replaceRE $fix $to | safeHTML }}
+  </div>
+</section>
