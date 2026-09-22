@@ -9,13 +9,13 @@ categories: news
 tags: ['events', 'complicaus', 'competitions']
 ---
 
-¡El **CompliCAUS VI** ya está aquí! ❤️💻
+# ¡El **CompliCAUS VI** ya está aquí! ❤️💻
 
 Nuestra competición de programación vuelve el próximo **9 de octubre** a la ETSII. Al igual que en la edición anterior, la competición se disputará en **equipos de tres personas**, al estilo de la competición AdaByron.
 
 Durante cuatro horas, los equipos se enfrentarán a problemas de **dificultad variable**, desde retos asequibles para quienes están empezando hasta problemas capaces de poner a prueba a los participantes más experimentados.
 
-### ¿Qué te espera en esta edición?
+## ¿Qué te espera en esta edición?
 
 - **Formato por equipos:** equipos de 3 personas. ¿Quieres participar pero no tienes equipo? **[¡Te ayudamos a encontrar uno!](https://forms.gle/7RxsnjxprvqAQHMV8)**
 - **Grandes premios para los tres mejores equipos:**
@@ -54,7 +54,7 @@ La competición está abierta a **todo el que quiera participar**. Para optar a 
 
 🚀 **¡Forma tu equipo, prepara tu dossier y demuestra tu nivel en el CompliCAUS VI!**
 
-Con el apoyo de:
+### Con el apoyo de:
 
 {{< base/div class="flex flex-col items-center gap-4" >}}
 {{< sponsor-logo src="/images/global/logo-nd.webp" alt="Logo de Next Digital" href="https://www.nextdigital.es/" class="w-100 max-w-[80%] object-contain" >}}
