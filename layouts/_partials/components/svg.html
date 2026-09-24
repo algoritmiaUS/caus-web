@@ -1,4 +1,1 @@
-{{- $name := .name -}}
-{{- $id := .id | default "" -}}
-{{- $class := .class | default "w-6 h-6" -}}
-{{- partialCached "components/svg-content.html" (dict "name" $name "id" $id "class" $class) $name $id $class -}}
+{{- partialCached "components/svg-content.html" . .name (.id | default "") (.class | default "") -}}

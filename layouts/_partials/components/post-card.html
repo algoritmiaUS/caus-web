@@ -1,7 +1,7 @@
 <div class="card-interactive group flex h-full flex-col overflow-hidden">
   {{ if .Params.featured_image }}
     <a href="{{ .RelPermalink }}">
-      {{ partial "components/featured-card.html" . }}
+      {{ partial "components/featured-image.html" (dict "page" . "variant" "card") }}
     </a>
   {{ end }}
   <div class="flex flex-1 flex-col p-6">
@@ -47,7 +47,7 @@
             >{{ .Date.Format "02-01-2006" }}</time
           >
           <span aria-hidden="true">&middot;</span>
-          <span>{{ math.Round (div .WordCount 220.0) }} {{ i18n "post.read-time" }}</span>
+          <span>{{ .ReadingTime }} {{ i18n "post.read-time" }}</span>
         </p>
       </div>
     </div>

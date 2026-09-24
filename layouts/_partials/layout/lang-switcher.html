@@ -20,21 +20,11 @@
         {{ range hugo.Sites }}
           {{ if ne .Language.Name site.Language.Name }}
             {{ $targetSite := . }}
-            {{ $targetURL := "" }}
-            {{ $targetLang := $targetSite.Language.Name }}
-            {{ if $page.IsTranslated }}
-              {{ range $page.Translations }}
-                {{ if eq .Language.Name $targetLang }}
-                  {{ $targetURL =
-                    .RelPermalink
-                  }}
-                {{ end }}
+            {{ $targetURL := .Home.RelPermalink }}
+            {{ range $page.Translations }}
+              {{ if eq .Language.Lang $targetSite.Language.Lang }}
+                {{ $targetURL = .RelPermalink }}
               {{ end }}
-            {{ end }}
-            {{ if not $targetURL }}
-              {{ $targetURL =
-                $targetSite.Home.RelPermalink
-              }}
             {{ end }}
 
 

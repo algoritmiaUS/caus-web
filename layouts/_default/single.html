@@ -3,7 +3,7 @@
     <article>
       {{ partial "components/page-header.html" (dict "page" .) }}
       <div class="mx-auto mt-8 mb-2 max-w-6xl px-6">
-        {{ partial "components/featured-single.html" . }}
+        {{ partial "components/featured-image.html" (dict "page" . "variant" "single") }}
       </div>
       {{ $parent := .Parent }}
       {{ if and $parent $parent.IsSection (not $parent.IsHome) $parent.File }}

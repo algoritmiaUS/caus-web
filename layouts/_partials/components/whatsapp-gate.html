@@ -1,5 +1,6 @@
 {{ $gate := resources.Get "js/whatsapp-gate.js" | js.Build | minify | fingerprint }}
 <script src="{{ $gate.RelPermalink }}" defer></script>
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" defer></script>
 <form
   id="whatsapp-gate"
   action="{{ site.Params.whatsapp_gate.action }}"
