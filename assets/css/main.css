@@ -24,6 +24,10 @@
   ::file-selector-button {
     border-color: var(--color-line, currentColor);
   }
+
+  body:has(dialog[open]) {
+    overflow: hidden;
+  }
 }
 
 @layer components {
@@ -37,33 +41,23 @@
     @apply py-16 sm:py-24;
   }
 
-  /* Card base + interactive lift */
   .card {
     @apply rounded-lg border border-line/25 bg-surface shadow-sm;
-  }
-  .card-hover {
-    @apply transition hover:-translate-y-1 hover:shadow-lg;
   }
   .card-interactive {
     @apply rounded-lg border border-line/25 bg-surface shadow-sm transition hover:-translate-y-1 hover:shadow-lg;
   }
 
-  /* Tag / pill */
   .tag {
     @apply inline-flex items-center rounded-md bg-wash px-2.5 py-0.5 text-sm font-medium text-fg transition-colors hover:bg-accent/20 focus-visible:outline-hidden focus-visible:ring-2 focus-visible:ring-accent;
   }
 
-  /* Primary CTA */
   .btn-primary {
     @apply inline-flex items-center justify-center rounded-lg bg-accent px-5 py-2.5 text-center text-sm font-bold text-on-accent shadow transition-colors hover:bg-accent/85 focus-visible:outline-hidden focus-visible:ring-4 focus-visible:ring-accent/40;
   }
 
-  /* Focus ring helpers */
   .focus-ring {
     @apply focus-visible:outline-hidden focus-visible:ring-2 focus-visible:ring-accent;
-  }
-  .focus-ring-4 {
-    @apply focus-visible:outline-hidden focus-visible:ring-4 focus-visible:ring-accent/40;
   }
 }
 

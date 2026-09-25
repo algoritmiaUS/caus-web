@@ -1,5 +1,5 @@
 {{- $page := .page -}}
-{{- $variant := .variant | default "card" -}}
+{{- $variant := .variant -}}
 {{- with $page.Params.featured_image -}}
   {{- with resources.Get . -}}
     {{- if eq $variant "card" -}}

@@ -1,18 +1,7 @@
 type Problem = { file: string; rule: string; message: string };
 type CustomRule = { name: string; prefix: string; pattern: RegExp; message: string };
 
-// Most changes should happen here, not in the code below.
 const CONFIG = {
-  checks: {
-    ascii: true,
-    lowercase: true,
-    kebab: true,
-    numericSuffix: true,
-    imageFormat: true,
-    newsFolder: true,
-    custom: true,
-  },
-
   strictRoots: ['content/', 'data/', 'assets/', 'static/', 'config/'],
   ignorePrefixes: ['layouts/', 'archetypes/', '.github/', 'scripts/', 'node_modules/', '.git/'],
   ignoreNames: new Set([
@@ -24,19 +13,14 @@ const CONFIG = {
     '.prettierignore',
   ]),
 
-  // Hugo names that intentionally use an underscore.
   hugoNames: new Set(['_index.md', '_default', '_partials', '_shortcodes']),
 
   imageRoots: ['assets/images/', 'static/images/', 'content/news/'],
   allowedImageExtensions: new Set(['.webp', '.svg']),
   forbiddenImageExtensions: /\.(?:jpe?g|png|gif|bmp|tiff|ico)$/i,
 
-  numericSuffixExceptions: new Set<string>(),
-
   newsFolderPattern: /^\d{4}-\d{2}-[a-z0-9]+(?:-[a-z0-9]+)*$/,
 
-  // Optional strict rules. Add/delete a row when you want extra policy.
-  // { name: "data", prefix: "data/", pattern: /^[a-z0-9-]+\.yaml$/, message: "data files must be kebab-case .yaml" }
   customRules: [] as CustomRule[],
 };
 
@@ -62,21 +46,21 @@ function checkFile(file: string): Problem[] {
   const add = (rule: string, message: string) => problems.push({ file, rule, message });
 
   const forbiddenImage = CONFIG.forbiddenImageExtensions.test(file);
-  if (CONFIG.checks.imageFormat && forbiddenImage) {
+  if (forbiddenImage) {
     add('image-format', 'only .webp and .svg images are allowed; run: bun convert');
   }
 
   if (CONFIG.ignoreNames.has(name) || under(file, CONFIG.ignorePrefixes)) return problems;
 
-  if (CONFIG.checks.ascii && /[^\x00-\x7F]/.test(file)) {
+  if (/[^\x00-\x7F]/.test(file)) {
     add('ascii', 'use ASCII only (no ñ, accents, etc.)');
   }
 
-  if (CONFIG.checks.lowercase && /[A-Z]/.test(file)) {
+  if (/[A-Z]/.test(file)) {
     add('lowercase', 'use lowercase names');
   }
 
-  if (CONFIG.checks.kebab && strict) {
+  if (strict) {
     const parts = file.split('/');
     const dirShape = /^[A-Za-z0-9]+(?:-[A-Za-z0-9]+)*$/;
     const fileShape = /^[A-Za-z0-9]+(?:-[A-Za-z0-9]+)*(?:\.[A-Za-z0-9]+)*$/;
@@ -89,17 +73,11 @@ function checkFile(file: string): Problem[] {
     if (badPart) add('kebab', `use kebab-case; invalid part: ${badPart}`);
   }
 
-  if (
-    CONFIG.checks.numericSuffix &&
-    strict &&
-    !CONFIG.numericSuffixExceptions.has(name) &&
-    /[a-z]\d+\.[a-z0-9]+$/i.test(name) &&
-    !/-\d+\.[a-z0-9]+$/i.test(name)
-  ) {
+  if (strict && /[a-z]\d+\.[a-z0-9]+$/i.test(name) && !/-\d+\.[a-z0-9]+$/i.test(name)) {
     add('numeric-suffix', "put a '-' before the number, for example image-2.webp");
   }
 
-  if (CONFIG.checks.imageFormat && under(file, CONFIG.imageRoots)) {
+  if (under(file, CONFIG.imageRoots)) {
     const markdownBundle = name === 'index.md' || name === '_index.md';
     if (!markdownBundle && ext && !forbiddenImage && !CONFIG.allowedImageExtensions.has(ext)) {
       add(
@@ -109,17 +87,15 @@ function checkFile(file: string): Problem[] {
     }
   }
 
-  if (CONFIG.checks.newsFolder && file.startsWith('content/news/')) {
+  if (file.startsWith('content/news/')) {
     const folder = file.split('/')[2];
     if (folder && folder !== '_index.md' && !CONFIG.newsFolderPattern.test(folder)) {
       add('news-folder', `expected yyyy-mm-slug, got ${folder}`);
     }
   }
 
-  if (CONFIG.checks.custom) {
-    for (const rule of CONFIG.customRules) {
-      if (file.startsWith(rule.prefix) && !rule.pattern.test(name)) add(rule.name, rule.message);
-    }
+  for (const rule of CONFIG.customRules) {
+    if (file.startsWith(rule.prefix) && !rule.pattern.test(name)) add(rule.name, rule.message);
   }
 
   return problems;

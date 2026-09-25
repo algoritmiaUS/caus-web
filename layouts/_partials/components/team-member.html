@@ -1,15 +1,9 @@
 {{ $m := .member }}
 {{ $compact := .compact | default false }}
 {{ $square := .square | default false }}
-{{ $role := true }}
-{{ if isset . "show-role" }}
-  {{ $role = index . "show-role" }}
-{{ end }}
+{{ $role := ne (index . "show-role") false }}
 {{ $dates := index . "show-dates" | default false }}
-{{ $socials := true }}
-{{ if isset . "show-socials" }}
-  {{ $socials = index . "show-socials" }}
-{{ end }}
+{{ $socials := ne (index . "show-socials") false }}
 
 {{ $wrapperClass := "flex flex-col items-center p-3 w-full" }}
 {{ if $compact }}
