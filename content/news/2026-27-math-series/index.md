@@ -9,7 +9,9 @@ categories: events
 tags: ['events', 'talks', 'math-series']
 ---
 
-# Charlas impartidas
+# Próximas charlas
+
+{{< img src="navier-stokes.webp" alt="Cartel de la charla El problema del milenio y la historia milenaria con Paco Torres y Paco Gancedo" >}}
 
 {{< base/div >}}
 {{< talk
