@@ -22,5 +22,7 @@ tags: ['events', 'talks', 'math-series']
     speaker="Francisco Gancedo y Francisco Torres"
 >}}
 Usando como hilo conductor las palabras de V. Arnold y B. Khesin tomadas de su monografía Topological Methods in Hydrodynamics (Applied Mathematical Sciences, vol. 125, Springer, New York, 1998) "La hidrodinámica es una de esas ramas fundamentales de las matemáticas cuyo grado de desarrollo, en cada época, puede tomarse como medida del verdadero progreso de la ciencia matemática." ["Hydrodynamics is one of those fundamental areas in mathematics where progress at any moment may be regarded as a standard to measure the real success of mathematical science"] presentaremos una historia de la mecánica de fluidos que, desde Arquímedes hasta hoy, es también una historia del discurrir (laminar o turbulento) de las matemáticas. Esto dará lugar a una discusión con el público sobre el último capítulo: Navier-Stokes e IA.
+
+Los dos conferenciantes Francisco Gancedo y Francisco Torres son reconocidos investigadores en mecánica de fluidos y están adscritos al Departamento de Análisis Matemático de la Universidad de Sevilla.
 {{< /talk >}}
 {{< /base/div >}}
