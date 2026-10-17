@@ -1,0 +1,24 @@
+teams:
+  - position: 1
+    name: "Mesopotámicos"
+    members:
+      - "Alex Pérez Fernández"
+      - "Enrique Dávila Alcalá"
+      - "Daniel Chaves Mariscal"
+    image: "/images/winners-complicaus-6/first.webp"
+
+  - position: 2
+    name: "pequeños demoniO(S)"
+    members:
+      - "Lester Adrián Arencibia Arteaga"
+      - "Raúl Alemán Rubiales"
+      - "Carlos Sibon González"
+    image: "/images/winners-complicaus-6/second.webp"
+
+  - position: 3
+    name: "J++"
+    members:
+      - "Jairo Serrano Picón"
+      - "Jesús Racero San Román"
+      - "Julio Ojeda Infantes"
+    image: "/images/winners-complicaus-6/third.webp"
