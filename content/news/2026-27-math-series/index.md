@@ -9,7 +9,7 @@ categories: events
 tags: ['events', 'talks', 'math-series']
 ---
 
-# Próximas charlas
+## Próximas charlas
 
 {{< base/div >}}
 {{< talk
@@ -23,11 +23,11 @@ Los nudos forman parte de nuestra vida cotidiana: aparecen al atarnos los cordon
 {{< /talk >}}
 {{< /base/div >}}
 
-# Charlas impartidas
-
-{{< img src="navier-stokes.webp" alt="Cartel de la charla El problema del milenio y la historia milenaria con Paco Torres y Paco Gancedo" >}}
+## Charlas impartidas
 
 {{< base/div >}}
+{{< img src="navier-stokes.webp" alt="Cartel de la charla El problema del milenio y la historia milenaria con Paco Torres y Paco Gancedo" >}}
+
 {{< talk
     title="El problema del milenio y la historia milenaria"
     date="Jueves, 15 de octubre de 2026"
