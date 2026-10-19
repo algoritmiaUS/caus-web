@@ -26,4 +26,14 @@ Usando como hilo conductor las palabras de V. Arnold y B. Khesin tomadas de su m
 
 Los dos conferenciantes Francisco Gancedo y Francisco Torres son reconocidos investigadores en mecánica de fluidos y están adscritos al Departamento de Análisis Matemático de la Universidad de Sevilla.
 {{< /talk >}}
+
+{{< talk
+    title="404: Knot found"
+    date="Jueves, 19 de noviembre de 2026"
+    time="18:00"
+    location="Salón de Actos, Facultad de Matemáticas"
+    speaker="Marithania Silvero Casanova"
+>}}
+Los nudos forman parte de nuestra vida cotidiana: aparecen al atarnos los cordones, en escalada, en collares, en cirugía... Pero, cuando los convertimos en objetos matemáticos, empiezan a plantear preguntas bastante más difíciles de lo que uno pudiera imaginar. Por ejemplo: ¿cómo podemos saber si dos nudos son realmente el mismo?, ¿existe alguna forma sistemática de distinguirlos?, ¿podemos diseñar un algoritmo que nos diga si un nudo se puede deshacer? En esta charla nos adentraremos en la teoría de nudos, explorando algunas de estas preguntas y viendo cómo a veces la intuición nos falla al intentar encontrar un algoritmo que nos ayude a resolverlas. Hablaremos también de trenzas y de cómo, detrás de algo tan sencillo como una cuerda enredada, pueden esconderse problemas matemáticos sorprendentemente complejos.
+{{< /talk >}}
 {{< /base/div >}}
