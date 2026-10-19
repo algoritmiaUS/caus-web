@@ -1,6 +1,6 @@
 ---
 title: 'Celebrado el CompliCAUS VI'
-date: 2026-10-17T12:00:00+02:00
+date: 2026-10-14T12:00:00+02:00
 featured_image: images/featured/complicaus-foto-grupal-6.webp
 summary: 'La sexta edición de CompliCAUS reunió a más de un centenar de participantes en la ETSII para cuatro horas de competición de programación por equipos.'
 description: 'El CompliCAUS VI reunió a estudiantes de distintas universidades y centros educativos en una competición de programación de cuatro horas organizada por el Club de Algoritmia de la Universidad de Sevilla.'
@@ -19,7 +19,7 @@ Durante cuatro horas, los equipos, formados por tres integrantes, se enfrentaron
 
 La competición se desarrolló durante cuatro horas utilizando **Virtual Judge** como plataforma. Los equipos tuvieron que organizarse para resolver problemas de dificultad creciente, poniendo a prueba tanto sus conocimientos de algoritmia como su capacidad para trabajar en equipo y gestionar el tiempo.
 
-La participación presencial reunió a estudiantes de la **Universidad de Sevilla**, la **Universidad Pablo de Olavide**, la **Universidad de Cádiz**, la **Universidad de Huelva**, la **Universidad Nacional de Educación a Distancia (UNED)** y alumnado de **Bachillerato**.
+La participación presencial reunió a estudiantes de la **Universidad de Sevilla**, la **Universidad Complutense de Madrid (UCM)**, la **Universidad Autónoma de Madrid (UAM)**, el **Centre de Formació Interdisciplinària Superior (CFIS) de la UPC**, la **Universidad Tecnológica de Eindhoven**, la **Universidad de Cádiz** y la **Universidad Pablo de Olavide**.
 
 A ellos se sumaron 39 participantes online, que compitieron en una clasificación independiente.
 
@@ -35,13 +35,13 @@ Una vez finalizadas las cuatro horas de competición, **Kenny Flores, Pablo Rein
 
 Tras la resolución de problemas tuvo lugar la entrega de diplomas y premios.
 
-### ✈️ Premio SWERC: Proof by Aceept
+### ✈️ Premio SWERC: Proof by Accepted
 
 - **Guillermo Guerrero Serrano** (Grado en Matemáticas)
 - **Alejandro Barroso Alonso** (Grado en Matemáticas)
 - **José Luis Mesa Solano** (Doble Grado en Física y Matemáticas)
 
-{{< img src="/images/winners-complicaus-6/swerc.webp" alt="Premio SWERC: Proof by Aceept" >}}
+{{< img src="/images/winners-complicaus-6/swerc.webp" alt="Premio SWERC: Proof by Accepted" >}}
 
 ### 🥇 Medalla de oro: Mesopotámicos
 

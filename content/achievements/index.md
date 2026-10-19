@@ -13,9 +13,9 @@ Desde nuestra fundación, hemos recibido diversos premios y reconocimientos que 
 
 El 9 de octubre de 2026 se celebró la sexta edición del CompliCAUS, una competición de programación organizada por el Club de Algoritmia de la Universidad de Sevilla. La edición reunió a 105 participantes de forma presencial y a 39 participantes en modalidad online, con una clasificación independiente.
 
-El equipo **Proof by Aceept**, formado por **Guillermo Guerrero Serrano**, **Alejandro Barroso Alonso** y **José Luis Mesa Solano**, obtuvo el **Premio SWERC**.
+El equipo **Proof by Accepted**, formado por **Guillermo Guerrero Serrano**, **Alejandro Barroso Alonso** y **José Luis Mesa Solano**, obtuvo el **Premio SWERC**.
 
-{{< img src="/images/winners-complicaus-6/swerc.webp" alt="Premio SWERC: Proof by Aceept" >}}
+{{< img src="/images/winners-complicaus-6/swerc.webp" alt="Premio SWERC: Proof by Accepted" >}}
 
 Tras asignar el Premio SWERC al mejor equipo que cumplía los requisitos, los siguientes equipos mejor clasificados recibieron los premios del podio:
 
