@@ -9,6 +9,18 @@ Desde nuestra fundación, hemos recibido diversos premios y reconocimientos que 
 
 {{< achievements/year "2026" >}}
 
+### Ganadores CompliCAUS VI
+
+El 9 de octubre de 2026 se celebró la sexta edición del CompliCAUS, una competición de programación organizada por el Club de Algoritmia de la Universidad de Sevilla. La edición reunió a 105 participantes de forma presencial y a 39 participantes en modalidad online, con una clasificación independiente.
+
+El equipo **Proof by Accepted**, formado por **Guillermo Guerrero Serrano**, **Alejandro Barroso Alonso** y **José Luis Mesa Solano**, obtuvo el **Premio SWERC**.
+
+{{< img src="/images/winners-complicaus-6/swerc.webp" alt="Premio SWERC: Proof by Accepted" >}}
+
+Tras asignar el Premio SWERC al mejor equipo que cumplía los requisitos, los siguientes equipos mejor clasificados recibieron los premios del podio:
+
+{{< achievements/rankings "complicaus-6" >}}
+
 ### XII Edición de la Final Nacional del Concurso AdaByron
 
 Los días 3 y 4 de julio de 2026 se celebró en la Facultad de Informática de la Universidad Complutense de Madrid la XII Final Nacional del Concurso AdaByron. En ella participaron 42 equipos procedentes de 23 universidades españolas. La Universidad de Sevilla estuvo representada por cuatro equipos. Uno de ellos logró posicionarse en el **top 10** de la clasificación general:
