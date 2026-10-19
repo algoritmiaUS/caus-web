@@ -23,7 +23,7 @@ Los nudos forman parte de nuestra vida cotidiana: aparecen al atarnos los cordon
 {{< /talk >}}
 {{< /base/div >}}
 
-# Charlas impartidas
+## Charlas impartidas
 
 {{< base/div >}}
 {{< img src="navier-stokes.webp" alt="Cartel de la charla El problema del milenio y la historia milenaria con Paco Torres y Paco Gancedo" >}}

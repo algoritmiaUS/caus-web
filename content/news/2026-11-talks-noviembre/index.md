@@ -1,6 +1,6 @@
 ---
 title: 'Charlas y talleres - Noviembre 2026'
-date: 2026-10-19T12:20:00+00:00
+date: 2026-10-18T12:20:00+00:00
 featured_image: images/featured/talks.webp
 summary: Charlas y talleres organizados por el CAUS en noviembre de 2026. Se trata de ponencias sobre informática y matemáticas tanto de profesionales como de estudiantes.
 description: El Club de Algoritmia de la Universidad de Sevilla organiza una serie de charlas y talleres prácticos en temas de informática, dirigidos por expertos de la industria, profesores y estudiantes de la propia universidad. Estas actividades ofrecen una excelente oportunidad para profundizar en diversos temas y habilidades en programación y algoritmia, además de promover el intercambio de conocimientos entre la comunidad académica. ¡Anímate a participar y contribuir con tus propias ideas!
