@@ -12,6 +12,9 @@ tags: ['events', 'talks', 'math-series']
 # Próximas charlas
 
 {{< base/div >}}
+
+{{< img src="404-knot-found.webp" alt="Cartel de la charla 404: Knot found con Marithania Silvero Casanova" >}}
+
 {{< talk
     title="404: Knot found"
     date="Jueves, 19 de noviembre de 2026"
