@@ -171,3 +171,21 @@ members:
 
   - name: "José María Sánchez Rubio"
     image: "/images/members/jose-sanchez.webp"
+
+  - name: "Lucía Estévez Bermúdez"
+    image: "/images/members/lucia-estevez.webp"
+
+  - name: "Alejandro Ruiz"
+    image: "/images/members/alejandro-ruiz.webp"
+
+  - name: "Guillermo Guerrero Serrano"
+    image: "/images/members/guillermo-guerrero.webp"
+
+  - name: "Karim Elhaidini López"
+    image: "/images/members/karim-elhaidini.webp"
+
+  - name: "Rocío Colete López"
+    image: "/images/members/rocio-colete.webp"
+
+  - name: "Salvador Diaz Román"
+    image: "/images/members/salvador-diaz.webp"
