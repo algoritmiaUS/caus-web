@@ -166,11 +166,11 @@ members:
   - name: "Jose Luis Mesa Solano"
     image: "/images/members/jose-mesa.webp"
 
-  - name: "José María Sánchez Rubio"
-    image: "/images/members/jose-sanchez.webp"
-
   - name: "Karim Elhaidini López"
     image: "/images/members/karim-elhaidini.webp"
+
+  - name: "José María Sánchez Rubio"
+    image: "/images/members/jose-sanchez.webp"
 
   - name: "Lucía Estévez Bermúdez"
     image: "/images/members/lucia-estevez.webp"
