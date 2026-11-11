@@ -36,6 +36,9 @@ jobs:
       - name: Check naming & image formats
         run: bun run check:naming
 
+      - name: Check members count
+        run: bun run check:members
+
       - name: Install dependencies
         run: bun install --frozen-lockfile
 
