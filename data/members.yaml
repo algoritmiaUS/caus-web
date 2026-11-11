@@ -115,17 +115,32 @@ old-admins:
     dates: "2025-2026"
 
 members:
+  - name: "Adrián Abreu Lenglare"
+    image: "/images/members/adrian-abreu.webp"
+
+  - name: "Agustín Luis Zuccolo Maurete"
+    image: "/images/members/agustin-zuccolo.webp"
+
+  - name: "Alberto Lora Romero"
+    image: "/images/members/alberto-lora.webp"
+
   - name: "Alejandro Domínguez Muñoz"
     image: "/images/members/alejandro-dominguez.webp"
 
   - name: "Alejandro Gómez Oliveira"
     image: "/images/members/alejandro-gomez.webp"
 
-  - name: "Alejandro Ruiz"
+  - name: "Alejandro Ruiz Navarrete"
     image: "/images/members/alejandro-ruiz.webp"
+
+  - name: "Alfredo Bolaños Sevillano"
+    image: "/images/members/alfredo-bolanos.webp"
 
   - name: "Álvaro Luque Buzón"
     image: "/images/members/alvaro-luque.webp"
+
+  - name: "Arnau Márquez Torres"
+    image: "/images/members/arnau-marquez.webp"
 
   - name: "Carlos Fernández - Llebrez Acedo"
     image: "/images/members/carlos-fernandez.webp"
@@ -133,11 +148,23 @@ members:
   - name: "Carlos Gamito Moreno"
     image: "/images/members/carlos-gamito.webp"
 
+  - name: "Daniel García Carretero"
+    image: "/images/members/daniel-garcia.webp"
+
+  - name: "Darío Santos San Juan"
+    image: "/images/members/dario-santos.webp"
+
+  - name: "Francisco Morano Sánchez"
+    image: "/images/members/francisco-morano.webp"
+
   - name: "Gael Bolaños López"
     image: "/images/members/gael-bolanos.webp"
 
   - name: "Guillermo Guerrero Serrano"
     image: "/images/members/guillermo-guerrero.webp"
+
+  - name: "Guillermo Leal Martínez"
+    image: "/images/members/guillermo-leal.webp"
 
   - name: "Ignacio Bueno Egea"
     image: "/images/members/ignacio-bueno.webp"
@@ -147,6 +174,9 @@ members:
 
   - name: "Jacobo Tagua Santana"
     image: "/images/members/jacobo-tagua.webp"
+
+  - name: "Javier Ruiz Navarrete"
+    image: "/images/members/javier-ruiz.webp"
 
   - name: "Jesús Pérez Bazarot"
     image: "/images/members/jesus-perez.webp"
@@ -166,17 +196,41 @@ members:
   - name: "Jose Luis Mesa Solano"
     image: "/images/members/jose-mesa.webp"
 
-  - name: "Karim Elhaidini López"
-    image: "/images/members/karim-elhaidini.webp"
+  - name: "José Manuel Tierno Collado"
+    image: "/images/members/jose-tierno.webp"
 
   - name: "José María Sánchez Rubio"
     image: "/images/members/jose-sanchez.webp"
 
+  - name: "Juan Rodríguez Sánchez"
+    image: "/images/members/juan-rodriguez.webp"
+
+  - name: "Karim Elhaidini López"
+    image: "/images/members/karim-elhaidini.webp"
+
+  - name: "Lorenzo Marañón Piñero"
+    image: "/images/members/lorenzo-maranon.webp"
+
   - name: "Lucía Estévez Bermúdez"
     image: "/images/members/lucia-estevez.webp"
 
+  - name: "Malena Bocchia Febles"
+    image: "/images/members/malena-bocchia.webp"
+
   - name: "Mario Mora Cortés"
     image: "/images/members/mario-mora.webp"
+
+  - name: "Matías Alberto Nievas Casco"
+    image: "/images/members/matias-nievas.webp"
+
+  - name: "Miguel España Montero"
+    image: "/images/members/miguel-espana.webp"
+
+  - name: "Pablo del Villar Ochoa"
+    image: "/images/members/pablo-delvillar.webp"
+
+  - name: "Pablo Palomar Carvajal"
+    image: "/images/members/pablo-palomar.webp"
 
   - name: "Rocío Colete López"
     image: "/images/members/rocio-colete.webp"
@@ -184,8 +238,14 @@ members:
   - name: "Salvador Diaz Román"
     image: "/images/members/salvador-diaz.webp"
 
+  - name: "Sara Reyes Merino"
+    image: "/images/members/sara-reyes.webp"
+
   - name: "Sebastián Romero Moreno"
     image: "/images/members/sebastian-romero.webp"
 
   - name: "Teodoro Jiménez Lepe"
     image: "/images/members/teodoro-jimenez.webp"
+
+  - name: "Valeria Ramírez Gutiérrez"
+    image: "/images/members/valeria-ramirez.webp"
