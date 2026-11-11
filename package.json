@@ -15,6 +15,7 @@
     "format": "prettier --log-level silent --write .",
     "format:check": "prettier --check .",
     "convert": "bun run scripts/convert.ts",
-    "check:naming": "bun run scripts/check-naming.ts"
+    "check:naming": "bun run scripts/check-naming.ts",
+    "check:members": "bun run scripts/check-members.ts"
   }
 }
