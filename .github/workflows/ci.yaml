@@ -36,7 +36,7 @@ jobs:
       - name: Check naming & image formats
         run: bun run check:naming
 
-      - name: Check members count
+      - name: Check members data
         run: bun run check:members
 
       - name: Install dependencies
