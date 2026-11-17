@@ -23,6 +23,7 @@ Como anunciamos en la sesión de presentación, este curso estamos organizando c
     time="18:00"
     location="Salón de Actos, Facultad de Matemáticas"
     speaker="Marithania Silvero Casanova"
+    stream_url="https://www.youtube.com/live/6Ps8TUw8JZs"
 >}}
 Los nudos forman parte de nuestra vida cotidiana: aparecen al atarnos los cordones, en escalada, en collares, en cirugía... Pero, cuando los convertimos en objetos matemáticos, empiezan a plantear preguntas bastante más difíciles de lo que uno pudiera imaginar. Por ejemplo: ¿cómo podemos saber si dos nudos son realmente el mismo?, ¿existe alguna forma sistemática de distinguirlos?, ¿podemos diseñar un algoritmo que nos diga si un nudo se puede deshacer? En esta charla nos adentraremos en la teoría de nudos, explorando algunas de estas preguntas y viendo cómo a veces la intuición nos falla al intentar encontrar un algoritmo que nos ayude a resolverlas. Hablaremos también de trenzas y de cómo, detrás de algo tan sencillo como una cuerda enredada, pueden esconderse problemas matemáticos sorprendentemente complejos.
 {{< /talk >}}
