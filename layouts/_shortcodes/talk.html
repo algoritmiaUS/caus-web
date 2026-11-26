@@ -26,9 +26,24 @@
         </div>
       {{ end }}
     </div>
-    {{- $stream := "" -}}
+    {{- $links := slice -}}
+    {{- with .Get "slides_url" -}}
+      {{- $link := dict
+        "url" (strings.Trim . "<>")
+        "icon" "download"
+        "label" "Transparencias"
+        "class" "border border-accent/30 hover:bg-accent/10"
+      -}}
+      {{- $links = $links | append $link -}}
+    {{- end -}}
     {{- with .Get "stream_url" -}}
-      {{- $stream = strings.TrimPrefix "<" (strings.TrimSuffix ">" .) -}}
+      {{- $link := dict
+        "url" (strings.Trim . "<>")
+        "icon" "youtube"
+        "label" "Ver retransmisión"
+        "class" "bg-accent/15 hover:bg-accent/25"
+      -}}
+      {{- $links = $links | append $link -}}
     {{- end -}}
     <div
       class="mt-auto flex flex-col gap-3 pt-6 sm:flex-row sm:items-center sm:justify-between sm:gap-4"
@@ -41,14 +56,18 @@
           <p class="text-sm text-muted">Ponencia en {{ . }}</p>
         {{ end }}
       </div>
-      {{ with $stream }}
-        <a
-          href="{{ . }}"
-          class="inline-flex shrink-0 self-start items-center gap-2 rounded-md bg-accent/15 px-3.5 py-2 text-sm font-semibold text-accent no-underline transition-colors hover:bg-accent/25 hover:no-underline focus-ring sm:self-auto"
-        >
-          {{ partial "components/svg.html" (dict "name" "youtube" "class" "h-4 w-4") }}
-          Ver retransmisión
-        </a>
+      {{ with $links }}
+        <div class="flex flex-wrap items-center gap-2">
+          {{ range . }}
+            <a
+              href="{{ .url }}"
+              class="inline-flex shrink-0 items-center gap-2 rounded-md px-3.5 py-2 text-sm font-semibold text-accent no-underline transition-colors hover:no-underline focus-ring {{ .class }}"
+            >
+              {{ partial "components/svg.html" (dict "name" .icon "class" "h-4 w-4") }}
+              {{ .label }}
+            </a>
+          {{ end }}
+        </div>
       {{ end }}
     </div>
   </div>
